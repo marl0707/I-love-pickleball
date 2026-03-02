@@ -1,0 +1,306 @@
+// I LOVE PICKLEBALL - データベーススキーマ
+// Supabase (PostgreSQL) 用
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// ============================================
+// ユーザー (Users)
+// ============================================
+model User {
+  id              String   @id @default(uuid())
+  email           String   @unique
+  nickname        String?
+  isProfilePublic Boolean  @default(true) @map("is_profile_public")
+  profileImageUrl String?  @map("profile_image_url")
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+
+  // リレーション
+  facilityReviews FacilityReview[]
+  gearReviews     GearReview[]
+
+  @@map("users")
+}
+
+// ============================================
+// カテゴリ1: 施設・コート (Facilities)
+// ============================================
+model Facility {
+  id                String    @id @default(uuid())
+  name              String
+  typeFlag          Int       @map("type_flag") // 1:コートあり, 2:ショップのみ, 3:コート＆ショップ併設
+  operatorType      String?   @map("operator_type") // 民間, 自治体等
+  isPremium         Boolean   @default(false) @map("is_premium") // 優良施設フラグ
+  address           String?
+  lat               Float?
+  lng               Float?
+  mainPhotoUrl      String?   @map("main_photo_url")
+  youtubeUrl        String?   @map("youtube_url")
+  hostsTournaments  Boolean   @default(false) @map("hosts_tournaments")
+  tournamentTypes   String?   @map("tournament_types")
+  hasShower         Boolean   @default(false) @map("has_shower")
+  hasLockerRoom     Boolean   @default(false) @map("has_locker_room")
+  hasCafe           Boolean   @default(false) @map("has_cafe")
+  hasKidsSpace      Boolean   @default(false) @map("has_kids_space")
+  hasParking        Boolean   @default(false) @map("has_parking")
+  hasWifi           Boolean   @default(false) @map("has_wifi")
+  hoursMon          String?   @map("hours_mon")
+  hoursTue          String?   @map("hours_tue")
+  hoursWed          String?   @map("hours_wed")
+  hoursThu          String?   @map("hours_thu")
+  hoursFri          String?   @map("hours_fri")
+  hoursSat          String?   @map("hours_sat")
+  hoursSun          String?   @map("hours_sun")
+  reservationMethod String?   @map("reservation_method")
+  likeCount         Int       @default(0) @map("like_count")
+  errorReportCount  Int       @default(0) @map("error_report_count")
+  lastCrawledAt     DateTime? @map("last_crawled_at")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // リレーション
+  courts  FacilityCourt[]
+  shops   FacilityShop[]
+  reviews FacilityReview[]
+
+  @@map("facilities")
+}
+
+model FacilityCourt {
+  id             String  @id @default(uuid())
+  facilityId     String  @map("facility_id")
+  courtType      String? @map("court_type") // インドア, アウトドア
+  numberOfCourts Int     @default(0) @map("number_of_courts")
+  surfaceType    String? @map("surface_type") // 木製, デコターフ等
+  lineVisibility String? @map("line_visibility") // 専用ラインのみ等
+  netType        String? @map("net_type") // 常設, ポータブル等
+  hasAc          Boolean @default(false) @map("has_ac") // 空調有無
+  baselineMargin String? @map("baseline_margin") // 余白
+  lightingType   String? @map("lighting_type") // ナイター照明の種類
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  facility Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+
+  @@map("facility_courts")
+}
+
+model FacilityShop {
+  id              String  @id @default(uuid())
+  facilityId      String  @map("facility_id")
+  hasPaddleSales  Boolean @default(false) @map("has_paddle_sales")
+  hasApparelSales Boolean @default(false) @map("has_apparel_sales")
+  hasPaddleRental Boolean @default(false) @map("has_paddle_rental")
+  paddleRentalFee Int?    @map("paddle_rental_fee")
+  handledBrands   String? @map("handled_brands") // 取扱いメーカーカンマ区切り
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  facility Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+
+  @@map("facility_shops")
+}
+
+model FacilityReview {
+  id         String   @id @default(uuid())
+  facilityId String   @map("facility_id")
+  userId     String   @map("user_id")
+  score      Float? // 1〜5段階評価等
+  content    String
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+
+  facility Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("facility_reviews")
+}
+
+// ============================================
+// カテゴリ2: ギア関連 (Gears)
+// ============================================
+
+model GearPaddle {
+  id                String  @id @default(uuid())
+  brandName         String  @map("brand_name")
+  productName       String  @map("product_name")
+  price             Int?
+  paddleShape       String? @map("paddle_shape")
+  faceMaterial      String? @map("face_material")
+  coreMaterial      String? @map("core_material")
+  coreThickness     Float?  @map("core_thickness")
+  targetDemographic String? @map("target_demographic")
+  designTaste       String? @map("design_taste")
+  colorVariations   String? @map("color_variations")
+  amazonUrl         String? @map("amazon_url")
+  rakutenUrl        String? @map("rakuten_url")
+  yahooUrl          String? @map("yahoo_url")
+  imageUrl          String? @map("image_url") // 追加画像
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("gears_paddles")
+}
+
+model GearShoe {
+  id              String  @id @default(uuid())
+  brandName       String  @map("brand_name")
+  productName     String  @map("product_name")
+  price           Int?
+  sizeRange       String? @map("size_range")
+  colorVariations String? @map("color_variations")
+  courtType       String? @map("court_type") // インドア専用等
+  amazonUrl       String? @map("amazon_url")
+  rakutenUrl      String? @map("rakuten_url")
+  yahooUrl        String? @map("yahoo_url")
+  imageUrl        String? @map("image_url")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("gears_shoes")
+}
+
+model GearBall {
+  id              String  @id @default(uuid())
+  brandName       String  @map("brand_name")
+  productName     String  @map("product_name")
+  price           Int?
+  grade           String? @map("grade")
+  ballType        String? @map("ball_type")
+  colorVariations String? @map("color_variations")
+  amazonUrl       String? @map("amazon_url")
+  rakutenUrl      String? @map("rakuten_url")
+  yahooUrl        String? @map("yahoo_url")
+  imageUrl        String? @map("image_url")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("gears_balls")
+}
+
+model GearApparel {
+  id               String  @id @default(uuid())
+  brandName        String  @map("brand_name")
+  productName      String  @map("product_name")
+  price            Int?
+  category         String?
+  targetGender     String? @map("target_gender")
+  materialFeatures String? @map("material_features")
+  hasBallPocket    Boolean @default(false) @map("has_ball_pocket")
+  designTaste      String? @map("design_taste")
+  sizeRange        String? @map("size_range")
+  colorVariations  String? @map("color_variations")
+  amazonUrl        String? @map("amazon_url")
+  rakutenUrl       String? @map("rakuten_url")
+  yahooUrl         String? @map("yahoo_url")
+  imageUrl         String? @map("image_url")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("gears_apparel")
+}
+
+model GearBag {
+  id               String  @id @default(uuid())
+  brandName        String  @map("brand_name")
+  productName      String  @map("product_name")
+  price            Int?
+  bagType          String? @map("bag_type")
+  paddleCapacity   Int?    @map("paddle_capacity")
+  hasShoePocket    Boolean @default(false) @map("has_shoe_pocket")
+  hasFenceHook     Boolean @default(false) @map("has_fence_hook")
+  hasThermalPocket Boolean @default(false) @map("has_thermal_pocket")
+  colorVariations  String? @map("color_variations")
+  amazonUrl        String? @map("amazon_url")
+  rakutenUrl       String? @map("rakuten_url")
+  yahooUrl         String? @map("yahoo_url")
+  imageUrl         String? @map("image_url")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("gears_bags")
+}
+
+model GearReview {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  itemType  String   @map("item_type") // paddle, shoe, ball, apparel, bag
+  itemId    String   @map("item_id")
+  score     Float? // 1〜10段階評価など
+  comment   String
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("gear_reviews")
+}
+
+// ============================================
+// カテゴリ3: プロ選手 (Pro Players)
+// ============================================
+model ProPlayer {
+  id                       String    @id @default(uuid())
+  nameJa                   String    @map("name_ja")
+  nameEn                   String?   @map("name_en")
+  nationality              String?
+  birthDate                DateTime? @map("birth_date")
+  playStyle                String?   @map("play_style")
+  leagueAffiliation        String?   @map("league_affiliation")
+  rankingSingles           Int?      @map("ranking_singles")
+  rankingDoubles           Int?      @map("ranking_doubles")
+  participatingTournaments String?   @map("participating_tournaments")
+  paddleIds                String?   @map("paddle_ids") // カンマ区切りなど
+  shoeIds                  String?   @map("shoe_ids")
+  apparelBrandSponsor      String?   @map("apparel_brand_sponsor")
+  instagramUrl             String?   @map("instagram_url")
+  facebookUrl              String?   @map("facebook_url")
+  xUrl                     String?   @map("x_url")
+  photoUrl                 String?   @map("photo_url")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("pro_players")
+}
+
+// ============================================
+// カテゴリ4: 記事 (Articles)
+// ============================================
+model Article {
+  id                 String    @id @default(uuid())
+  slug               String    @unique
+  title              String
+  content            String // 本文リッチテキスト
+  category           String? // 初心者ガイド等
+  targetAudience     String?   @map("target_audience")
+  thumbnailUrl       String?   @map("thumbnail_url")
+  authorId           String?   @map("author_id")
+  relatedGearIds     String?   @map("related_gear_ids") // カンマ区切り
+  relatedFacilityIds String?   @map("related_facility_ids")
+  relatedPlayerIds   String?   @map("related_player_ids")
+  status             String    @default("draft") // draft, published, archived
+  publishedAt        DateTime? @map("published_at")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("articles")
+}
