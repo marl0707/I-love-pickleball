@@ -1,0 +1,43 @@
+[
+    {
+        "id": "activity_log_001",
+        "user_id": "user_mock_010",
+        "facility_id": "kpi_park_yokohama",
+        "content": "KPI PARKで仲間と2時間プレー！ハードコートの弾みが最高で、良い練習になりました。やっぱり専用コートはテンション上がりますね！🏓",
+        "image_url": "https://example-image-hosting.com/pickleball/log_kpi.jpg",
+        "like_count": 24,
+        "created_at": "2026-03-01T15:30:00Z"
+    },
+    {
+        "id": "activity_log_002",
+        "user_id": "user_mock_015",
+        "facility_id": "tokyo_tower_pickleball",
+        "content": "東京タワーの下で初ピックルボール🗼！テニス経験があったので意外とすぐ打てるようになりました。今度はマイパドルを手に入れて来たいです！",
+        "image_url": "https://example-image-hosting.com/pickleball/log_tokyotower.jpg",
+        "like_count": 58,
+        "created_at": "2026-03-02T19:45:00Z"
+    },
+    {
+        "id": "activity_log_003",
+        "user_id": "user_mock_002",
+        "facility_id": "osaka_tsurumi_gym",
+        "content": "LINKSの初心者講習会を開催。今日も新しく5名の方がピックルボールデビューしました！どんどん輪が広がっていて嬉しいです。",
+        "image_url": "https://example-image-hosting.com/pickleball/log_links.jpg",
+        "like_count": 112,
+        "created_at": "2026-03-03T11:20:00Z"
+    },
+    {
+        "id": "log_001",
+        "facility_id": "facility_tokyotower",
+        "content": "今日は東京タワーの屋上でピックルボール！景色が最高すぎてテンション上がりました🏓✨ ナイターも涼しくて快適！",
+        "like_count": 24,
+        "created_at": "2026-03-01T18:30:00Z"
+    },
+    {
+        "id": "log_002",
+        "facility_id": "facility_viptop",
+        "content": "東陽町のVIPインドアで初打ち。冷房完備って素晴らしい…！夏場はここ一択かもしれないです。床のグリップも良好。",
+        "like_count": 15,
+        "created_at": "2026-02-28T14:15:00Z"
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f_comment_001",
+    "facility_id": "kpi_park_yokohama",
+    "user_id": "user_mock_005",
+    "content": "日本最大級というだけあって、ハードコートのクオリティは文句なし。ただ、週末は予約が激戦なので早めに動く必要があります。更衣室も綺麗でした。",
+    "created_at": "2026-02-15T18:00:00Z"
+  },
+  {
+    "id": "f_comment_002",
+    "facility_id": "tokyo_tower_pickleball",
+    "user_id": "user_mock_012",
+    "content": "東京タワーを見上げながらのプレーは最高に映えます！初心者向けの体験会でラケットも貸してもらえたので、手ぶらで行けました。また行きたいです。",
+    "created_at": "2026-03-01T20:30:00Z"
+  },
+  {
+    "id": "f_comment_003",
+    "facility_id": "osaka_tsurumi_gym",
+    "user_id": "user_mock_009",
+    "content": "体育館なので天候に左右されないのが良いですね。ただ、バドミントンのラインが多くて最初は戸惑いました。サークルの活動場所としては最適です。",
+    "created_at": "2026-02-28T10:15:00Z"
+  },
+  {
+    "id": "fcomment_001",
+    "facility_id": "facility_viptop",
+    "user_id": "user_demo_001",
+    "content": "冷房が効いていて夏場でも快適にプレーできました。ただ、週末は予約が取りづらいのが難点です。",
+    "created_at": "2026-03-01T14:30:00Z"
+  },
+  {
+    "id": "fcomment_002",
+    "facility_id": "facility_tokyotower",
+    "user_id": "user_demo_002",
+    "content": "東京タワーを見上げながらのナイターは最高です！風の影響は受けやすいのでアウトドア用の重いボールが必須です。",
+    "created_at": "2026-03-02T21:00:00Z"
+  }
+]

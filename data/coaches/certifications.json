@@ -1,0 +1,95 @@
+[
+    {
+        "id": "cert_pci",
+        "name": "PCI (Pickleball Coaching International)",
+        "issuing_body": "Third Shot Sports / PCI",
+        "description": "世界で最も近代的な指導法と段階的なカリキュラムを提供するオンライン中心のコーチング認定プログラム。",
+        "target_audience": "初心者〜中級者への指導を目指すコーチ",
+        "levels": [
+            "PCI Level 1 (基礎)",
+            "PCI Level 2 (応用)"
+        ],
+        "website_url": "https://www.pickleballcoachinginternational.com/"
+    },
+    {
+        "id": "cert_ppr",
+        "name": "PPR (Professional Pickleball Registry)",
+        "issuing_body": "Professional Tennis Registry (PTR) の姉妹組織",
+        "description": "USAPAの公式コーチ認定パートナー。対面でのワークショップと実技試験がある。",
+        "target_audience": "プロのラケットスポーツコーチ、施設インストラクター",
+        "levels": [
+            "PPR Certified",
+            "PPR Professional",
+            "PPR Master Professional"
+        ],
+        "website_url": "https://pprpickleball.org/"
+    },
+    {
+        "id": "cert_iptpa",
+        "name": "IPTPA (International Pickleball Teaching Professional Association)",
+        "issuing_body": "IPTPA",
+        "description": "実技テストに重点を置いた国際的なピックルボール指導者認定。ショットの精度やデモンストレーション能力を厳しく審査。",
+        "target_audience": "実技スキルの高いコーチ志望者",
+        "levels": [
+            "Level 1 (Teaching Professional)",
+            "Level 2 (Master Teaching Professional)"
+        ],
+        "website_url": "https://www.iptpa.com/"
+    },
+    {
+        "id": "cert_usap_ambassadors",
+        "name": "USA Pickleball Ambassadors Program",
+        "issuing_body": "USA Pickleball (USAP)",
+        "description": "ピックルボールの普及を推進するボランティアアンバサダーのプログラム。地域のイベント企画や初心者指導を行う。",
+        "target_audience": "ピックルボール普及活動に興味がある全レベルのプレイヤー",
+        "levels": [
+            "Ambassador (地域普及員)"
+        ],
+        "website_url": "https://usapickleball.org/grow-the-game/ambassadors/"
+    },
+    {
+        "id": "cert_jpa_instructor",
+        "name": "JPA公認指導者資格",
+        "issuing_body": "日本ピックルボール協会 (JPA)",
+        "description": "日本国内でピックルボールの指導を行うための公式資格。JPAの研修プログラム修了と実技審査を経て取得。",
+        "target_audience": "日本国内でコーチ活動を行いたい方",
+        "levels": [
+            "JPA公認インストラクター",
+            "JPA公認コーチ"
+        ],
+        "website_url": "https://japanpickleball.org/"
+    },
+    {
+        "id": "cert_dupr_club_coach",
+        "name": "DUPR Club Coach Program",
+        "issuing_body": "DUPR (Dynamic Universal Pickleball Rating)",
+        "description": "DUPRレーティングシステムを活用したクラブ運営とコーチングのための認定プログラム。レーティングに基づくレベル別指導法を学ぶ。",
+        "target_audience": "ピックルボールクラブの運営者・コーチ",
+        "levels": [
+            "Club Coach Certified"
+        ],
+        "website_url": "https://mydupr.com/"
+    },
+    {
+        "id": "cert_cpi",
+        "name": "CPI (Certified Pickleball Instructor)",
+        "issuing_body": "Pickleball Teachers Association",
+        "description": "オンラインコースと実技試験を組み合わせたコーチ認定。特にレクリエーションレベルでの指導に適した内容。",
+        "target_audience": "レクリエーション指導者、コミュニティセンターのスタッフ",
+        "levels": [
+            "CPI Certified"
+        ],
+        "website_url": "https://www.youtube.com/results?search_query=CPI+Certified+Pickleball+Instructor"
+    },
+    {
+        "id": "cert_selkirk_labs_coaching",
+        "name": "Selkirk Labs Pro Coaching Certification",
+        "issuing_body": "Selkirk Sport",
+        "description": "パドルメーカーSelkirkが主催するコーチングプログラム。自社パドルの特性を活かした指導法と、ビジネスとしてのコーチング運営ノウハウを学ぶ。",
+        "target_audience": "Selkirkパドルを使用するコーチ・インストラクター",
+        "levels": [
+            "Selkirk Certified Coach"
+        ],
+        "website_url": "https://www.selkirk.com/"
+    }
+]

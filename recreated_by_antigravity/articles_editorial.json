@@ -1,0 +1,32 @@
+[
+    {
+        "id": "article_101_01",
+        "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "content": "ピックルボールの基本的なルール（ツーバウンスルール、ノンボレーゾーン/キッチンでの反則）から、少し複雑なダブルスのスコアの数え方（サーバー番号を含む3つの数字のコール方法）までを図解入りで解説します。",
+        "related_gear_ids": "ball_franklin_x40, ball_onix_fuse_indoor",
+        "status": "published",
+        "published_at": "2026-03-01T10:00:00Z"
+    },
+    {
+        "id": "article_gear_01",
+        "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
+        "category": "ギアレビュー",
+        "target_audience": "中級者",
+        "content": "パドル選びの最大の悩みである「コアの厚さ」について解説します。反発力が強くパワーの出る14mmと、球持ちが良くディンクやドロップのコントロールに優れる16mmのそれぞれのメリット・デメリットを比較し、プレースタイルに合わせた選び方を提案します。",
+        "related_gear_ids": "paddle_joola_perseus_14, paddle_joola_perseus_16",
+        "status": "published",
+        "published_at": "2026-03-02T12:00:00Z"
+    },
+    {
+        "id": "article_tactic_01",
+        "title": "DUPR 3.5の壁を越える！「サードショット・ドロップ」成功率を劇的に上げる5つのコツ",
+        "category": "戦術・ドリル",
+        "target_audience": "中級者",
+        "content": "初心者から中級者(DUPR 3.5付近)に上がるための最大の難関である「サードショット・ドロップ」。手首を使わずに肩の支点で打つこと、頂点から落ちる軌道を意識することなど、成功率を上げる5つのドリルを紹介します。",
+        "related_player_ids": "pro_ben_johns",
+        "status": "published",
+        "published_at": "2026-03-03T09:00:00Z"
+    }
+]

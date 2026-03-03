@@ -1,0 +1,16 @@
+[
+    {
+        "id": "f_media_001",
+        "target_type": "facility",
+        "target_id": "kpi_park_yokohama",
+        "media_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=Dummy_KPI_Park_Review"
+    },
+    {
+        "id": "f_media_002",
+        "target_type": "facility",
+        "target_id": "tokyo_tower_pickleball",
+        "media_type": "instagram",
+        "url": "https://www.instagram.com/p/Dummy_Tokyo_Tower_Court/"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "vote_001",
+        "award_id": "award_2025_power_paddle",
+        "user_id": "user_demo_001",
+        "voted_item_id": "paddle_joola_perseus",
+        "reason": "圧倒的なパワーで、これを持てば試合に勝てるから。",
+        "created_at": "2025-12-10T11:20:00Z"
+    },
+    {
+        "id": "vote_002",
+        "award_id": "award_2025_best_indoor",
+        "user_id": "user_demo_002",
+        "voted_item_id": "facility_viptop",
+        "reason": "コートの板張りがきれいで、空調が完璧。",
+        "created_at": "2025-12-15T14:45:00Z"
+    }
+]

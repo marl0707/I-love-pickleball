@@ -1,0 +1,519 @@
+[
+  {
+    "id": "acc_tourna_grip_original",
+    "brand_name": "Tourna",
+    "product_name": "Tourna Grip Original (Dry Feel)",
+    "price": 990,
+    "category": "グリップテープ",
+    "sub_category": "ドライタイプ",
+    "specific_features": "ドライ/高吸汗/手汗が多いプレイヤー向け",
+    "color_variations": [
+      "ライトブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Tourna+Grip+Original",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Tourna+Grip+Original/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Tourna+Grip+Original"
+  },
+  {
+    "id": "acc_crbn_edge_guard",
+    "brand_name": "CRBN",
+    "product_name": "CRBN Edge Guard Tape",
+    "price": 1800,
+    "category": "エッジガードテープ",
+    "sub_category": "パドル保護",
+    "specific_features": "パドル保護/耐久性アップ/鉛テープのカバーに最適",
+    "color_variations": [
+      "ブラック/ロゴ入り"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN+Edge+Guard+Tape",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN+Edge+Guard+Tape/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN+Edge+Guard+Tape"
+  },
+  {
+    "id": "acc_oakley_flak_2_0",
+    "brand_name": "Oakley",
+    "product_name": "Flak 2.0 (Prizm Field)",
+    "price": 26000,
+    "category": "アイウェア(保護メガネ)",
+    "sub_category": "スポーツサングラス",
+    "specific_features": "曇り止め/コントラスト強調（アウトドアコート向け）/眼球保護",
+    "color_variations": [
+      "マットブラック",
+      "ポリッシュドホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Oakley+Flak+2.0+Prizm+Field",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Oakley+Flak+2.0+Prizm+Field/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Oakley+Flak+2.0+Prizm+Field"
+  },
+  {
+    "id": "acc_selkirk_lead_tape",
+    "brand_name": "Selkirk",
+    "product_name": "Selkirk Lead Tape (1/2 inch)",
+    "price": 1500,
+    "category": "鉛テープ",
+    "sub_category": "パドルカスタマイズ",
+    "specific_features": "パドルの重量バランス調整/パワーアップ/スウィートスポット拡大",
+    "color_variations": [
+      "シルバー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk+Lead+Tape+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk+Lead+Tape/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk+Lead+Tape"
+  },
+  {
+    "id": "acc_gamma_honeycomb_grip",
+    "brand_name": "Gamma",
+    "product_name": "Gamma Honeycomb Cushion Grip",
+    "price": 1200,
+    "category": "リプレイスメントグリップ",
+    "sub_category": "クッションタイプ",
+    "specific_features": "ハニカム構造/振動吸収/肘への負担軽減/テニス肘予防",
+    "color_variations": [
+      "ブラック",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gamma+Honeycomb+Cushion+Grip",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gamma+Honeycomb+Cushion+Grip/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma+Honeycomb+Cushion+Grip"
+  },
+  {
+    "id": "acc_head_wristband",
+    "brand_name": "HEAD",
+    "product_name": "HEAD Wristband 2.5\" (Twin Pack)",
+    "price": 1100,
+    "category": "リストバンド",
+    "sub_category": "汗止め",
+    "specific_features": "吸汗速乾/グリップへの汗の流入防止/厚手2.5インチ幅",
+    "color_variations": [
+      "ホワイト",
+      "ブラック",
+      "ライムグリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD+Wristband+Tennis",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD+Wristband/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD+Wristband"
+  },
+  {
+    "id": "acc_joola_backpack_ben_johns",
+    "brand_name": "JOOLA",
+    "product_name": "JOOLA Ben Johns Hyperion Backpack",
+    "price": 14800,
+    "category": "バックパック",
+    "sub_category": "プロモデルバッグ",
+    "specific_features": "パドル最大4本収納/シューズ専用ポケット/サーマルガード付き断熱ポケット",
+    "color_variations": [
+      "ブラック/ゴールド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Ben+Johns+Hyperion+Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Hyperion+Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Hyperion+Backpack"
+  },
+  {
+    "id": "acc_fila_pb_visor",
+    "brand_name": "FILA",
+    "product_name": "FILA Pickleball Visor",
+    "price": 3500,
+    "category": "バイザー",
+    "sub_category": "帽子/日除け",
+    "specific_features": "UVカット/吸汗バンド/軽量/アウトドアプレイのマスト",
+    "color_variations": [
+      "ホワイト",
+      "ネイビー",
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA+Pickleball+Visor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA+Visor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA+Visor"
+  },
+  {
+    "id": "acc_vulcan_overgrip_wet",
+    "brand_name": "Vulcan",
+    "product_name": "Vulcan Max Tac Overgrip (Wet)",
+    "price": 1400,
+    "category": "グリップテープ",
+    "sub_category": "ウェットタイプ",
+    "specific_features": "高タック/湿った感触で吸い付く/手が乾燥しやすい冬場に最適",
+    "color_variations": [
+      "ホワイト",
+      "ブラック",
+      "レッド",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan+Max+Tac+Overgrip",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan+Max+Tac+Overgrip/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+Max+Tac+Overgrip"
+  },
+  {
+    "id": "acc_gearbox_paddle_cover",
+    "brand_name": "Gearbox",
+    "product_name": "Gearbox Paddle Cover (Neoprene)",
+    "price": 2500,
+    "category": "パドルカバー",
+    "sub_category": "パドル保護",
+    "specific_features": "ネオプレン素材/衝撃吸収/持ち運び時のフェイス保護",
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gearbox+Paddle+Cover+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gearbox+Paddle+Cover/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox+Paddle+Cover"
+  },
+  {
+    "id": "acc_bauerfeind_elbow_support",
+    "brand_name": "Bauerfeind",
+    "product_name": "EpiTrain Elbow Support",
+    "price": 8800,
+    "category": "エルボーサポーター",
+    "sub_category": "医療グレード",
+    "specific_features": "医療機器メーカー製/振動吸収シリコンパッド/テニス肘対策の最高峰",
+    "color_variations": [
+      "ブラック",
+      "ネイチャーグリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Bauerfeind+EpiTrain",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Bauerfeind+EpiTrain/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Bauerfeind+EpiTrain"
+  },
+  {
+    "id": "acc_zamst_ankle_brace",
+    "brand_name": "ZAMST",
+    "product_name": "ZAMST A2-DX Ankle Brace",
+    "price": 5500,
+    "category": "アンクルブレース",
+    "sub_category": "足首サポーター",
+    "specific_features": "横方向の捻挫防止/ストラップ式/日本製/医療用設計",
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=ZAMST+A2-DX+Ankle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ZAMST+A2-DX/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ZAMST+A2-DX"
+  },
+  {
+    "id": "acc_yonex_vibration_stopper",
+    "brand_name": "YONEX",
+    "product_name": "YONEX Vibration Stopper 6",
+    "price": 660,
+    "category": "振動止め",
+    "sub_category": "パドルカスタマイズ",
+    "specific_features": "パドルの振動を吸収/テニス肘予防/簡単取り付け",
+    "color_variations": [
+      "ブラック",
+      "イエロー",
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=YONEX+Vibration+Stopper",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/YONEX+Vibration+Stopper/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=YONEX+Vibration+Stopper"
+  },
+  {
+    "id": "acc_franklin_x40_ball_bucket",
+    "brand_name": "Franklin",
+    "product_name": "Franklin X-40 Ball Bucket (36球入り)",
+    "price": 12800,
+    "category": "ボールバケット",
+    "sub_category": "練習用",
+    "specific_features": "公式球X-40の36球セット/バケツ型ケース付き/練習やドリルに最適",
+    "color_variations": [
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+X-40+Ball+Bucket",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+X-40+Bucket/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Bucket"
+  },
+  {
+    "id": "acc_oneshot_ball_retriever",
+    "brand_name": "OneShot",
+    "product_name": "OneShot Ball Retriever",
+    "price": 4500,
+    "category": "ボールピッカー",
+    "sub_category": "練習用品",
+    "specific_features": "腰をかがめずにボールを拾える/シニアプレイヤーに人気/最大40球収容",
+    "color_variations": [
+      "ブラック/イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=OneShot+Ball+Retriever+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/OneShot+Ball+Retriever/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=OneShot+Ball+Retriever"
+  },
+  {
+    "id": "acc_portable_net_system",
+    "brand_name": "JOOLA",
+    "product_name": "JOOLA Indoor Portable Net System",
+    "price": 19800,
+    "category": "ポータブルネット",
+    "sub_category": "コート設備",
+    "specific_features": "公式サイズ/組立5分/持ち運び可能/キャリーバッグ付き/体育館利用に最適",
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Portable+Pickleball+Net",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Portable+Net/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Portable+Net"
+  },
+  {
+    "id": "acc_selkirk_sling_bag",
+    "brand_name": "Selkirk",
+    "product_name": "Selkirk Core Series Day Backpack",
+    "price": 8800,
+    "category": "デイバッグ",
+    "sub_category": "バッグ",
+    "specific_features": "パドル2本+ボール+小物/軽量設計/普段使いにも/休日プレイヤー向け",
+    "color_variations": [
+      "チャコール",
+      "ネイビー",
+      "カモ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk+Core+Day+Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk+Core+Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk+Core+Backpack"
+  },
+  {
+    "id": "acc_court_marking_tape",
+    "brand_name": "3M",
+    "product_name": "3M Court Marking Tape (2inch)",
+    "price": 2200,
+    "category": "コートマーキングテープ",
+    "sub_category": "コート設備",
+    "specific_features": "体育館の床にピックルボールコートのラインを引くための粘着テープ/跡が残りにくい/1コート分",
+    "color_variations": [
+      "ブルー",
+      "グリーン",
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=3M+Court+Marking+Tape",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/3M+Court+Marking+Tape/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=3M+Court+Marking+Tape"
+  },
+  {
+    "id": "acc_training_wall",
+    "brand_name": "Rukket",
+    "product_name": "Rukket Pickleball Practice Rebounder",
+    "price": 15800,
+    "category": "リバウンダー",
+    "sub_category": "自主練習用",
+    "specific_features": "一人で練習可能/ドリル練習に最適/角度調整可能/折りたたみ収納",
+    "color_variations": [
+      "ブラック/オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Rukket+Pickleball+Rebounder",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Rukket+Pickleball+Rebounder/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Rukket+Pickleball+Rebounder"
+  },
+  {
+    "id": "acc_dude_wipes",
+    "brand_name": "DUDE Wipes",
+    "product_name": "DUDE Wipes Sport (30 Count)",
+    "price": 1200,
+    "category": "ボディワイプ",
+    "sub_category": "衛生用品",
+    "specific_features": "プレイ後のリフレッシュ/汗拭き/アウトドアプレイ後の衛生管理に",
+    "color_variations": [
+      "N/A"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=DUDE+Wipes+Sport",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/DUDE+Wipes+Sport/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=DUDE+Wipes+Sport"
+  },
+  {
+    "id": "acc_01",
+    "brand_name": "Tourna",
+    "product_name": "タックグリップ (ドライ)",
+    "price": 800,
+    "category": "グリップテープ",
+    "specific_features": "ドライ, 超吸汗, USA No.1",
+    "color_variations": "ブルー, ホワイト, イエロー"
+  },
+  {
+    "id": "acc_02",
+    "brand_name": "Tourna",
+    "product_name": "メガタックグリップ (ウェット)",
+    "price": 900,
+    "category": "グリップテープ",
+    "specific_features": "ウェット, パッド付き粘着, 滑り止め",
+    "color_variations": "ホワイト, ブラック"
+  },
+  {
+    "id": "acc_03",
+    "brand_name": "Wilson",
+    "product_name": "プロオーバーグリップ 3本入り",
+    "price": 600,
+    "category": "グリップテープ",
+    "specific_features": "ドライ, 薄フィルムタイプ, ハイコスパ",
+    "color_variations": "ホワイト"
+  },
+  {
+    "id": "acc_04",
+    "brand_name": "Selkirk",
+    "product_name": "プレミアムタックオーバーグリップ",
+    "price": 1200,
+    "category": "グリップテープ",
+    "specific_features": "ウェット, ロングラスト, PB特化設計",
+    "color_variations": "ブラック, ホワイト, ブルー"
+  },
+  {
+    "id": "acc_05",
+    "brand_name": "Yonex",
+    "product_name": "ウェットスーパーグリップ",
+    "price": 750,
+    "category": "グリップテープ",
+    "specific_features": "ウェット, 日本製最高品質, 薄型",
+    "color_variations": "ホワイト, ブラック"
+  },
+  {
+    "id": "acc_06",
+    "brand_name": "JOOLA",
+    "product_name": "Ben Johns Premium Grip",
+    "price": 1400,
+    "category": "グリップテープ",
+    "specific_features": "ドライ, プロ仕様, 高耐久",
+    "color_variations": "ブラック"
+  },
+  {
+    "id": "acc_07",
+    "brand_name": "Gearbox",
+    "product_name": "リプレイスメントグリップ",
+    "price": 2000,
+    "category": "グリップテープ",
+    "specific_features": "レザー調, 極厚, 下巻き用",
+    "color_variations": "ブラック"
+  },
+  {
+    "id": "acc_08",
+    "brand_name": "HEAD",
+    "product_name": "Smartsorb ダンパー",
+    "price": 500,
+    "category": "振動吸収材",
+    "specific_features": "振動軽減, テニス肘予防"
+  },
+  {
+    "id": "acc_09",
+    "brand_name": "Selkirk",
+    "product_name": "エッジガードテープ",
+    "price": 800,
+    "category": "エッジガード",
+    "specific_features": "パドル保護, 耐擦傷, フレーム割れ防止"
+  },
+  {
+    "id": "acc_10",
+    "brand_name": "Lead Tape",
+    "product_name": "鉛テープ (1/4インチ)",
+    "price": 600,
+    "category": "リードテープ(鉛テープ)",
+    "specific_features": "カスタムウェイト調整, パワー増加"
+  },
+  {
+    "id": "acc_11",
+    "brand_name": "Oakley",
+    "product_name": "Flak 2.0 XL (調光レンズ)",
+    "price": 28000,
+    "category": "アイウェア(保護メガネ)",
+    "specific_features": "調光レンズ, 割れないプリズムレンズ, UVカット",
+    "color_variations": "マットブラック"
+  },
+  {
+    "id": "acc_12",
+    "brand_name": "Bollé",
+    "product_name": "Rush+ クリアレンズ",
+    "price": 4500,
+    "category": "アイウェア(保護メガネ)",
+    "specific_features": "クリアレンズ, 曇り止め, インドア向け, ANSI規格",
+    "color_variations": "クリア/レッドテンプル"
+  },
+  {
+    "id": "acc_13",
+    "brand_name": "3M",
+    "product_name": "セキュアフィット 400",
+    "price": 1500,
+    "category": "アイウェア(保護メガネ)",
+    "specific_features": "クリアレンズ, 超軽量, 最安エントリー",
+    "color_variations": "クリア"
+  },
+  {
+    "id": "acc_14",
+    "brand_name": "Nike",
+    "product_name": "ドライフィットヘッドバンド2.0",
+    "price": 2500,
+    "category": "リストバンド",
+    "specific_features": "吸汗速乾, ワイド, ズレにくい",
+    "color_variations": "ブラック, ホワイト, ネイビー"
+  },
+  {
+    "id": "acc_15",
+    "brand_name": "JOOLA",
+    "product_name": "パドルカバー",
+    "price": 3000,
+    "category": "パドルカバー",
+    "specific_features": "ネオプレン素材, 傷防止, 軽量",
+    "color_variations": "ブラック"
+  },
+  {
+    "id": "acc_16",
+    "brand_name": "HEAD",
+    "product_name": "サンバイザー Performance",
+    "price": 3500,
+    "category": "サンバイザー/キャップ",
+    "specific_features": "UVカット, 吸汗バンド",
+    "color_variations": "ホワイト, ブラック"
+  },
+  {
+    "id": "acc_17",
+    "brand_name": "adidas",
+    "product_name": "アディゼロ ランニングキャップ",
+    "price": 3000,
+    "category": "サンバイザー/キャップ",
+    "specific_features": "UVカット, 超軽量, 反射材",
+    "color_variations": "ホワイト, ブラック, グレー"
+  },
+  {
+    "id": "acc_18",
+    "brand_name": "Tourna",
+    "product_name": "スポーツタオル (冷感)",
+    "price": 1200,
+    "category": "タオル",
+    "specific_features": "接触冷感, 水を含ませて使用, コンパクト収納",
+    "color_variations": "ブルー, ピンク"
+  },
+  {
+    "id": "acc_19",
+    "brand_name": "FEETURES",
+    "product_name": "エリート ライトクッション (ノーショウ)",
+    "price": 2800,
+    "category": "ソックス",
+    "specific_features": "アーチサポート, 防臭, ピンポイントクッション",
+    "color_variations": "ホワイト, ブラック, グレー"
+  },
+  {
+    "id": "acc_20",
+    "brand_name": "Thorlo",
+    "product_name": "テニスソックス クウォーター丈",
+    "price": 2200,
+    "category": "ソックス",
+    "specific_features": "厚手クッション, 土踏まずサポート, ブリスター防止",
+    "color_variations": "ホワイト"
+  },
+  {
+    "id": "acc_001",
+    "brand_name": "Tourna",
+    "product_name": "Mega Tac (ウェットタイプ・オーバーグリップ)",
+    "price": 1200,
+    "category": "グリップテープ",
+    "specific_features": "圧倒的な吸い付きとウェット感。手汗をかかないインドア向け。",
+    "color_variations": "ホワイト, ブルー, ブラック",
+    "amazon_url": "https://amazon.co.jp/dp/dummy_tourna",
+    "rakuten_url": "https://rakuten.co.jp/dummy_tourna",
+    "yahoo_url": ""
+  },
+  {
+    "id": "acc_002",
+    "brand_name": "CRBN",
+    "product_name": "Pickleball Lead Tape (鉛テープ)",
+    "price": 2500,
+    "category": "カスタマイズ用品",
+    "specific_features": "3g単位でカット済み。パドルのスイートスポット拡大とパワーアップ用。",
+    "color_variations": "ブラック",
+    "amazon_url": "https://amazon.co.jp/dp/dummy_crbn_tape",
+    "rakuten_url": "",
+    "yahoo_url": ""
+  }
+]

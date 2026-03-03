@@ -1,0 +1,47 @@
+[
+    {
+        "id": "dayne-gingrich",
+        "name": "Dayne Gingrich",
+        "specialty": "メンタリティと圧倒的なコートカバーリング",
+        "paddle_sponsor": "Engage",
+        "achievements": [
+            "シニアプロ部門 男子ダブルス ランキング常連",
+            "PPAツアー シニアプロ部門タイトル多数獲得",
+            "著書『The Pickleball Mindset』の著者"
+        ],
+        "playing_style": "驚異的な身体能力と、相手にプレッシャーをかけ続けるアグレッシブなプレー。圧倒的なメンタルの強さで知られ、試合の流れを引き寄せる。",
+        "dupr_rating": "5.5+",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=Dayne+Gingrich+pickleball",
+        "official_website_url": "https://daynegingrich.com/"
+    },
+    {
+        "id": "scott-moore",
+        "name": "Scott Moore",
+        "specialty": "正確無比なドロップショットと戦略的な配球",
+        "paddle_sponsor": "Paddletek",
+        "achievements": [
+            "USAPA ナショナルチャンピオンシップ シニアプロ部門タイトル多数（史上最多クラス）",
+            "トリプルクラウン（シングルス、男子ダブルス、混合ダブルス制覇）達成",
+            "Pickleball Hall of Fame（殿堂入り）"
+        ],
+        "playing_style": "「ピックルボール界のレジェンド」と称される。力に頼らず、完璧なコースへの配球とディンクラリーで相手のミスを誘う精密なプレースタイル。",
+        "dupr_rating": "5.5+",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=Scott+Moore+pickleball",
+        "instagram_url": "https://www.instagram.com/scottmoorepickleball/"
+    },
+    {
+        "id": "beth-bellamy",
+        "name": "Beth Bellamy",
+        "specialty": "コート全体を使った多彩なショット",
+        "paddle_sponsor": "Joola",
+        "achievements": [
+            "APPツアー シニアプロ部門 女子ダブルス・混合ダブルス ランキング1位に君臨",
+            "年間多数の金メダル獲得",
+            "全米オープン シニアプロ部門制覇"
+        ],
+        "playing_style": "元プロテニス選手の経験を活かした、強力なグラウンドストロークと鋭いボレー。コート全体を見渡す戦術眼と、プレッシャーに強いメンタルを持つ。",
+        "dupr_rating": "5.0+",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=Beth+Bellamy+pickleball",
+        "npl_team_affiliation": "OKC Punishers"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "id": "usr_gen_1",
+        "nickname": "Takuya",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 3.75,
+        "estimated_level": "中級者",
+        "play_style": "攻撃的ドライブ",
+        "my_paddle_id": "pdl_crbn_1x_16"
+    },
+    {
+        "id": "usr_gen_2",
+        "nickname": "Kenji",
+        "generation": "30代",
+        "gender": "男性",
+        "dupr_score": 4.12,
+        "estimated_level": "上級者",
+        "play_style": "オールラウンド",
+        "my_paddle_id": "pdl_joola_perseus_3"
+    },
+    {
+        "id": "usr_gen_3",
+        "nickname": "Sota",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 2.50,
+        "estimated_level": "初心者",
+        "play_style": "体験中",
+        "my_paddle_id": "pdl_amazin_aces"
+    },
+    {
+        "id": "usr_gen_4",
+        "nickname": "Hiroshi",
+        "generation": "40代",
+        "gender": "男性",
+        "dupr_score": 3.40,
+        "estimated_level": "中級者",
+        "play_style": "堅実ディンク",
+        "my_paddle_id": "pdl_selkirk_vanguard_control"
+    },
+    {
+        "id": "usr_gen_5",
+        "nickname": "Takeshi",
+        "generation": "50代",
+        "gender": "男性",
+        "dupr_score": 3.80,
+        "estimated_level": "中上級者",
+        "play_style": "プレイスメント",
+        "my_paddle_id": "pdl_sixzero_dbd_16"
+    },
+    {
+        "id": "usr_gen_6",
+        "nickname": "Makoto",
+        "generation": "60代",
+        "gender": "男性",
+        "dupr_score": 4.56,
+        "estimated_level": "最上級者(シニアプロ層)",
+        "play_style": "鉄壁のブロック",
+        "my_paddle_id": "pdl_gearbox_pro_control"
+    },
+    {
+        "id": "usr_gen_7",
+        "nickname": "Yuta",
+        "generation": "10代",
+        "gender": "男性",
+        "dupr_score": 3.10,
+        "estimated_level": "初中級者",
+        "play_style": "テニス打ち",
+        "my_paddle_id": "pdl_vatic_pro_prism_flash"
+    },
+    {
+        "id": "usr_gen_8",
+        "nickname": "Daiki",
+        "generation": "30代",
+        "gender": "男性",
+        "dupr_score": 5.12,
+        "estimated_level": "国内トッププロ",
+        "play_style": "超攻撃型スピン",
+        "my_paddle_id": "pdl_crbn_magnum"
+    },
+    {
+        "id": "usr_gen_9",
+        "nickname": "Yoshi",
+        "generation": "40代",
+        "gender": "男性",
+        "dupr_score": 2.80,
+        "estimated_level": "初心者",
+        "play_style": "ロブ中心",
+        "my_paddle_id": "pdl_vulcan_v520_control"
+    },
+    {
+        "id": "usr_gen_10",
+        "nickname": "Sho",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 4.88,
+        "estimated_level": "上級競技者",
+        "play_style": "アーネ・ATP多用",
+        "my_paddle_id": "pdl_engage_pursuit_pro_ex"
+    },
+    {
+        "id": "usr_gen_11",
+        "nickname": "Miho",
+        "generation": "30代",
+        "gender": "女性",
+        "dupr_score": 3.55,
+        "estimated_level": "中級者",
+        "play_style": "コントロール重視",
+        "my_paddle_id": "pdl_sixzero_ruby"
+    },
+    {
+        "id": "usr_gen_12",
+        "nickname": "Yuka",
+        "generation": "20代",
+        "gender": "女性",
+        "dupr_score": 4.20,
+        "estimated_level": "上級者",
+        "play_style": "高速ボレー戦",
+        "my_paddle_id": "pdl_joola_scorpeus_3"
+    },
+    {
+        "id": "usr_gen_13",
+        "nickname": "Kana",
+        "generation": "40代",
+        "gender": "女性",
+        "dupr_score": 3.20,
+        "estimated_level": "初中級者",
+        "play_style": "安定ディンク",
+        "my_paddle_id": "pdl_selkirk_halo_max"
+    },
+    {
+        "id": "usr_gen_14",
+        "nickname": "Ai",
+        "generation": "10代",
+        "gender": "女性",
+        "dupr_score": 3.90,
+        "estimated_level": "中上級者",
+        "play_style": "ハードヒット",
+        "my_paddle_id": "pdl_volair_mach1_forza"
+    },
+    {
+        "id": "usr_gen_15",
+        "nickname": "Eri",
+        "generation": "50代",
+        "gender": "女性",
+        "dupr_score": 4.10,
+        "estimated_level": "上級競技者",
+        "play_style": "巧みなプレイスメント",
+        "my_paddle_id": "pdl_paddletek_tsunami"
+    },
+    {
+        "id": "usr_gen_16",
+        "nickname": "Saki",
+        "generation": "20代",
+        "gender": "女性",
+        "dupr_score": 2.40,
+        "estimated_level": "完全初心者",
+        "play_style": "体験中",
+        "my_paddle_id": "pdl_amazin_aces"
+    },
+    {
+        "id": "usr_gen_17",
+        "nickname": "Ryoko",
+        "generation": "60代",
+        "gender": "女性",
+        "dupr_score": 3.60,
+        "estimated_level": "中級者",
+        "play_style": "ロブとドロップ",
+        "my_paddle_id": "pdl_prince_spectrum_pro"
+    },
+    {
+        "id": "usr_gen_18",
+        "nickname": "Natsumi",
+        "generation": "30代",
+        "gender": "女性",
+        "dupr_score": 4.75,
+        "estimated_level": "国内トッププロ",
+        "play_style": "オールラウンド",
+        "my_paddle_id": "pdl_electrum_model_e"
+    },
+    {
+        "id": "usr_gen_19",
+        "nickname": "Yuri",
+        "generation": "40代",
+        "gender": "女性",
+        "dupr_score": 3.00,
+        "estimated_level": "初級者",
+        "play_style": "基礎練習中",
+        "my_paddle_id": "pdl_franklin_ben_johns"
+    },
+    {
+        "id": "usr_gen_20",
+        "nickname": "Tomoko",
+        "generation": "50代",
+        "gender": "女性",
+        "dupr_score": 2.90,
+        "estimated_level": "初級者",
+        "play_style": "エンジョイ",
+        "my_paddle_id": "pdl_gamma_never_stop"
+    },
+    {
+        "id": "usr_gen_21",
+        "nickname": "Riku",
+        "generation": "10代",
+        "gender": "男性",
+        "dupr_score": 4.40,
+        "estimated_level": "上級者",
+        "play_style": "スピードスター",
+        "my_paddle_id": "pdl_proxr_titan"
+    },
+    {
+        "id": "usr_gen_22",
+        "nickname": "Ren",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 3.85,
+        "estimated_level": "中上級者",
+        "play_style": "スピン特化",
+        "my_paddle_id": "pdl_crbn_magnum"
+    },
+    {
+        "id": "usr_gen_23",
+        "nickname": "Haruto",
+        "generation": "30代",
+        "gender": "男性",
+        "dupr_score": 2.70,
+        "estimated_level": "初心者",
+        "play_style": "パワー重視（ミス多め）",
+        "my_paddle_id": "pdl_juciao_pro"
+    },
+    {
+        "id": "usr_gen_24",
+        "nickname": "Minato",
+        "generation": "40代",
+        "gender": "男性",
+        "dupr_score": 3.50,
+        "estimated_level": "中級者",
+        "play_style": "サードショットドロップ重視",
+        "my_paddle_id": "pdl_ronbus_r1_nova"
+    },
+    {
+        "id": "usr_gen_25",
+        "nickname": "Soma",
+        "generation": "50代",
+        "gender": "男性",
+        "dupr_score": 4.05,
+        "estimated_level": "上級者",
+        "play_style": "ダブルス特化・前衛",
+        "my_paddle_id": "pdl_engage_omega"
+    },
+    {
+        "id": "usr_gen_26",
+        "nickname": "Aoto",
+        "generation": "60代",
+        "gender": "男性",
+        "dupr_score": 3.10,
+        "estimated_level": "初中級",
+        "play_style": "レクリエーション",
+        "my_paddle_id": "pdl_niupipo_explorer"
+    },
+    {
+        "id": "usr_gen_27",
+        "nickname": "Hinata",
+        "generation": "10代",
+        "gender": "女性",
+        "dupr_score": 2.60,
+        "estimated_level": "初心者",
+        "play_style": "スクール通い",
+        "my_paddle_id": "pdl_vinsguir_carbon"
+    },
+    {
+        "id": "usr_gen_28",
+        "nickname": "Mio",
+        "generation": "20代",
+        "gender": "女性",
+        "dupr_score": 4.50,
+        "estimated_level": "上級競技者",
+        "play_style": "アグレッシブ",
+        "my_paddle_id": "pdl_joola_gen3_alpha"
+    },
+    {
+        "id": "usr_gen_29",
+        "nickname": "Mei",
+        "generation": "30代",
+        "gender": "女性",
+        "dupr_score": 3.30,
+        "estimated_level": "初中級者",
+        "play_style": "ディンクラリー好き",
+        "my_paddle_id": "pdl_franklin_christina"
+    },
+    {
+        "id": "usr_gen_30",
+        "nickname": "Rin",
+        "generation": "40代",
+        "gender": "女性",
+        "dupr_score": 3.75,
+        "estimated_level": "中上級者",
+        "play_style": "カウンターパンチャー",
+        "my_paddle_id": "pdl_diadem_icon"
+    },
+    {
+        "id": "usr_gen_31",
+        "nickname": "Yui",
+        "generation": "50代",
+        "gender": "女性",
+        "dupr_score": 3.25,
+        "estimated_level": "初中級者",
+        "play_style": "夫婦で参加",
+        "my_paddle_id": "pdl_head_radical_pro"
+    },
+    {
+        "id": "usr_gen_32",
+        "nickname": "Hina",
+        "generation": "60代",
+        "gender": "女性",
+        "dupr_score": 3.90,
+        "estimated_level": "上級シニア",
+        "play_style": "芸術的なロブ",
+        "my_paddle_id": "pdl_paddletek_bantam_exl"
+    },
+    {
+        "id": "usr_gen_33",
+        "nickname": "Ichiro",
+        "generation": "40代",
+        "gender": "男性",
+        "dupr_score": 4.90,
+        "estimated_level": "セミプロ",
+        "play_style": "全米大会出場者",
+        "my_paddle_id": "pdl_gearbox_pro_power"
+    },
+    {
+        "id": "usr_gen_34",
+        "nickname": "Jiro",
+        "generation": "30代",
+        "gender": "男性",
+        "dupr_score": 4.25,
+        "estimated_level": "上級者",
+        "play_style": "ドライブ多用",
+        "my_paddle_id": "pdl_sixzero_infinity"
+    },
+    {
+        "id": "usr_gen_35",
+        "nickname": "Saburo",
+        "generation": "50代",
+        "gender": "男性",
+        "dupr_score": 3.65,
+        "estimated_level": "中級者",
+        "play_style": "安定感重視",
+        "my_paddle_id": "pdl_vulcan_v900"
+    },
+    {
+        "id": "usr_gen_36",
+        "nickname": "Shiro",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 3.15,
+        "estimated_level": "初中級",
+        "play_style": "体育会系パワー",
+        "my_paddle_id": "pdl_macgregor_classic"
+    },
+    {
+        "id": "usr_gen_37",
+        "nickname": "Goro",
+        "generation": "60代",
+        "gender": "男性",
+        "dupr_score": 3.80,
+        "estimated_level": "中上級シニア",
+        "play_style": "技のデパート",
+        "my_paddle_id": "pdl_prokennex_blackace"
+    },
+    {
+        "id": "usr_gen_38",
+        "nickname": "Hanako",
+        "generation": "30代",
+        "gender": "女性",
+        "dupr_score": 2.85,
+        "estimated_level": "初心者",
+        "play_style": "楽しく運動",
+        "my_paddle_id": "pdl_hudef_hd6"
+    },
+    {
+        "id": "usr_gen_39",
+        "nickname": "Yoshiko",
+        "generation": "40代",
+        "gender": "女性",
+        "dupr_score": 4.15,
+        "estimated_level": "上級者",
+        "play_style": "ネットプレー得意",
+        "my_paddle_id": "pdl_crbn_zero"
+    },
+    {
+        "id": "usr_gen_40",
+        "nickname": "Keiko",
+        "generation": "50代",
+        "gender": "女性",
+        "dupr_score": 3.45,
+        "estimated_level": "中級者",
+        "play_style": "正確なプレイスメント",
+        "my_paddle_id": "pdl_selkirk_s2"
+    },
+    {
+        "id": "usr_gen_41",
+        "nickname": "Taro",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 5.05,
+        "estimated_level": "国内トッププロ",
+        "play_style": "規格外のスピード",
+        "my_paddle_id": "pdl_gruvn_mula"
+    },
+    {
+        "id": "usr_gen_42",
+        "nickname": "Kazuo",
+        "generation": "50代",
+        "gender": "男性",
+        "dupr_score": 3.35,
+        "estimated_level": "初中級者",
+        "play_style": "健康維持",
+        "my_paddle_id": "pdl_babolat_rngd_touch"
+    },
+    {
+        "id": "usr_gen_43",
+        "nickname": "Akira",
+        "generation": "30代",
+        "gender": "男性",
+        "dupr_score": 4.60,
+        "estimated_level": "競技者",
+        "play_style": "アグレッシブなパッシング",
+        "my_paddle_id": "pdl_pickleball_apes"
+    },
+    {
+        "id": "usr_gen_44",
+        "nickname": "Rina",
+        "generation": "20代",
+        "gender": "女性",
+        "dupr_score": 3.95,
+        "estimated_level": "上級者",
+        "play_style": "俊敏な反射神経",
+        "my_paddle_id": "pdl_electrum_pro_ii"
+    },
+    {
+        "id": "usr_gen_45",
+        "nickname": "Mika",
+        "generation": "40代",
+        "gender": "女性",
+        "dupr_score": 3.10,
+        "estimated_level": "初中級",
+        "play_style": "ミスの少ないディフェンス",
+        "my_paddle_id": "pdl_wilson_echo"
+    },
+    {
+        "id": "usr_gen_46",
+        "nickname": "Yoko",
+        "generation": "60代",
+        "gender": "女性",
+        "dupr_score": 2.50,
+        "estimated_level": "初心者",
+        "play_style": "公園で家族と",
+        "my_paddle_id": "pdl_bigdill_original"
+    },
+    {
+        "id": "usr_gen_47",
+        "nickname": "Satoru",
+        "generation": "40代",
+        "gender": "男性",
+        "dupr_score": 4.80,
+        "estimated_level": "競技コーチ",
+        "play_style": "戦術指導型",
+        "my_paddle_id": "pdl_proxr_zane"
+    },
+    {
+        "id": "usr_gen_48",
+        "nickname": "Kenta",
+        "generation": "20代",
+        "gender": "男性",
+        "dupr_score": 2.95,
+        "estimated_level": "初級者",
+        "play_style": "パワーでねじ伏せる",
+        "my_paddle_id": "pdl_friday_challenger"
+    },
+    {
+        "id": "usr_gen_49",
+        "nickname": "Mayumi",
+        "generation": "50代",
+        "gender": "女性",
+        "dupr_score": 4.30,
+        "estimated_level": "上級シニア代表",
+        "play_style": "完璧なサードドロップ",
+        "my_paddle_id": "pdl_sixzero_bd_16"
+    },
+    {
+        "id": "usr_gen_50",
+        "nickname": "Naoki",
+        "generation": "30代",
+        "gender": "男性",
+        "dupr_score": 3.60,
+        "estimated_level": "中級者",
+        "play_style": "ブロックとリセット",
+        "my_paddle_id": "pdl_joola_senator"
+    }
+]

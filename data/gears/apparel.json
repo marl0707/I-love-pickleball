@@ -1,0 +1,61 @@
+[
+    {
+        "id": "apparel_lululemon_pace_rival",
+        "brand_name": "Lululemon",
+        "product_name": "Pace Rival Mid-Rise Skirt",
+        "price": 8500,
+        "category": "スコート/スカート",
+        "target_gender": "Womens(女性用)",
+        "material_features": "吸汗速乾, ストレッチ, 軽量",
+        "has_ball_pocket": true,
+        "design_taste": "プリーツ, スポーティー",
+        "size_range": "0, 2, 4, 6, 8, 10, 12",
+        "color_variations": [
+            "ブラック",
+            "ホワイト",
+            "ネイビー"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon+Pace+Rival+Skirt",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon+Pace+Rival+Skirt/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon+Pace+Rival+Skirt"
+    },
+    {
+        "id": "apparel_nike_court_dri_fit",
+        "brand_name": "Nike",
+        "product_name": "NikeCourt Dri-FIT Advantage",
+        "price": 6050,
+        "category": "トップス(Tシャツ/ポロ)",
+        "target_gender": "Mens(男性用)",
+        "material_features": "吸汗速乾, 軽量, 通気性",
+        "has_ball_pocket": false,
+        "design_taste": "スポーティー",
+        "size_range": "S, M, L, XL, XXL",
+        "color_variations": [
+            "ホワイト",
+            "オブシディアン",
+            "ボルト"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=NikeCourt+Dri-FIT+Advantage",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/NikeCourt+Dri-FIT+Advantage/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=NikeCourt+Dri-FIT+Advantage"
+    },
+    {
+        "id": "apparel_fila_heritage_polo",
+        "brand_name": "FILA",
+        "product_name": "Heritage Short Sleeve Polo",
+        "price": 7590,
+        "category": "トップス(Tシャツ/ポロ)",
+        "target_gender": "Mens(男性用)",
+        "material_features": "UVカット, 吸汗速乾, 抗菌防臭",
+        "has_ball_pocket": false,
+        "design_taste": "クラシック",
+        "size_range": "S, M, L, XL",
+        "color_variations": [
+            "フィラネイビー",
+            "ホワイト/レッド"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=FILA+Heritage+Polo",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA+Heritage+Polo/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA+Heritage+Polo"
+    }
+]

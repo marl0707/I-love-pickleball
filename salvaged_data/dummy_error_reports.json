@@ -1,0 +1,20 @@
+[
+    {
+        "id": "err_001",
+        "facility_id": "facility_viptop",
+        "user_id": "user_demo_002",
+        "report_type": "business_hours_incorrect",
+        "comment": "日曜日の営業時間が変更になっています。正しくは10:00-18:00です。",
+        "status": "pending_verification",
+        "created_at": "2026-03-03T10:00:00Z"
+    },
+    {
+        "id": "err_002",
+        "facility_id": "facility_tokyotower",
+        "user_id": "user_demo_001",
+        "report_type": "location_pin_incorrect",
+        "comment": "マップのピンの位置が入口から少しズレています。",
+        "status": "resolved",
+        "created_at": "2026-03-01T15:30:00Z"
+    }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "event_jpa_japan_open_2026",
+    "facility_id": "tokyo_ariake_tennis",
+    "title": "JPA 第5回 日本ピックルボール選手権大会（ジャパンオープン2026）",
+    "event_type": "公式大会(JPA準拠)",
+    "start_datetime": "2026-10-10 09:00:00",
+    "end_datetime": "2026-10-12 17:00:00",
+    "target_level_min": 3,
+    "target_level_max": 5,
+    "entry_fee": 6000,
+    "entry_url": "https://japanpickleball.org/tournament/japan-open-2026/"
+  },
+  {
+    "id": "event_kanto_beginner_festa",
+    "facility_id": "shinagawa_sports_park",
+    "title": "第2回谷根千ミャオカップ ピックルボールレディース大会（初心者限定）",
+    "event_type": "初心者大会",
+    "start_datetime": "2026-03-04 13:00:00",
+    "end_datetime": "2026-03-04 16:00:00",
+    "target_level_min": 1,
+    "target_level_max": 3.5,
+    "entry_fee": 2000,
+    "entry_url": "https://www.tennisbear.net/event/415555/info"
+  },
+  {
+    "id": "event_kansai_grassroots_cup",
+    "facility_id": "osaka_maruzen_arena",
+    "title": "第3回 関西草トーナメント（エンジョイ・ミックスダブルス）",
+    "event_type": "草大会",
+    "start_datetime": "2026-05-20 10:00:00",
+    "end_datetime": "2026-05-20 15:00:00",
+    "target_level_min": 2.5,
+    "target_level_max": 4,
+    "entry_fee": 2500,
+    "entry_url": "https://www.tennisbear.net/play"
+  },
+  {
+    "id": "event_nagoya_open_play_night",
+    "facility_id": "nagoya_shirakawa_park",
+    "title": "名古屋フライデーナイト・オープンプレイ",
+    "event_type": "オープンプレイ",
+    "start_datetime": "2026-03-14 19:00:00",
+    "end_datetime": "2026-03-14 21:00:00",
+    "target_level_min": 2,
+    "target_level_max": 4.5,
+    "entry_fee": 500,
+    "entry_url": "https://www.tennisbear.net/play"
+  },
+  {
+    "id": "tournament_usap_national",
+    "title": "Biofreeze USA Pickleball National Championships",
+    "category": "国際大会（メジャー）",
+    "location": "Dallas, Texas, USA",
+    "description": "世界最高峰の権威を持つ全米選手権。プロ層だけでなくあらゆる年代・レベルのアマチュアが参加する、世界最大規模のピックルボールの祭典。",
+    "held_month": "11月",
+    "status": "annual"
+  },
+  {
+    "id": "tournament_us_open",
+    "title": "Minto US Open Pickleball Championships",
+    "category": "国際大会",
+    "location": "Naples, Florida, USA",
+    "description": "フロリダ州ネープルズで開催される世界有数のメガトーナメント。「ピックルボール界で最も熱狂的な1週間」とも称される。",
+    "held_month": "4月",
+    "status": "annual"
+  },
+  {
+    "id": "tournament_jpa_japan_national",
+    "title": "JPA ピックルボール日本一決定戦",
+    "category": "国内メジャー（JPA主催）",
+    "location": "Ariake Tennis Forest Park (過去実績: 有明テニスの森 等)",
+    "description": "日本ピックルボール協会(JPA)が主催する、名実ともに日本最高峰の公式大会。シングルス、ダブルス、ミックスの各カテゴリーで世代別のチャンピオンを決定する。",
+    "held_month": "12月",
+    "status": "annual"
+  },
+  {
+    "id": "tournament_jpa_all_japan",
+    "title": "全日本ピックルボール選手権大会",
+    "category": "国内メジャー（JPA主催）",
+    "location": "Saorina, Mie (過去実績: サオリーナ 等)",
+    "description": "日本国内のプレイヤーが腕を競い合う、国内最大規模の選手権大会。",
+    "held_month": "6月",
+    "status": "annual"
+  },
+  {
+    "id": "tour_01",
+    "name": "PPA Tour - US Open Pickleball Championships",
+    "location": "ネープルズ, フロリダ州, 米国",
+    "type": "国際メジャー",
+    "schedule": "毎年4月",
+    "description": "世界最大のピックルボール大会。フロリダ州ネープルズのイーストネープルズ・コミュニティパークで開催。"
+  },
+  {
+    "id": "tour_02",
+    "name": "PPA Tour - National Championships",
+    "location": "ダラス, テキサス州, 米国",
+    "type": "国際メジャー",
+    "schedule": "毎年11月",
+    "description": "PPA Tour年間チャンピオンを決定するシーズン最終戦。"
+  },
+  {
+    "id": "tour_03",
+    "name": "MLP (Major League Pickleball) Season",
+    "location": "全米各地(ローテーション)",
+    "type": "プロリーグ",
+    "schedule": "年間5-6イベント",
+    "description": "チーム対抗形式のプロリーグ。LeBron JamesやTom Bradyなど著名人がオーナーに名を連ねる。"
+  },
+  {
+    "id": "tour_04",
+    "name": "APP Tour - Atlantic Open",
+    "location": "デルレイビーチ, フロリダ州, 米国",
+    "type": "国際プロツアー",
+    "schedule": "毎年2月",
+    "description": "APP Tourの主要大会のひとつ。フロリダのビーチリゾート付近で開催される。"
+  },
+  {
+    "id": "tour_05",
+    "name": "Beer City Open",
+    "location": "グランドラピッズ, ミシガン州, 米国",
+    "type": "国際プロツアー",
+    "schedule": "毎年7月",
+    "description": "ビール醸造の街で開催される人気大会。アマチュアカテゴリも充実。"
+  },
+  {
+    "id": "tour_06",
+    "name": "Bainbridge Cup",
+    "location": "ベインブリッジ島, ワシントン州, 米国",
+    "type": "国際招待",
+    "schedule": "毎年8月",
+    "description": "ピックルボール発祥の地で開催されるエキシビション招待大会。"
+  },
+  {
+    "id": "tour_07",
+    "name": "JPA 全日本ピックルボール選手権大会",
+    "location": "東京都",
+    "type": "国内公式(JPA)",
+    "schedule": "毎年10月",
+    "description": "日本ピックルボール協会(JPA)主催の最高峰国内大会。全国各地の予選を勝ち抜いた選手が集結。"
+  },
+  {
+    "id": "tour_08",
+    "name": "JPA 東日本オープン",
+    "location": "東京都・神奈川県",
+    "type": "国内公式(JPA)",
+    "schedule": "毎年5月",
+    "description": "東日本エリアの代表選を兼ねた大規模オープン大会。"
+  },
+  {
+    "id": "tour_09",
+    "name": "JPA 西日本オープン",
+    "location": "大阪府",
+    "type": "国内公式(JPA)",
+    "schedule": "毎年6月",
+    "description": "西日本エリアの代表選を兼ねた大規模オープン大会。"
+  },
+  {
+    "id": "tour_10",
+    "name": "関東草大会 月例杯",
+    "location": "関東各地(持ち回り)",
+    "type": "草大会",
+    "schedule": "毎月第3日曜",
+    "description": "エンジョイ層から競技層まで幅広く参加できる気軽な月例大会。"
+  },
+  {
+    "id": "tour_11",
+    "name": "名古屋ピックルフェスティバル",
+    "location": "愛知県名古屋市",
+    "type": "草大会",
+    "schedule": "毎年9月",
+    "description": "東海地方最大の草大会。体験会やメーカーブースも多数出展。"
+  },
+  {
+    "id": "tour_12",
+    "name": "大阪ミックスダブルスオープン",
+    "location": "大阪府",
+    "type": "草大会",
+    "schedule": "毎年3月",
+    "description": "ミックスダブルス限定の人気大会。初心者カテゴリあり。"
+  },
+  {
+    "id": "tour_13",
+    "name": "札幌インドアカップ",
+    "location": "北海道札幌市",
+    "type": "草大会",
+    "schedule": "毎年1月",
+    "description": "冬の北海道で開催されるインドア大会。雪景色とピックルボールの組み合わせがユニーク。"
+  },
+  {
+    "id": "tour_14",
+    "name": "福岡サンシャインオープン",
+    "location": "福岡県福岡市",
+    "type": "草大会",
+    "schedule": "毎年11月",
+    "description": "九州最大規模のピックルボール大会。"
+  },
+  {
+    "id": "tour_15",
+    "name": "Spanish Pickleball Open",
+    "location": "バルセロナ, スペイン",
+    "type": "国際(欧州)",
+    "schedule": "毎年6月",
+    "description": "ヨーロッパで急成長中のピックルボールシーンを象徴する大会。"
+  },
+  {
+    "id": "event_local_001",
+    "facility_id": "facility_viptop",
+    "title": "初心者大歓迎！手ぶらでピックルボール体験会",
+    "event_type": "体験会",
+    "start_datetime": "2026-03-10T10:00:00Z",
+    "end_datetime": "2026-03-10T12:00:00Z",
+    "target_level_min": 1,
+    "target_level_max": 2.5,
+    "entry_fee": 1500,
+    "entry_url": "https://example.com/entry/123"
+  },
+  {
+    "id": "event_local_002",
+    "facility_id": "facility_tokyotower",
+    "title": "【DUPR 3.5以上限定】フライデーナイト・オープンプレイ",
+    "event_type": "オープンプレイ",
+    "start_datetime": "2026-03-15T19:00:00Z",
+    "end_datetime": "2026-03-15T21:00:00Z",
+    "target_level_min": 3.5,
+    "target_level_max": 5,
+    "entry_fee": 2000,
+    "entry_url": "https://example.com/entry/124"
+  }
+]

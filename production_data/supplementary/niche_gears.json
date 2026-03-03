@@ -1,0 +1,122 @@
+[
+  {
+    "id": "item_lead_tape",
+    "category": "カスタマイズ用品",
+    "name": "Pickleball Lead Tape (鉛テープ)",
+    "description": "パドルのエッジに貼ることで重量を加え、スウィートスポットを拡大し、パワーと安定性を向上させる競技者必須のアイテム。",
+    "usage_tips": "3時と9時の位置→スウィートスポット横拡大、12時の位置→ヘッドヘビーでパワーアップ。",
+    "price_range": "1,000円〜2,000円"
+  },
+  {
+    "id": "item_overgrip",
+    "category": "グリップ関連",
+    "name": "各種オーバーグリップ",
+    "description": "汗を吸収しパドルの滑りを防ぐために元グリップの上に巻くテープ。ドライタイプとウェットタイプがある。",
+    "usage_tips": "夏場や手汗の多い人はドライタイプ（トーナグリップ等）、冬場はウェットタイプが推奨。",
+    "price_range": "3本入り 1,200円前後"
+  },
+  {
+    "id": "item_edge_guard_tape",
+    "category": "保護用品",
+    "name": "Edge Guard Tape (エッジガードテープ)",
+    "description": "コートの床にパドルの縁が擦れて削れるのを防ぐ保護テープ。",
+    "usage_tips": "高価なパドルは購入直後に貼るプロが多い。デザイン性のあるものを選ぶとカスタマイズにもなる。",
+    "price_range": "1,500円〜2,500円"
+  },
+  {
+    "id": "item_grip_enhancer",
+    "category": "グリップ関連",
+    "name": "Grip Enhancer Spray / Powder (グリップ強化スプレー・パウダー)",
+    "description": "手のひらに塗布しグリップ力を強化する。ロジン系パウダーやスプレータイプがある。",
+    "usage_tips": "手汗がひどい場合はオーバーグリップと併用が効果的。大会ではルール確認要。",
+    "price_range": "800円〜1,500円"
+  },
+  {
+    "id": "item_vibration_dampener",
+    "category": "カスタマイズ用品",
+    "name": "Vibration Dampener (振動止め/ダンパー)",
+    "description": "パドルのスロート部分に取り付け振動を吸収する小さなアクセサリー。テニス肘の予防にも効果的。",
+    "usage_tips": "テニスの振動止めがそのまま使える場合がある。不快な振動を感じたら導入を検討。",
+    "price_range": "500円〜1,000円"
+  },
+  {
+    "id": "item_ball_machine",
+    "category": "練習器具",
+    "name": "Pickleball Ball Machine (ボールマシン)",
+    "description": "自動でボールを発射する練習用マシン。スピード・角度・スピンを調整可能。一人での反復練習に最適。",
+    "usage_tips": "サードショットドロップやリターンの練習に特に効果的。Tutor, Lobster等のブランドが定番。",
+    "price_range": "80,000円〜300,000円"
+  },
+  {
+    "id": "item_rebounder",
+    "category": "練習器具",
+    "name": "Rebounder / Practice Wall (リバウンダー)",
+    "description": "打ったボールが跳ね返ってくる練習用ネット/ボード。自宅やコート脇での自主練習に使用。",
+    "usage_tips": "角度を調整してディンクやドライブの反復練習が可能。Rukketブランドが人気。",
+    "price_range": "10,000円〜20,000円"
+  },
+  {
+    "id": "item_portable_net",
+    "category": "コート設備",
+    "name": "Portable Net System (ポータブルネット)",
+    "description": "体育館や公園にピックルボールコートを設置するための持ち運び可能なネットシステム。",
+    "usage_tips": "USAP公式サイズ（高さ36インチ/サイドは34インチ）を確認。JOOLA, Onixブランドが定番。",
+    "price_range": "15,000円〜30,000円"
+  },
+  {
+    "id": "item_court_tape",
+    "category": "コート設備",
+    "name": "Court Line Tape (コートラインテープ)",
+    "description": "テニスコートや体育館の床にピックルボールのラインを引くための幅広粘着テープ。",
+    "usage_tips": "跡が残りにくい養生テープ系がおすすめ。1コート分で約80m必要。色はブルーかグリーンが主流。",
+    "price_range": "1,500円〜3,000円/ロール"
+  },
+  {
+    "id": "item_target_training",
+    "category": "練習器具",
+    "name": "Target Training Cones / Markers (ターゲットマーカー)",
+    "description": "キッチン内の特定のスポットに置いてドロップやディンクの精度を高めるための目印。",
+    "usage_tips": "フラットコーン型が足を引っ掛けにくく安全。4色セットで使い分けると効果的。",
+    "price_range": "1,000円〜2,000円/セット"
+  },
+  {
+    "id": "item_spin_trainer",
+    "category": "練習器具",
+    "name": "Spin Trainer / Spin Paddle (スピン練習用パドル)",
+    "description": "フェイスに特殊加工を施した練習専用パドル。スピンのかけ方の感覚を身に着けるためのトレーニングツール。",
+    "usage_tips": "通常パドルと交互に使い、スピンの感覚を強化する。試合では使用不可。",
+    "price_range": "5,000円〜8,000円"
+  },
+  {
+    "id": "item_caddy_hopper",
+    "category": "練習用品",
+    "name": "Ball Caddy / Ball Hopper (ボールカート)",
+    "description": "練習時に大量のボールを収納し持ち運ぶためのカート。腰をかがめずにボールを拾えるタイプもある。",
+    "usage_tips": "ドリル練習やレッスン時のコーチには必須。80球以上収容できるモデルが実用的。",
+    "price_range": "5,000円〜12,000円"
+  },
+  {
+    "id": "item_paddle_eraser",
+    "category": "メンテナンス用品",
+    "name": "Paddle Face Eraser / Cleaner (パドルフェイスクリーナー)",
+    "description": "パドルの打面についたボール跡や汚れを落とす専用イレイサー。スピン性能の維持に重要。",
+    "usage_tips": "カーボンフェイスのパドルは定期的にクリーニングしないとスピン性能が低下する。3〜5回使用ごと。",
+    "price_range": "800円〜1,500円"
+  },
+  {
+    "id": "item_weighted_training_paddle",
+    "category": "トレーニング用品",
+    "name": "Weighted Training Paddle (ウェイトトレーニングパドル)",
+    "description": "通常より重い練習用パドル。スイングスピードと筋力を鍛えるための素振り・ドリル練習用。",
+    "usage_tips": "通常パドル（7.5oz）の1.5〜2倍の重さ（11〜14oz）で素振りを行い、筋力アップ。",
+    "price_range": "6,000円〜10,000円"
+  },
+  {
+    "id": "item_scorekeeping_band",
+    "category": "アクセサリー",
+    "name": "Score Keeping Wristband / Bracelet (スコアキーピングバンド)",
+    "description": "手首に装着し、スコアをスライダーで管理する便利なバンド。レクリエーションプレイで大人気。",
+    "usage_tips": "サイドアウトスコアリングの3つの数字（自分の得点、相手の得点、サーバー番号）を簡単に追跡。",
+    "price_range": "500円〜1,500円"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "inj_pickleball_elbow",
+    "target_condition": "Pickleball Elbow (テニス肘 / 上腕骨外側上顆炎)",
+    "cause": "バックハンドの使いすぎや、パドルの芯を外した際の衝撃が肘に蓄積することで発生する炎症。",
+    "prevention_gears": "ショックアブソーバー（振動吸収材）、エルボーバンド（サポーター）、より厚いコア（16mm等）のパドルへの変更",
+    "stretches": "手首を曲げ伸ばしする前腕のストレッチ。壁を使った肩周りのストレッチ。",
+    "severity": "中〜高",
+    "recovery_time": "2〜6週間"
+  },
+  {
+    "id": "inj_eye_injuries",
+    "target_condition": "Eye Injuries (眼球へのボール直撃)",
+    "cause": "ネット前での超至近距離のファイヤーファイト（打ち合い）時に、予期せぬ弾道のボールが目に直撃する事故。",
+    "prevention_gears": "スポーツ用アイウェア（保護メガネ）、クリアレンズのサングラス。ポリカーボネート製の割れないレンズが推奨される。",
+    "stretches": "該当なし（保護具の着用が唯一の予防策）",
+    "severity": "高（失明リスクあり）",
+    "recovery_time": "症状による（数日〜永久的）"
+  },
+  {
+    "id": "inj_achilles_tendonitis",
+    "target_condition": "Achilles Tendonitis / Ankle Sprains (アキレス腱炎 / 足首の捻挫)",
+    "cause": "前後左右への急激な方向転換、特にキッチンラインへのダッシュとその激しいストップ動作。",
+    "prevention_gears": "ピックルボールまたはテニス専用の「横方向の動きに強い」コートシューズ。※ランニングシューズは捻挫のリスクが高いため絶対に使用しないこと。",
+    "stretches": "アキレス腱伸ばし、ふくらはぎのマッサージ、足首の回旋運動。",
+    "severity": "中〜高",
+    "recovery_time": "2〜8週間"
+  },
+  {
+    "id": "inj_shoulder_impingement",
+    "target_condition": "Shoulder Impingement (肩インピンジメント / 肩関節の挟み込み)",
+    "cause": "オーバーヘッドスマッシュの反復、サーブ時の無理な肩の回旋。特にウォームアップ不足時に発生しやすい。",
+    "prevention_gears": "軽量パドル（7.5oz前後）への変更、肩用サポーター",
+    "stretches": "肩のクロスアームストレッチ、ドアフレームを使った胸筋ストレッチ、レジスタンスバンドでのインターナル/エクスターナルローテーション",
+    "severity": "中",
+    "recovery_time": "4〜12週間"
+  },
+  {
+    "id": "inj_rotator_cuff",
+    "target_condition": "Rotator Cuff Strain (回旋筋腱板の損傷)",
+    "cause": "肩の回転運動、特にスマッシュやオーバーヘッドショットの強打時に、腱板に過度なストレスがかかる。",
+    "prevention_gears": "肩用ウォーマー、適切な重量のパドル選択",
+    "stretches": "ペンデュラムエクササイズ（振り子運動）、スリーパーストレッチ、タオルストレッチ",
+    "severity": "中〜高",
+    "recovery_time": "4〜16週間（重症時は手術の可能性）"
+  },
+  {
+    "id": "inj_knee_pain",
+    "target_condition": "Knee Pain / Patellar Tendinitis (膝痛 / 膝蓋腱炎)",
+    "cause": "急な方向転換、膝を曲げた状態でのストップ動作の反復。ハードコートでのプレーで衝撃が蓄積する。",
+    "prevention_gears": "膝サポーター（パテラバンド等）、クッション性の高いコートシューズ、インソール",
+    "stretches": "大腿四頭筋ストレッチ、ハムストリングスストレッチ、フォームローラーでのIT Band（腸脛靭帯）リリース",
+    "severity": "中",
+    "recovery_time": "2〜6週間"
+  },
+  {
+    "id": "inj_wrist_strain",
+    "target_condition": "Wrist Strain (手首の捻挫・腱鞘炎)",
+    "cause": "パドルのスナップ動作の繰り返し、特にスピンショットやフリック系ショットの多用による手首の過度な負担。",
+    "prevention_gears": "手首用サポーター、グリップサイズの適正化（太すぎ/細すぎに注意）",
+    "stretches": "手首の屈曲・伸展ストレッチ、前腕の回旋運動、テニスボールを使ったグリップ強化",
+    "severity": "低〜中",
+    "recovery_time": "1〜4週間"
+  },
+  {
+    "id": "inj_lower_back_pain",
+    "target_condition": "Lower Back Pain (腰痛)",
+    "cause": "前傾姿勢の維持、サーブやリターン時の腰のひねり動作。特にシニアプレイヤーに多い。",
+    "prevention_gears": "腰用サポーター、コルセット（プレイ時は簡易型）",
+    "stretches": "キャット＆カウ（猫背・反り腰）、膝抱えストレッチ、スーパーマン（背筋強化）、腹横筋のプランク",
+    "severity": "低〜中",
+    "recovery_time": "1〜6週間"
+  },
+  {
+    "id": "inj_plantar_fasciitis",
+    "target_condition": "Plantar Fasciitis (足底筋膜炎)",
+    "cause": "コート上での反復した着地衝撃、特に硬いコートサーフェスでの長時間プレイで足裏の筋膜に炎症が生じる。",
+    "prevention_gears": "アーチサポート付きインソール、ナイトスプリント、適切なクッション性のあるシューズ",
+    "stretches": "足裏のテニスボールローリング、つま先を壁に当てたカーフストレッチ、タオルギャザー（足指でタオルを掴む）",
+    "severity": "中",
+    "recovery_time": "4〜12週間"
+  },
+  {
+    "id": "inj_calf_strain",
+    "target_condition": "Calf Strain / Muscle Pull (ふくらはぎの肉離れ)",
+    "cause": "ウォームアップ不足の状態での急激なダッシュやストップ。特に40代以上のプレイヤーに発生頻度が高い。",
+    "prevention_gears": "ふくらはぎ用コンプレッションスリーブ、適切なシューズ",
+    "stretches": "ウォールカーフストレッチ（膝伸ばし・膝曲げ両方）、ダイナミックストレッチ（プレイ前）、エキセントリックカーフレイズ（予防強化）",
+    "severity": "中〜高",
+    "recovery_time": "2〜8週間"
+  },
+  {
+    "id": "inj_heat_exhaustion",
+    "target_condition": "Heat Exhaustion / Dehydration (熱中症 / 脱水症状)",
+    "cause": "夏場のアウトドアコートでの長時間プレイ。直射日光、高湿度、水分補給不足が重なると危険。",
+    "prevention_gears": "冷却タオル、帽子/バイザー、スポーツドリンク（電解質入り）、日焼け止め",
+    "stretches": "該当なし。こまめな休憩（20分に1回）、水分補給（15分ごとにコップ1杯）、アイスベストの着用が推奨。",
+    "severity": "中〜致命的（熱射病に発展する可能性）",
+    "recovery_time": "数時間〜数日"
+  },
+  {
+    "id": "inj_hip_flexor_strain",
+    "target_condition": "Hip Flexor Strain (股関節屈筋群の張り)",
+    "cause": "低い姿勢での反復的なランジ動作、キッチンでのスクワット姿勢の長時間維持。",
+    "prevention_gears": "股関節サポーター、ヒップサークルバンド（ウォームアップ用）",
+    "stretches": "ランジストレッチ、ピジョンポーズ、バタフライストレッチ、ヒップフレクサーの動的ストレッチ",
+    "severity": "低〜中",
+    "recovery_time": "1〜4週間"
+  },
+  {
+    "id": "inj_blisters",
+    "target_condition": "Blisters (手足のマメ・水ぶくれ)",
+    "cause": "新しいパドルグリップやシューズの摩擦、長時間プレイでの手のひらの消耗。",
+    "prevention_gears": "オーバーグリップの定期交換、ブリスターパッチ（防護パッド）、吸湿性の高い靴下",
+    "stretches": "該当なし。グリップの定期的な巻き替え（3〜5回のプレイごと）と、手のひらの保湿ケアが予防に有効。",
+    "severity": "低",
+    "recovery_time": "3〜7日"
+  },
+  {
+    "id": "inj_meniscus_tear",
+    "target_condition": "Meniscus Tear (半月板損傷)",
+    "cause": "膝をひねった状態での急激な方向転換。特に加齢により半月板が脆くなっているシニアプレイヤーに多い。",
+    "prevention_gears": "膝サポーター（ヒンジ付き）、適切なコートシューズ",
+    "stretches": "大腿四頭筋とハムストリングの強化エクササイズ、バランスボードトレーニング",
+    "severity": "高",
+    "recovery_time": "6〜24週間（手術時はさらに長い）"
+  },
+  {
+    "id": "inj_trigger_finger",
+    "target_condition": "Trigger Finger (弾発指 / バネ指)",
+    "cause": "パドルを強く握り続けることで指の腱鞘に炎症が発生。特にグリップが細すぎる場合に起こりやすい。",
+    "prevention_gears": "グリップサイズの適正化（太めに変更）、グリップの巻き増し、指用スプリント",
+    "stretches": "指の屈曲伸展エクササイズ、温水での手浴（手のウォーミングアップ）、テニスボールの軽いスクイーズ",
+    "severity": "低〜中",
+    "recovery_time": "2〜8週間"
+  },
+  {
+    "id": "inj_sunburn",
+    "target_condition": "Sunburn / UV Damage (日焼け / 紫外線ダメージ)",
+    "cause": "アウトドアコートでの長時間の紫外線暴露。顔、首、腕が特に影響を受ける。",
+    "prevention_gears": "SPF50+の日焼け止め（汗に強いスポーツタイプ）、UVカットサングラス、帽子/バイザー、長袖UVカットウェア",
+    "stretches": "該当なし。プレイ前に日焼け止めを塗り、2時間ごとに塗り直すことが推奨。",
+    "severity": "低〜中（長期的には皮膚がんリスク）",
+    "recovery_time": "3〜7日"
+  }
+]

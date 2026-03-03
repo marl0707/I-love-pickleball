@@ -1,0 +1,23 @@
+[
+    {
+        "id": "bmk_001",
+        "user_id": "user_demo_001",
+        "target_type": "facility",
+        "target_id": "facility_viptop",
+        "created_at": "2026-03-01T10:20:00Z"
+    },
+    {
+        "id": "bmk_002",
+        "user_id": "user_demo_001",
+        "target_type": "gear",
+        "target_id": "paddle_joola_perseus",
+        "created_at": "2026-03-02T15:45:00Z"
+    },
+    {
+        "id": "bmk_003",
+        "user_id": "user_demo_002",
+        "target_type": "article",
+        "target_id": "article_pb_101",
+        "created_at": "2026-03-03T09:15:00Z"
+    }
+]

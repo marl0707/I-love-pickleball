@@ -1,0 +1,18 @@
+[
+  {
+    "id": "award_2025_best_paddle",
+    "title": "2025年 ユーザー投票 第1位「ベスト・パワーパドル」",
+    "target_type": "gear",
+    "target_id": "paddle_joola_perseus",
+    "year": 2025,
+    "description": "反発力とスピン性能で圧倒的な支持を集め、中〜上級者部門で堂々の1位を獲得。"
+  },
+  {
+    "id": "award_2025_best_facility",
+    "title": "2025年 みんなが選んだ「ベスト・インドアコート」",
+    "target_type": "facility",
+    "target_id": "facility_viptop",
+    "year": 2025,
+    "description": "冷暖房完備、アクセスの良さ、そして専用コートのクオリティが評価され初代ベストコートに選出。"
+  }
+]

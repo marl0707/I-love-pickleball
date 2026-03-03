@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c_media_001",
+    "target_type": "community",
+    "target_id": "community_osaka_links",
+    "media_type": "instagram",
+    "url": "https://www.instagram.com/p/Dummy_Links_BeginnerClass/"
+  },
+  {
+    "id": "c_media_002",
+    "target_type": "community",
+    "target_id": "community_fukuoka_infinity",
+    "media_type": "youtube",
+    "url": "https://www.youtube.com/watch?v=Dummy_Infinity_Fukuoka"
+  },
+  {
+    "id": "c_media_003",
+    "target_type": "community",
+    "target_id": "community_tokyo_shinjuku",
+    "media_type": "instagram",
+    "url": "https://www.instagram.com/p/Dummy_Shinjuku_Practice/"
+  }
+]

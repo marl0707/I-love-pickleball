@@ -1,0 +1,18 @@
+[
+    {
+        "id": "cthread_001",
+        "community_id": "community_001",
+        "author_id": "user_demo_001",
+        "title": "今週末の練習用ボール購入について",
+        "content": "FranklinのX-40が減ってきたので、サークル費でダース買いしようと思います。異議ある方いますか？",
+        "created_at": "2026-03-01T12:00:00Z"
+    },
+    {
+        "id": "cthread_002",
+        "community_id": "community_002",
+        "author_id": "user_demo_001",
+        "title": "来月のJPA大会エントリー相談",
+        "content": "男子ダブルスマッチ、レベル4.0で一緒に出るペア探してます。",
+        "created_at": "2026-03-02T19:40:00Z"
+    }
+]

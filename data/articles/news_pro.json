@@ -1,0 +1,32 @@
+[
+    {
+        "category": "プロ動向・ニュース (News & The Fans)",
+        "description": "急速に拡大するピックルボールのプロツアー事情や、トップ選手たちの動向を解説した記事データです。",
+        "articles": [
+            {
+                "id": "art_news_ppa_vs_app",
+                "title": "激動のプロピックルボール界：PPAツアーとAPPツアーの違いとは？",
+                "target_audience": "大会観戦者・中上級者",
+                "content_summary": "プロフェッショナルピックルボール界は主に「PPA」と「APP」の2強ツアーで構成されています。PPAは高額賞金とトップ選手との独占契約により競技レベルが高く、シングルエリミネーション方式を採用しています。一方、APPはUSA Pickleball公認でオープン参加型、ダブルエリミネーション方式を採用し、若手育成や国際展開に力を入れています。",
+                "related_website_url": "https://www.ppatour.com/",
+                "key_takeaways": [
+                    "PPA：高額賞金、スター選手の独占契約、シングルエリミネーション",
+                    "APP：オープン参加、選手育成、国際展開、ダブルエリミネーション",
+                    "両者の競争がスポーツ全体のレベルアップと知名度向上に貢献している"
+                ]
+            },
+            {
+                "id": "art_news_mlp_rules",
+                "title": "熱狂！男女混合チーム戦「Major League Pickleball (MLP)」の独自の仕組み",
+                "target_audience": "大会観戦者",
+                "content_summary": "MLP（メジャーリーグ・ピックルボール）は、男女混合チームによる革新的なリーグ戦です。1試合は女子ダブルス、男子ダブルス、混合ダブルス2試合の計4ゲームで行われ、同点の場合はタイブレーク「DreamBreaker™（ドリームブレイカー）」にてシングルスのラリースコアリング戦で決着をつけるエキサイティングな独自ルール（MLPlay™ルール）を採用しています。",
+                "related_youtube_url": "https://www.youtube.com/results?search_query=Major+League+Pickleball+DreamBreaker",
+                "key_takeaways": [
+                    "MLPは男女混合のチーム対抗戦",
+                    "同点の場合は「DreamBreaker™」と呼ばれる1対1の交代制タイブレークが行われる",
+                    "ラリースコアリングの採用で、短時間でスリリングな試合展開になる"
+                ]
+            }
+        ]
+    }
+]

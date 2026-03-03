@@ -164,6 +164,10 @@
 | type\_flag | TINYINT | 1:コートあり, 2:ショップのみ(コートなし), 3:コート＆ショップ併設 |
 | operator\_type | VARCHAR(50) | 【選択肢】民間, 自治体(公営), 専門店 等 |
 | is\_premium | BOOLEAN | アワード受賞などの優良施設フラグ |
+| directions\_url | TEXT | Google Maps等への直接経路案内URL |
+| access\_guide | TEXT | 補足アクセス情報（駅から徒歩5分等） |
+| visitor\_welcome | BOOLEAN | 非会員・ドロップイン体験枠の歓迎フラグ(1:歓迎) |
+| has\_school | BOOLEAN | 施設主導の公式スクールやレッスンの有無(1:あり) |
 | address | VARCHAR(255) |  |
 | latitude / longitude | DECIMAL | マップピン用 |
 | main\_photo\_url | TEXT |  |
@@ -212,6 +216,17 @@
 | has\_paddle\_rental | TINYINT | パドルレンタルの有無(1:あり) |
 | paddle\_rental\_fee | INT | パドルレンタル料(円) |
 | handled\_brands | VARCHAR(255) | 取扱いメーカー(例: "JOOLA, Franklin") |
+
+#### **facility\_media (施設紹介用動画・画像メディア)**
+
+| カラム名 | データ型 | 備考・選択肢例 |
+| :---- | :---- | :---- |
+| id | VARCHAR(255) | PK |
+| target\_type | VARCHAR(20) | 固定: "facility" |
+| target\_id | VARCHAR(255) | FK (facilities.id) |
+| media\_type | VARCHAR(20) | 【選択肢】youtube, instagram, image |
+| url | TEXT | 動画や画像のURL |
+| description | TEXT | メディアの説明文・代替テキスト |
 
 #### **facility\_comments (施設ごとの口コミ)**
 
@@ -399,10 +414,27 @@
 | name | VARCHAR(255) |  |
 | description | TEXT |  |
 | target\_area | VARCHAR(100) | 例: "東京都" |
+| location\_text | VARCHAR(255) | 主な活動場所のテキスト表記（例："有明コロシアム周辺"） |
 | age\_limit\_min / age\_limit\_max | INT | 年齢制限 |
 | target\_level | VARCHAR(100) |  |
+| beginner\_friendly | BOOLEAN | 1:未経験者歓迎(貸出パドル/体験枠あり) |
+| play\_style | VARCHAR(50) | 【選択肢】エンジョイ主導, 競技志向, 混合 |
+| activity\_frequency | VARCHAR(50) | 【選択肢】週1回以上, 月2回程度, 不定期 |
+| schedule\_text | VARCHAR(255) | 例: "毎週末土曜日 19時〜" |
+| external\_url | TEXT | 公式サイト、InstagramやLINE等のリンク |
 | owner\_user\_id | BIGINT | FK |
 | created\_at | TIMESTAMP |  |
+
+#### **community\_media (サークル紹介用動画・画像メディア)**
+
+| カラム名 | データ型 | 備考・選択肢例 |
+| :---- | :---- | :---- |
+| id | VARCHAR(255) | PK |
+| target\_type | VARCHAR(20) | 固定: "community" |
+| target\_id | VARCHAR(255) | FK (communities.id) |
+| media\_type | VARCHAR(20) | 【選択肢】youtube, instagram, image |
+| url | TEXT | 動画や画像のURL |
+| description | TEXT | メディアの説明文・代替テキスト |
 
 #### **community\_members (コミュニティ所属メンバー中間テーブル)**
 

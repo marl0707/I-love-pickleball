@@ -1,0 +1,387 @@
+[
+    {
+        "id": "term_kitchen",
+        "term_en": "Kitchen / Non-Volley Zone (NVZ)",
+        "term_ja": "キッチン / ノンボレーゾーン",
+        "category": "コート・ルール",
+        "description": "ネットの両側7フィート（約2.13m）のエリア。このエリア内（ライン上を含む）では、ノーバウンドでの返球（ボレー）が禁止されている。ピックルボール最大の特徴。"
+    },
+    {
+        "id": "term_dink",
+        "term_en": "Dink",
+        "term_ja": "ディンク",
+        "category": "ショット",
+        "description": "キッチンライン付近から、相手のキッチン内に優しく山なりに落とすコントロールショット。相手に攻撃させないための最も重要な戦術。"
+    },
+    {
+        "id": "term_third_shot_drop",
+        "term_en": "Third Shot Drop",
+        "term_ja": "サードショット・ドロップ",
+        "category": "戦術・ショット",
+        "description": "サーブ権を持つ側が打つ3球目のショットで、相手のキッチン内に落として前進する時間を作る高度な技術。"
+    },
+    {
+        "id": "term_reset",
+        "term_en": "Reset",
+        "term_ja": "リセット",
+        "category": "戦術",
+        "description": "相手からの強い攻撃（ドライブ等）を柔らかくブロックし、再びキッチン内にボールを落としてラリーのペースを落ち着かせること。"
+    },
+    {
+        "id": "term_erne",
+        "term_en": "Erne",
+        "term_ja": "アーネ",
+        "category": "ショット",
+        "description": "ノンボレーゾーンの外側を回り込み、コートの横から飛び出してネット際でボレーを打つ超攻撃的なショット。名前は発案者のErne Perryに由来する。"
+    },
+    {
+        "id": "term_atp",
+        "term_en": "ATP (Around The Post)",
+        "term_ja": "ATP（アラウンド・ザ・ポスト）",
+        "category": "ショット",
+        "description": "ネットポスト（支柱）の外側を通して相手コートにボールを入れるショット。ルール上ネットの上を通す必要がないため有効。角度のついた返球に対する反撃手段。"
+    },
+    {
+        "id": "term_volley",
+        "term_en": "Volley",
+        "term_ja": "ボレー",
+        "category": "ショット",
+        "description": "ボールがバウンドする前に空中で打ち返すショット。キッチン（NVZ）内では禁止されている。"
+    },
+    {
+        "id": "term_drive",
+        "term_en": "Drive",
+        "term_ja": "ドライブ",
+        "category": "ショット",
+        "description": "低く速い弾道で打つ攻撃的なストローク。相手の反応時間を奪い、ミスを誘う際に使用される。"
+    },
+    {
+        "id": "term_lob",
+        "term_en": "Lob",
+        "term_ja": "ロブ",
+        "category": "ショット",
+        "description": "高い弧を描いて相手の頭上を越すショット。ネット前に詰めた相手の体勢を崩す戦術。ディフェンスにも攻撃にも使用可能。"
+    },
+    {
+        "id": "term_drop_shot",
+        "term_en": "Drop Shot",
+        "term_ja": "ドロップショット",
+        "category": "ショット",
+        "description": "ボールを柔らかく打ち、相手のキッチン付近にふわりと落とすショット。ネットに近づくための時間を稼ぐ目的で多用される。"
+    },
+    {
+        "id": "term_serve",
+        "term_en": "Serve",
+        "term_ja": "サーブ",
+        "category": "ルール・ショット",
+        "description": "ラリーを開始する最初のショット。アンダーハンド（下から）で打つ必要があり、ウエストより下の高さで打球しなければならない。対角線のサービスコートに入れる。"
+    },
+    {
+        "id": "term_return_of_serve",
+        "term_en": "Return of Serve",
+        "term_ja": "リターン",
+        "category": "ショット",
+        "description": "サーブを受けた側が打つ2球目のショット。深く返してサーブ側の前進を遅らせるのが基本戦術。"
+    },
+    {
+        "id": "term_two_bounce_rule",
+        "term_en": "Two-Bounce Rule / Double Bounce Rule",
+        "term_ja": "ツーバウンスルール",
+        "category": "ルール",
+        "description": "サーブとリターンはそれぞれ必ず1バウンドしてから打たなければならないルール。3球目以降はボレーOK（キッチン外に限る）。旧称ダブルバウンスルール。"
+    },
+    {
+        "id": "term_side_out",
+        "term_en": "Side Out",
+        "term_ja": "サイドアウト",
+        "category": "ルール",
+        "description": "サーブ権が相手チームに移ること。ダブルスでは2人ともサーブを失敗した後にサイドアウトとなる（ゲーム最初のサーブ側は1人のみ）。"
+    },
+    {
+        "id": "term_rally_scoring",
+        "term_en": "Rally Scoring",
+        "term_ja": "ラリースコアリング",
+        "category": "ルール",
+        "description": "サーブ権に関係なく、ラリーに勝った側に得点が入るスコアリング方式。MLPなどのプロリーグで採用され、試合のテンポアップを目的とする。"
+    },
+    {
+        "id": "term_traditional_scoring",
+        "term_en": "Traditional Scoring / Side-Out Scoring",
+        "term_ja": "サイドアウトスコアリング（従来方式）",
+        "category": "ルール",
+        "description": "サーブ権を持つ側のみが得点できる伝統的なスコアリング方式。通常11点先取（2点差必要）で行われる。"
+    },
+    {
+        "id": "term_stacking",
+        "term_en": "Stacking",
+        "term_ja": "スタッキング",
+        "category": "戦術",
+        "description": "ダブルスで、強いフォアハンドを中央に配置するためにサーブやリターン時にポジションを入れ替える高度な陣形戦術。"
+    },
+    {
+        "id": "term_poach",
+        "term_en": "Poach",
+        "term_ja": "ポーチ",
+        "category": "戦術",
+        "description": "ダブルスで、パートナー側に来たボールを横から飛び出して打ちに行く積極的な攻撃。相手の意表を突く効果がある。"
+    },
+    {
+        "id": "term_speed_up",
+        "term_en": "Speed-up",
+        "term_ja": "スピードアップ",
+        "category": "戦術・ショット",
+        "description": "ディンクラリーなどの低速な展開から突然速い攻撃ショットを仕掛けること。タイミングと狙い所が重要。"
+    },
+    {
+        "id": "term_firefight",
+        "term_en": "Firefight / Hands Battle",
+        "term_ja": "ファイヤーファイト / ハンドバトル",
+        "category": "戦術",
+        "description": "ネット近くで超高速の打ち合いが連続する場面。反射神経と手首のコントロールが試される白熱の展開。"
+    },
+    {
+        "id": "term_punch_volley",
+        "term_en": "Punch Volley",
+        "term_ja": "パンチボレー",
+        "category": "ショット",
+        "description": "相手の攻撃に対し、短いスイングで力強く押し返すボレー。守備から攻撃に即座に転じる際に有効。"
+    },
+    {
+        "id": "term_roll_volley",
+        "term_en": "Roll Volley",
+        "term_ja": "ロールボレー",
+        "category": "ショット",
+        "description": "トップスピンをかけながら打つボレー。相手の足元に沈むため攻撃的なフィニッシュショットとして使われる。"
+    },
+    {
+        "id": "term_backhand_flick",
+        "term_en": "Backhand Flick",
+        "term_ja": "バックハンドフリック",
+        "category": "ショット",
+        "description": "バックハンド側に来たボールを手首のスナップで素早く弾くショット。ハンドバトル時やスピードアップに多用される。"
+    },
+    {
+        "id": "term_bert",
+        "term_en": "Bert",
+        "term_ja": "バート",
+        "category": "ショット",
+        "description": "パートナーの後ろ側を回り込んでアーネ（Erne）を行う高度なダブルス専用ショット。究極のチームワークが必要。"
+    },
+    {
+        "id": "term_nasty_nelson",
+        "term_en": "Nasty Nelson",
+        "term_ja": "ナスティ・ネルソン",
+        "category": "戦術",
+        "description": "サーブを意図的にレシーバーではなくそのパートナー（非レシーバー）に当てる戦術。当たった場合はサーバー側の得点となる。"
+    },
+    {
+        "id": "term_dupr",
+        "term_en": "DUPR (Dynamic Universal Pickleball Rating)",
+        "term_ja": "DUPR（ダイナミック・ユニバーサル・ピックルボール・レーティング）",
+        "category": "レーティング・大会",
+        "description": "世界標準のピックルボールレーティングシステム。2.0〜8.0のスケールで全プレイヤーのスキルレベルを数値化。試合結果に基づき自動算出される。"
+    },
+    {
+        "id": "term_utpr",
+        "term_en": "UTPR (USA Pickleball Tournament Player Rating)",
+        "term_ja": "UTPR",
+        "category": "レーティング・大会",
+        "description": "USA Pickleball（旧USAPA）が管理するトーナメントベースのレーティング。公式大会のみの成績で算出される4桁の数値。"
+    },
+    {
+        "id": "term_ppa",
+        "term_en": "PPA Tour (Professional Pickleball Association)",
+        "term_ja": "PPAツアー",
+        "category": "大会・リーグ",
+        "description": "世界最高峰のプロピックルボールツアー。年間を通じて全米各地で大会を開催し、トッププロが賞金を懸けて戦う。"
+    },
+    {
+        "id": "term_mlp",
+        "term_en": "MLP (Major League Pickleball)",
+        "term_ja": "MLP（メジャーリーグ・ピックルボール）",
+        "category": "大会・リーグ",
+        "description": "チーム対抗形式のプロリーグ。セレブリティがチームオーナーを務め、ラリースコアリングを採用。エンターテインメント性も高い。"
+    },
+    {
+        "id": "term_app",
+        "term_en": "APP Tour (Association of Pickleball Professionals)",
+        "term_ja": "APPツアー",
+        "category": "大会・リーグ",
+        "description": "PPAと並ぶプロツアー組織。PPAとの統合が進行中。アマチュア部門も充実しており参加しやすい。"
+    },
+    {
+        "id": "term_usap",
+        "term_en": "USA Pickleball (USAP / USAPA)",
+        "term_ja": "USAピックルボール",
+        "category": "組織",
+        "description": "米国ピックルボール統括団体。公式ルールの策定、用具の認証、トーナメントの認定を行う最高権威。旧称USAPA。"
+    },
+    {
+        "id": "term_jpa",
+        "term_en": "JPA (Japan Pickleball Association)",
+        "term_ja": "JPA（日本ピックルボール協会）",
+        "category": "組織",
+        "description": "日本国内のピックルボール統括団体。国内大会の主催、選手の育成、普及活動を行っている。"
+    },
+    {
+        "id": "term_paddle",
+        "term_en": "Paddle",
+        "term_ja": "パドル",
+        "category": "ギア",
+        "description": "ピックルボール用のラケット。テニスラケットより小さくストリングがない。カーボンファイバー、フィバーグラス、ポリマーハニカムコアなどが使用される。"
+    },
+    {
+        "id": "term_core",
+        "term_en": "Core (Paddle Core)",
+        "term_ja": "コア（パドルの芯材）",
+        "category": "ギア",
+        "description": "パドル内部のハニカム構造の素材。ポリマー（ポリプロピレン）が主流。コアの厚さ（13mm/14mm/16mm）がパワーとコントロールのバランスを決める。"
+    },
+    {
+        "id": "term_face",
+        "term_en": "Face (Paddle Face)",
+        "term_ja": "フェイス（パドル打面素材）",
+        "category": "ギア",
+        "description": "パドルの打球面の素材。カーボンファイバー（T700, Toray等）、ファイバーグラス、ケブラーなどがあり、スピン性能やタッチに影響する。"
+    },
+    {
+        "id": "term_sweet_spot",
+        "term_en": "Sweet Spot",
+        "term_ja": "スウィートスポット",
+        "category": "ギア",
+        "description": "パドルで最も効率よくボールを打てる中心部分。エロンゲーテッド（長尺）パドルはスウィートスポットが小さくなる傾向がある。"
+    },
+    {
+        "id": "term_thermoformed",
+        "term_en": "Thermoformed / Unibody",
+        "term_ja": "サーモフォーム / ユニボディ",
+        "category": "ギア",
+        "description": "パドル製造技術の一つ。フェイスとエッジを一体成型することでパワーと剛性を向上。2024年以降のトレンド技術。"
+    },
+    {
+        "id": "term_elongated",
+        "term_en": "Elongated Paddle",
+        "term_ja": "エロンゲーテッド（長尺パドル）",
+        "category": "ギア",
+        "description": "標準より縦に長いパドル形状（16.5インチ以上）。リーチが長くなりパワーも出やすいが、幅が狭くスウィートスポットが減る。"
+    },
+    {
+        "id": "term_lead_tape",
+        "term_en": "Lead Tape",
+        "term_ja": "鉛テープ（リードテープ）",
+        "category": "ギア",
+        "description": "パドルのエッジに貼って重量やバランスをカスタマイズする粘着テープ。パワーアップやスウィートスポット拡大に使用される。"
+    },
+    {
+        "id": "term_overgrip",
+        "term_en": "Overgrip",
+        "term_ja": "オーバーグリップ",
+        "category": "ギア",
+        "description": "パドルのグリップの上に巻くテープ。汗を吸収し滑りを防ぐ。ドライタイプとウェットタイプがある。"
+    },
+    {
+        "id": "term_edge_guard",
+        "term_en": "Edge Guard",
+        "term_ja": "エッジガード",
+        "category": "ギア",
+        "description": "パドル周辺部を保護するフレーム。摩耗を防ぐが、エッジレスデザイン（エッジガードなし）はスウィートスポットの拡大に寄与する。"
+    },
+    {
+        "id": "term_spin",
+        "term_en": "Spin",
+        "term_ja": "スピン（回転）",
+        "category": "テクニック",
+        "description": "ボールに回転をかけること。トップスピン（順回転）、バックスピン（逆回転/スライス）、サイドスピンがある。パドル面のテクスチャが影響する。"
+    },
+    {
+        "id": "term_topspin",
+        "term_en": "Topspin",
+        "term_ja": "トップスピン（順回転）",
+        "category": "テクニック",
+        "description": "ボールの上側を擦り上げてかける順回転。弧を描いて落下し、バウンド後に跳ね上がる。攻撃的なショットに有効。"
+    },
+    {
+        "id": "term_backspin",
+        "term_en": "Backspin / Slice",
+        "term_ja": "バックスピン（逆回転）/ スライス",
+        "category": "テクニック",
+        "description": "ボールの下側を切るようにかける逆回転。バウンドが低く、相手のタイミングを外す。ドロップショットやディンクに有効。"
+    },
+    {
+        "id": "term_body_shot",
+        "term_en": "Body Shot",
+        "term_ja": "ボディショット",
+        "category": "戦術",
+        "description": "意図的に相手の体に向けて打つショット。相手のパドル操作を困難にし、ミスを誘う戦術。特にバックハンド側の腰付近を狙う。"
+    },
+    {
+        "id": "term_transition_zone",
+        "term_en": "Transition Zone / No Man's Land",
+        "term_ja": "トランジションゾーン / ノーマンズランド",
+        "category": "コート",
+        "description": "ベースラインとキッチンラインの間のエリア。この位置に留まるのは不利なため、素早くキッチンラインまで前進することが求められる。"
+    },
+    {
+        "id": "term_baseline",
+        "term_en": "Baseline",
+        "term_ja": "ベースライン",
+        "category": "コート",
+        "description": "コートの最も後方のライン。サーブはこのラインの後ろから打つ。"
+    },
+    {
+        "id": "term_centerline",
+        "term_en": "Centerline",
+        "term_ja": "センターライン",
+        "category": "コート",
+        "description": "コートの中央を縦に分ける線。サービスコートの左右を区分する。"
+    },
+    {
+        "id": "term_dead_ball",
+        "term_en": "Dead Ball",
+        "term_ja": "デッドボール",
+        "category": "ルール",
+        "description": "フォルト（違反）が発生しラリーが停止した状態のボール。プレイが中断される。"
+    },
+    {
+        "id": "term_fault",
+        "term_en": "Fault",
+        "term_ja": "フォルト",
+        "category": "ルール",
+        "description": "ルール違反のこと。サーブミス、キッチン内ボレー、ボールのアウト、ネットタッチなどが該当する。"
+    },
+    {
+        "id": "term_let",
+        "term_en": "Let (abolished)",
+        "term_ja": "レット（廃止）",
+        "category": "ルール",
+        "description": "以前はサーブがネットに触れてサービスコートに入った場合やり直しだったが、2021年のルール改正でレットは廃止。ネットに触れても有効となった。"
+    },
+    {
+        "id": "term_foot_fault",
+        "term_en": "Foot Fault",
+        "term_ja": "フットフォルト",
+        "category": "ルール",
+        "description": "サーブ時にベースラインを踏むか超える、またはボレー時にキッチンラインを踏むか入ることで発生するフォルト。"
+    },
+    {
+        "id": "term_skinny_singles",
+        "term_en": "Skinny Singles",
+        "term_ja": "スキニーシングルス",
+        "category": "ゲーム形式",
+        "description": "コートの半面だけを使って行うシングルスの練習形式。実戦に近い状況でショットの正確性とフットワークを鍛えるのに最適。"
+    },
+    {
+        "id": "term_rally",
+        "term_en": "Rally",
+        "term_ja": "ラリー",
+        "category": "ゲーム",
+        "description": "サーブから始まりフォルトで終わるまでの連続した打ち合い。ラリーが長く続くのがピックルボールの醍醐味。"
+    },
+    {
+        "id": "term_match_point",
+        "term_en": "Match Point",
+        "term_ja": "マッチポイント",
+        "category": "ゲーム",
+        "description": "あと1点で試合に勝てる状態のこと。通常11点先取で10点以上（2点差が必要）の場面。"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "gear_apparel_001",
+        "brand_name": "FILA",
+        "product_name": "Heritage Pickleball Polo",
+        "category": "アパレル",
+        "target_gender": "men",
+        "description": "吸水速乾性に優れたポリエステル素材を使用。クラシックなデザインで、プロ大会でも多くのプレイヤーに愛用されているポロシャツ。"
+    },
+    {
+        "id": "gear_apparel_002",
+        "brand_name": "Skechers",
+        "product_name": "Viper Court Skort",
+        "category": "アパレル",
+        "target_gender": "women",
+        "description": "ピックルボールの激しい動きに対応するインナースパッツ付きのスコート。ボールポケット付きで実用性抜群。"
+    },
+    {
+        "id": "gear_bag_001",
+        "brand_name": "JOOLA",
+        "product_name": "Tour Elite Pickleball Bag",
+        "category": "バッグ",
+        "target_gender": "unisex",
+        "description": "パドルが最低4本、シューズ（専用コンパートメント）、着替え、水筒など、トーナメントに必要なすべてを収納できる大容量プロ仕様バッグ。熱からパドルを守る断熱ポケット(サーマルガード)を搭載。"
+    }
+]

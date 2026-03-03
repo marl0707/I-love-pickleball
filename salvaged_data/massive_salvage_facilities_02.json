@@ -1,0 +1,209 @@
+[
+    {
+        "id": "fac_tokyo_1",
+        "name": "東京体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "東京都渋谷区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tokyo_2",
+        "name": "駒沢オリンピック公園総合運動場",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "東京都世田谷区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tokyo_3",
+        "name": "武蔵野の森総合スポーツプラザ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "東京都調布市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tokyo_4",
+        "name": "有明アリーナ(サブ)",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "東京都江東区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tokyo_5",
+        "name": "代々木公園 野外コート",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "東京都渋谷区",
+        "has_parking": 0,
+        "is_indoor": 0
+    },
+    {
+        "id": "fac_osaka_1",
+        "name": "おおきにアリーナ舞洲",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "大阪府大阪市此花区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_osaka_2",
+        "name": "丸善インテックアリーナ大阪",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "大阪府大阪市港区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_osaka_3",
+        "name": "エディオンアリーナ大阪",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "大阪府大阪市浪速区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_osaka_4",
+        "name": "RACTABドーム",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "大阪府門真市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_osaka_5",
+        "name": "長居陸上競技場内スポーツセンター",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "大阪府大阪市東住吉区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_akita_1",
+        "name": "CNAアリーナ★あきた",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "秋田県秋田市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_yamagata_1",
+        "name": "山形県総合運動公園",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "山形県天童市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_ibaraki_1",
+        "name": "アダストリアみとアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "茨城県水戸市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tochigi_1",
+        "name": "ブレックスアリーナ宇都宮",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "栃木県宇都宮市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_gunma_1",
+        "name": "オープンハウスアリーナ太田",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "群馬県太田市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_toyama_1",
+        "name": "富山市総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "富山県富山市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_fukui_1",
+        "name": "福井県営体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "福井県福井市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_yamanashi_1",
+        "name": "小瀬スポーツ公園体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "山梨県甲府市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_gifu_1",
+        "name": "岐阜メモリアルセンター",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "岐阜県岐阜市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_shiga_1",
+        "name": "ウカルちゃんアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "滋賀県大津市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tottori_1",
+        "name": "鳥取県立生涯学習センター",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "鳥取県鳥取市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_shimane_1",
+        "name": "松江市総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "島根県松江市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tottori_2",
+        "name": "米子産業体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "鳥取県米子市",
+        "has_parking": 1,
+        "is_indoor": 1
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "player_miyu_hazawa",
+        "name_ja": "羽澤 未宥",
+        "name_en": "Miyu Hazawa",
+        "nationality": "Japan",
+        "play_style": "驚異的なスピードとフットワーク、精密なドロップショット",
+        "league_affiliation": "JPA",
+        "achievements": [
+            "2024年 JPA ピックルボール日本一決定戦 女子シングルス 優勝",
+            "元大学テニスプレイヤー（インカレ出場）"
+        ],
+        "sponsor": "JOOLA",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=%E7%BE%BD%E6%BE%A4%E6%9C%AA%E5%AE%A5+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+        "dupr_rating": "5.0+"
+    },
+    {
+        "id": "player_naoya_nishimura",
+        "name_ja": "西村 尚也",
+        "name_en": "Naoya Nishimura",
+        "nationality": "Japan",
+        "play_style": "圧倒的なパワーとサードショットドライブ、積極的なネットプレー",
+        "league_affiliation": "JPA / APP参戦経験あり",
+        "achievements": [
+            "国内メジャー大会 男子ダブルス・シングルス 優勝多数",
+            "日本を代表するトッププロとしてメディア出演多数"
+        ],
+        "sponsor": "Franklin",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=%E8%A5%BF%E6%9D%91%E5%B0%9A%E4%B9%9F+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+        "dupr_rating": "5.5+"
+    }
+]

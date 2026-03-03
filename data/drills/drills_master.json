@@ -1,0 +1,66 @@
+[
+    {
+        "id": "drill_third_shot_drop_101",
+        "title": "初心者向け：サードショット・ドロップの基本と成功率をあげるコツ",
+        "target_level": "初心者向け",
+        "skill_focus": "サードショットドロップ",
+        "youtube_url": "https://www.youtube.com/watch?v=F1ontvvINWQ",
+        "description": "ピックルボールで最も重要な「サードショット・ドロップ」を安定させるための初心者向け練習メニュー。カゴ出しからの打ち込みと、ノーバウンドでのキャッチ練習を解説しています。"
+    },
+    {
+        "id": "drill_dink_patience",
+        "title": "ディンクラリーで我慢する！忍耐力を鍛える壁打ち＆クロスドリル",
+        "target_level": "中級者向け",
+        "skill_focus": "ディンク",
+        "youtube_url": "https://www.youtube.com/watch?v=W14EVVU3Es7E",
+        "description": "キッチン（ノンボレーゾーン）での攻防で、甘い球を上げずにしぶとくクロスに返し続けるためのドリル。焦って強打してしまうミスを減らすことに特化しています。"
+    },
+    {
+        "id": "drill_fast_hands_battle",
+        "title": "前衛でのファイヤーファイト（高速ボレー戦）を制する特訓",
+        "target_level": "上級者向け",
+        "skill_focus": "ボレー戦",
+        "youtube_url": "https://www.youtube.com/watch?v=kEf3HmYWOyg",
+        "description": "プロレベルの試合で頻出する、至近距離でのボレーの打ち合い（ハンドバトル）に勝つための反射神経・ブロック練習。ラケットを胸の前に構えた状態からのコンパクトなスウィングを身につけます。"
+    },
+    {
+        "id": "drill_transition_zone",
+        "title": "トランジションゾーン（ノーマンズランド）の歩き方とリセット",
+        "target_level": "中級者向け",
+        "skill_focus": "トランジション",
+        "youtube_url": "https://www.youtube.com/watch?v=Y3Qz95GrQqiH",
+        "description": "ベースラインからキッチンへ前進する途中の「デッドゾーン」にボールを落とされた時の対処法。ブロックアウトしてリセット（緩い球で返球）し、安全に前衛につくためのステップワーク解説。"
+    },
+    {
+        "id": "drill_beginner_01",
+        "title": "初心者のためのディンク練習（Dink Drill）",
+        "target_level": "初心者向け",
+        "skill_focus": "ディンク（キッチンでのコントロール）",
+        "description": "ノンボレーゾーン（キッチン）での基本的な打ち合い。パドルの面を下から上へ向け、ボールを優しく持ち上げる感覚を養うドリル。手首を使わず、肩を支点にスイングすることが重要。",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+dink+drill+beginner"
+    },
+    {
+        "id": "drill_beginner_02",
+        "title": "正しいサーブとリターンの基本",
+        "target_level": "初心者向け",
+        "skill_focus": "サーブ＆リターン",
+        "description": "ツーバウンスルールを確実に守るため、深くコントロールされたサーブと、ベースライン深くへ返すリターンを反復練習する。",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+serve+and+return+drill"
+    },
+    {
+        "id": "drill_intermediate_01",
+        "title": "サードショットドロップ（Third Shot Drop）マスター",
+        "target_level": "中級者向け",
+        "skill_focus": "サードショットドロップ",
+        "description": "中級者への最大の壁であるサードショットドロップの練習。ベースラインから、相手のキッチン内にボールを落とし、前進する時間を作るコントロールを身につける。",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+third+shot+drop+drill"
+    },
+    {
+        "id": "drill_intermediate_02",
+        "title": "トランジションゾーン（ノーマンズランド）の攻略",
+        "target_level": "中級者向け",
+        "skill_focus": "トランジション、リセット",
+        "description": "ベースラインからキッチンへ向かう途中の「トランジションゾーン（ノーマンズランド）」でボールを足元に打たれた際、柔らかくブロックして相手のキッチンに落とす（リセットする）ドリル。",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+transition+zone+reset+drill"
+    }
+]

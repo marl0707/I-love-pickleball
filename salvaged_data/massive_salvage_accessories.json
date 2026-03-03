@@ -1,0 +1,179 @@
+[
+    {
+        "id": "acc_01",
+        "brand_name": "Tourna",
+        "product_name": "タックグリップ (ドライ)",
+        "price": 800,
+        "category": "グリップテープ",
+        "specific_features": "ドライ, 超吸汗, USA No.1",
+        "color_variations": "ブルー, ホワイト, イエロー"
+    },
+    {
+        "id": "acc_02",
+        "brand_name": "Tourna",
+        "product_name": "メガタックグリップ (ウェット)",
+        "price": 900,
+        "category": "グリップテープ",
+        "specific_features": "ウェット, パッド付き粘着, 滑り止め",
+        "color_variations": "ホワイト, ブラック"
+    },
+    {
+        "id": "acc_03",
+        "brand_name": "Wilson",
+        "product_name": "プロオーバーグリップ 3本入り",
+        "price": 600,
+        "category": "グリップテープ",
+        "specific_features": "ドライ, 薄フィルムタイプ, ハイコスパ",
+        "color_variations": "ホワイト"
+    },
+    {
+        "id": "acc_04",
+        "brand_name": "Selkirk",
+        "product_name": "プレミアムタックオーバーグリップ",
+        "price": 1200,
+        "category": "グリップテープ",
+        "specific_features": "ウェット, ロングラスト, PB特化設計",
+        "color_variations": "ブラック, ホワイト, ブルー"
+    },
+    {
+        "id": "acc_05",
+        "brand_name": "Yonex",
+        "product_name": "ウェットスーパーグリップ",
+        "price": 750,
+        "category": "グリップテープ",
+        "specific_features": "ウェット, 日本製最高品質, 薄型",
+        "color_variations": "ホワイト, ブラック"
+    },
+    {
+        "id": "acc_06",
+        "brand_name": "JOOLA",
+        "product_name": "Ben Johns Premium Grip",
+        "price": 1400,
+        "category": "グリップテープ",
+        "specific_features": "ドライ, プロ仕様, 高耐久",
+        "color_variations": "ブラック"
+    },
+    {
+        "id": "acc_07",
+        "brand_name": "Gearbox",
+        "product_name": "リプレイスメントグリップ",
+        "price": 2000,
+        "category": "グリップテープ",
+        "specific_features": "レザー調, 極厚, 下巻き用",
+        "color_variations": "ブラック"
+    },
+    {
+        "id": "acc_08",
+        "brand_name": "HEAD",
+        "product_name": "Smartsorb ダンパー",
+        "price": 500,
+        "category": "振動吸収材",
+        "specific_features": "振動軽減, テニス肘予防"
+    },
+    {
+        "id": "acc_09",
+        "brand_name": "Selkirk",
+        "product_name": "エッジガードテープ",
+        "price": 800,
+        "category": "エッジガード",
+        "specific_features": "パドル保護, 耐擦傷, フレーム割れ防止"
+    },
+    {
+        "id": "acc_10",
+        "brand_name": "Lead Tape",
+        "product_name": "鉛テープ (1/4インチ)",
+        "price": 600,
+        "category": "リードテープ(鉛テープ)",
+        "specific_features": "カスタムウェイト調整, パワー増加"
+    },
+    {
+        "id": "acc_11",
+        "brand_name": "Oakley",
+        "product_name": "Flak 2.0 XL (調光レンズ)",
+        "price": 28000,
+        "category": "アイウェア(保護メガネ)",
+        "specific_features": "調光レンズ, 割れないプリズムレンズ, UVカット",
+        "color_variations": "マットブラック"
+    },
+    {
+        "id": "acc_12",
+        "brand_name": "Bollé",
+        "product_name": "Rush+ クリアレンズ",
+        "price": 4500,
+        "category": "アイウェア(保護メガネ)",
+        "specific_features": "クリアレンズ, 曇り止め, インドア向け, ANSI規格",
+        "color_variations": "クリア/レッドテンプル"
+    },
+    {
+        "id": "acc_13",
+        "brand_name": "3M",
+        "product_name": "セキュアフィット 400",
+        "price": 1500,
+        "category": "アイウェア(保護メガネ)",
+        "specific_features": "クリアレンズ, 超軽量, 最安エントリー",
+        "color_variations": "クリア"
+    },
+    {
+        "id": "acc_14",
+        "brand_name": "Nike",
+        "product_name": "ドライフィットヘッドバンド2.0",
+        "price": 2500,
+        "category": "リストバンド",
+        "specific_features": "吸汗速乾, ワイド, ズレにくい",
+        "color_variations": "ブラック, ホワイト, ネイビー"
+    },
+    {
+        "id": "acc_15",
+        "brand_name": "JOOLA",
+        "product_name": "パドルカバー",
+        "price": 3000,
+        "category": "パドルカバー",
+        "specific_features": "ネオプレン素材, 傷防止, 軽量",
+        "color_variations": "ブラック"
+    },
+    {
+        "id": "acc_16",
+        "brand_name": "HEAD",
+        "product_name": "サンバイザー Performance",
+        "price": 3500,
+        "category": "サンバイザー/キャップ",
+        "specific_features": "UVカット, 吸汗バンド",
+        "color_variations": "ホワイト, ブラック"
+    },
+    {
+        "id": "acc_17",
+        "brand_name": "adidas",
+        "product_name": "アディゼロ ランニングキャップ",
+        "price": 3000,
+        "category": "サンバイザー/キャップ",
+        "specific_features": "UVカット, 超軽量, 反射材",
+        "color_variations": "ホワイト, ブラック, グレー"
+    },
+    {
+        "id": "acc_18",
+        "brand_name": "Tourna",
+        "product_name": "スポーツタオル (冷感)",
+        "price": 1200,
+        "category": "タオル",
+        "specific_features": "接触冷感, 水を含ませて使用, コンパクト収納",
+        "color_variations": "ブルー, ピンク"
+    },
+    {
+        "id": "acc_19",
+        "brand_name": "FEETURES",
+        "product_name": "エリート ライトクッション (ノーショウ)",
+        "price": 2800,
+        "category": "ソックス",
+        "specific_features": "アーチサポート, 防臭, ピンポイントクッション",
+        "color_variations": "ホワイト, ブラック, グレー"
+    },
+    {
+        "id": "acc_20",
+        "brand_name": "Thorlo",
+        "product_name": "テニスソックス クウォーター丈",
+        "price": 2200,
+        "category": "ソックス",
+        "specific_features": "厚手クッション, 土踏まずサポート, ブリスター防止",
+        "color_variations": "ホワイト"
+    }
+]

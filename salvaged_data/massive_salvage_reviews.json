@@ -1,0 +1,202 @@
+[
+    {
+        "id": "rev_01",
+        "item_type": "paddle",
+        "item_id": "pdl_selkirk_vanguard_pro",
+        "expert_name": "ベン・ジョンズ(プロ)",
+        "score": 9.5,
+        "comment": "Raw Carbon Fiberの打感が最高。スイートスポットが広く、スピンも申し分ない。トッププロが求める全てがある。"
+    },
+    {
+        "id": "rev_02",
+        "item_type": "paddle",
+        "item_id": "pdl_joola_perseus_3",
+        "expert_name": "コリン・ジョンズ(プロ)",
+        "score": 9.2,
+        "comment": "プロパルジョンコアの反発力が次世代。コントロールとパワーの高次元な両立を実現。"
+    },
+    {
+        "id": "rev_03",
+        "item_type": "paddle",
+        "item_id": "pdl_crbn_1x_16",
+        "expert_name": "ゼイン・ナバラティル(プロ)",
+        "score": 9.0,
+        "comment": "16mmの安定感は抜群。ディンクの精度が激変する。スピン量もトップクラス。"
+    },
+    {
+        "id": "rev_04",
+        "item_type": "paddle",
+        "item_id": "pdl_sixzero_dbd_16",
+        "expert_name": "公認コーチ 佐藤",
+        "score": 8.8,
+        "comment": "エアロカーブ形状は独特だが、振り抜きと空気抵抗の低減効果は本物。初中級者の「次の一本」に最適。"
+    },
+    {
+        "id": "rev_05",
+        "item_type": "paddle",
+        "item_id": "pdl_vatic_pro_prism_flash",
+        "expert_name": "公認コーチ 佐藤",
+        "score": 9.0,
+        "comment": "この価格帯でこの性能は破壊的。1万5000円クラスの革命児。最もコスパの高いパドルとして自信を持っておすすめできる。"
+    },
+    {
+        "id": "rev_06",
+        "item_type": "paddle",
+        "item_id": "pdl_gearbox_pro_power",
+        "expert_name": "田中太郎(国内プロ)",
+        "score": 8.5,
+        "comment": "全面カーボンSST構造は唯一無二。ハニカムなしのトランポリン感がなく、ダイレクトな打球感を求める人に。"
+    },
+    {
+        "id": "rev_07",
+        "item_type": "paddle",
+        "item_id": "pdl_franklin_ben_johns",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 7.5,
+        "comment": "1万7000円でこの品質は入門者にとって最高の選択肢。ただし上級者には物足りない。"
+    },
+    {
+        "id": "rev_08",
+        "item_type": "paddle",
+        "item_id": "pdl_engage_pursuit_pro_ex",
+        "expert_name": "山田花子(国内プロ)",
+        "score": 8.7,
+        "comment": "摩擦加工のフェースは本当にスピンがかかる。特にバックハンドロールの精度が向上するのを実感。"
+    },
+    {
+        "id": "rev_09",
+        "item_type": "paddle",
+        "item_id": "pdl_prokennex_blackace",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 8.3,
+        "comment": "キネティックテクノロジーはテニス肘に悩む方への福音。振動が本当に少ない。打球感は好みが分かれる。"
+    },
+    {
+        "id": "rev_10",
+        "item_type": "paddle",
+        "item_id": "pdl_amazin_aces",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 5.0,
+        "comment": "体験用・レンタル用としては十分。ただし競技への参入を少しでも考えるなら、すぐに買い替えるべき。"
+    },
+    {
+        "id": "rev_11",
+        "item_type": "shoe",
+        "item_id": "shoe_05",
+        "expert_name": "公認コーチ 佐藤",
+        "score": 9.0,
+        "comment": "数少ないピックルボール「専用」シューズ。ガムソールの体育館での安定感は圧倒的。"
+    },
+    {
+        "id": "rev_12",
+        "item_type": "shoe",
+        "item_id": "shoe_07",
+        "expert_name": "田中太郎(国内プロ)",
+        "score": 8.8,
+        "comment": "Gelクッションの衝撃吸収力はシニアプレイヤーの膝にも優しい。コスパも文句なし。"
+    },
+    {
+        "id": "rev_13",
+        "item_type": "shoe",
+        "item_id": "shoe_14",
+        "expert_name": "ベン・ジョンズ(プロ)",
+        "score": 9.2,
+        "comment": "軽さとサポートの完璧な融合。Air Zoomのレスポンスは他の追随を許さない。"
+    },
+    {
+        "id": "rev_14",
+        "item_type": "shoe",
+        "item_id": "shoe_01",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 8.5,
+        "comment": "K-Swissはピックルボール界のシューズNo.1。横方向のサポートが抜群。デザインもクリーン。"
+    },
+    {
+        "id": "rev_15",
+        "item_type": "ball",
+        "item_id": "ball_01",
+        "expert_name": "公認コーチ 佐藤",
+        "score": 9.5,
+        "comment": "アウトドアの公式球といえばこれ。飛距離と耐久性のバランスが最も良い。大会では必ずこのボール。"
+    },
+    {
+        "id": "rev_16",
+        "item_type": "ball",
+        "item_id": "ball_04",
+        "expert_name": "ゼイン・ナバラティル(プロ)",
+        "score": 9.0,
+        "comment": "Dura Fast 40は打球感が最も硬く、飛びが鋭い。プロツアーの標準球。ただし割れやすいのが唯一の欠点。"
+    },
+    {
+        "id": "rev_17",
+        "item_type": "ball",
+        "item_id": "ball_13",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 7.0,
+        "comment": "騒音対策として非常に優れている。マンション住人への配慮が必要な練習場では必須アイテム。"
+    },
+    {
+        "id": "rev_18",
+        "item_type": "apparel",
+        "item_id": "ap_01",
+        "expert_name": "山田花子(国内プロ)",
+        "score": 9.0,
+        "comment": "Lululemonのプリーツスコートはデザイン・機能性ともにNo.1。ボールポケット付きで試合中も便利。"
+    },
+    {
+        "id": "rev_19",
+        "item_type": "apparel",
+        "item_id": "ap_20",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 8.5,
+        "comment": "ユニクロのドライEXは驚くべきコスパ。初心者にまず最初に勧めるウェア。汗びっしょりになっても快適。"
+    },
+    {
+        "id": "rev_20",
+        "item_type": "accessory",
+        "item_id": "acc_01",
+        "expert_name": "田中太郎(国内プロ)",
+        "score": 9.2,
+        "comment": "ドライ系グリップのキング。汗を吸収して常にサラサラ。一度使うと他に戻れない。"
+    },
+    {
+        "id": "rev_21",
+        "item_type": "accessory",
+        "item_id": "acc_11",
+        "expert_name": "公認コーチ 佐藤",
+        "score": 9.5,
+        "comment": "目のケガは取り返しがつかない。高いと感じるかもしれないが、Oakleyのプリズムレンズの視認性は別格。全プレイヤーに着用を推奨。"
+    },
+    {
+        "id": "rev_22",
+        "item_type": "accessory",
+        "item_id": "acc_10",
+        "expert_name": "ゼイン・ナバラティル(プロ)",
+        "score": 7.5,
+        "comment": "鉛テープは魔法のアイテム。パドルの打球感とパワーを自分好みにカスタマイズできる。位置で効果が全然違う。"
+    },
+    {
+        "id": "rev_23",
+        "item_type": "bag",
+        "item_id": "bag_01",
+        "expert_name": "アンナ・リー・ウォーターズ(プロ)",
+        "score": 9.0,
+        "comment": "JOOLAのツアーバッグは収容力が圧倒的。パドル4本、シューズ、着替え、全部入る。遠征の味方。"
+    },
+    {
+        "id": "rev_24",
+        "item_type": "bag",
+        "item_id": "bag_10",
+        "expert_name": "山田花子(国内プロ)",
+        "score": 8.0,
+        "comment": "Nettieのコートトートは可愛い！保冷ポケットでドリンクも冷たいまま。女性プレイヤーに特におすすめ。"
+    },
+    {
+        "id": "rev_25",
+        "item_type": "paddle",
+        "item_id": "pdl_owl_quiet",
+        "expert_name": "公認コーチ 鈴木",
+        "score": 7.8,
+        "comment": "静音パドルの需要は確実に高まっている。住宅地近くのコートでは救世主。打感は少しこもるが許容範囲。"
+    }
+]

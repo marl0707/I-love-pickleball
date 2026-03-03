@@ -1,0 +1,396 @@
+[
+  {
+    "id": "shoe_babolat_jet_mach_3",
+    "brand_name": "Babolat",
+    "product_name": "Jet Mach 3 All Court",
+    "price": 16500,
+    "size_range": "25.0cm - 29.0cm",
+    "color_variations": [
+      "ブラック/シルバー",
+      "ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+Jet+Mach+3",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+Jet+Mach+3/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+Jet+Mach+3"
+  },
+  {
+    "id": "shoe_skechers_viper_court",
+    "brand_name": "Skechers",
+    "product_name": "Viper Court Pro",
+    "price": 14000,
+    "size_range": "25.0cm - 30.0cm",
+    "color_variations": [
+      "ホワイト/ネイビー",
+      "ライムグリーン"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Skechers+Viper+Court",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers+Viper+Court/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court"
+  },
+  {
+    "id": "shoe_k_swiss_express_light",
+    "brand_name": "K-Swiss",
+    "product_name": "Express Light Pickleball",
+    "price": 12800,
+    "size_range": "22.5cm - 28.0cm",
+    "color_variations": [
+      "ホワイト/ピンク",
+      "グレー/ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss+Express+Light+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss+Express+Light+Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball"
+  },
+  {
+    "id": "shoe_asics_gel_resolution_9",
+    "brand_name": "Asics",
+    "product_name": "GEL-RESOLUTION 9",
+    "price": 17600,
+    "size_range": "22.5cm - 30.0cm",
+    "color_variations": [
+      "ネイビー/ホワイト",
+      "レッド",
+      "アイランドブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Asics+GEL-RESOLUTION+9",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics+GEL-RESOLUTION+9/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics+GEL-RESOLUTION+9"
+  },
+  {
+    "category": "Pickleball Shoes",
+    "description": "ピックルボール特有の前後左右への激しい動きに対応する設計の専用シューズデータです。",
+    "items": [
+      {
+        "id": "skechers-viper-court-pro",
+        "brand": "Skechers",
+        "model": "Viper Court Pro",
+        "key_technologies": [
+          "Goodyear®ラバーアウトソール",
+          "Arch Fit®インソール"
+        ],
+        "features": [
+          "抜群のグリップ力と耐久性",
+          "ピックルボール専用のトレッドパターン",
+          "長時間のプレイでも疲れにくいアーチサポート",
+          "多くのプロ選手（Tyson McGuffinなど）が愛用"
+        ],
+        "best_for": "頻繁にプレイする競技者、足の負担を軽減したいプレイヤー",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Skechers+Viper+Court+Pro+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers+Viper+Court+Pro+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court+Pro+Pickleball"
+      },
+      {
+        "id": "k-swiss-express-light-pickleball",
+        "brand": "K-Swiss",
+        "model": "Express Light Pickleball",
+        "key_technologies": [
+          "Aösta 7.0高密度ラバー",
+          "DragGuard"
+        ],
+        "features": [
+          "ピックルボール専用シューズのパイオニア的存在",
+          "軽量で俊敏な動きをサポート",
+          "つま先部分の耐久性を高めるDragGuardテクノロジー",
+          "通気性に優れたアッパーメッシュ"
+        ],
+        "best_for": "軽量性と動きやすさを重視するプレイヤー",
+        "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss+Express+Light+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss+Express+Light+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball"
+      },
+      {
+        "id": "babolat-sfx3",
+        "brand": "Babolat",
+        "model": "SFX3",
+        "key_technologies": [
+          "Michelin パフォーマンスアウトソール",
+          "Kompressor システム"
+        ],
+        "features": [
+          "元々はテニスシューズだが、ピックルボールプレイヤーにも非常に人気",
+          "幅広設計で快適なフィット感",
+          "ミシュラン製ラバーによる最高レベルの耐久性とグリップ力",
+          "かかと部分の優れた衝撃吸収性"
+        ],
+        "best_for": "幅広の足のプレイヤー、クッション性を重視するプレイヤー",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+SFX3+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+SFX3+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+SFX3+Pickleball"
+      }
+    ]
+  },
+  {
+    "id": "shoe_01",
+    "brand_name": "K-Swiss",
+    "product_name": "Express Light 3",
+    "price": 14000,
+    "size_range": "22.5cm - 30.0cm",
+    "color_variations": "ホワイト/ネイビー, ブラック",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_02",
+    "brand_name": "K-Swiss",
+    "product_name": "Speedex",
+    "price": 16000,
+    "size_range": "23.0cm - 29.5cm",
+    "color_variations": "ホワイト/ブルー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_03",
+    "brand_name": "FILA",
+    "product_name": "Volley Zone",
+    "price": 11000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "ホワイト/ネイビー/レッド",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_04",
+    "brand_name": "FILA",
+    "product_name": "Double Bounce 3",
+    "price": 12000,
+    "size_range": "23.0cm - 28.5cm",
+    "color_variations": "ホワイト, グレー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_05",
+    "brand_name": "Skechers",
+    "product_name": "Viper Court Pro",
+    "price": 15000,
+    "size_range": "22.0cm - 30.0cm",
+    "color_variations": "ブラック/ライム, グレー/ブルー",
+    "court_type": "インドア専用(ガムソール)"
+  },
+  {
+    "id": "shoe_06",
+    "brand_name": "Skechers",
+    "product_name": "Viper Court Luxe",
+    "price": 18000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "ホワイト/ゴールド",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_07",
+    "brand_name": "Asics",
+    "product_name": "Gel-Renma",
+    "price": 13000,
+    "size_range": "22.5cm - 30.0cm",
+    "color_variations": "ホワイト/ピーコート, ブラック/シルバー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_08",
+    "brand_name": "Asics",
+    "product_name": "Gel-Dedicate 9",
+    "price": 11000,
+    "size_range": "22.0cm - 29.5cm",
+    "color_variations": "ホワイト, ブラック",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_09",
+    "brand_name": "Asics",
+    "product_name": "Gel-Resolution 10",
+    "price": 22000,
+    "size_range": "23.0cm - 30.0cm",
+    "color_variations": "ホワイト/ブルー, ブラック/イエロー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_10",
+    "brand_name": "Babolat",
+    "product_name": "Pulsion Pickleball",
+    "price": 14000,
+    "size_range": "22.5cm - 28.5cm",
+    "color_variations": "ホワイト/レッド",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_11",
+    "brand_name": "Babolat",
+    "product_name": "Jet Tere AC",
+    "price": 19000,
+    "size_range": "23.0cm - 29.0cm",
+    "color_variations": "ホワイト, ブルー/イエロー",
+    "court_type": "アウトドア専用"
+  },
+  {
+    "id": "shoe_12",
+    "brand_name": "New Balance",
+    "product_name": "Fresh Foam X Lav v2",
+    "price": 20000,
+    "size_range": "22.0cm - 30.0cm",
+    "color_variations": "ホワイト, ネイビー, ブラック",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_13",
+    "brand_name": "New Balance",
+    "product_name": "FuelCell 996v5.5",
+    "price": 22000,
+    "size_range": "23.0cm - 30.5cm",
+    "color_variations": "ホワイト/ブルー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_14",
+    "brand_name": "Nike",
+    "product_name": "Court Air Zoom Vapor Pro 2",
+    "price": 21000,
+    "size_range": "22.0cm - 31.0cm",
+    "color_variations": "ブラック/ホワイト, レッド",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_15",
+    "brand_name": "Nike",
+    "product_name": "Court Lite 4",
+    "price": 12000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "ホワイト/ブラック",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_16",
+    "brand_name": "adidas",
+    "product_name": "SoleMatch Control 2",
+    "price": 19000,
+    "size_range": "22.5cm - 30.5cm",
+    "color_variations": "ホワイト, ブラック/ゴールド",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_17",
+    "brand_name": "adidas",
+    "product_name": "Barricade 16",
+    "price": 24000,
+    "size_range": "23.0cm - 30.0cm",
+    "color_variations": "クリスタルホワイト",
+    "court_type": "アウトドア専用"
+  },
+  {
+    "id": "shoe_18",
+    "brand_name": "HEAD",
+    "product_name": "Sprint Pro 3.5",
+    "price": 17000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "ダークレッド/ブルー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_19",
+    "brand_name": "Wilson",
+    "product_name": "Rush Pro 4.0",
+    "price": 18000,
+    "size_range": "22.5cm - 29.5cm",
+    "color_variations": "ブラック/ホワイト, グリーン",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_20",
+    "brand_name": "Yonex",
+    "product_name": "Power Cushion Fusionrev 5",
+    "price": 15000,
+    "size_range": "22.0cm - 28.5cm",
+    "color_variations": "ホワイト/オレンジ, ブルー",
+    "court_type": "インドア専用(ガムソール)"
+  },
+  {
+    "id": "shoe_21",
+    "brand_name": "Yonex",
+    "product_name": "Power Cushion Sonicage 3",
+    "price": 14000,
+    "size_range": "22.0cm - 28.5cm",
+    "color_variations": "ブラック/ライム",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_22",
+    "brand_name": "Lotto",
+    "product_name": "Mirage 600 II",
+    "price": 16000,
+    "size_range": "23.0cm - 29.0cm",
+    "color_variations": "ホワイト/オレンジ",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_23",
+    "brand_name": "Mizuno",
+    "product_name": "Wave Exceed Light 3 AC",
+    "price": 17000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "ネオンイエロー/ブラック",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_24",
+    "brand_name": "Mizuno",
+    "product_name": "Break Shot 5 AC",
+    "price": 11000,
+    "size_range": "22.0cm - 28.5cm",
+    "color_variations": "ホワイト/グリーン",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_25",
+    "brand_name": "Diadora",
+    "product_name": "Speed Blushield",
+    "price": 18000,
+    "size_range": "23.0cm - 29.0cm",
+    "color_variations": "ホワイト/ブルー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_26",
+    "brand_name": "Prince",
+    "product_name": "PR Court Ace",
+    "price": 12000,
+    "size_range": "22.5cm - 28.5cm",
+    "color_variations": "ホワイト/ピンク",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_27",
+    "brand_name": "FILA",
+    "product_name": "Axilus 3 Energized",
+    "price": 14000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "ホワイト/ネイビー",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_28",
+    "brand_name": "Skechers",
+    "product_name": "Viper Court Casual",
+    "price": 10000,
+    "size_range": "22.5cm - 29.0cm",
+    "color_variations": "イエロー, ピンク",
+    "court_type": "レジャー用"
+  },
+  {
+    "id": "shoe_29",
+    "brand_name": "adidas",
+    "product_name": "Stycon Pickleball",
+    "price": 15000,
+    "size_range": "23.0cm - 30.0cm",
+    "color_variations": "ブラック/ホワイト",
+    "court_type": "オールコート"
+  },
+  {
+    "id": "shoe_30",
+    "brand_name": "Under Armour",
+    "product_name": "HOVR Court Ace",
+    "price": 16000,
+    "size_range": "23.5cm - 30.0cm",
+    "color_variations": "ブラック/レッド",
+    "court_type": "オールコート"
+  }
+]

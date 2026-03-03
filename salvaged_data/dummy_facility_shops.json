@@ -1,0 +1,20 @@
+[
+    {
+        "id": "fshop_001",
+        "facility_id": "facility_viptop",
+        "has_paddle_sales": 1,
+        "has_apparel_sales": 1,
+        "has_paddle_rental": 1,
+        "paddle_rental_fee": 500,
+        "handled_brands": "JOOLA, Franklin, Skechers"
+    },
+    {
+        "id": "fshop_002",
+        "facility_id": "facility_tokyotower",
+        "has_paddle_sales": 0,
+        "has_apparel_sales": 0,
+        "has_paddle_rental": 1,
+        "paddle_rental_fee": 300,
+        "handled_brands": "JOOLA"
+    }
+]

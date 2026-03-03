@@ -1,0 +1,30 @@
+[
+    {
+        "id": "brand_joola",
+        "name": "JOOLA",
+        "country": "Germany / USA",
+        "description": "卓球ブランドとしての世界的な実績を背景にピックルボール界に参入。Ben Johnsを筆頭にトッププロと契約し、最強のパワーパドル「Perseus」シリーズ等で市場を席巻している。",
+        "website_url": "https://joolausa.com/"
+    },
+    {
+        "id": "brand_selkirk",
+        "name": "Selkirk Sport",
+        "country": "USA",
+        "description": "「We Are Pickleball」を掲げるピックルボール専業のトップブランド。品質に徹底的にこだわり、生涯保証（Lifetime Warranty）を提供している。VANGUARDやLUXXシリーズが有名。",
+        "website_url": "https://www.selkirk.com/"
+    },
+    {
+        "id": "brand_franklin",
+        "name": "Franklin Sports",
+        "country": "USA",
+        "description": "全米オープンの公式球「X-40」を製造する総合スポーツメーカー。パドルでもFS Tourシリーズなど高品質かつ手頃な価格帯のギアを多数展開している。",
+        "website_url": "https://franklinsports.com/"
+    },
+    {
+        "id": "brand_crbn",
+        "name": "CRBN",
+        "country": "USA",
+        "description": "カーボンファイバー表面を採用した「生カーボン」パドルの先駆者。強烈なスピン性能を求める競技者から絶大な支持を得ている。",
+        "website_url": "https://crbnpickleball.com/"
+    }
+]

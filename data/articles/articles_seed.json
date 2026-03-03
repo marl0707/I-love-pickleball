@@ -1,0 +1,59 @@
+[
+    {
+        "id": "article_pb_101",
+        "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "content_summary": "ピックルボールの基本的なルール（ツーバウンスルール、ノンボレーゾーン、独特なスコアの数え方）を図解入りで分かりやすく解説する入門記事。",
+        "status": "published",
+        "related_gear_ids": [],
+        "related_facility_ids": []
+    },
+    {
+        "id": "article_paddle_core_thickness",
+        "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
+        "category": "ギアレビュー",
+        "target_audience": "中級者",
+        "content_summary": "パドル選びで最も迷うポイントである「コア厚」。14mmの弾きとパワー、16mmのコントロールと衝撃吸収性の違いをプロのインプレッションを交えて解説。",
+        "status": "published",
+        "related_gear_ids": [
+            "paddle_joola_perseus",
+            "paddle_franklin_fs_tour"
+        ],
+        "related_facility_ids": []
+    },
+    {
+        "id": "article_strategy_third_shot_drop",
+        "title": "DUPR 3.5の壁を越える！「サードショット・ドロップ」成功率を劇的に上げる5つのコツ",
+        "category": "戦術・ドリル",
+        "target_audience": "中級者",
+        "content_summary": "試合をコントロールするために必須の「サードショットドロップ」。ネットの頂点を狙うのではなく、キッチンに落とすための軌道イメージやグリップの握りを解説。",
+        "status": "published",
+        "related_gear_ids": [],
+        "related_facility_ids": []
+    },
+    {
+        "id": "article_local_kanto_night",
+        "title": "【東京/関東版】仕事帰りに寄れる！ナイター設備・レンタル完備のピックルボールコート10選",
+        "category": "ローカル情報",
+        "target_audience": "全員",
+        "content_summary": "平日夜に手ぶらで通える東京都内・近郊のピックルボール施設を厳選して紹介。パドルレンタルやシャワーの有無、アクセス情報をまとめた保存版記事。",
+        "status": "published",
+        "related_gear_ids": [],
+        "related_facility_ids": [
+            "facility_tokyotower",
+            "facility_viptop",
+            "facility_pacific_pickle"
+        ]
+    },
+    {
+        "id": "article_news_ppa_mlp",
+        "title": "PPAとMLPって何が違うの？世界のピックルボールプロリーグ基礎知識と視聴方法",
+        "category": "ニュース・プロ動向",
+        "target_audience": "観戦・ファン",
+        "content_summary": "アメリカを中心に爆発的な人気を誇るプロリーグ「PPAツアー」と「メジャーリーグピックルボール(MLP)」のフォーマットの違い、注目選手、日本からの視聴方法を解説。",
+        "status": "published",
+        "related_gear_ids": [],
+        "related_facility_ids": []
+    }
+]

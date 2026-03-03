@@ -1,0 +1,556 @@
+[
+    {
+        "category": "全国チェーン施設",
+        "last_updated": "2026-03-03",
+        "data_source": "Web検索による収集",
+        "description": "ティップネス、ラウンドワンスタジアム等、全国にチェーン展開しておりピックルボールが可能な施設の一覧",
+        "chains": [
+            {
+                "chain_name": "ティップネス",
+                "type": "フィットネスクラブ",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "note": "会員向けピックルボールコート貸出。店舗により仕様が異なる。",
+                "branches": [
+                    {
+                        "name": "ティップネス中野",
+                        "prefecture": "東京都",
+                        "city": "中野区",
+                        "address": "東京都中野区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E4%B8%AD%E9%87%8E",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E9%87%8E%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス五反田",
+                        "prefecture": "東京都",
+                        "city": "品川区",
+                        "address": "東京都品川区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E4%BA%94%E5%8F%8D%E7%94%B0",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス吉祥寺",
+                        "prefecture": "東京都",
+                        "city": "武蔵野市",
+                        "address": "東京都武蔵野市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%90%89%E7%A5%A5%E5%AF%BA",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップ.クロスTOKYO渋谷",
+                        "prefecture": "東京都",
+                        "city": "渋谷区",
+                        "address": "東京都渋谷区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97.%E3%82%AF%E3%83%AD%E3%82%B9TOKYO%E6%B8%8B%E8%B0%B7",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス鶴見",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市鶴見区",
+                        "address": "神奈川県横浜市鶴見区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E9%B6%B4%E8%A6%8B",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%B6%B4%E8%A6%8B%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス横浜",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市西区",
+                        "address": "神奈川県横浜市西区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E6%A8%AA%E6%B5%9C",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス宮前平",
+                        "prefecture": "神奈川県",
+                        "city": "川崎市宮前区",
+                        "address": "神奈川県川崎市宮前区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%AE%AE%E5%89%8D%E5%B9%B3",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス鴨居",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市緑区",
+                        "address": "神奈川県横浜市緑区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E9%B4%A8%E5%B1%85",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス二俣川",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市旭区",
+                        "address": "神奈川県横浜市旭区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E4%BA%8C%E4%BF%A3%E5%B7%9D",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%97%AD%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス川崎",
+                        "prefecture": "神奈川県",
+                        "city": "川崎市川崎区",
+                        "address": "神奈川県川崎市川崎区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%B7%9D%E5%B4%8E",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス新百合ヶ丘",
+                        "prefecture": "神奈川県",
+                        "city": "川崎市麻生区",
+                        "address": "神奈川県川崎市麻生区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E6%96%B0%E7%99%BE%E5%90%88%E3%83%B6%E4%B8%98",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E9%BA%BB%E7%94%9F%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネスイオンモール川口",
+                        "prefecture": "埼玉県",
+                        "city": "川口市",
+                        "address": "埼玉県川口市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%B7%9D%E5%8F%A3",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス川口",
+                        "prefecture": "埼玉県",
+                        "city": "川口市",
+                        "address": "埼玉県川口市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%B7%9D%E5%8F%A3",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス武蔵藤沢",
+                        "prefecture": "埼玉県",
+                        "city": "入間市",
+                        "address": "埼玉県入間市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E6%AD%A6%E8%94%B5%E8%97%A4%E6%B2%A2",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%85%A5%E9%96%93%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス蘇我",
+                        "prefecture": "千葉県",
+                        "city": "千葉市中央区",
+                        "address": "千葉県千葉市中央区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E8%98%87%E6%88%91",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス南行徳",
+                        "prefecture": "千葉県",
+                        "city": "市川市",
+                        "address": "千葉県市川市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%8D%97%E8%A1%8C%E5%BE%B3",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス上飯田",
+                        "prefecture": "愛知県",
+                        "city": "名古屋市北区",
+                        "address": "愛知県名古屋市北区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E4%B8%8A%E9%A3%AF%E7%94%B0",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8C%97%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス江南",
+                        "prefecture": "愛知県",
+                        "city": "江南市",
+                        "address": "愛知県江南市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E6%B1%9F%E5%8D%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B1%9F%E5%8D%97%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス太田",
+                        "prefecture": "群馬県",
+                        "city": "太田市",
+                        "address": "群馬県太田市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%A4%AA%E7%94%B0",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%A4%AA%E7%94%B0%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス高槻",
+                        "prefecture": "大阪府",
+                        "city": "高槻市",
+                        "address": "大阪府高槻市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E9%AB%98%E6%A7%BB",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%AB%98%E6%A7%BB%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス天王寺",
+                        "prefecture": "大阪府",
+                        "city": "大阪市天王寺区",
+                        "address": "大阪府大阪市天王寺区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%A4%A9%E7%8E%8B%E5%AF%BA",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス石橋阪大前",
+                        "prefecture": "大阪府",
+                        "city": "池田市",
+                        "address": "大阪府池田市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E7%9F%B3%E6%A9%8B%E9%98%AA%E5%A4%A7%E5%89%8D",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A7%E9%98%AA%E5%BA%9C%E6%B1%A0%E7%94%B0%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス京橋",
+                        "prefecture": "大阪府",
+                        "city": "大阪市都島区",
+                        "address": "大阪府大阪市都島区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E4%BA%AC%E6%A9%8B",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA"
+                    },
+                    {
+                        "name": "ティップネス武庫之荘",
+                        "prefecture": "兵庫県",
+                        "city": "尼崎市",
+                        "address": "兵庫県尼崎市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E6%AD%A6%E5%BA%AB%E4%B9%8B%E8%8D%98",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%B0%BC%E5%B4%8E%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス宝塚",
+                        "prefecture": "兵庫県",
+                        "city": "宝塚市",
+                        "address": "兵庫県宝塚市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%AE%9D%E5%A1%9A",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%AE%9D%E5%A1%9A%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス浜松葵東",
+                        "prefecture": "静岡県",
+                        "city": "浜松市",
+                        "address": "静岡県浜松市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E6%B5%9C%E6%9D%BE%E8%91%B5%E6%9D%B1",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B5%9C%E6%9D%BE%E5%B8%82"
+                    },
+                    {
+                        "name": "ティップネス藤枝",
+                        "prefecture": "静岡県",
+                        "city": "藤枝市",
+                        "address": "静岡県藤枝市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E8%97%A4%E6%9E%9D",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%97%A4%E6%9E%9D%E5%B8%82"
+                    }
+                ]
+            },
+            {
+                "chain_name": "ラウンドワンスタジアム",
+                "type": "アミューズメント施設",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 0,
+                "note": "スポッチャ入場料のみでプレイ可能。ラケット・ボール貸出あり。",
+                "branches": [
+                    {
+                        "name": "ラウンドワンスタジアム川崎大師店",
+                        "prefecture": "神奈川県",
+                        "city": "川崎市川崎区",
+                        "address": "神奈川県川崎市川崎区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%BA%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA"
+                    },
+                    {
+                        "name": "ラウンドワンスタジアム福島店",
+                        "prefecture": "福島県",
+                        "city": "福島市",
+                        "address": "福島県福島市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E7%A6%8F%E5%B3%B6%E5%BA%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B3%B6%E5%B8%82"
+                    },
+                    {
+                        "name": "ラウンドワンスタジアムイーアス春日井店",
+                        "prefecture": "愛知県",
+                        "city": "春日井市",
+                        "address": "愛知県春日井市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%82%A4%E3%83%BC%E3%82%A2%E3%82%B9%E6%98%A5%E6%97%A5%E4%BA%95%E5%BA%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%98%A5%E6%97%A5%E4%BA%95%E5%B8%82"
+                    },
+                    {
+                        "name": "ラウンドワンスタジアム中川1号線店",
+                        "prefecture": "愛知県",
+                        "city": "名古屋市中川区",
+                        "address": "愛知県名古屋市中川区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E4%B8%AD%E5%B7%9D1%E5%8F%B7%E7%B7%9A%E5%BA%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%B7%9D%E5%8C%BA"
+                    },
+                    {
+                        "name": "ラウンドワンスタジアム新潟店",
+                        "prefecture": "新潟県",
+                        "city": "新潟市中央区",
+                        "address": "新潟県新潟市中央区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E6%96%B0%E6%BD%9F%E5%BA%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+                    },
+                    {
+                        "name": "ラウンドワンスタジアム熊本店",
+                        "prefecture": "熊本県",
+                        "city": "熊本市",
+                        "address": "熊本県熊本市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E7%86%8A%E6%9C%AC%E5%BA%97",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82"
+                    }
+                ]
+            },
+            {
+                "chain_name": "スポーツクラブNAS",
+                "type": "フィットネスクラブ",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 0,
+                "note": "NAS会員向け体験無料。パドル・ボール無料レンタル。",
+                "branches": [
+                    {
+                        "name": "スポーツクラブNAS札幌",
+                        "prefecture": "北海道",
+                        "city": "札幌市中央区",
+                        "address": "北海道札幌市中央区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96NAS%E6%9C%AD%E5%B9%8C",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+                    },
+                    {
+                        "name": "スポーツクラブNAS新潟",
+                        "prefecture": "新潟県",
+                        "city": "新潟市中央区",
+                        "address": "新潟県新潟市中央区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96NAS%E6%96%B0%E6%BD%9F",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+                    },
+                    {
+                        "name": "スポーツクラブNAS稲沢",
+                        "prefecture": "愛知県",
+                        "city": "稲沢市",
+                        "address": "愛知県稲沢市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96NAS%E7%A8%B2%E6%B2%A2",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%A8%B2%E6%B2%A2%E5%B8%82"
+                    },
+                    {
+                        "name": "スポーツクラブNASサンマルシェ",
+                        "prefecture": "愛知県",
+                        "city": null,
+                        "address": "愛知県",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96NAS%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C"
+                    },
+                    {
+                        "name": "スポーツクラブNAS大高",
+                        "prefecture": "愛知県",
+                        "city": "名古屋市緑区",
+                        "address": "愛知県名古屋市緑区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96NAS%E5%A4%A7%E9%AB%98",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%B7%91%E5%8C%BA"
+                    },
+                    {
+                        "name": "スポーツクラブNAS伏見桃山",
+                        "prefecture": "京都府",
+                        "city": "京都市伏見区",
+                        "address": "京都府京都市伏見区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96NAS%E4%BC%8F%E8%A6%8B%E6%A1%83%E5%B1%B1",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA"
+                    }
+                ]
+            },
+            {
+                "chain_name": "セントラルスポーツ ピックルボールクラブ",
+                "type": "フィットネスクラブ",
+                "operator_type": "民間",
+                "note": "会員以外も参加可能なクラブ。",
+                "branches": [
+                    {
+                        "name": "セントラルスポーツ 札幌",
+                        "prefecture": "北海道",
+                        "city": "札幌市中央区",
+                        "address": "北海道札幌市中央区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E6%9C%AD%E5%B9%8C",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+                    },
+                    {
+                        "name": "セントラルスポーツ 仙台南小泉",
+                        "prefecture": "宮城県",
+                        "city": "仙台市",
+                        "address": "宮城県仙台市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E4%BB%99%E5%8F%B0%E5%8D%97%E5%B0%8F%E6%B3%89",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82"
+                    },
+                    {
+                        "name": "セントラルフィットネスクラブ24 一社",
+                        "prefecture": "愛知県",
+                        "city": "名古屋市名東区",
+                        "address": "愛知県名古屋市名東区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%9624%20%E4%B8%80%E7%A4%BE",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%90%8D%E6%9D%B1%E5%8C%BA"
+                    },
+                    {
+                        "name": "セントラルスポーツ 宇都宮",
+                        "prefecture": "栃木県",
+                        "city": "宇都宮市",
+                        "address": "栃木県宇都宮市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E5%AE%87%E9%83%BD%E5%AE%AE",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82"
+                    }
+                ]
+            },
+            {
+                "chain_name": "ゴールドジム",
+                "type": "フィットネスクラブ",
+                "operator_type": "民間",
+                "note": "一部店舗でピックルボールコート設置またはスクール開講。",
+                "branches": [
+                    {
+                        "name": "ゴールドジム宇城熊本",
+                        "prefecture": "熊本県",
+                        "city": "宇城市",
+                        "address": "熊本県宇城市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%AE%87%E5%9F%8E%E7%86%8A%E6%9C%AC",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%86%8A%E6%9C%AC%E7%9C%8C%E5%AE%87%E5%9F%8E%E5%B8%82"
+                    },
+                    {
+                        "name": "ゴールドジム土浦茨城",
+                        "prefecture": "茨城県",
+                        "city": "土浦市",
+                        "address": "茨城県土浦市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%9C%9F%E6%B5%A6%E8%8C%A8%E5%9F%8E",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%9C%9F%E6%B5%A6%E5%B8%82"
+                    },
+                    {
+                        "name": "ゴールドジム幕張ベイパークアリーナ",
+                        "prefecture": "千葉県",
+                        "city": "千葉市美浜区",
+                        "address": "千葉県千葉市美浜区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%B9%95%E5%BC%B5%E3%83%99%E3%82%A4%E3%83%91%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA"
+                    },
+                    {
+                        "name": "ゴールドジム高崎群馬",
+                        "prefecture": "群馬県",
+                        "city": "高崎市",
+                        "address": "群馬県高崎市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E9%AB%98%E5%B4%8E%E7%BE%A4%E9%A6%AC",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82"
+                    },
+                    {
+                        "name": "ゴールドジム前橋インター",
+                        "prefecture": "群馬県",
+                        "city": "前橋市",
+                        "address": "群馬県前橋市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%89%8D%E6%A9%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82"
+                    },
+                    {
+                        "name": "ゴールドジム前橋リリカ",
+                        "prefecture": "群馬県",
+                        "city": "前橋市",
+                        "address": "群馬県前橋市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%89%8D%E6%A9%8B%E3%83%AA%E3%83%AA%E3%82%AB",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%89%8D%E6%A9%8B%E5%B8%82"
+                    }
+                ]
+            },
+            {
+                "chain_name": "テニスラウンジ",
+                "type": "テニススクール",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "note": "日本最大級のテニススクール。一部店舗（名西、ウェルネススクエア新栄など）でピックルボールコートのレンタルやスクールを実施。パドル・ボールレンタルあり。",
+                "branches": [
+                    {
+                        "name": "テニスラウンジ名西",
+                        "prefecture": "愛知県",
+                        "city": "名古屋市西区",
+                        "address": "愛知県名古屋市西区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%E5%90%8D%E8%A5%BF",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E8%A5%BF%E5%8C%BA"
+                    },
+                    {
+                        "name": "ウェルネススクエア新栄 (テニスラウンジ)",
+                        "prefecture": "愛知県",
+                        "city": "名古屋市中区",
+                        "address": "愛知県名古屋市中区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%8D%E3%82%B9%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E6%96%B0%E6%A0%84%20(%E3%83%86%E3%83%8B%E3%82%B9%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8)",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA"
+                    }
+                ]
+            },
+            {
+                "chain_name": "VIP・TOPインドアテニススクール",
+                "type": "テニススクール",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "note": "VIPインドアピックルボールクラブとして展開。冷房完備の快適なインドアコート。パドルレンタルあり。",
+                "branches": [
+                    {
+                        "name": "VIPインドアピックルボールクラブ (東陽町)",
+                        "prefecture": "東京都",
+                        "city": "江東区",
+                        "address": "東京都江東区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VIP%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96%20(%E6%9D%B1%E9%99%BD%E7%94%BA)",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA"
+                    },
+                    {
+                        "name": "TOPインドアステージ横浜コットンハーバー",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市神奈川区",
+                        "address": "神奈川県横浜市神奈川区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TOP%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E6%A8%AA%E6%B5%9C%E3%82%B3%E3%83%83%E3%83%88%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%8C%BA"
+                    }
+                ]
+            },
+            {
+                "chain_name": "テニススクール・ノア (Noah)",
+                "type": "テニススクール",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "note": "室内コートでピックルボールの初心者向けレッスンを提供。",
+                "branches": [
+                    {
+                        "name": "テニススクール・ノア 京都洛西校",
+                        "prefecture": "京都府",
+                        "city": "京都市",
+                        "address": "京都府京都市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%20%E4%BA%AC%E9%83%BD%E6%B4%9B%E8%A5%BF%E6%A0%A1",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82"
+                    },
+                    {
+                        "name": "テニススクール・ノア センター南校",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市都筑区",
+                        "address": "神奈川県横浜市都筑区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%20%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%97%E6%A0%A1",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA"
+                    }
+                ]
+            },
+            {
+                "chain_name": "ITCテニススクール",
+                "type": "テニススクール",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "note": "DIADEM PICKLEBALL KOBEなど、専門施設をオープン。",
+                "branches": [
+                    {
+                        "name": "ITC神戸インドアテニススクール (DIADEM PICKLEBALL KOBE)",
+                        "prefecture": "兵庫県",
+                        "city": "神戸市長田区",
+                        "address": "兵庫県神戸市長田区",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ITC%E7%A5%9E%E6%88%B8%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20(DIADEM%20PICKLEBALL%20KOBE)",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%95%B7%E7%94%B0%E5%8C%BA"
+                    }
+                ]
+            },
+            {
+                "chain_name": "レックインドアテニススクール (REC)",
+                "type": "テニススクール",
+                "operator_type": "民間",
+                "has_paddle_rental": 1,
+                "note": "RECピックルボールスクールを開講。",
+                "branches": [
+                    {
+                        "name": "レックインドアテニススクール西東京",
+                        "prefecture": "東京都",
+                        "city": "西東京市",
+                        "address": "東京都西東京市",
+                        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E8%A5%BF%E6%9D%B1%E4%BA%AC",
+                        "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82"
+                    }
+                ]
+            }
+        ]
+    }
+]

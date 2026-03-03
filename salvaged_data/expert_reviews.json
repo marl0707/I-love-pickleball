@@ -1,0 +1,18 @@
+[
+    {
+        "id": "review_001",
+        "item_type": "paddle",
+        "item_id": "paddle_joola_perseus",
+        "expert_name": "Ben Johns (JP Pro Tester)",
+        "score": 9.5,
+        "comment": "スイートスポットの広さと反発力は現行モデルで最強クラス。ただし14mmはかなり打感に硬さがあり、初心者が扱うにはパワーの制御が難しいため、中級者以上におすすめ。"
+    },
+    {
+        "id": "review_002",
+        "item_type": "shoe",
+        "item_id": "shoe_skechers_viper_court",
+        "expert_name": "Tyson McGuffin",
+        "score": 9.0,
+        "comment": "ピックルボール特有の横の動きに抜群の安定感がある。特にアウトソール部分のグリップ力が高く、ダッシュ＆ストップ時の安心感はピカイチ。幅広足の人にもフィットしやすい。"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "community_001",
+        "name": "東京ウィークエンド・ピックルボーラーズ",
+        "description": "東京都内（主に有明、東陽町など）で週末に集まってエンジョイプレーを楽しむ社会人サークルです。全くの初心者も歓迎！",
+        "target_area": "東京都",
+        "target_level": "初心者〜中級者 (DUPR 2.0 - 3.5)",
+        "beginner_friendly": true,
+        "play_style": "エンジョイ主体",
+        "activity_frequency": "週1〜2回（土日祝）"
+    },
+    {
+        "id": "community_002",
+        "name": "関西コンペティティブ PBクラブ",
+        "description": "JPA公式大会や草大会での上位入賞を目指す、競技志向の強いプレイヤー向けのクラブ。定期的なドリル練習と試合形式をメインに行います。",
+        "target_area": "大阪府・兵庫県",
+        "target_level": "中級者〜上級者 (DUPR 4.0+)",
+        "beginner_friendly": false,
+        "play_style": "競技志向",
+        "activity_frequency": "週2回（水曜夜、日曜午前）"
+    }
+]

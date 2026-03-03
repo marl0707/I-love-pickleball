@@ -1,0 +1,26 @@
+[
+    {
+        "id": "media_fmedia_001",
+        "target_type": "facility",
+        "target_id": "facility_viptop",
+        "media_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=dummy_viptop_intro",
+        "description": "VIPインドア東陽町 施設紹介＆コートの広さ解説動画"
+    },
+    {
+        "id": "media_fmedia_002",
+        "target_type": "facility",
+        "target_id": "facility_tokyotower",
+        "media_type": "instagram",
+        "url": "https://www.instagram.com/p/dummy_tokyotower",
+        "description": "東京タワーを見上げる絶景ナイトピックルボールの様子"
+    },
+    {
+        "id": "media_cmedia_001",
+        "target_type": "community",
+        "target_id": "community_001",
+        "media_type": "youtube",
+        "url": "https://www.youtube.com/watch?v=dummy_community_practice",
+        "description": "東京ウィークエンド・ピックルボーラーズ 週末の練習風景（ディンクドリル）"
+    }
+]

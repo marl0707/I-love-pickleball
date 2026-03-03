@@ -1,0 +1,117 @@
+﻿
+================================================================================
+【データソース】data/
+================================================================================
+  articles/articles_seed.json: 5件
+  articles/beginner_guide.json: 3件
+    → 欠損50%以上: related_amazon_search(67%), related_gear_ids(67%)
+  articles/gear_reviews.json: 3件
+    → 欠損50%以上: related_amazon_search(67%)
+  articles/glossary.json: 55件
+  articles/local_community.json: 1件
+  articles/news_pro.json: 1件
+  articles/strategy_drills.json: 3件
+  care/injury_prevention.json: 16件
+  coaches/certifications.json: 8件
+  coaches/top_coaches.json: 12件
+  community/activity_logs.json: 5件
+  community/announcements.json: 5件
+    → 欠損50%以上: published_at(60%), is_important(60%)
+  community/communities.json: 5件
+  community/community_media.json: 3件
+  community/threads.json: obj(3keys)件
+  drills/drills_master.json: 8件
+    → 欠損50%以上: youtube_url(50%), youtube_search_url(50%)
+  events/awards.json: 2件
+  events/mlp_teams.json: 16件
+  events/promotions_coupons.json: 2件
+  events/tournaments_and_events.json: 8件
+    → 欠損50%以上: facility_id(50%), event_type(50%), start_datetime(50%), end_datetime(50%), target_level_min(50%), target_level_max(50%), entry_fee(50%), entry_url(50%), category(50%), location(50%), description(50%), held_month(50%), status(50%)
+  facilities/chain_nationwide.json: 1件
+  facilities/chubu.json: obj(4keys)件
+  facilities/chugoku_shikoku.json: obj(4keys)件
+  facilities/facility_comments.json: 3件
+  facilities/facility_media.json: 2件
+  facilities/hokkaido.json: obj(4keys)件
+  facilities/kansai.json: obj(4keys)件
+  facilities/kanto.json: obj(4keys)件
+  facilities/kyushu.json: obj(4keys)件
+  facilities/price_guide.json: 1件
+  facilities/tohoku.json: obj(4keys)件
+  gears/accessories.json: 20件
+  gears/apparel.json: 3件
+  gears/apparel_and_bags.json: 6件
+  gears/bags.json: 2件
+  gears/balls.json: 6件
+    → 欠損50%以上: category(83%), description(83%), items(83%)
+  gears/niche_gears.json: 15件
+  gears/paddles.json: 5件
+  gears/shoes.json: 5件
+    → 欠損50%以上: category(80%), description(80%), items(80%)
+  players/domestic_players.json: 2件
+  players/senior_pros.json: 3件
+    → 欠損50%以上: official_website_url(67%), instagram_url(67%), npl_team_affiliation(67%)
+  players/top_pros.json: 24件
+    → 欠損50%以上: shoe_ids(83%), paddle_ids(79%)
+  reviews/expert_reviews.json: obj(3keys)件
+  tactics/advanced_shots.json: 3件
+  users/users_mock.json: 6件
+
+================================================================================
+【データソース】salvaged_data/
+================================================================================
+  activity_logs.json: 2件
+  announcements.json: 2件
+  apparel_and_bags.json: 3件
+  awards.json: 2件
+  drills_beginner_intermediate.json: 4件
+  dummy_award_votes.json: 2件
+  dummy_bookmarks.json: 3件
+  dummy_check_ins.json: 2件
+  dummy_communities.json: 2件
+  dummy_community_members.json: 3件
+  dummy_community_threads.json: 2件
+  dummy_error_reports.json: 2件
+  dummy_facility_comments.json: 2件
+  dummy_facility_courts.json: 2件
+  dummy_facility_shops.json: 2件
+  dummy_local_events.json: 2件
+  dummy_threads.json: 2件
+  dummy_users.json: 2件
+    → 欠損50%以上: dupr_score(50%)
+  expert_reviews.json: 2件
+  facility_community_media.json: 3件
+  glossary.json: 4件
+  massive_salvage_accessories.json: 20件
+  massive_salvage_apparel.json: 25件
+  massive_salvage_articles.json: 30件
+  massive_salvage_bags.json: 15件
+  massive_salvage_balls.json: 20件
+  massive_salvage_communities_01.json: 50件
+  massive_salvage_drills.json: 25件
+  massive_salvage_facilities_01.json: 40件
+  massive_salvage_facilities_02.json: 23件
+  massive_salvage_paddles_01.json: 50件
+  massive_salvage_paddles_02.json: 50件
+  massive_salvage_pro_players.json: 17件
+  massive_salvage_reviews.json: 25件
+  massive_salvage_shoes.json: 30件
+  massive_salvage_tournaments.json: 15件
+  massive_salvage_users_01.json: 50件
+  master_associations.json: 2件
+    → 欠損50%以上: is_hq_facility_id(50%)
+  master_brands.json: 4件
+  master_gears_accessories.json: 2件
+    → 欠損50%以上: yahoo_url(100%), rakuten_url(50%)
+  master_tags.json: 3件
+  promotions_coupons.json: 2件
+  tournaments_comprehensive.json: 4件
+
+================================================================================
+【データソース】recreated_by_antigravity/
+================================================================================
+  articles_editorial.json: 3件
+    → 欠損50%以上: related_player_ids(67%)
+  drills_advanced.json: 2件
+  pro_players_detailed.json: 2件
+  user_bookmarks.json: 4件

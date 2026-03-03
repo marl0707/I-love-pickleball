@@ -1,0 +1,32 @@
+[
+    {
+        "category": "ローカル・コート情報 (Local & Community)",
+        "description": "日本国内でピックルボールをプレイできる場所の探し方や、自分たちでコートを作る（ラインを引く）方法などをまとめた記事データです。",
+        "articles": [
+            {
+                "id": "art_local_find_courts",
+                "title": "日本全国のピックルボールコートの探し方：おすすめサイト＆アプリまとめ",
+                "target_audience": "全員",
+                "content_summary": "日本国内でもピックルボールコートは急増中（全国500箇所以上）です。「Pickleball Japan Hub」や「ピックルボールナビ」、「テニスベア」などの検索サイトを利用すれば、地域別や屋内・屋外、レンタル品の有無で詳細な検索が可能です。USA Pickleball公式の「Place 2 Play」アプリなら世界中のコートも探せます。",
+                "related_website_url": "https://pickleballjapanhub.jp/",
+                "key_takeaways": [
+                    "日本国内の検索は「Pickleball Japan Hub」や「テニスベア」が便利",
+                    "海外も含めた検索なら「Place 2 Play」アプリを活用",
+                    "テニスコートを転用している施設も多いため、事前にネットの高さを確認すると安心"
+                ]
+            },
+            {
+                "id": "art_local_diy_court_lines",
+                "title": "体育館やテニスコートをピックルボール用に！DIYでラインを引く方法",
+                "target_audience": "コミュニティ主催者・施設管理者",
+                "content_summary": "ピックルボールのコートサイズ（13.4m × 6.1m）はバドミントンダブルスとほぼ同じです。既存の体育館やテニスコートに、剥がしやすいフロアテープ（ラインテープ）やペイントマーカー、あるいはL字・T字型のシリコン製簡易マーカーを使って、自分たちで一時的なコートスタジアムを作る具体的な方法を解説します。",
+                "related_youtube_url": "https://www.youtube.com/results?search_query=how+to+draw+pickleball+lines",
+                "key_takeaways": [
+                    "バドミントンのコートサイズがベースになるので流用しやすい",
+                    "体育館なら剥がしやすいフロア用ラインテープの活用を",
+                    "置くだけですぐ構築できるシリコン製の「簡易コートマーカー」が手軽で便利"
+                ]
+            }
+        ]
+    }
+]

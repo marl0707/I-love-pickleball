@@ -1,0 +1,20 @@
+[
+    {
+        "id": "user_demo_001",
+        "nickname": "Pickle_Taro",
+        "generation": "30代",
+        "estimated_level": "中級者",
+        "dupr_score": 3.45,
+        "play_style": "ダブルス中心",
+        "is_profile_public": true
+    },
+    {
+        "id": "user_demo_002",
+        "nickname": "pb_queen_hanako",
+        "generation": "20代",
+        "estimated_level": "初心者",
+        "dupr_score": null,
+        "play_style": "両方",
+        "is_profile_public": true
+    }
+]

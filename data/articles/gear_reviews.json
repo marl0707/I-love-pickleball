@@ -1,0 +1,50 @@
+[
+    {
+        "id": "art_gear_core_thickness",
+        "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
+        "target_audience": "中級者",
+        "content_summary": "14mmパドルは操作性が高く「ポップ感（弾き）」がありパワーが出やすい分、コントロールが難しく上級者向けです。一方、16mmパドルは衝撃吸収に優れ、スイートスポットが広くソフトな打感のため、ディンクなどのコントロールを重視するプレイヤーや初心者から中級者に最適です。",
+        "related_youtube_url": "https://www.youtube.com/results?search_query=pickleball+paddle+14mm+vs+16mm",
+        "key_takeaways": [
+            "14mm：パワーとスピード重視、上級者向け",
+            "16mm：コントロールと安定性重視、初〜中級者向け",
+            "最初はコントロールしやすい16mmから始めるのがおすすめ"
+        ],
+        "related_gear_ids": [
+            "paddle_crbn_1x_14",
+            "paddle_joola_perseus_16"
+        ]
+    },
+    {
+        "id": "art_gear_carbon_fiber_t700",
+        "title": "「Raw Carbon Fiber (T700)」って何？最新パドル素材のトレンドと選び方",
+        "target_audience": "中級者〜上級者",
+        "content_summary": "T700はカーボンの等級の一つで、高い引張強度（耐久性）を誇ります。パドル表面に使用されることで、摩擦によるスピンの向上、スイートスポットの拡大、心地よい打感とパワーのバランスを実現します。競技志向のプレイヤーには必須のテクノロジーとなっています。",
+        "related_youtube_url": "https://www.youtube.com/results?search_query=Raw+Carbon+Fiber+T700+pickleball+paddle",
+        "key_takeaways": [
+            "T700は耐久性と強度に優れた高品質なカーボン素材",
+            "表面のザラザラしたテクスチャが強烈なスピンを生み出す",
+            "スイートスポットが広く、パワーとコントロールを両立する"
+        ],
+        "related_gear_ids": [
+            "paddle_crbn_1x_14",
+            "paddle_sixzero_dbd_16"
+        ]
+    },
+    {
+        "id": "art_gear_indoor_vs_outdoor_balls",
+        "title": "インドア用(26穴)・アウトドア用(40穴)ボールの違いを徹底検証",
+        "target_audience": "全員",
+        "content_summary": "ピックルボールのボールは環境に合わせて2種類あります。インドア用は26穴で柔らかく軽量なため、コントロールしやすくラリーが長続きします。アウトドア用は40穴で硬く重いため、風の影響を受けにくくスピーディーな展開になります。屋外でインドア球を使うと風で全く飛ばないので注意が必要です。",
+        "related_amazon_search": "https://www.amazon.co.jp/s?k=ピックルボール+アウトドア用+40穴",
+        "key_takeaways": [
+            "インドア用（26穴）：軽くて柔らかい、ラリー志向、風に弱い",
+            "アウトドア用（40穴）：重くて硬い、スピード志向、風に強い",
+            "プレイする施設に合わせて必ずボールを使い分けること"
+        ],
+        "related_gear_ids": [
+            "ball_franklin_x40",
+            "ball_vulcan_v520"
+        ]
+    }
+]

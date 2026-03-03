@@ -1,0 +1,30 @@
+[
+    {
+        "id": "term_kitchen",
+        "term_en": "Kitchen / Non-Volley Zone (NVZ)",
+        "term_ja": "キッチン / ノンボレーゾーン",
+        "category": "コート・ルール",
+        "description": "ネットの両側7フィート（約2.13m）のエリア。このエリア内（ライン上を含む）では、ノーバウンドでの返球（ボレー）が禁止されている。ピックルボール最大の特徴。"
+    },
+    {
+        "id": "term_dink",
+        "term_en": "Dink",
+        "term_ja": "ディンク",
+        "category": "ショット",
+        "description": "キッチンライン付近から、相手のキッチン内に優しく山なりに落とすコントロールショット。相手に攻撃させないための最も重要な戦術。"
+    },
+    {
+        "id": "term_third_shot_drop",
+        "term_en": "Third Shot Drop",
+        "term_ja": "サードショット・ドロップ",
+        "category": "戦術・ショット",
+        "description": "サーブ権を持つ側が打つ3球目のショットで、相手のキッチン内に落として前進する時間を作る高度な技術。"
+    },
+    {
+        "id": "term_reset",
+        "term_en": "Reset",
+        "term_ja": "リセット",
+        "category": "戦術",
+        "description": "相手からの強い攻撃（ドライブ等）を柔らかくブロックし、再びキッチン内にボールを落としてラリーのペースを落ち着かせること。"
+    }
+]

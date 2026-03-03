@@ -1,0 +1,172 @@
+[
+    {
+        "id": "pro_01",
+        "name_ja": "ベン・ジョンズ",
+        "name_en": "Ben Johns",
+        "nationality": "アメリカ",
+        "play_style": "究極のオールラウンダー",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 1,
+        "ranking_doubles": 1
+    },
+    {
+        "id": "pro_02",
+        "name_ja": "アンナ・リー・ウォーターズ",
+        "name_en": "Anna Leigh Waters",
+        "nationality": "アメリカ",
+        "play_style": "圧倒的攻撃力のパワーヒッター",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 1,
+        "ranking_doubles": 1
+    },
+    {
+        "id": "pro_03",
+        "name_ja": "タイソン・マクガフィン",
+        "name_en": "Tyson McGuffin",
+        "nationality": "アメリカ",
+        "play_style": "フォアハンドドライブの破壊力",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 3,
+        "ranking_doubles": 5
+    },
+    {
+        "id": "pro_04",
+        "name_ja": "コリン・ジョンズ",
+        "name_en": "Collin Johns",
+        "nationality": "アメリカ",
+        "play_style": "完璧なダブルスパートナー",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 8,
+        "ranking_doubles": 1
+    },
+    {
+        "id": "pro_05",
+        "name_ja": "フェデリコ・スタクスルード",
+        "name_en": "Federico Staksrud",
+        "nationality": "アルゼンチン",
+        "play_style": "両手バックハンドの天才",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 4,
+        "ranking_doubles": 7
+    },
+    {
+        "id": "pro_06",
+        "name_ja": "カトリーナ・パランチック",
+        "name_en": "Catherine Parenteau",
+        "nationality": "カナダ",
+        "play_style": "冷静なカウンターパンチャー",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 3,
+        "ranking_doubles": 2
+    },
+    {
+        "id": "pro_07",
+        "name_ja": "ゼイン・ナバラティル",
+        "name_en": "Zane Navratil",
+        "nationality": "アメリカ",
+        "play_style": "エンターテイナー兼シングルスの鬼",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 5,
+        "ranking_doubles": 10
+    },
+    {
+        "id": "pro_08",
+        "name_ja": "リー・ウィットウェル",
+        "name_en": "Leigh Waters",
+        "nationality": "アメリカ",
+        "play_style": "娘ALWとのダブルス黄金ペア",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 10,
+        "ranking_doubles": 3
+    },
+    {
+        "id": "pro_09",
+        "name_ja": "ジェシー・アーヴァイン",
+        "name_en": "Jesse Irvine",
+        "nationality": "アメリカ",
+        "play_style": "ディンクの女王",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 6,
+        "ranking_doubles": 4
+    },
+    {
+        "id": "pro_10",
+        "name_ja": "アンドレイ・ダエスク",
+        "name_en": "Andrei Daescu",
+        "nationality": "ルーマニア/アメリカ",
+        "play_style": "ヨーロッパ仕込みのテクニシャン",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 6,
+        "ranking_doubles": 9
+    },
+    {
+        "id": "pro_11",
+        "name_ja": "ディジョン・キーモン",
+        "name_en": "Dejon Keeham",
+        "nationality": "アメリカ",
+        "play_style": "超攻撃的なネットプレー",
+        "league_affiliation": "APP Tour",
+        "ranking_singles": 12,
+        "ranking_doubles": 8
+    },
+    {
+        "id": "pro_12",
+        "name_ja": "ジョージア・ジョンソン",
+        "name_en": "Georgia Johnson",
+        "nationality": "アメリカ",
+        "play_style": "若き次世代スター",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 5,
+        "ranking_doubles": 6
+    },
+    {
+        "id": "pro_13",
+        "name_ja": "ジェイ・デヴィリアーズ",
+        "name_en": "JW Johnson",
+        "nationality": "アメリカ",
+        "play_style": "スピン系ドライブとトリックショット",
+        "league_affiliation": "PPA Tour, MLP",
+        "ranking_singles": 2,
+        "ranking_doubles": 3
+    },
+    {
+        "id": "pro_14",
+        "name_ja": "マット・ライト",
+        "name_en": "Matt Wright",
+        "nationality": "アメリカ",
+        "play_style": "鉄壁のリセット",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 15,
+        "ranking_doubles": 5
+    },
+    {
+        "id": "pro_15",
+        "name_ja": "ルーシー・コハロバ",
+        "name_en": "Lucy Kovalova",
+        "nationality": "スロバキア/アメリカ",
+        "play_style": "ヨーロッパ出身のパワーテニスプレイヤーからの転向者",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 7,
+        "ranking_doubles": 6
+    },
+    {
+        "id": "pro_19",
+        "name_ja": "デイン・ギングリッチ",
+        "name_en": "Dayne Gingrich",
+        "nationality": "アメリカ",
+        "play_style": "シニアプロの絶対王者",
+        "league_affiliation": "PPA Tour (Senior)",
+        "ranking_singles": 1,
+        "ranking_doubles": 1
+    },
+    {
+        "id": "pro_20",
+        "name_ja": "スコット・ムーア",
+        "name_en": "Scott Moore",
+        "nationality": "アメリカ",
+        "play_style": "シニア界のオールラウンダー",
+        "league_affiliation": "PPA Tour (Senior)",
+        "ranking_singles": 2,
+        "ranking_doubles": 3
+    }
+]

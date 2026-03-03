@@ -1,0 +1,96 @@
+[
+    {
+        "id": "paddle_joola_perseus_16",
+        "brand_name": "JOOLA",
+        "product_name": "Ben Johns Perseus CFS 16mm",
+        "price": 38500,
+        "paddle_shape": "Elongated(長方形)",
+        "face_material": "Raw Carbon Fiber (CFS)",
+        "core_material": "Polymer Honeycomb",
+        "core_thickness": 16,
+        "target_demographic": "上級者",
+        "design_taste": "スポーティー",
+        "color_variations": [
+            "ブラック/グレー"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Ben+Johns+Perseus+16mm",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Ben+Johns+Perseus/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Ben+Johns+Perseus"
+    },
+    {
+        "id": "paddle_franklin_signature_14",
+        "brand_name": "Franklin",
+        "product_name": "Signature Pro 14mm",
+        "price": 18000,
+        "paddle_shape": "Standard(標準)",
+        "face_material": "Fiberglass",
+        "core_material": "Polymer Honeycomb",
+        "core_thickness": 14,
+        "target_demographic": "中級者",
+        "design_taste": "シンプル",
+        "color_variations": [
+            "ホワイト",
+            "グリーン",
+            "ピンク"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+Signature+Pro",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+Signature+Pro/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Signature+Pro"
+    },
+    {
+        "id": "paddle_selkirk_vanguard_16",
+        "brand_name": "Selkirk",
+        "product_name": "VANGUARD Invikta 16mm",
+        "price": 33000,
+        "paddle_shape": "Elongated(長方形)",
+        "face_material": "QuadCarbon Face",
+        "core_material": "X5 Core",
+        "core_thickness": 16,
+        "target_demographic": "初〜中級者",
+        "design_taste": "ラグジュアリー",
+        "color_variations": [
+            "レッド",
+            "ブルー"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk+VANGUARD+Invikta",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk+VANGUARD+Invikta/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk+VANGUARD+Invikta"
+    },
+    {
+        "id": "paddle_crbn_1x_14",
+        "brand_name": "CRBN",
+        "product_name": "CRBN 1X Power Series 14mm",
+        "price": 35000,
+        "paddle_shape": "Elongated(長方形)",
+        "face_material": "Raw Carbon Fiber (T700)",
+        "core_material": "Polymer Honeycomb",
+        "core_thickness": 14,
+        "target_demographic": "上級者",
+        "design_taste": "シンプル",
+        "color_variations": [
+            "ブラック"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=CRBN+1X+Power",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN+1X+Power/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN+1X+Power"
+    },
+    {
+        "id": "paddle_sixzero_dbd_16",
+        "brand_name": "Six Zero",
+        "product_name": "Double Black Diamond Control 16mm",
+        "price": 29000,
+        "paddle_shape": "Hybrid",
+        "face_material": "Raw Carbon Fiber",
+        "core_material": "Polymer Honeycomb",
+        "core_thickness": 16,
+        "target_demographic": "中〜上級者",
+        "design_taste": "スポーティー",
+        "color_variations": [
+            "ブラック",
+            "ピンクエッジ"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=Six+Zero+Double+Black+Diamond",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Six+Zero+Double+Black+Diamond/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Six+Zero+Double+Black+Diamond"
+    }
+]

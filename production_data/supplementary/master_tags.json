@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tag_level_beginner",
+    "name": "初心者向け",
+    "category": "target_level",
+    "color_code": "#4CAF50"
+  },
+  {
+    "id": "tag_skill_dink",
+    "name": "ディンク",
+    "category": "skill_focus",
+    "color_code": "#2196F3"
+  },
+  {
+    "id": "tag_gear_power",
+    "name": "パワー重視",
+    "category": "gear_attribute",
+    "color_code": "#F44336"
+  }
+]

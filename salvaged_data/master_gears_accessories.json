@@ -1,0 +1,26 @@
+[
+    {
+        "id": "acc_001",
+        "brand_name": "Tourna",
+        "product_name": "Mega Tac (ウェットタイプ・オーバーグリップ)",
+        "price": 1200,
+        "category": "グリップテープ",
+        "specific_features": "圧倒的な吸い付きとウェット感。手汗をかかないインドア向け。",
+        "color_variations": "ホワイト, ブルー, ブラック",
+        "amazon_url": "https://amazon.co.jp/dp/dummy_tourna",
+        "rakuten_url": "https://rakuten.co.jp/dummy_tourna",
+        "yahoo_url": ""
+    },
+    {
+        "id": "acc_002",
+        "brand_name": "CRBN",
+        "product_name": "Pickleball Lead Tape (鉛テープ)",
+        "price": 2500,
+        "category": "カスタマイズ用品",
+        "specific_features": "3g単位でカット済み。パドルのスイートスポット拡大とパワーアップ用。",
+        "color_variations": "ブラック",
+        "amazon_url": "https://amazon.co.jp/dp/dummy_crbn_tape",
+        "rakuten_url": "",
+        "yahoo_url": ""
+    }
+]

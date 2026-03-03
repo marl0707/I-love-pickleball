@@ -1,0 +1,20 @@
+[
+    {
+        "id": "assoc_jpa",
+        "name": "Japan Pickleball Association (JPA)",
+        "acronym": "JPA",
+        "country": "Japan",
+        "description": "日本国内のピックルボール普及と競技力向上を目的とする代表的な団体。全日本選手権の主催や、指導者・レフェリーの育成・公認を行っている。",
+        "website_url": "https://japanpickleball.org/",
+        "is_hq_facility_id": "facility_ariake_tennis_forest"
+    },
+    {
+        "id": "assoc_usap",
+        "name": "USA Pickleball",
+        "acronym": "USAP",
+        "country": "USA",
+        "description": "アメリカにおけるピックルボールの国内競技統括団体。ルール改定や用具認証の中心的な役割を担い、世界各国で基準として採用される『USAP認定』を発行している。",
+        "website_url": "https://usapickleball.org/",
+        "is_hq_facility_id": null
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "id": "com_001",
+        "name": "東京ウィークエンドPB",
+        "target_area": "東京都",
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_002",
+        "name": "関西コンペティティブ",
+        "target_area": "大阪府",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_003",
+        "name": "名古屋朝活ピックルボール",
+        "target_area": "愛知県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_004",
+        "name": "福岡スマッシュクラブ",
+        "target_area": "福岡県",
+        "target_level": "中級者",
+        "beginner_friendly": 0,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_005",
+        "name": "札幌インドア愛好会",
+        "target_area": "北海道",
+        "target_level": "初心者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_006",
+        "name": "横浜ディンクマニア",
+        "target_area": "神奈川県",
+        "target_level": "上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_007",
+        "name": "埼玉ファミリーPB",
+        "target_area": "埼玉県",
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_008",
+        "name": "千葉ベイエリアピックル",
+        "target_area": "千葉県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_009",
+        "name": "仙台杜の都クラブ",
+        "target_area": "宮城県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_010",
+        "name": "ひろしまピックル",
+        "target_area": "広島県",
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_011",
+        "name": "京都はんなりPB",
+        "target_area": "京都府",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_012",
+        "name": "神戸ポートクラブ",
+        "target_area": "兵庫県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_013",
+        "name": "新潟コメツブPB",
+        "target_area": "新潟県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_014",
+        "name": "静岡ちゃっきりクラブ",
+        "target_area": "静岡県",
+        "target_level": "初級者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_015",
+        "name": "沖縄トロピカルPB",
+        "target_area": "沖縄県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_016",
+        "name": "岡山ももたろうPB",
+        "target_area": "岡山県",
+        "target_level": "中級者",
+        "beginner_friendly": 0,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_017",
+        "name": "熊本火の国スマッシュ",
+        "target_area": "熊本県",
+        "target_level": "上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_018",
+        "name": "鹿児島サツマクラブ",
+        "target_area": "鹿児島県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_019",
+        "name": "群馬上州PB",
+        "target_area": "群馬県",
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_020",
+        "name": "長野アルプスPB",
+        "target_area": "長野県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_021",
+        "name": "石川百万石クラブ",
+        "target_area": "石川県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_022",
+        "name": "富山キトキトPB",
+        "target_area": "富山県",
+        "target_level": "初級者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_023",
+        "name": "福井恐竜PB",
+        "target_area": "福井県",
+        "target_level": "中級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_024",
+        "name": "山梨フルーツクラブ",
+        "target_area": "山梨県",
+        "target_level": "初心者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_025",
+        "name": "愛媛みかんPB",
+        "target_area": "愛媛県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_026",
+        "name": "香川うどんPB",
+        "target_area": "香川県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_027",
+        "name": "高知かつおクラブ",
+        "target_area": "高知県",
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_028",
+        "name": "徳島阿波PB",
+        "target_area": "徳島県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_029",
+        "name": "山口ふぐクラブ",
+        "target_area": "山口県",
+        "target_level": "中級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_030",
+        "name": "島根ご縁PB",
+        "target_area": "島根県",
+        "target_level": "初心者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_031",
+        "name": "鳥取砂丘クラブ",
+        "target_area": "鳥取県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_032",
+        "name": "三重真珠PB",
+        "target_area": "三重県",
+        "target_level": "初級者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_033",
+        "name": "奈良大仏クラブ",
+        "target_area": "奈良県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_034",
+        "name": "和歌山みかんPB",
+        "target_area": "和歌山県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_035",
+        "name": "滋賀びわこクラブ",
+        "target_area": "滋賀県",
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_036",
+        "name": "岐阜鵜飼PB",
+        "target_area": "岐阜県",
+        "target_level": "中級者",
+        "beginner_friendly": 0,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_037",
+        "name": "大分カボスPB",
+        "target_area": "大分県",
+        "target_level": "上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_038",
+        "name": "宮崎マンゴークラブ",
+        "target_area": "宮崎県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_039",
+        "name": "佐賀バルーンPB",
+        "target_area": "佐賀県",
+        "target_level": "初級者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_040",
+        "name": "長崎カステラクラブ",
+        "target_area": "長崎県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_041",
+        "name": "青森りんごPB",
+        "target_area": "青森県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_042",
+        "name": "岩手わんこそばクラブ",
+        "target_area": "岩手県",
+        "target_level": "初心者",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_043",
+        "name": "秋田なまはげPB",
+        "target_area": "秋田県",
+        "target_level": "中級者",
+        "beginner_friendly": 0,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_044",
+        "name": "山形さくらんぼクラブ",
+        "target_area": "山形県",
+        "target_level": "上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_045",
+        "name": "福島桃PB",
+        "target_area": "福島県",
+        "target_level": "全レベル",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_046",
+        "name": "茨城納豆クラブ",
+        "target_area": "茨城県",
+        "target_level": "初級者〜中級者",
+        "beginner_friendly": 1,
+        "play_style": "混合"
+    },
+    {
+        "id": "com_047",
+        "name": "栃木いちごPB",
+        "target_area": "栃木県",
+        "target_level": "中級者〜上級者",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_048",
+        "name": "東京シニアPB連盟",
+        "target_area": "東京都",
+        "target_level": "シニア層",
+        "beginner_friendly": 1,
+        "play_style": "エンジョイ"
+    },
+    {
+        "id": "com_049",
+        "name": "関東学生ピックルボール連盟",
+        "target_area": "関東広域",
+        "target_level": "大学生",
+        "beginner_friendly": 1,
+        "play_style": "競技志向"
+    },
+    {
+        "id": "com_050",
+        "name": "全国プロ育成プロジェクト",
+        "target_area": "全国",
+        "target_level": "プロ志望",
+        "beginner_friendly": 0,
+        "play_style": "競技志向"
+    }
+]

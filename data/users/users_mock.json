@@ -1,0 +1,76 @@
+[
+    {
+        "id": "user_mock_001",
+        "nickname": "Pickle_Novice",
+        "is_profile_public": true,
+        "is_ambassador": false,
+        "generation": "20代",
+        "gender": "男性",
+        "avatar_url": "https://example-image-hosting.com/avatars/user_001.png",
+        "dupr_score": 2.5,
+        "estimated_level": "初心者",
+        "play_style": "ダブルス中心",
+        "my_paddle_id": "paddle_franklin_signature_14",
+        "created_at": "2025-10-01T10:00:00Z"
+    },
+    {
+        "id": "user_mock_002",
+        "nickname": "Osaka_Coach_Links",
+        "is_profile_public": true,
+        "is_ambassador": true,
+        "generation": "30代",
+        "gender": "男性",
+        "avatar_url": "https://example-image-hosting.com/avatars/user_002.png",
+        "dupr_score": 4.25,
+        "estimated_level": "上級者",
+        "play_style": "両方",
+        "my_paddle_id": "paddle_crbn_1x_14",
+        "created_at": "2024-05-15T09:30:00Z"
+    },
+    {
+        "id": "user_mock_003",
+        "nickname": "Infinity_Fukuoka_Owner",
+        "is_profile_public": true,
+        "is_ambassador": true,
+        "generation": "40代",
+        "gender": "女性",
+        "avatar_url": "https://example-image-hosting.com/avatars/user_003.png",
+        "dupr_score": 3.75,
+        "estimated_level": "中級者",
+        "play_style": "ダブルス中心",
+        "my_paddle_id": "paddle_selkirk_vanguard_16",
+        "created_at": "2023-04-01T14:45:00Z"
+    },
+    {
+        "id": "user_mock_010",
+        "nickname": "Yokohama_GearJunkie",
+        "is_profile_public": false,
+        "is_ambassador": false,
+        "generation": "30代",
+        "gender": "男性",
+        "avatar_url": "https://example-image-hosting.com/avatars/user_010.png",
+        "dupr_score": 4,
+        "estimated_level": "中級者",
+        "play_style": "ダブルス中心",
+        "my_paddle_id": "paddle_joola_perseus_16",
+        "created_at": "2025-01-20T21:10:00Z"
+    },
+    {
+        "id": "user_demo_001",
+        "nickname": "Pickle_Taro",
+        "generation": "30代",
+        "estimated_level": "中級者",
+        "dupr_score": 3.45,
+        "play_style": "ダブルス中心",
+        "is_profile_public": true
+    },
+    {
+        "id": "user_demo_002",
+        "nickname": "pb_queen_hanako",
+        "generation": "20代",
+        "estimated_level": "初心者",
+        "dupr_score": null,
+        "play_style": "両方",
+        "is_profile_public": true
+    }
+]

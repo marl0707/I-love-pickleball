@@ -1,0 +1,212 @@
+[
+    {
+        "id": "art_01",
+        "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_02",
+        "title": "テニス・卓球・バドミントン経験者別！ピックルボール転向時に活きる技術と捨てるべきクセ",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_03",
+        "title": "【2026年最新】予算1万円で揃う！初心者に絶対おすすめのスターターパドル5選",
+        "category": "ギアレビュー",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_04",
+        "title": "服装はどうすればいい？初めてのピックルボールで失敗しないウェア選びとマナー",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_05",
+        "title": "どこでできるの？「オープンプレイ（個人参加）」で知っておきたい暗黙のルールと挨拶",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_06",
+        "title": "初心者が絶対にやってはいけない「キッチン（ノンボレーゾーン）」での反則3選",
+        "category": "初心者ガイド",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_07",
+        "title": "ピックルボールは何歳から何歳まで楽しめる？シニア世代の新しい趣味としての魅力",
+        "category": "初心者ガイド",
+        "target_audience": "全員",
+        "status": "published"
+    },
+    {
+        "id": "art_08",
+        "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
+        "category": "ギアレビュー",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_09",
+        "title": "「Raw Carbon Fiber (T700)」って何？最新パドル素材のトレンドと選び方",
+        "category": "ギアレビュー",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_10",
+        "title": "屋内と屋外でボールは変えるべき？インドア用(26穴)・アウトドア用(40穴)の違いを検証",
+        "category": "ギアレビュー",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_11",
+        "title": "テニスシューズじゃダメ？ピックルボール専用シューズを履くべき3つの理由",
+        "category": "ギアレビュー",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_12",
+        "title": "【レディース向け】可愛くて動きやすい！最新プリーツスコート（ボールポケット付き）特集",
+        "category": "ギアレビュー",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_13",
+        "title": "【メンズ向け】汗をかいても快適！プロも愛用する高機能・速乾スポーツウェアブランド5選",
+        "category": "ギアレビュー",
+        "target_audience": "全員",
+        "status": "published"
+    },
+    {
+        "id": "art_14",
+        "title": "グリップテープの選び方（ドライ vs ウェット）と正しい巻き方講座",
+        "category": "ギアレビュー",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_15",
+        "title": "DUPR 3.5の壁を越える！「サードショット・ドロップ」成功率を劇的に上げる5つのコツ",
+        "category": "戦術・ドリル",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_16",
+        "title": "ディンク戦で焦ってミスしてない？忍耐力と配球を鍛える「壁打ち」ドリル集",
+        "category": "戦術・ドリル",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_17",
+        "title": "前衛でのファイヤーファイトを制す！ブロックボレーの基本姿勢とラケットワーク",
+        "category": "戦術・ドリル",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_18",
+        "title": "シングルスとダブルス、戦術はこんなに違う！勝つためのポジショニング",
+        "category": "戦術・ドリル",
+        "target_audience": "上級者",
+        "status": "published"
+    },
+    {
+        "id": "art_19",
+        "title": "「スタッキング（陣形）」って何？メリットと正しいスコアの数え方を徹底解説",
+        "category": "戦術・ドリル",
+        "target_audience": "中級者",
+        "status": "published"
+    },
+    {
+        "id": "art_20",
+        "title": "風が強い日の戦い方！アウトドアコートで勝つためのロブとドライブの使い分け",
+        "category": "戦術・ドリル",
+        "target_audience": "上級者",
+        "status": "published"
+    },
+    {
+        "id": "art_21",
+        "title": "【東京/関東版】仕事帰りに寄れる！ナイター設備・レンタル完備のピックルボールコート10選",
+        "category": "ローカル情報",
+        "target_audience": "全員",
+        "status": "published"
+    },
+    {
+        "id": "art_22",
+        "title": "雨の日でも安心！冷暖房完備・インドアで快適にプレーできるプレミアム施設特集",
+        "category": "ローカル情報",
+        "target_audience": "全員",
+        "status": "published"
+    },
+    {
+        "id": "art_23",
+        "title": "ひとりでも大丈夫！一人参加OKな練習会・体験会の見つけ方",
+        "category": "ローカル情報",
+        "target_audience": "初心者",
+        "status": "published"
+    },
+    {
+        "id": "art_24",
+        "title": "伝説のプレーヤー、ベン・ジョンズの強さの秘密と「最新使用パドル」を徹底解剖！",
+        "category": "ニュース・プロ動向",
+        "target_audience": "観戦・ファン",
+        "status": "published"
+    },
+    {
+        "id": "art_25",
+        "title": "女王アンナ・リー・ウォーターズの圧倒的な攻撃力と戦術を分析",
+        "category": "ニュース・プロ動向",
+        "target_audience": "上級者",
+        "status": "published"
+    },
+    {
+        "id": "art_26",
+        "title": "PPAとMLPって何が違うの？世界のピックルボールプロリーグ基礎知識と視聴方法",
+        "category": "ニュース・プロ動向",
+        "target_audience": "観戦・ファン",
+        "status": "published"
+    },
+    {
+        "id": "art_27",
+        "title": "ピックルボールプロの賞金事情と、急成長するスポーツビジネスの裏側",
+        "category": "ニュース・プロ動向",
+        "target_audience": "全員",
+        "status": "published"
+    },
+    {
+        "id": "art_28",
+        "title": "今注目の日本人トッププレーヤー名鑑！国内大会を牽引するスター選手たち",
+        "category": "ニュース・プロ動向",
+        "target_audience": "観戦・ファン",
+        "status": "published"
+    },
+    {
+        "id": "art_29",
+        "title": "次の流行はこれ！2026年のピックルボールギア「トレンド予測と新テクノロジー」",
+        "category": "ニュース・プロ動向",
+        "target_audience": "上級者",
+        "status": "published"
+    },
+    {
+        "id": "art_30",
+        "title": "コートの「サーフェス（床材）」でボールの弾みはどう変わる？体育館からデコターフまで徹底解説",
+        "category": "ローカル情報",
+        "target_audience": "中級者",
+        "status": "published"
+    }
+]

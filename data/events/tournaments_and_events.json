@@ -1,0 +1,86 @@
+[
+    {
+        "id": "event_jpa_japan_open_2026",
+        "facility_id": "tokyo_ariake_tennis",
+        "title": "JPA 第5回 日本ピックルボール選手権大会（ジャパンオープン2026）",
+        "event_type": "公式大会(JPA準拠)",
+        "start_datetime": "2026-10-10 09:00:00",
+        "end_datetime": "2026-10-12 17:00:00",
+        "target_level_min": 3,
+        "target_level_max": 5,
+        "entry_fee": 6000,
+        "entry_url": "https://japanpickleball.org/tournament/japan-open-2026/"
+    },
+    {
+        "id": "event_kanto_beginner_festa",
+        "facility_id": "shinagawa_sports_park",
+        "title": "第2回谷根千ミャオカップ ピックルボールレディース大会（初心者限定）",
+        "event_type": "初心者大会",
+        "start_datetime": "2026-03-04 13:00:00",
+        "end_datetime": "2026-03-04 16:00:00",
+        "target_level_min": 1,
+        "target_level_max": 3.5,
+        "entry_fee": 2000,
+        "entry_url": "https://www.tennisbear.net/event/415555/info"
+    },
+    {
+        "id": "event_kansai_grassroots_cup",
+        "facility_id": "osaka_maruzen_arena",
+        "title": "第3回 関西草トーナメント（エンジョイ・ミックスダブルス）",
+        "event_type": "草大会",
+        "start_datetime": "2026-05-20 10:00:00",
+        "end_datetime": "2026-05-20 15:00:00",
+        "target_level_min": 2.5,
+        "target_level_max": 4,
+        "entry_fee": 2500,
+        "entry_url": "https://www.tennisbear.net/play"
+    },
+    {
+        "id": "event_nagoya_open_play_night",
+        "facility_id": "nagoya_shirakawa_park",
+        "title": "名古屋フライデーナイト・オープンプレイ",
+        "event_type": "オープンプレイ",
+        "start_datetime": "2026-03-14 19:00:00",
+        "end_datetime": "2026-03-14 21:00:00",
+        "target_level_min": 2,
+        "target_level_max": 4.5,
+        "entry_fee": 500,
+        "entry_url": "https://www.tennisbear.net/play"
+    },
+    {
+        "id": "tournament_usap_national",
+        "title": "Biofreeze USA Pickleball National Championships",
+        "category": "国際大会（メジャー）",
+        "location": "Dallas, Texas, USA",
+        "description": "世界最高峰の権威を持つ全米選手権。プロ層だけでなくあらゆる年代・レベルのアマチュアが参加する、世界最大規模のピックルボールの祭典。",
+        "held_month": "11月",
+        "status": "annual"
+    },
+    {
+        "id": "tournament_us_open",
+        "title": "Minto US Open Pickleball Championships",
+        "category": "国際大会",
+        "location": "Naples, Florida, USA",
+        "description": "フロリダ州ネープルズで開催される世界有数のメガトーナメント。「ピックルボール界で最も熱狂的な1週間」とも称される。",
+        "held_month": "4月",
+        "status": "annual"
+    },
+    {
+        "id": "tournament_jpa_japan_national",
+        "title": "JPA ピックルボール日本一決定戦",
+        "category": "国内メジャー（JPA主催）",
+        "location": "Ariake Tennis Forest Park (過去実績: 有明テニスの森 等)",
+        "description": "日本ピックルボール協会(JPA)が主催する、名実ともに日本最高峰の公式大会。シングルス、ダブルス、ミックスの各カテゴリーで世代別のチャンピオンを決定する。",
+        "held_month": "12月",
+        "status": "annual"
+    },
+    {
+        "id": "tournament_jpa_all_japan",
+        "title": "全日本ピックルボール選手権大会",
+        "category": "国内メジャー（JPA主催）",
+        "location": "Saorina, Mie (過去実績: サオリーナ 等)",
+        "description": "日本国内のプレイヤーが腕を競い合う、国内最大規模の選手権大会。",
+        "held_month": "6月",
+        "status": "annual"
+    }
+]

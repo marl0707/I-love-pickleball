@@ -1,0 +1,24 @@
+[
+    {
+        "id": "promo_ilovepb10",
+        "code": "ILOVEPB10",
+        "title": "オープン記念 提携ECサイト 10%OFFクーポン",
+        "description": "「I LOVE PICKLEBALL」リリース記念！提携先のパドル・ギア販売ECサイトで何度でも使える10%オフクーポンコード。",
+        "discount_type": "percentage",
+        "discount_value": 10,
+        "valid_from": "2026-03-01T00:00:00Z",
+        "valid_until": "2026-06-30T23:59:59Z",
+        "target_url": "https://example-pickleball-shop.co.jp/"
+    },
+    {
+        "id": "promo_viptop_first",
+        "code": "VIP500OFF",
+        "title": "VIPインドア東陽町 施設利用料500円OFF",
+        "description": "サイト会員限定。初めてVIPインドア東陽町でプレーする際に、コート利用料から500円割引されるクーポンです。",
+        "discount_type": "fixed_amount",
+        "discount_value": 500,
+        "valid_from": "2026-03-01T00:00:00Z",
+        "valid_until": "2026-12-31T23:59:59Z",
+        "target_url": "https://www.viptop.jp/toyocho/"
+    }
+]

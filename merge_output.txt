@@ -1,0 +1,57 @@
+﻿==============================
+本番データ統合開始
+==============================
+
+--- 1. 施設データ統合 ---
+  ✅ production_data\facilities\facilities.json (349件)
+  ✅ production_data\facilities\facility_courts.json (215件)
+  ✅ production_data\facilities\facility_shops.json (213件)
+  ✅ production_data\facilities\facility_media.json (5件)
+  ✅ production_data\facilities\facility_comments.json (5件)
+
+--- 2. ギアデータ統合 ---
+  ✅ production_data\gears\paddles.json (105件)
+  ✅ production_data\gears\shoes.json (35件)
+  ✅ production_data\gears\balls.json (26件)
+  ✅ production_data\gears\apparel.json (31件)
+  ✅ production_data\gears\bags.json (17件)
+  ✅ production_data\gears\accessories.json (42件)
+  ✅ production_data\supplementary\niche_gears.json (15件)
+
+--- 3. プロ選手データ統合 ---
+  ✅ production_data\players\pro_players.json (46件)
+  ✅ production_data\players\expert_reviews.json (29件)
+
+--- 4. コンテンツデータ統合 ---
+  ✅ production_data\content\articles.json (47件)
+  ✅ production_data\content\drills.json (35件)
+  ✅ production_data\content\glossary.json (55件)
+
+--- 5. コミュニティデータ統合 ---
+  ✅ production_data\community\communities.json (55件)
+  ✅ production_data\community\community_media.json (3件)
+
+--- 6. イベントデータ統合 ---
+  ✅ production_data\events\events.json (25件)
+  ✅ production_data\events\awards.json (2件)
+
+--- 7. 補助データ統合 ---
+  ✅ production_data\supplementary\coaches.json (12件)
+  ✅ production_data\supplementary\certifications.json (8件)
+  ✅ production_data\supplementary\injury_prevention.json (16件)
+  ✅ production_data\supplementary\advanced_shots.json (3件)
+  ✅ production_data\supplementary\mlp_teams.json (16件)
+  ✅ production_data\supplementary\brands.json (4件)
+  ✅ production_data\supplementary\promotions_coupons.json (2件)
+  ✅ production_data\community\activity_logs.json (5件)
+  ✅ production_data\community\announcements.json (5件)
+  ✅ production_data\community\threads.json (5件)
+  ✅ production_data\supplementary\user_bookmarks.json (7件)
+  ✅ production_data\supplementary\price_guide.json (1件)
+  ✅ production_data\supplementary\master_tags.json (3件)
+  ✅ production_data\supplementary\master_associations.json (2件)
+  ✅ production_data\supplementary\users_mock.json (56件)
+
+==============================
+統合完了！
+==============================

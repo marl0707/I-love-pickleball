@@ -1,0 +1,50 @@
+﻿=== 地域別施設レコード数 ===
+  kanto: 75件
+  kansai: 46件
+  chubu: 53件
+  tohoku: 2件
+  hokkaido: 31件
+  kyushu: 42件
+  chugoku_shikoku: 40件
+  合計: 289件
+  chain_nationwide: 1件
+
+=== salvaged施設 ===
+  massive_salvage_facilities_01: 40件
+  massive_salvage_facilities_02: 23件
+
+=== salvaged communities ===
+  massive_salvage_communities_01: 50件
+  data/community/communities: 5件
+
+=== パドル合計 ===
+  data/gears/paddles.json: 5件
+  salvaged_data/massive_salvage_paddles_01.json: 50件
+  salvaged_data/massive_salvage_paddles_02.json: 50件
+  合計: 105件
+
+=== その他カテゴリ ===
+  data/gears/shoes.json: 5件
+  salvaged_data/massive_salvage_shoes.json: 30件
+  data/gears/balls.json: 6件
+  salvaged_data/massive_salvage_balls.json: 20件
+  data/gears/apparel.json: 3件
+  salvaged_data/massive_salvage_apparel.json: 25件
+  data/gears/bags.json: 2件
+  salvaged_data/massive_salvage_bags.json: 15件
+  data/gears/accessories.json: 20件
+  salvaged_data/massive_salvage_accessories.json: 20件
+  data/drills/drills_master.json: 8件
+  salvaged_data/massive_salvage_drills.json: 25件
+  data/articles/articles_seed.json: 5件
+  salvaged_data/massive_salvage_articles.json: 30件
+  data/coaches/top_coaches.json: 12件
+  data/coaches/certifications.json: 8件
+  data/articles/glossary.json: 55件
+  data/events/tournaments_and_events.json: 8件
+  salvaged_data/massive_salvage_tournaments.json: 15件
+  data/players/domestic_players.json: 2件
+  data/players/senior_pros.json: 3件
+  data/care/injury_prevention.json: 16件
+  data/tactics/advanced_shots.json: 3件
+  data/events/mlp_teams.json: 16件

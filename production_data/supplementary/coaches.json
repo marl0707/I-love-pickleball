@@ -1,0 +1,152 @@
+[
+  {
+    "id": "coach-morgan-evans",
+    "name": "Morgan Evans",
+    "specialty": "先進的なスピンコントロールとプロレベルの戦術指導",
+    "achievements": [
+      "PPAツアー公認プロフェッショナルコーチ",
+      "Pickleball Coaching International (PCI) 創設メンバー",
+      "スピンサーブ戦術のパイオニア"
+    ],
+    "teaching_style": "バイオメカニクスに基づいたスイング指導と、高度な戦術を論理的に解説するスタイル。",
+    "target_level": "上級者・競技者向け",
+    "media_url": "https://www.youtube.com/results?search_query=Morgan+Evans+Pickleball+Coach"
+  },
+  {
+    "id": "coach-tyson-mcguffin",
+    "name": "Tyson McGuffin",
+    "specialty": "フットワークの強化とアグレッシブなプレイスタイル",
+    "achievements": [
+      "PPAツアー グランドスラム達成",
+      "TM Signature PB Camps主宰"
+    ],
+    "teaching_style": "圧倒的な熱量で生徒を引っ張るスタイル。攻撃的なドライブとメンタルの強さを育てる。",
+    "target_level": "中級者〜上級者向け",
+    "media_url": "https://www.youtube.com/@TysonMcGuffin"
+  },
+  {
+    "id": "coach-mark-renneson",
+    "name": "Mark Renneson",
+    "specialty": "初心者から中級者へのステップアップ指導とコーチ育成",
+    "achievements": [
+      "Third Shot Sports 創設者・CEO",
+      "PCI 代表",
+      "世界中で数千人のコーチを認定"
+    ],
+    "teaching_style": "「なぜそのショットを打つのか？」という論理的な説明が分かりやすい。",
+    "target_level": "初心者〜中級者および指導者向け",
+    "media_url": "https://www.youtube.com/@ThirdShotSports"
+  },
+  {
+    "id": "coach-simone-jardim",
+    "name": "Simone Jardim",
+    "specialty": "女性プレイヤー育成とキッチンゲームの極意",
+    "achievements": [
+      "元テニスプロ（NCAA Division I コーチ）",
+      "PPAツアー金メダル多数",
+      "ピックルボール殿堂入り"
+    ],
+    "teaching_style": "テニスの経験を活かし、フットワーク・ポジショニング・戦術を体系的に教える。女性プレイヤーのロールモデル。",
+    "target_level": "全レベル対応",
+    "media_url": "https://www.youtube.com/results?search_query=Simone+Jardim+pickleball+coaching"
+  },
+  {
+    "id": "coach-joey-graziano",
+    "name": "Joey Graziano",
+    "specialty": "YouTubeでの体系的なピックルボールレッスン",
+    "achievements": [
+      "YouTube「PrimeTime Pickleball」チャンネル運営（登録者数十万人）",
+      "全米各地でクリニック開催"
+    ],
+    "teaching_style": "YouTube動画で初心者にも分かりやすく技術を解説。ストラテジー解説が特に人気。",
+    "target_level": "初心者〜中級者向け",
+    "media_url": "https://www.youtube.com/@PrimeTimePickleball"
+  },
+  {
+    "id": "coach-will-east",
+    "name": "Will East",
+    "specialty": "ドリル設計とゲーム内意思決定の改善",
+    "achievements": [
+      "YouTube「The Pickleball Doctor」運営",
+      "大学での講義形式ピックルボールクラス開設"
+    ],
+    "teaching_style": "科学的アプローチとデータ分析に基づいた指導。効率的な練習法を提案する。",
+    "target_level": "中級者向け",
+    "media_url": "https://www.youtube.com/results?search_query=Will+East+Pickleball+Doctor"
+  },
+  {
+    "id": "coach-dayne-gingrich",
+    "name": "Dayne Gingrich",
+    "specialty": "メンタルコーチング / 試合中の思考プロセス改善",
+    "achievements": [
+      "著書『The Pickleball Mindset』著者",
+      "PPAシニアプロ部門タイトル多数",
+      "メンタルパフォーマンスコーチ資格者"
+    ],
+    "teaching_style": "技術だけでなく「メンタルの強さ」を重視。ポイント間の思考プロセスや切り替え方法を教える。",
+    "target_level": "全レベル（特に試合で緊張するプレイヤー向け）",
+    "media_url": "https://www.youtube.com/results?search_query=Dayne+Gingrich+pickleball+mindset"
+  },
+  {
+    "id": "coach-zane-navratil",
+    "name": "Zane Navratil",
+    "specialty": "シングルス戦術とチェンジアップショット",
+    "achievements": [
+      "PPAツアー シングルス部門金メダリスト",
+      "YouTube「Zane Navratil Pickleball」チャンネル運営"
+    ],
+    "teaching_style": "シングルスの戦い方を専門に解説。「スピードアップのタイミング」「コート上のスペース管理」に定評。",
+    "target_level": "中級者〜上級者向け",
+    "media_url": "https://www.youtube.com/@ZaneNavratil"
+  },
+  {
+    "id": "coach-daniel-de-la-rosa",
+    "name": "Daniel De La Rosa",
+    "specialty": "スピンテクニックとサードショット戦略",
+    "achievements": [
+      "PPAツアー トッププロ（ベテラン）",
+      "ラケットスポーツ複数競技の経験者"
+    ],
+    "teaching_style": "スピンを活かした多彩なショットバリエーションを教える。実戦的なドリルが充実。",
+    "target_level": "中級者〜上級者向け",
+    "media_url": "https://www.youtube.com/results?search_query=Daniel+De+La+Rosa+pickleball"
+  },
+  {
+    "id": "coach-sarah-ansboury",
+    "name": "Sarah Ansboury",
+    "specialty": "ダブルスの戦略とパートナーシップ構築",
+    "achievements": [
+      "PPR認定マスターコーチ",
+      "ピックルボール専門コーチとして全米各地でクリニック"
+    ],
+    "teaching_style": "ダブルスでの「コミュニケーション」「ポジショニング」を体系的に教える。チームプレイを重視。",
+    "target_level": "初心者〜中級者向け",
+    "media_url": "https://www.youtube.com/results?search_query=Sarah+Ansboury+pickleball"
+  },
+  {
+    "id": "coach-kato-san",
+    "name": "加藤 浩（Kato Hiroshi）",
+    "specialty": "日本国内の初心者育成とJPA公認指導",
+    "achievements": [
+      "JPA公認コーチ",
+      "関東エリアで定期クリニック開催",
+      "ピックルボール日本普及パイオニア"
+    ],
+    "teaching_style": "「誰でもすぐ楽しめる」を信条に、日本語で分かりやすく基本から教える。高齢者向け指導にも経験豊富。",
+    "target_level": "初心者向け（日本語対応）",
+    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%82%B3%E3%83%BC%E3%83%81+%E6%97%A5%E6%9C%AC"
+  },
+  {
+    "id": "coach-watanabe-coach",
+    "name": "渡辺 健一（Watanabe Kenichi）",
+    "specialty": "テニスからピックルボールへの転向者向け指導",
+    "achievements": [
+      "元テニスコーチ",
+      "JPA認定指導者",
+      "名古屋エリアのピックルボール普及に貢献"
+    ],
+    "teaching_style": "テニス経験者が陥りがちな「テニス癖」の矯正と、ピックルボール特有のソフトゲームへの移行を得意とする。",
+    "target_level": "テニス経験者・中級者向け（日本語対応）",
+    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3+%E5%90%8D%E5%8F%A4%E5%B1%8B"
+  }
+]

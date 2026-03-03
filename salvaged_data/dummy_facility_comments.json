@@ -1,0 +1,16 @@
+[
+    {
+        "id": "fcomment_001",
+        "facility_id": "facility_viptop",
+        "user_id": "user_demo_001",
+        "content": "冷房が効いていて夏場でも快適にプレーできました。ただ、週末は予約が取りづらいのが難点です。",
+        "created_at": "2026-03-01T14:30:00Z"
+    },
+    {
+        "id": "fcomment_002",
+        "facility_id": "facility_tokyotower",
+        "user_id": "user_demo_002",
+        "content": "東京タワーを見上げながらのナイターは最高です！風の影響は受けやすいのでアウトドア用の重いボールが必須です。",
+        "created_at": "2026-03-02T21:00:00Z"
+    }
+]

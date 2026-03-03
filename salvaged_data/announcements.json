@@ -1,0 +1,18 @@
+[
+    {
+        "id": "announce_001",
+        "title": "「I LOVE PICKLEBALL」ベータ版リリースのお知らせ",
+        "category": "system",
+        "content": "日本全国のピックルボール施設とギア情報を網羅した総合情報プラットフォームのベータ版が公開されました！皆様のフィードバックをお待ちしております。",
+        "published_at": "2026-03-01T10:00:00Z",
+        "is_important": true
+    },
+    {
+        "id": "announce_002",
+        "title": "国内大会カレンダー（6月・全日本選手権）を更新しました",
+        "category": "update",
+        "content": "大会（Events）ディレクトリに今年のJPA主催「全日本ピックルボール選手権大会」のエントリー要項とスケジュールが追加されました。",
+        "published_at": "2026-03-03T12:00:00Z",
+        "is_important": false
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "id": "mlp_texas_ranchers",
+        "team_name": "Texas Ranchers",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Micah Parsons, CJ Stroud, Myles Garrett, Scottie Scheffler, Lil Wayne",
+        "description": "スポーツ界やエンタメ界のトップスターが多数共同オーナーに名を連ねる、MLPの中でもひときわ注目を集めるチーム。"
+    },
+    {
+        "id": "mlp_dc_pickleball_team",
+        "team_name": "D.C. Pickleball Team",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Eva Longoria, Mesut Özil, Kate Upton, Justin Verlander",
+        "description": "ハリウッド女優や世界的サッカー選手、MLBのスター投手がオーナーを務めることで話題となったチーム。"
+    },
+    {
+        "id": "mlp_orlando_squeeze",
+        "team_name": "Orlando Squeeze",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Ryan Fitzpatrick",
+        "description": "オーランドを拠点とするチーム。強豪選手を揃え、熱狂的なファンベースを持つ。"
+    },
+    {
+        "id": "mlp_az_drive",
+        "team_name": "AZ Drive",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Larry Fitzgerald, Devin Booker, Dierks Bentley",
+        "description": "アリゾナのスポーツ界を代表するレジェンドが共同オーナーとして支える強力なフランチャイズ。"
+    },
+    {
+        "id": "mlp_new_york_hustlers",
+        "team_name": "New York Hustlers",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Gary Vaynerchuk (Gary Vee)",
+        "description": "起業家Gary Veeが率いるNYベースのチーム。マーケティングとSNSプロモーションで独自のブランディングを展開。"
+    },
+    {
+        "id": "mlp_la_mad_drops",
+        "team_name": "Los Angeles Mad Drops",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Drew Brees",
+        "description": "元NFL伝説的QBドリュー・ブリーズがオーナーを務めるLAのチーム。攻撃的な選手構成で知られる。"
+    },
+    {
+        "id": "mlp_utah_black_diamonds",
+        "team_name": "Utah Black Diamonds",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Brené Brown",
+        "description": "ユタ州を拠点とし、ベストセラー著者・研究者がオーナー。独特のチーム文化で知られる。"
+    },
+    {
+        "id": "mlp_chicago_slice",
+        "team_name": "Chicago Slice",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Anheuser-Busch",
+        "description": "シカゴの深皿ピザにちなんだ名前。ビールメーカーがスポンサーとなり、エンタメ性豊かなチーム運営。"
+    },
+    {
+        "id": "mlp_bay_area_breakers",
+        "team_name": "Bay Area Breakers",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Tom Brady",
+        "description": "NFL GOAT トム・ブレイディがオーナー参画し、世界的な注目を集めたベイエリアのチーム。"
+    },
+    {
+        "id": "mlp_atlanta_bouncers",
+        "team_name": "Atlanta Bouncers",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Dude Perfect, Canelo Álvarez",
+        "description": "世界的ボクサー カネロ・アルバレスとYouTuber集団デュード・パーフェクトがオーナーのアトランタチーム。"
+    },
+    {
+        "id": "mlp_miami_pickleball_club",
+        "team_name": "Miami Pickleball Club",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "LeBron James, Kevin Love, Draymond Green",
+        "description": "NBAのスーパースター・レブロン・ジェームズやドレイモンド・グリーンらがオーナー。マイアミの華やかさを体現。"
+    },
+    {
+        "id": "mlp_seattle_pioneers",
+        "team_name": "Seattle Pioneers",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Russell Wilson, Ciara",
+        "description": "NFLスターのラッセル・ウィルソンと歌手シアラがオーナーを務めるシアトルベースのチーム。"
+    },
+    {
+        "id": "mlp_carolina_pickleball_club",
+        "team_name": "Carolina Pickleball Club",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Michael Phelps",
+        "description": "五輪史上最多金メダリスト・マイケル・フェルプスがオーナー。スポーツの頂点を知る者が率いるチーム。"
+    },
+    {
+        "id": "mlp_columbus_sliders",
+        "team_name": "Columbus Sliders",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Mario Lopez",
+        "description": "俳優マリオ・ロペスがオーナーを務めるオハイオ州コロンバスのチーム。コミュニティとの結びつきが強い。"
+    },
+    {
+        "id": "mlp_st_louis_shock",
+        "team_name": "St. Louis Shock",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Patrick Mahomes",
+        "description": "現役NFL MVP パトリック・マホームズが共同オーナー。カンザスシティとセントルイスのピックルボール文化を牽引。"
+    },
+    {
+        "id": "mlp_okc_punishers",
+        "team_name": "OKC Punishers",
+        "league": "Major League Pickleball (MLP)",
+        "level": "Premier Level",
+        "notable_owners": "Kevin Durant",
+        "description": "NBAスーパースター・ケビン・デュラントが支援するオクラホマシティのチーム。"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "tournament_usap_national",
+        "title": "Biofreeze USA Pickleball National Championships",
+        "category": "国際大会（メジャー）",
+        "location": "Dallas, Texas, USA",
+        "description": "世界最高峰の権威を持つ全米選手権。プロ層だけでなくあらゆる年代・レベルのアマチュアが参加する、世界最大規模のピックルボールの祭典。",
+        "held_month": "11月",
+        "status": "annual"
+    },
+    {
+        "id": "tournament_us_open",
+        "title": "Minto US Open Pickleball Championships",
+        "category": "国際大会",
+        "location": "Naples, Florida, USA",
+        "description": "フロリダ州ネープルズで開催される世界有数のメガトーナメント。「ピックルボール界で最も熱狂的な1週間」とも称される。",
+        "held_month": "4月",
+        "status": "annual"
+    },
+    {
+        "id": "tournament_jpa_japan_national",
+        "title": "JPA ピックルボール日本一決定戦",
+        "category": "国内メジャー（JPA主催）",
+        "location": "Ariake Tennis Forest Park (過去実績: 有明テニスの森 等)",
+        "description": "日本ピックルボール協会(JPA)が主催する、名実ともに日本最高峰の公式大会。シングルス、ダブルス、ミックスの各カテゴリーで世代別のチャンピオンを決定する。",
+        "held_month": "12月",
+        "status": "annual"
+    },
+    {
+        "id": "tournament_jpa_all_japan",
+        "title": "全日本ピックルボール選手権大会",
+        "category": "国内メジャー（JPA主催）",
+        "location": "Saorina, Mie (過去実績: サオリーナ 等)",
+        "description": "日本国内のプレイヤーが腕を競い合う、国内最大規模の選手権大会。",
+        "held_month": "6月",
+        "status": "annual"
+    }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "thread_recruit_kanto_01",
+    "author": "Pickle_Novice",
+    "date": "2026-03-01T10:00:00Z",
+    "category": "メンバー募集",
+    "title": "【東京・千葉】週末に練習できる初心者メンバー募集！",
+    "content": "最近テニスからピックルボールに転向しました！週末に台東区や市川市周辺の体育館を借りて練習するメンバーを募集しています（現在3人）。20代〜40代で楽しくやりたいです。",
+    "responses": 2,
+    "status": "募集中"
+  },
+  {
+    "id": "thread_gear_giveaway_01",
+    "author": "Gear_Junkie",
+    "date": "2026-03-02T15:30:00Z",
+    "category": "ギア譲渡・交換",
+    "title": "Joola Perseus 16mm をお譲りします（または14mmと交換）",
+    "content": "1ヶ月ほど使用しましたが、少しパワーが抑えめのパドルに移行したいためお譲り先を探しています。16mmですがかなり飛びます。状態は良好です。直接手渡しか、CRBN 1Xの14mmとの交換も歓迎です！",
+    "responses": 5,
+    "status": "交渉中"
+  },
+  {
+    "id": "thread_qna_court_reservation",
+    "author": "Shonan_Player",
+    "date": "2026-03-03T09:15:00Z",
+    "category": "質問・相談",
+    "title": "神奈川県のコート予約について（抽選突破のコツ）",
+    "content": "最近、横浜や川崎の体育館でピックルボールのコートを取ろうとしても抽選でほぼ外れてしまいます。KPI PARKなどは少し高いので公営を狙っているのですが、何か予約のコツなどありますでしょうか？",
+    "responses": 3,
+    "status": "受付中"
+  },
+  {
+    "id": "thread_001",
+    "category": "rule_qa",
+    "title": "NVZ（キッチン）ラインを踏んでボレーしてしまった場合",
+    "content": "初心者です。勢い余ってボレーを打った後にキッチンラインを踏んでしまったのですが、これはフォルトになりますか？",
+    "status": "closed",
+    "responses": [
+      {
+        "user_id": "user_demo_001",
+        "content": "はい、フォルトになります。打つ瞬間だけでなく、打ったあとの惰性（モメンタム）でラインに触れたりキッチン内に入ったりした場合もフォルトです。"
+      }
+    ]
+  },
+  {
+    "id": "thread_002",
+    "category": "partner_search",
+    "title": "【土日】都内（有明・東陽町）で固定ペア募集！",
+    "content": "DUPR3.5前後の30代男性です。ダブルスの固定ペアを探しています。まずは一度練習で合わせてみませんか？",
+    "status": "open",
+    "responses": []
+  }
+]

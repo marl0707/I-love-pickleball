@@ -1,0 +1,30 @@
+[
+    {
+        "id": "pro_ben_johns",
+        "name_ja": "ベン・ジョンズ",
+        "name_en": "Ben Johns",
+        "nationality": "USA",
+        "play_style": "攻撃的なディンクと正確無比なパス、圧倒的なコートカバー力を持つ万能型",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 1,
+        "ranking_doubles": 1,
+        "paddle_ids": "paddle_joola_perseus_16",
+        "apparel_brand_sponsor": "FILA",
+        "instagram_url": "https://www.instagram.com/benjohns_pb/",
+        "photo_url": "https://example.com/photos/ben_johns.jpg"
+    },
+    {
+        "id": "pro_anna_leigh_waters",
+        "name_ja": "アンナ・リー・ウォーターズ",
+        "name_en": "Anna Leigh Waters",
+        "nationality": "USA",
+        "play_style": "超攻撃的なプレースタイル、驚異的なハンドスピードと強烈な両手バックハンドドライブ",
+        "league_affiliation": "PPA Tour",
+        "ranking_singles": 1,
+        "ranking_doubles": 1,
+        "paddle_ids": "paddle_paddletek_bantam_alw_c",
+        "apparel_brand_sponsor": "FILA",
+        "instagram_url": "https://www.instagram.com/annaleigh_waters/",
+        "photo_url": "https://example.com/photos/alw.jpg"
+    }
+]

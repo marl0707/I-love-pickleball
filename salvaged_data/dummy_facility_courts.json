@@ -1,0 +1,26 @@
+[
+    {
+        "id": "fcourt_001",
+        "facility_id": "facility_viptop",
+        "court_type": "インドア",
+        "number_of_courts": 3,
+        "surface_type": "木製(体育館)",
+        "line_visibility": "他競技混在(見にくい)",
+        "net_type": "ポータブル(キャスター無)",
+        "has_ac": 1,
+        "baseline_margin": "狭め(ロブが追いにくい)",
+        "lighting_type": "LED照明(非常に明るい)"
+    },
+    {
+        "id": "fcourt_002",
+        "facility_id": "facility_tokyotower",
+        "court_type": "アウトドア",
+        "number_of_courts": 1,
+        "surface_type": "人工芝",
+        "line_visibility": "専用ラインのみ(見やすい)",
+        "net_type": "常設(ネットポストあり)",
+        "has_ac": 0,
+        "baseline_margin": "標準",
+        "lighting_type": "ナイター設備あり"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "event_local_001",
+        "facility_id": "facility_viptop",
+        "title": "初心者大歓迎！手ぶらでピックルボール体験会",
+        "event_type": "体験会",
+        "start_datetime": "2026-03-10T10:00:00Z",
+        "end_datetime": "2026-03-10T12:00:00Z",
+        "target_level_min": 1.0,
+        "target_level_max": 2.5,
+        "entry_fee": 1500,
+        "entry_url": "https://example.com/entry/123"
+    },
+    {
+        "id": "event_local_002",
+        "facility_id": "facility_tokyotower",
+        "title": "【DUPR 3.5以上限定】フライデーナイト・オープンプレイ",
+        "event_type": "オープンプレイ",
+        "start_datetime": "2026-03-15T19:00:00Z",
+        "end_datetime": "2026-03-15T21:00:00Z",
+        "target_level_min": 3.5,
+        "target_level_max": 5.0,
+        "entry_fee": 2000,
+        "entry_url": "https://example.com/entry/124"
+    }
+]

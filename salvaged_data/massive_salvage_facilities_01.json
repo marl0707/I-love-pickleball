@@ -1,0 +1,362 @@
+[
+    {
+        "id": "fac_kanagawa_1",
+        "name": "横浜ピックルボールアリーナ",
+        "type_flag": 1,
+        "operator_type": "民間",
+        "address": "神奈川県横浜市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_kanagawa_2",
+        "name": "川崎フロンタウン",
+        "type_flag": 1,
+        "operator_type": "民間",
+        "address": "神奈川県川崎市",
+        "has_parking": 1,
+        "is_indoor": 0
+    },
+    {
+        "id": "fac_saitama_1",
+        "name": "彩の国さいたまピックルパーク",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "埼玉県さいたま市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_saitama_2",
+        "name": "川越総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "埼玉県川越市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_chiba_1",
+        "name": "幕張スポーツセンター",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "千葉県千葉市美浜区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_chiba_2",
+        "name": "柏ピックルボールクラブ",
+        "type_flag": 3,
+        "operator_type": "民間",
+        "address": "千葉県柏市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_hokkaido_1",
+        "name": "札幌ドーム(サブアリーナ)",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "北海道札幌市豊平区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_hokkaido_2",
+        "name": "函館体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "北海道函館市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_aomori_1",
+        "name": "青森県武道館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "青森県弘前市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_iwate_1",
+        "name": "盛岡タカカツアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "岩手県盛岡市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_miyagi_1",
+        "name": "ゼビオアリーナ仙台",
+        "type_flag": 1,
+        "operator_type": "民間",
+        "address": "宮城県仙台市太白区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_fukushima_1",
+        "name": "県営あづま総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "福島県福島市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_niigata_1",
+        "name": "新潟市体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "新潟県新潟市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_ishikawa_1",
+        "name": "金沢総合スポーツセンター",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "石川県金沢市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_nagano_1",
+        "name": "軽井沢アイスパーク(夏期)",
+        "type_flag": 1,
+        "operator_type": "民間",
+        "address": "長野県軽井沢町",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_shizuoka_1",
+        "name": "エコパアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "静岡県袋井市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_aichi_1",
+        "name": "名古屋市ドルフィンズアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "愛知県名古屋市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_aichi_2",
+        "name": "豊田スカイホール",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "愛知県豊田市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_mie_1",
+        "name": "鈴鹿市体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "三重県鈴鹿市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_kyoto_1",
+        "name": "島津アリーナ京都",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "京都府京都市中京区",
+        "has_parking": 0,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_hyogo_1",
+        "name": "神戸市立中央体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "兵庫県神戸市中央区",
+        "has_parking": 0,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_hyogo_2",
+        "name": "西宮市立中央体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "兵庫県西宮市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_nara_1",
+        "name": "ロートアリーナ奈良",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "奈良県奈良市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_wakayama_1",
+        "name": "和歌山ビッグウエーブ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "和歌山県和歌山市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_okayama_1",
+        "name": "ジップアリーナ岡山",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "岡山県岡山市北区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_hiroshima_1",
+        "name": "広島グリーンアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "広島県広島市中区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_yamaguchi_1",
+        "name": "維新大晃アリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "山口県山口市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_tokushima_1",
+        "name": "アスティとくしま",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "徳島県徳島市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_kagawa_1",
+        "name": "高松市総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "香川県高松市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_ehime_1",
+        "name": "愛媛県武道館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "愛媛県松山市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_kochi_1",
+        "name": "くろしおアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "高知県高知市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_fukuoka_1",
+        "name": "照葉積水ハウスアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "福岡県福岡市東区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_fukuoka_2",
+        "name": "北九州市立総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "福岡県北九州市八幡東区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_saga_1",
+        "name": "SAGAアリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "佐賀県佐賀市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_nagasaki_1",
+        "name": "長崎県立総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "長崎県長崎市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_kumamoto_1",
+        "name": "熊本県立総合体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "熊本県熊本市西区",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_oita_1",
+        "name": "ビーコンプラザ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "大分県別府市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_miyazaki_1",
+        "name": "宮崎県体育館",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "宮崎県宮崎市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_kagoshima_1",
+        "name": "西原商会アリーナ",
+        "type_flag": 1,
+        "operator_type": "公営",
+        "address": "鹿児島県鹿児島市",
+        "has_parking": 1,
+        "is_indoor": 1
+    },
+    {
+        "id": "fac_okinawa_1",
+        "name": "沖縄アリーナ",
+        "type_flag": 1,
+        "operator_type": "民間",
+        "address": "沖縄県沖縄市",
+        "has_parking": 1,
+        "is_indoor": 1
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "checkin_001",
+        "user_id": "user_demo_001",
+        "facility_id": "facility_tokyotower",
+        "checkin_time": "2026-03-01T18:00:00Z",
+        "status": "arrived",
+        "memo": "ナイターの時間帯です。風が少しありますが快適です。"
+    },
+    {
+        "id": "checkin_002",
+        "user_id": "user_demo_002",
+        "facility_id": "facility_viptop",
+        "checkin_time": "2026-03-02T13:30:00Z",
+        "status": "arrived",
+        "memo": "初めて来ました！インドアで綺麗です。"
+    }
+]

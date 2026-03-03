@@ -1,0 +1,126 @@
+[
+    {
+        "id": "shoe_babolat_jet_mach_3",
+        "brand_name": "Babolat",
+        "product_name": "Jet Mach 3 All Court",
+        "price": 16500,
+        "size_range": "25.0cm - 29.0cm",
+        "color_variations": [
+            "ブラック/シルバー",
+            "ブルー"
+        ],
+        "court_type": "オールコート",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+Jet+Mach+3",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+Jet+Mach+3/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+Jet+Mach+3"
+    },
+    {
+        "id": "shoe_skechers_viper_court",
+        "brand_name": "Skechers",
+        "product_name": "Viper Court Pro",
+        "price": 14000,
+        "size_range": "25.0cm - 30.0cm",
+        "color_variations": [
+            "ホワイト/ネイビー",
+            "ライムグリーン"
+        ],
+        "court_type": "オールコート",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Skechers+Viper+Court",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers+Viper+Court/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court"
+    },
+    {
+        "id": "shoe_k_swiss_express_light",
+        "brand_name": "K-Swiss",
+        "product_name": "Express Light Pickleball",
+        "price": 12800,
+        "size_range": "22.5cm - 28.0cm",
+        "color_variations": [
+            "ホワイト/ピンク",
+            "グレー/ブルー"
+        ],
+        "court_type": "オールコート",
+        "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss+Express+Light+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss+Express+Light+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball"
+    },
+    {
+        "id": "shoe_asics_gel_resolution_9",
+        "brand_name": "Asics",
+        "product_name": "GEL-RESOLUTION 9",
+        "price": 17600,
+        "size_range": "22.5cm - 30.0cm",
+        "color_variations": [
+            "ネイビー/ホワイト",
+            "レッド",
+            "アイランドブルー"
+        ],
+        "court_type": "オールコート",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Asics+GEL-RESOLUTION+9",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics+GEL-RESOLUTION+9/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics+GEL-RESOLUTION+9"
+    },
+    {
+        "category": "Pickleball Shoes",
+        "description": "ピックルボール特有の前後左右への激しい動きに対応する設計の専用シューズデータです。",
+        "items": [
+            {
+                "id": "skechers-viper-court-pro",
+                "brand": "Skechers",
+                "model": "Viper Court Pro",
+                "key_technologies": [
+                    "Goodyear®ラバーアウトソール",
+                    "Arch Fit®インソール"
+                ],
+                "features": [
+                    "抜群のグリップ力と耐久性",
+                    "ピックルボール専用のトレッドパターン",
+                    "長時間のプレイでも疲れにくいアーチサポート",
+                    "多くのプロ選手（Tyson McGuffinなど）が愛用"
+                ],
+                "best_for": "頻繁にプレイする競技者、足の負担を軽減したいプレイヤー",
+                "amazon_url": "https://www.amazon.co.jp/s?k=Skechers+Viper+Court+Pro+Pickleball",
+                "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers+Viper+Court+Pro+Pickleball/",
+                "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court+Pro+Pickleball"
+            },
+            {
+                "id": "k-swiss-express-light-pickleball",
+                "brand": "K-Swiss",
+                "model": "Express Light Pickleball",
+                "key_technologies": [
+                    "Aösta 7.0高密度ラバー",
+                    "DragGuard"
+                ],
+                "features": [
+                    "ピックルボール専用シューズのパイオニア的存在",
+                    "軽量で俊敏な動きをサポート",
+                    "つま先部分の耐久性を高めるDragGuardテクノロジー",
+                    "通気性に優れたアッパーメッシュ"
+                ],
+                "best_for": "軽量性と動きやすさを重視するプレイヤー",
+                "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss+Express+Light+Pickleball",
+                "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss+Express+Light+Pickleball/",
+                "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball"
+            },
+            {
+                "id": "babolat-sfx3",
+                "brand": "Babolat",
+                "model": "SFX3",
+                "key_technologies": [
+                    "Michelin パフォーマンスアウトソール",
+                    "Kompressor システム"
+                ],
+                "features": [
+                    "元々はテニスシューズだが、ピックルボールプレイヤーにも非常に人気",
+                    "幅広設計で快適なフィット感",
+                    "ミシュラン製ラバーによる最高レベルの耐久性とグリップ力",
+                    "かかと部分の優れた衝撃吸収性"
+                ],
+                "best_for": "幅広の足のプレイヤー、クッション性を重視するプレイヤー",
+                "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+SFX3+Pickleball",
+                "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+SFX3+Pickleball/",
+                "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+SFX3+Pickleball"
+            }
+        ]
+    }
+]

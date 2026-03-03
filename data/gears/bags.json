@@ -1,0 +1,38 @@
+[
+    {
+        "id": "bag_joola_tour_elite",
+        "brand_name": "JOOLA",
+        "product_name": "Tour Elite Pro Pickleball Bag",
+        "price": 19800,
+        "bag_type": "バックパック",
+        "paddle_capacity": 4,
+        "has_shoe_pocket": true,
+        "has_fence_hook": true,
+        "has_thermal_pocket": true,
+        "color_variations": [
+            "ブラック/イエロー",
+            "ネイビー/ブルー"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Tour+Elite+Pickleball+Bag",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Tour+Elite+Pickleball+Bag/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Tour+Elite+Pickleball+Bag"
+    },
+    {
+        "id": "bag_franklin_pro_series",
+        "brand_name": "Franklin",
+        "product_name": "Pro Series Pickleball Paddle Bag",
+        "price": 11000,
+        "bag_type": "スリングバッグ",
+        "paddle_capacity": 2,
+        "has_shoe_pocket": false,
+        "has_fence_hook": true,
+        "has_thermal_pocket": false,
+        "color_variations": [
+            "ブラック",
+            "グレー杢"
+        ],
+        "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+Pro+Series+Pickleball+Bag",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+Pro+Series+Pickleball+Bag/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Pro+Series+Pickleball+Bag"
+    }
+]

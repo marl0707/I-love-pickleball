@@ -1,0 +1,292 @@
+[
+  {
+    "id": "ball_franklin_x40",
+    "brand_name": "Franklin",
+    "product_name": "X-40 Outdoor Pickleballs",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": [
+      "オプティックイエロー",
+      "ネオンピンク",
+      "ボルケーノレッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+X-40+Pickleballs",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+X-40+Pickleballs/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Pickleballs"
+  },
+  {
+    "id": "ball_dura_fast_40",
+    "brand_name": "Dura",
+    "product_name": "Dura Fast 40 Outdoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": [
+      "ネオンイエロー",
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Dura+Fast+40+Pickleballs",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dura+Fast+40+Pickleballs/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura+Fast+40+Pickleballs"
+  },
+  {
+    "id": "ball_joola_primo",
+    "brand_name": "JOOLA",
+    "product_name": "Primo Pickleballs",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": [
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Primo+Pickleballs",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Primo+Pickleballs/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Primo+Pickleballs"
+  },
+  {
+    "id": "ball_onix_fuse_indoor",
+    "brand_name": "Onix",
+    "product_name": "Fuse Indoor Pickleballs",
+    "grade": "準公式球",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": [
+      "オレンジ",
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Onix+Fuse+Indoor+Pickleballs",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Onix+Fuse+Indoor+Pickleballs/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix+Fuse+Indoor+Pickleballs"
+  },
+  {
+    "id": "ball_vulcan_v520",
+    "brand_name": "Vulcan",
+    "product_name": "V520 Control Indoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": [
+      "イエロー",
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan+V520+Pickleballs",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan+V520+Pickleballs/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+V520+Pickleballs"
+  },
+  {
+    "category": "Pickleball Balls",
+    "description": "ピックルボールの公式試合や練習で使用される代表的なボールのデータです。屋内用（インドア）と屋外用（アウトドア）で穴の数や硬さが異なります。",
+    "items": [
+      {
+        "id": "franklin-x-40",
+        "brand": "Franklin",
+        "model": "X-40",
+        "type": "Outdoor",
+        "holes": 40,
+        "weight_grams": 26,
+        "features": [
+          "USAPA公認球",
+          "多くのメジャートーナメント（US Openなど）での公式球",
+          "耐久性と飛行の安定性に優れる",
+          "やや柔らかめの打感"
+        ],
+        "best_for": "屋外コートでの標準的なプレイ、初心者からプロまで",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+X-40+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+X-40+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Pickleball"
+      },
+      {
+        "id": "dura-fast-40",
+        "brand": "Dura",
+        "model": "Fast 40",
+        "type": "Outdoor",
+        "holes": 40,
+        "weight_grams": 26,
+        "features": [
+          "USAPA公認球",
+          "PPAツアーなどのプロトーナメントで頻繁に使用される",
+          "硬めの素材でスピードが出やすい",
+          "X-40に比べると寒冷地での耐久性にやや難がある（割れやすい）"
+        ],
+        "best_for": "スピードと攻撃的なプレイを好む上級者・プロ",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Dura+Fast+40+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dura+Fast+40+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura+Fast+40+Pickleball"
+      },
+      {
+        "id": "vulcan-v520",
+        "brand": "Vulcan",
+        "model": "V520",
+        "type": "Indoor",
+        "holes": 26,
+        "weight_grams": 26,
+        "features": [
+          "USAPA公認球",
+          "インドア環境（体育館の床など）に最適化",
+          "スキッド（滑り）を軽減する表面加工",
+          "穴の数が少なく、風の影響を受けない屋内での正確なバウンスを実現"
+        ],
+        "best_for": "屋内の木製・合成床コートでのプレイ",
+        "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan+V520+Pickleball",
+        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan+V520+Pickleball/",
+        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+V520+Pickleball"
+      }
+    ]
+  },
+  {
+    "id": "ball_01",
+    "brand_name": "Franklin",
+    "product_name": "X-40 Outdoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー, オレンジ"
+  },
+  {
+    "id": "ball_02",
+    "brand_name": "Franklin",
+    "product_name": "X-26 Indoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_03",
+    "brand_name": "Franklin",
+    "product_name": "X-40 Performance",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "オレンジ"
+  },
+  {
+    "id": "ball_04",
+    "brand_name": "Dura",
+    "product_name": "Dura Fast 40",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー, ネオンオレンジ"
+  },
+  {
+    "id": "ball_05",
+    "brand_name": "Onix",
+    "product_name": "Fuse G2 Outdoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_06",
+    "brand_name": "Onix",
+    "product_name": "Pure 2 Indoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_07",
+    "brand_name": "CORE",
+    "product_name": "CORE Pickleball Indoor",
+    "grade": "準公式球",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "オレンジ"
+  },
+  {
+    "id": "ball_08",
+    "brand_name": "CORE",
+    "product_name": "CORE Pickleball Outdoor",
+    "grade": "準公式球",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_09",
+    "brand_name": "Vulcan",
+    "product_name": "V520 Control Indoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_10",
+    "brand_name": "JOOLA",
+    "product_name": "Radius Outdoor Ball",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_11",
+    "brand_name": "JOOLA",
+    "product_name": "Junior Soft Ball",
+    "grade": "練習用",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "ピンク, ブルー"
+  },
+  {
+    "id": "ball_12",
+    "brand_name": "Selkirk",
+    "product_name": "Pro S1 Outdoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー, ホワイト"
+  },
+  {
+    "id": "ball_13",
+    "brand_name": "Gamma",
+    "product_name": "Foam Quiet Ball",
+    "grade": "練習用",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "イエロー, オレンジ"
+  },
+  {
+    "id": "ball_14",
+    "brand_name": "HEAD",
+    "product_name": "Penn 40 Outdoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_15",
+    "brand_name": "Wilson",
+    "product_name": "Tru 32 Pro",
+    "grade": "準公式球",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ホワイト"
+  },
+  {
+    "id": "ball_16",
+    "brand_name": "Engage",
+    "product_name": "Tour Ball",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_17",
+    "brand_name": "Amazin' Aces",
+    "product_name": "練習用6個入り",
+    "grade": "練習用",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー, ネオンオレンジ, ネオンピンク"
+  },
+  {
+    "id": "ball_18",
+    "brand_name": "Niupipo",
+    "product_name": "Indoor Ball 12個入り",
+    "grade": "練習用",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_19",
+    "brand_name": "CRBN",
+    "product_name": "CRBN Pro Outdoor",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": "ネオンイエロー"
+  },
+  {
+    "id": "ball_20",
+    "brand_name": "Prokennex",
+    "product_name": "Ultra Soft Indoor",
+    "grade": "練習用",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": "グリーン"
+  }
+]

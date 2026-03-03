@@ -1,0 +1,37 @@
+{
+    "region": "東北",
+    "nameRomaji": "tohoku",
+    "description": "東北エリアのピックルボール施設一覧です。",
+    "facilities": [
+        {
+            "id": "tohoku-sendai-pickleball-hub",
+            "name": "仙台ピックルボールハブ",
+            "type": "indoor",
+            "courts": 4,
+            "address": "宮城県仙台市青葉区",
+            "features": [
+                "東北最大級のピックルボール団体拠点",
+                "初心者から上級者までレベル別教室開催",
+                "地域の大会『伊達政宗杯』の会場"
+            ],
+            "access": "仙台市地下鉄 勾当台公園駅 徒歩8分",
+            "website": "https://play-pickleball.jp/courts/?area=tohoku",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=宮城県仙台市青葉区+ピックルボール"
+        },
+        {
+            "id": "tohoku-aomori-community-gym",
+            "name": "青森市民コミュニティ体育館",
+            "type": "indoor",
+            "courts": 2,
+            "address": "青森県青森市",
+            "features": [
+                "水曜日・土曜日午前にピックルボール専用時間あり",
+                "参加費1回500円（用具貸出込み）",
+                "アットホームで初心者を歓迎する雰囲気"
+            ],
+            "access": "青森駅からバスで15分",
+            "website": "https://www.city.aomori.aomori.jp/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=青森県青森市+市民コミュニティ体育館"
+        }
+    ]
+}

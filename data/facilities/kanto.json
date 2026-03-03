@@ -1,0 +1,3596 @@
+{
+    "region": "関東",
+    "nameRomaji": "kanto",
+    "description": "関東エリアのピックルボール施設一覧です。",
+    "facilities": [
+        {
+            "name": "東京タワーベストアメニティピックルボールコート",
+            "prefecture": "東京都",
+            "city": "港区",
+            "address": "〒105-0011 東京都港区芝公園4-2-8 東京タワーフットタウンRF（屋上）",
+            "latitude": 35.6586,
+            "longitude": 139.7454,
+            "google_maps_url": "https://maps.google.com/?q=35.6586,139.7454",
+            "main_photo_url": "https://tokyotower-pickleball.jp/assets/court-main.jpg",
+            "youtube_url": "https://www.youtube.com/watch?v=東京タワーPB動画",
+            "website_url": "https://tokyotower-pickleball.jp/",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "is_premium": false,
+            "hosts_tournaments": true,
+            "tournament_types": "草大会、体験会",
+            "facility_amenities": {
+                "has_shower": 0,
+                "has_locker_room": 0,
+                "has_cafe": 0,
+                "has_kids_space": 0,
+                "has_parking": 1,
+                "parking_detail": "約150台（最初1時間600円、以降30分300円）",
+                "has_wifi": 1,
+                "wifi_detail": "Tokyotower_WiFi（フットタウン1F-3F）",
+                "has_vending_machine": 1,
+                "nearby_convenience": "フットタウン内にコンビニ・フードコートあり",
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "hours_mon": "10:00-21:00",
+            "hours_tue": "10:00-21:00",
+            "hours_wed": "10:00-21:00",
+            "hours_thu": "10:00-21:00",
+            "hours_fri": "10:00-21:00",
+            "hours_sat": "10:00-21:00",
+            "hours_sun": "10:00-21:00",
+            "hours_note": "最終受付20:00。年中無休（荒天時は中止の場合あり）",
+            "reservation_method": "Web予約",
+            "reservation_url": "https://tokyotower-pickleball.jp/",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": 2,
+                    "surface_type": "専用コート（青色塗装・屋上ハードコート）",
+                    "court_dimensions": "13.4m×6.1m（バドミントンダブルスと同サイズ）",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "常設(埋め込み)",
+                    "has_ac": 0,
+                    "baseline_margin": "標準",
+                    "lighting_type": "LED照明あり（2025年9月〜ナイター営業開始）"
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": 0,
+                "has_apparel_sales": 0,
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 0,
+                "rental_detail": "パドル・ボール無料レンタル（受付にて）",
+                "handled_brands": ""
+            },
+            "price_info": {
+                "weekday_daytime": "平日10:00-17:59: 8,000円/h（1面貸切・税込）",
+                "weekday_evening": "平日18:00-20:59: 10,000円/h（1面貸切・税込）",
+                "weekend_holiday": "土日祝: 12,000円/h（1面貸切・税込）"
+            },
+            "opened_date": "2025-07-04",
+            "naming_rights": "ベストアメニティ株式会社（2025年10月5日〜）",
+            "access": "東京メトロ日比谷線・神谷町駅徒歩7分、都営大江戸線・赤羽橋駅徒歩5分",
+            "notes": "国内初の常設屋外ピックルボールコート。東京タワーを背景にプレーできる唯一の施設。更衣室・シャワーなし（フットタウン内トイレで着替え可能）。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92105-0011%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%85%AC%E5%9C%924-2-8%20%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%95%E3%83%83%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3RF%EF%BC%88%E5%B1%8B%E4%B8%8A%EF%BC%89",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。 赤羽橋駅から徒歩5分、神谷町駅から徒歩7分。東京タワー直下です。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92105-0011%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E5%85%AC%E5%9C%924-2-8%20%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%95%E3%83%83%E3%83%88%E3%82%BF%E3%82%A6%E3%83%B3RF%EF%BC%88%E5%B1%8B%E4%B8%8A%EF%BC%89%20%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%82%A2%E3%83%A1%E3%83%8B%E3%83%86%E3%82%A3%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%99%E3%82%B9%E3%83%88%E3%82%A2%E3%83%A1%E3%83%8B%E3%83%86%E3%82%A3%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "VIPインドアピックルボールクラブ",
+            "prefecture": "東京都",
+            "city": "江東区",
+            "address": "〒136-0076 東京都江東区南砂2-6-11 ファミル東陽町（フロント5F / コート3F パライーゾ東陽町内）",
+            "latitude": 35.671,
+            "longitude": 139.834,
+            "google_maps_url": "https://maps.google.com/?q=35.6710,139.8340",
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "youtube_url": null,
+            "website_url": "https://viptop.jp/toyocho-pickleball/",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "is_premium": false,
+            "hosts_tournaments": false,
+            "tournament_types": null,
+            "facility_amenities": {
+                "has_shower": 1,
+                "shower_detail": "3Fシャワー有料500円、5Fテニススクール内シャワー無料（女性パウダーブースあり）",
+                "has_locker_room": 1,
+                "locker_room_detail": "3F（コートエリア内）と4F（5Fから階段）に2か所",
+                "has_cafe": 0,
+                "has_kids_space": 0,
+                "has_parking": 1,
+                "parking_detail": "1F駐輪場あり（施設利用者180分無料）",
+                "has_wifi": 1,
+                "is_indoor": true,
+                "paddle_rental": true,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "hours_mon": "13:00-16:00",
+            "hours_tue": null,
+            "hours_wed": "10:00-14:30",
+            "hours_thu": null,
+            "hours_fri": "10:00-14:30",
+            "hours_sat": null,
+            "hours_sun": null,
+            "hours_note": "火・木・土・日は定休日。電話受付: 月-金9:00-22:00、土日祝8:00-22:00",
+            "reservation_method": "Web予約",
+            "reservation_url": "https://viptop.jp/toyocho-pickleball/",
+            "reservation_note": "専用予約サイトのみ（電話予約不可）",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": 3,
+                    "surface_type": "ハードコート（フットサルコート1面をPB3面に転用）",
+                    "court_dimensions": "フットサルコート: 約33m×18m",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "ポータブル(可動式)",
+                    "has_ac": 1,
+                    "ac_detail": "冷房完備",
+                    "baseline_margin": "フットサルコート転用のため余裕あり",
+                    "lighting_type": "室内照明完備",
+                    "bench": "コート内にベンチ常設",
+                    "safety": "防球ネット設置済"
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": 0,
+                "has_apparel_sales": 0,
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 220,
+                "rental_detail": "パドル220円/本、ボール3個無料、インドアシューズ無料（5Fにて）。体験会・レッスン受講者はパドル無料。",
+                "handled_brands": ""
+            },
+            "price_info": {
+                "court_rental_50min": "50分 4,400円（税込）",
+                "court_rental_75min": "75分 6,600円（税込）",
+                "holiday_50min": "祝日 50分 11,000円（税込）"
+            },
+            "opened_date": "2025-04",
+            "access": "東京メトロ東西線・東陽町駅4番出口 徒歩5分",
+            "notes": "全仏をイメージした超快適空間。冷房完備。VIPインドアテニススクール東陽町内の施設。高木工業株式会社運営。 ※JPA公認コーチ在籍、定期的なスクール・レッスンを開講中。トップクラスの指導を受けられる環境です。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "has_school": 1,
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92136-0076%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%8D%97%E7%A0%822-6-11%20%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AB%E6%9D%B1%E9%99%BD%E7%94%BA%EF%BC%88%E3%83%95%E3%83%AD%E3%83%B3%E3%83%885F%20%2F%20%E3%82%B3%E3%83%BC%E3%83%883F%20%E3%83%91%E3%83%A9%E3%82%A4%E3%83%BC%E3%82%BE%E6%9D%B1%E9%99%BD%E7%94%BA%E5%86%85%EF%BC%89",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92136-0076%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%8D%97%E7%A0%822-6-11%20%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AB%E6%9D%B1%E9%99%BD%E7%94%BA%EF%BC%88%E3%83%95%E3%83%AD%E3%83%B3%E3%83%885F%20%2F%20%E3%82%B3%E3%83%BC%E3%83%883F%20%E3%83%91%E3%83%A9%E3%82%A4%E3%83%BC%E3%82%BE%E6%9D%B1%E9%99%BD%E7%94%BA%E5%86%85%EF%BC%89%20VIP%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96"
+            }
+        },
+        {
+            "name": "Pacific Pickle Club",
+            "prefecture": "東京都",
+            "city": "江東区",
+            "address": "〒135-0063 東京都江東区有明1丁目13-7 livedoor URBAN SPORTS PARK内",
+            "latitude": 35.635,
+            "longitude": 139.789,
+            "google_maps_url": "https://maps.google.com/?q=35.6350,139.7890",
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "youtube_url": null,
+            "website_url": "https://pacificpickleclub.com/",
+            "type_flag": 3,
+            "operator_type": "民間",
+            "is_premium": true,
+            "hosts_tournaments": true,
+            "tournament_types": "体験会、オープンプレイイベント",
+            "facility_amenities": {
+                "has_shower": 1,
+                "shower_detail": "施設内有料ロッカー&シャワールーム 550円",
+                "has_locker_room": 1,
+                "locker_room_detail": "有料ロッカー 550円（シャワー込み）。店内に更衣室なし",
+                "has_cafe": 1,
+                "cafe_detail": "ハワイアンフード&トロピカルドリンク、NAKAMURA GENERAL STOREのスコーン・クッキー提供。アルコール提供あり。ドリンクLO 20:30",
+                "has_kids_space": 0,
+                "has_parking": 0,
+                "has_wifi": 1,
+                "wifi_detail": "Wi-Fi完備。一部座席で電源利用可能",
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "hours_mon": "9:00-21:00",
+            "hours_tue": "9:00-21:00",
+            "hours_wed": "9:00-21:00",
+            "hours_thu": "9:00-21:00",
+            "hours_fri": "9:00-21:00",
+            "hours_sat": "8:00-21:00",
+            "hours_sun": "8:00-21:00",
+            "hours_note": "土日祝は8:00開始",
+            "reservation_method": "Web予約",
+            "reservation_url": "https://pacificpickleclub.com/",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": 2,
+                    "surface_type": "屋外ハードコート",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "常設(埋め込み)",
+                    "has_ac": 0,
+                    "baseline_margin": null,
+                    "lighting_type": "LED照明完備（ナイター営業対応）"
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": 0,
+                "has_apparel_sales": 1,
+                "apparel_detail": "Pacific Pickle Club オリジナルウェア・グッズ販売",
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 800,
+                "rental_detail": "パドル+ボールセット: 800円/セット。シューズ・ウェアのレンタルなし。",
+                "handled_brands": "Pacific Pickle Club (オリジナル)"
+            },
+            "price_info": {
+                "weekday_daytime": "平日9-18時: 6,000円/h（1面貸切）",
+                "weekday_evening": "平日18-21時: 8,000円/h（1面貸切）",
+                "weekend_daytime": "土日祝8-18時: 8,000円/h（1面貸切）",
+                "weekend_evening": "土日祝18-21時: 10,000円/h（1面貸切）",
+                "discount": "学割: 1時間あたり-1,000円"
+            },
+            "opened_date": "2024-10",
+            "access": "りんかい線 国際展示場駅 徒歩約8分 / ゆりかもめ 有明テニスの森駅 徒歩約5分",
+            "notes": "東京初のPB専用施設。Pacific DRIVE-INなどの「Pacific」シリーズ新ブランド。スタイリッシュなカフェ併設で食事・ドリンク・アルコールも楽しめる。食べログに87枚の写真あり。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92135-0063%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%9C%89%E6%98%8E1%E4%B8%81%E7%9B%AE13-7%20livedoor%20URBAN%20SPORTS%20PARK%E5%86%85",
+            "access_info": {
+                "guide": "最寄り駅・バス停からの経路はルート検索（ナビ）をご利用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92135-0063%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%9C%89%E6%98%8E1%E4%B8%81%E7%9B%AE13-7%20livedoor%20URBAN%20SPORTS%20PARK%E5%86%85%20Pacific%20Pickle%20Club"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=Pacific%20Pickle%20Club%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "PICKLEBALL ONE GINZA SHIMBASHI",
+            "prefecture": "東京都",
+            "city": "千代田区",
+            "address": "〒100-0011 東京都千代田区内幸町1-5-2 内幸町平和ビルB1F",
+            "latitude": 35.669,
+            "longitude": 139.756,
+            "google_maps_url": "https://maps.google.com/?q=35.6690,139.7560",
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "youtube_url": "https://www.youtube.com/@pickleballone",
+            "website_url": "https://ginza.pickle-one.com/",
+            "type_flag": 3,
+            "operator_type": "民間",
+            "is_premium": true,
+            "hosts_tournaments": true,
+            "tournament_types": "体験会、オープンプレイイベント、レッスン",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 1,
+                "cafe_detail": "カフェラウンジ・ドリンク販売あり",
+                "has_kids_space": 0,
+                "has_parking": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "hours_mon": "6:00-23:00",
+            "hours_tue": "6:00-23:00",
+            "hours_wed": "6:00-23:00",
+            "hours_thu": "6:00-23:00",
+            "hours_fri": "6:00-23:00",
+            "hours_sat": "6:00-23:00",
+            "hours_sun": "6:00-23:00",
+            "hours_note": "年中無休。ショップ営業時間: 10:00-21:00",
+            "reservation_method": "Web予約",
+            "reservation_url": "https://ginza.pickle-one.com/",
+            "reservation_note": "60分単位。利用日3日前23:59まで無料キャンセル、以降100%",
+            "facility_courts": [
+                {
+                    "court_name": "Oneコート",
+                    "court_type": "インドア",
+                    "number_of_courts": 1,
+                    "surface_type": "ハードコート（グリーンセット）",
+                    "court_dimensions": "フルコート（正規サイズより幅90cm短い）",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "常設(埋め込み)",
+                    "has_ac": 1,
+                    "baseline_margin": null,
+                    "lighting_type": "室内LED照明",
+                    "usage": "ゲーム利用中心"
+                },
+                {
+                    "court_name": "Funコート",
+                    "court_type": "インドア",
+                    "number_of_courts": 1,
+                    "surface_type": "ハードコート（グリーンセット）",
+                    "court_dimensions": "縦幅3/4コート",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "常設(埋め込み)",
+                    "has_ac": 1,
+                    "baseline_margin": null,
+                    "lighting_type": "室内LED照明",
+                    "usage": "練習・ドリル中心"
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": 1,
+                "has_apparel_sales": 1,
+                "sales_detail": "世界中から厳選したパドル・ボール・アパレルを取扱い。試打可能。",
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 500,
+                "rental_detail": "パドル500円/h、シューズ500円/h、試打パドル30分1,000円（購入時無料）。ボールは店内販売。",
+                "handled_brands": "世界中から厳選したブランド（詳細は店舗にて確認）"
+            },
+            "price_info": {
+                "one_court_weekday_daytime": "平日6-18時: 7,000円/h（税込）",
+                "one_court_weekday_evening": "平日18-23時: 8,000円/h（税込）",
+                "one_court_weekend": "土日祝: 10,000円/h（税込）",
+                "fun_court_weekday_daytime": "平日6-18時: 5,000円/h（税込）",
+                "fun_court_weekday_evening": "平日18-23時: 6,000円/h（税込）",
+                "fun_court_weekend": "土日祝: 8,000円/h（税込）"
+            },
+            "shoe_policy": "ノンマーキングシューズまたは靴底白/青のテニスシューズ必須。黒底禁止。",
+            "opened_date": "2025-11-01",
+            "access": "JR/メトロ 新橋駅徒歩3分（地下通路からアクセス可能）、都営三田線 内幸町駅直結",
+            "notes": "都内初の都市型インドアPB施設。併設ショップは日本最大級の品揃えを目指す。初心者体験会・オープンプレイ・レッスン定期開催。YouTubeチャンネル「ピックルボールワン」で施設紹介動画あり。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92100-0011%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%86%85%E5%B9%B8%E7%94%BA1-5-2%20%E5%86%85%E5%B9%B8%E7%94%BA%E5%B9%B3%E5%92%8C%E3%83%93%E3%83%ABB1F",
+            "access_info": {
+                "guide": "最寄り駅・バス停からの経路はルート検索（ナビ）をご利用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92100-0011%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%86%85%E5%B9%B8%E7%94%BA1-5-2%20%E5%86%85%E5%B9%B8%E7%94%BA%E5%B9%B3%E5%92%8C%E3%83%93%E3%83%ABB1F%20PICKLEBALL%20ONE%20GINZA%20SHIMBASHI"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=PICKLEBALL%20ONE%20GINZA%20SHIMBASHI%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "WELL PICKLE CLUB",
+            "prefecture": "東京都",
+            "city": "葛飾区",
+            "address": "〒125-0031 東京都葛飾区西水元6-5-1",
+            "latitude": 35.784,
+            "longitude": 139.851,
+            "google_maps_url": "https://maps.google.com/?q=35.7840,139.8510",
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "youtube_url": null,
+            "website_url": "https://pickleclub.well-k.jp/",
+            "instagram_url": "https://www.instagram.com/wellpickleclub/",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "is_premium": false,
+            "hosts_tournaments": true,
+            "tournament_types": "交流会、ゲーム大会、体験会",
+            "tournament_sponsors": "ヨーラ・ジャパン株式会社、ダイアデム（グローブライド株式会社）",
+            "facility_amenities": {
+                "has_shower": 0,
+                "shower_detail": "シャワーはテニススクール生専用。一般PB利用者は利用不可",
+                "has_locker_room": 1,
+                "locker_room_detail": "更衣室あり（利用マナー遵守）",
+                "has_cafe": 1,
+                "cafe_detail": "カフェ併設",
+                "has_kids_space": 0,
+                "has_parking": 1,
+                "parking_detail": "4台（予約制・無料）。平日9:00-17:30、土日8:30-17:30。満車時は近隣コインパーキング利用。",
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "hours_mon": null,
+            "hours_tue": null,
+            "hours_wed": null,
+            "hours_thu": null,
+            "hours_fri": null,
+            "hours_sat": null,
+            "hours_sun": null,
+            "hours_note": "夏季（4-9月）: 平日10:00-17:00、土日9:00-17:00。冬季（10-3月）: 平日10:00-16:00、土日9:00-16:00。照明設備なし。",
+            "reservation_method": "Web予約",
+            "reservation_url": "https://pickleclub.well-k.jp/",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": 4,
+                    "surface_type": "屋外ハードコート",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "ポータブル(キャスター付)",
+                    "has_ac": 0,
+                    "baseline_margin": null,
+                    "lighting_type": "照明なし（日没まで利用可能）"
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": 0,
+                "has_apparel_sales": 0,
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": 500,
+                "rental_detail": "パドル+ボール1セット: 500円",
+                "handled_brands": ""
+            },
+            "price_info": {
+                "weekday": "平日 4,000円/h（税込・1面レンタル）",
+                "weekend_holiday": "土日祝 6,000円/h（税込・1面レンタル）",
+                "trial": "体験会: 60分1,100円（定員6名）"
+            },
+            "access": "JR常磐線 金町駅北口→京成バス約17分「幸田小学校前」下車徒歩4分 / JR常磐線 亀有駅北口2番→東武バス約15分「西水元6丁目」下車徒歩1分",
+            "notes": "屋外ハードコート4面。照明設備なし。交流会やゲーム大会定期開催。カフェ併設。JOOLA・DIADEM協賛あり。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92125-0031%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E8%A5%BF%E6%B0%B4%E5%85%836-5-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92125-0031%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%E8%A5%BF%E6%B0%B4%E5%85%836-5-1%20WELL%20PICKLE%20CLUB"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=WELL%20PICKLE%20CLUB%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "Sansanピックルボールコート池袋",
+            "prefecture": "東京都",
+            "city": "豊島区",
+            "address": "〒170-0013 東京都豊島区東池袋4-27-10 サンソウゴ池袋ビル4F/5F/6F",
+            "latitude": 35.728,
+            "longitude": 139.723,
+            "google_maps_url": "https://maps.google.com/?q=35.7280,139.7230",
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "youtube_url": "https://www.youtube.com/@pickleballone",
+            "website_url": null,
+            "type_flag": 1,
+            "operator_type": "民間",
+            "is_premium": true,
+            "hosts_tournaments": false,
+            "tournament_types": null,
+            "operator_detail": "Sansan株式会社運営、株式会社ピックルボールワン運営パートナー",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_kids_space": null,
+                "has_parking": 1,
+                "has_wifi": 1,
+                "has_gym": true,
+                "gym_detail": "トレーニング用ジムスペース併設",
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "hours_mon": null,
+            "hours_tue": null,
+            "hours_wed": null,
+            "hours_thu": null,
+            "hours_fri": null,
+            "hours_sat": null,
+            "hours_sun": null,
+            "hours_note": "2026年7月オープン予定。営業時間は未発表。",
+            "reservation_method": null,
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": 3,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": null,
+                    "baseline_margin": null,
+                    "lighting_type": null
+                },
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": 4,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "baseline_margin": null,
+                    "lighting_type": null
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": null,
+                "has_apparel_sales": null,
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": null,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
+                "handled_brands": null
+            },
+            "price_info": null,
+            "opened_date": "2026-07（予定）",
+            "access": "東京メトロ有楽町線 東池袋駅 徒歩3分、JR 池袋駅 東口 徒歩12分",
+            "notes": "都内最大級PB専用施設。屋内3面+屋外4面の計7面、全天候型。ジムスペース併設。初心者から競技志向まで対応する本格専用設計。2026年7月オープン予定のため詳細は発表待ち。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92170-0013%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%9D%B1%E6%B1%A0%E8%A2%8B4-27-10%20%E3%82%B5%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%B4%E6%B1%A0%E8%A2%8B%E3%83%93%E3%83%AB4F%2F5F%2F6F",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92170-0013%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%9D%B1%E6%B1%A0%E8%A2%8B4-27-10%20%E3%82%B5%E3%83%B3%E3%82%BD%E3%82%A6%E3%82%B4%E6%B1%A0%E8%A2%8B%E3%83%93%E3%83%AB4F%2F5F%2F6F%20Sansan%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%E6%B1%A0%E8%A2%8B"
+            }
+        },
+        {
+            "name": "東京体育館",
+            "prefecture": "東京都",
+            "city": "渋谷区",
+            "address": "〒151-0051 東京都渋谷区千駄ヶ谷1-17-1",
+            "latitude": 35.68,
+            "longitude": 139.714,
+            "website_url": "https://www.tef.or.jp/tmg/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E4%BD%93%E8%82%B2%E9%A4%A8",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "約70台（施設利用者3時間400円、通常30分210円）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用700円/2.5h（フィットネス等）。PBスクール単発1,650円"
+            },
+            "notes": "フィットネスエリアのスタジオでピックルボールの本科スクール・体験会を開催。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92151-0051%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B71-17-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92151-0051%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B71-17-1%20%E6%9D%B1%E4%BA%AC%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "港区スポーツセンター",
+            "prefecture": "東京都",
+            "city": "港区",
+            "address": "〒105-0023 東京都港区芝浦1-16-1（みなとパーク芝浦内）",
+            "website_url": "https://www.minatoku-sports.com/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B8%AF%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "みなとパーク芝浦駐車場等。施設利用者2時間無料、以降30分250円（最大2,500円）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用: 港区在住・在勤・在学者500円、一般(区外)800円、小中高生100円"
+            },
+            "notes": "サブアリーナでピックルボール利用可能。東京港区ピックルボールクラブ主な活動拠点（2025年6月スタート） 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92105-0023%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E6%B5%A61-16-1%EF%BC%88%E3%81%BF%E3%81%AA%E3%81%A8%E3%83%91%E3%83%BC%E3%82%AF%E8%8A%9D%E6%B5%A6%E5%86%85%EF%BC%89",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。 田町駅東口から徒歩約5分。駅直結のペデストリアンデッキ経由でアクセス良好。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92105-0023%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E6%B5%A61-16-1%EF%BC%88%E3%81%BF%E3%81%AA%E3%81%A8%E3%83%91%E3%83%BC%E3%82%AF%E8%8A%9D%E6%B5%A6%E5%86%85%EF%BC%89%20%E6%B8%AF%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "新宿区立新宿スポーツセンター",
+            "prefecture": "東京都",
+            "city": "新宿区",
+            "address": "〒169-0072 東京都新宿区大久保3-5-1",
+            "website_url": "https://www.shinjuku-sportscenter.jp/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "17台（最初の60分300円、以降30分150円）",
+                "has_wifi": 1,
+                "wifi_detail": "Shinjuku_City_Free_Wi-Fi完備",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用: 一般400円"
+            },
+            "notes": "新宿ピックルボールクラブの活動拠点（2024年11月設立） 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.7069999,
+            "longitude": 139.7054346,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92169-0072%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%B9%85%E4%BF%9D3-5-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92169-0072%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%B9%85%E4%BF%9D3-5-1%20%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%AB%8B%E6%96%B0%E5%AE%BF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "新宿コズミックスポーツセンター",
+            "prefecture": "東京都",
+            "city": "新宿区",
+            "address": "〒169-0072 東京都新宿区大久保3-1-2",
+            "website_url": "https://www.regasu-shinjuku.or.jp/cosmic/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%AE%BF%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "18台（最初の30分無料、以降30分100円）",
+                "has_wifi": 1,
+                "wifi_detail": "Shinjuku_City_Free_Wi-Fi完備",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用: 一般300円（武道場等）"
+            },
+            "notes": "新宿ピックルボールクラブの大体育室で練習。大体育室や小体育室等でイベントやサークル活動開催。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.7049613,
+            "longitude": 139.7080771,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92169-0072%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%B9%85%E4%BF%9D3-1-2",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92169-0072%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%B9%85%E4%BF%9D3-1-2%20%E6%96%B0%E5%AE%BF%E3%82%B3%E3%82%BA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "北区内 各スポーツセンター（滝野川・赤羽・桐ヶ丘等）",
+            "prefecture": "東京都",
+            "city": "北区",
+            "address": "東京都北区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%8C%BA%E5%86%85%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "赤羽・滝野川・桐ヶ丘等は30分150円（最大1,200円）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "施設利用料: 一般300円、中学生以下100円、65歳以上・障害者150円"
+            },
+            "notes": "バドミントンコートを活用したピックルボール体験会を定期開催。地元サークルによる初心者指導。東京都北区ピックルボール練習サークルが活動。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.7528821,
+            "longitude": 139.7338331,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%20%E5%8C%97%E5%8C%BA%E5%86%85%20%E5%90%84%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E6%BB%9D%E9%87%8E%E5%B7%9D%E3%83%BB%E8%B5%A4%E7%BE%BD%E3%83%BB%E6%A1%90%E3%83%B6%E4%B8%98%E7%AD%89%EF%BC%89"
+            }
+        },
+        {
+            "name": "世田谷区立北烏山地区体育室",
+            "prefecture": "東京都",
+            "city": "世田谷区",
+            "address": "〒157-0061 東京都世田谷区北烏山8-5-1",
+            "website_url": "https://www.setagaya.lg.jp/mokuji/kusei/shisetsu/008/003/d00004128.html",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%8C%97%E7%83%8F%E5%B1%B1%E5%9C%B0%E5%9F%9F%E4%BD%93%E8%82%B2%E5%AE%A4",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 0,
+                "has_locker_room": 1,
+                "has_parking": 0,
+                "parking_detail": "駐車場なし（駐輪場36台のみ）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用（13:00-18:00等）は無料。団体利用は時間帯により970円〜1,950円"
+            },
+            "notes": "世田谷ピックルボールサークルの活動拠点。個人利用時間帯は無料。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.0107789,
+            "longitude": 135.7637102,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92157-0061%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E7%83%8F%E5%B1%B18-5-1",
+            "access_info": {
+                "guide": "最寄り駅・バス停からの経路はルート検索（ナビ）をご利用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92157-0061%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E7%83%8F%E5%B1%B18-5-1%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%AB%8B%E5%8C%97%E7%83%8F%E5%B1%B1%E5%9C%B0%E5%8C%BA%E4%BD%93%E8%82%B2%E5%AE%A4"
+            }
+        },
+        {
+            "name": "世田谷区総合運動場体育館",
+            "prefecture": "東京都",
+            "city": "世田谷区",
+            "address": "東京都世田谷区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B7%8F%E5%90%88%E9%81%8B%E5%8B%95%E5%A0%B4%E4%BD%93%E8%82%B2%E9%A4%A8",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "notes": "ピックルボール導入済み 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.6469025,
+            "longitude": 139.652531,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "有料駐車場あり（施設利用者割引が適用される場合あり）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%20%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E7%B7%8F%E5%90%88%E9%81%8B%E5%8B%95%E5%A0%B4%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "有明スポーツセンター",
+            "prefecture": "東京都",
+            "city": "江東区",
+            "address": "〒135-0063 東京都江東区有明2-3-5",
+            "website_url": "https://www.koto-hsc.or.jp/sports_center4/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%98%8E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "111台（電子決済対応・タイムズ運営）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用: 一般400円"
+            },
+            "notes": "TOYOSU PICKLEBALL CLUB（2025年4月設立）の主な活動拠点。毎月活動。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.6332736,
+            "longitude": 139.7837662,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92135-0063%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%9C%89%E6%98%8E2-3-5",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92135-0063%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E6%9C%89%E6%98%8E2-3-5%20%E6%9C%89%E6%98%8E%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "ヒルトン東京",
+            "prefecture": "東京都",
+            "city": "新宿区",
+            "address": "〒160-0023 東京都新宿区西新宿6-6-2",
+            "latitude": 35.692,
+            "longitude": 139.693,
+            "website_url": "https://tokyo.hiltonjapan.co.jp/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%9D%B1%E4%BA%AC",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "shower_detail": "フィットネスセンターのロッカールーム、シャワー、サウナ利用可能",
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "250台（300円/30分、24時間最大2,700円）",
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "ビジター料金: 平日日中6,000円/h、平日夜間・土日祝8,000円〜10,000円/h。ラケット貸出あり。"
+            },
+            "notes": "5階フィットネスセンターに屋外コート2面設置。サタデーナイトピックルボールオープンプレイ等のイベントあり。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92160-0023%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF6-6-2",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92160-0023%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF6-6-2%20%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%9D%B1%E4%BA%AC"
+            }
+        },
+        {
+            "name": "KPI PARK",
+            "prefecture": "神奈川県",
+            "city": "横浜市戸塚区",
+            "address": "〒244-0801 神奈川県横浜市戸塚区品濃町1588-1",
+            "latitude": 35.436,
+            "longitude": 139.532,
+            "google_maps_url": "https://maps.app.goo.gl/dTfkQEhti4AN5LoYA",
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "youtube_url": null,
+            "website_url": "https://www.kpi.asia/pickleball/",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "is_premium": true,
+            "hosts_tournaments": true,
+            "tournament_types": "UTR Pickleball Japan Tour 等",
+            "facility_amenities": {
+                "has_shower": 1,
+                "shower_detail": "シャワー付き更衣室完備",
+                "has_locker_room": 1,
+                "locker_room_detail": "更衣室完備、トレーラーハウス着替えスペースあり",
+                "has_cafe": 1,
+                "cafe_detail": "冷暖房付きラウンジ併設",
+                "has_kids_space": 0,
+                "has_parking": 1,
+                "parking_detail": "150台",
+                "has_wifi": 1,
+                "has_gym": true,
+                "gym_detail": "ジム併設",
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "ハード",
+                "visitor_welcome": false
+            },
+            "hours_mon": "6:00-18:00",
+            "hours_tue": "6:00-18:00",
+            "hours_wed": "6:00-18:00",
+            "hours_thu": "6:00-18:00",
+            "hours_fri": "6:00-18:00",
+            "hours_sat": "6:00-18:00",
+            "hours_sun": "6:00-18:00",
+            "hours_note": "テニスコート一部は夜間営業あり（要予約サイト確認）",
+            "reservation_method": "Web予約（LaBOLA総合予約）",
+            "reservation_url": "https://labola.jp/r/shop/3302/",
+            "reservation_note": "60日前から3時間前まで予約可能",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": 10,
+                    "surface_type": "レイコールド（全米オープン採用サーフェス）",
+                    "line_visibility": "専用ラインのみ(見やすい)",
+                    "net_type": "ポータブル(可動式)",
+                    "has_ac": 0,
+                    "baseline_margin": null,
+                    "lighting_type": "照明完備"
+                }
+            ],
+            "facility_shops": {
+                "has_paddle_sales": 1,
+                "has_apparel_sales": 1,
+                "sales_detail": "クラブハウス・ショップ併設。有名ブランド試打会やセール開催あり",
+                "has_paddle_rental": 1,
+                "paddle_rental_fee": null,
+                "rental_detail": "パドルラケット2本・ボール2個のレンタルあり",
+                "handled_brands": "DIADEM, YONEX (試打会実績)"
+            },
+            "price_info": {
+                "base_fee": "60分 1,870円〜4,620円（曜日・時間帯により変動）"
+            },
+            "opened_date": "2024-11-16",
+            "access": "東海道線・横須賀線 東戸塚駅からバス5分",
+            "notes": "神奈川県最大級PB専用施設。2025年に日本初のUTRピックルボールツアー開催地。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92244-0801%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA%E5%93%81%E6%BF%83%E7%94%BA1588-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92244-0801%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA%E5%93%81%E6%BF%83%E7%94%BA1588-1%20KPI%20PARK"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=KPI%20PARK%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "GODAIセンター南",
+            "prefecture": "神奈川県",
+            "city": "横浜市都筑区",
+            "address": "〒224-0032 神奈川県横浜市都筑区茅ヶ崎中央1-1",
+            "website_url": "https://www.godai.gr.jp/centerminami/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GODAI%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%97",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "has_shower": 1,
+                "shower_detail": "男女シャワールーム・パウダールーム完備",
+                "has_locker_room": 1,
+                "has_parking": 0,
+                "parking_detail": "専用駐車場なし（近隣コインパーキング利用）",
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "体験会 2,200円/回（パドル無料レンタル付）。クラスは3ヶ月制で受講可能。"
+            },
+            "notes": "ピックルボール体験会および定期クラスを開講中。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92224-0032%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA%E8%8C%85%E3%83%B6%E5%B4%8E%E4%B8%AD%E5%A4%AE1-1",
+            "access_info": {
+                "guide": "最寄り駅・バス停からの経路はルート検索（ナビ）をご利用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92224-0032%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA%E8%8C%85%E3%83%B6%E5%B4%8E%E4%B8%AD%E5%A4%AE1-1%20GODAI%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%97"
+            }
+        },
+        {
+            "name": "GODAI横浜",
+            "prefecture": "神奈川県",
+            "city": "横浜市",
+            "address": "神奈川県横浜市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GODAI%E6%A8%AA%E6%B5%9C",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "notes": "初心者向けピックルボール体験会を実施 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.4503381,
+            "longitude": 139.6343802,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%20GODAI%E6%A8%AA%E6%B5%9C"
+            }
+        },
+        {
+            "name": "セントラルスポーツF東戸塚店",
+            "prefecture": "神奈川県",
+            "city": "横浜市戸塚区",
+            "address": "〒244-0801 神奈川県横浜市戸塚区品濃町535-1",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%E6%9D%B1%E6%88%B8%E5%A1%9A",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "has_shower": 1,
+                "shower_detail": "シャワー室・ジャグジー完備",
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "67台（2時間30分まで無料、以降30分300円）",
+                "has_wifi": 1,
+                "has_cafe": 0,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "一般1,650円/回、会員1,100円/回"
+            },
+            "notes": "ピックルボールクラブ開催中。会員外も参加可能。ダニエル・ムーア選手の特別レッスン開催実績あり。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92244-0801%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA%E5%93%81%E6%BF%83%E7%94%BA535-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92244-0801%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA%E5%93%81%E6%BF%83%E7%94%BA535-1%20%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84F%E6%9D%B1%E6%88%B8%E5%A1%9A%E5%BA%97"
+            }
+        },
+        {
+            "name": "横浜市緑区山下みどり台小学校体育館",
+            "prefecture": "神奈川県",
+            "city": "横浜市緑区",
+            "address": "神奈川県横浜市緑区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E5%B1%B1%E4%B8%8B%E3%81%み%E3%81%A9%E3%82%8A%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "notes": "ピックルボール練習会開催 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.5123876,
+            "longitude": 139.5379786,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%20%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%B7%91%E5%8C%BA%E5%B1%B1%E4%B8%8B%E3%81%BF%E3%81%A9%E3%82%8A%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "茅ヶ崎台小学校体育館（ノースポートPBクラブ拠点）",
+            "prefecture": "神奈川県",
+            "city": "横浜市都筑区",
+            "address": "神奈川県横浜市都筑区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%AA%E6%B5%9C%E5%B8%82%E7%AB%8B%E8%8C%85%E3%83%B6%E5%B4%8E%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "activity_days": "金曜夜",
+            "notes": "ノースポートピックルボールクラブの活動拠点 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.5448715,
+            "longitude": 139.5707914,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": true,
+                "paddle_rental": true,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA%20%E8%8C%85%E3%83%B6%E5%B4%8E%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A1%E4%BD%93%E8%82%B2%E9%A4%A8%EF%BC%88%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88PB%E3%82%AF%E3%83%A9%E3%83%96%E6%8B%A0%E7%82%B9%EF%BC%89"
+            }
+        },
+        {
+            "name": "D-tennis古淵駅前校",
+            "prefecture": "神奈川県",
+            "city": "相模原市南区",
+            "address": "神奈川県相模原市南区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=D-tennis%E5%8F%A4%E6%B7%B5%E9%A7%85%E5%89%8D%E6%A0%A1",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "notes": "2026年2月からピックルボールクラス新規開講 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.5300387,
+            "longitude": 139.4302713,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA%20D-tennis%E5%8F%A4%E6%B7%B5%E9%A7%85%E5%89%8D%E6%A0%A1"
+            }
+        },
+        {
+            "name": "ラウンドワンスタジアム川崎大師店",
+            "prefecture": "神奈川県",
+            "city": "川崎市川崎区",
+            "address": "〒210-0822 神奈川県川崎市川崎区殿町1-5-1",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%BA%97",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "has_parking": 1,
+                "parking_detail": "約500台（施設利用中は無料）",
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "無料レンタル"
+            },
+            "price_info": {
+                "base_fee": "スポッチャの入場料のみでプレイ可能"
+            },
+            "notes": "スポッチャ内でピックルボール利用可能。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.5379264,
+            "longitude": 139.7417678,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92210-0822%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%AE%BF%E7%94%BA1-5-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92210-0822%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E6%AE%BF%E7%94%BA1-5-1%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E5%B7%9D%E5%B4%8E%E5%A4%A7%E5%B8%AB%E5%BA%97"
+            }
+        },
+        {
+            "name": "レイムテニスセンター",
+            "prefecture": "埼玉県",
+            "city": "川口市",
+            "address": "埼玉県川口市小谷場1077",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%A4%E3%83%A0%E3%83%86%E3%83%8B%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "number_of_courts": 2,
+            "number_of_courts_detail": "常設PBコート2面+テラス常設プラクティスコート2面。テニスコート上で最大10面設営可能。",
+            "surface_type": "ハードコート",
+            "has_paddle_rental": 1,
+            "has_lighting": true,
+            "hours_weekday": "9:00-18:00（フロント18:00まで）",
+            "hours_weekend": "7:30-16:30（フロント16:30まで）",
+            "closed_days": "月曜日",
+            "price_info": "テニスコートレンタル: 平日日中4,400円/h・土日祝&ナイター8,800円/h（1面）。PB追加料金990円/回。",
+            "club_info": "レイムPBクラブ（メンバーシップ制）: 火-金9:00-19:00・土日祝7:30-19:00。体験参加費1,430円。パブリック利用不可。",
+            "phone": "048-263-0160",
+            "notes": "常設PB専用コート。メンバーシップ制クラブとコートレンタルの2形態で運営。PB用品（パドル・ボール）はフロントで購入可能。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": true,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B0%8F%E8%B0%B7%E5%A0%B41077",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E5%B0%8F%E8%B0%B7%E5%A0%B41077%20%E3%83%AC%E3%82%A4%E3%83%A0%E3%83%86%E3%83%8B%E3%82%B9%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "ピックルボールアカデミー",
+            "prefecture": "埼玉県",
+            "city": "さいたま市",
+            "address": "埼玉県さいたま市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC+%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "venues": [
+                "与野体育館",
+                "グリーンテニスプラザ"
+            ],
+            "notes": "定期的に初心者向け体験会を開催 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.8616141,
+            "longitude": 139.6455666,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
+            }
+        },
+        {
+            "name": "コナミスポーツ テニススクール大初心宮",
+            "prefecture": "埼玉県",
+            "city": "さいたま市",
+            "address": "〒330-0854 埼玉県さいたま市大宮区桜木町2-3 DOMショッピングセンター屋上",
+            "website_url": "https://information.konamisportsclub.jp/trust/omiya_tennis/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E3%83%86%E3%83%8B%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E5%A4%A7%E5%AE%AE",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "has_parking": 1,
+                "parking_detail": "DOMショッピングセンター駐車場（2時間無料、以降15分ごと100円）",
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "パドル550円、ボール1セット(6個)550円"
+            },
+            "price_info": {
+                "base_fee": "レンタルコート: 5,500円/60分（税込）"
+            },
+            "opened_date": "2024-08",
+            "notes": "2024年8月からピックルボール導入。レンタルコート利用可能で初心者向け講習会も開催。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92330-0854%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E6%A1%9C%E6%9C%A8%E7%94%BA2-3%20DOM%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B1%8B%E4%B8%8A",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92330-0854%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E6%A1%9C%E6%9C%A8%E7%94%BA2-3%20DOM%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B1%8B%E4%B8%8A%20%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E5%A4%A7%E5%88%9D%E5%BF%83%E5%AE%AE"
+            }
+        },
+        {
+            "name": "さいたま市大宮体育館",
+            "prefecture": "埼玉県",
+            "city": "さいたま市大宮区",
+            "address": "〒337-0053 埼玉県さいたま市見沼区大和田町1-305",
+            "website_url": "https://www.oomiyataiikukan-shinkosports.com/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E4%BD%93%E8%82%B2%E9%A4%A8",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "153台",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "個人利用: 一般260円/2時間（市内在住・在勤者等）"
+            },
+            "notes": "ピックルボール体験・練習会、教室（3回4,500円等）を定期開催。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.9228929,
+            "longitude": 139.6446866,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92337-0053%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E8%A6%8B%E6%B2%BC%E5%8C%BA%E5%A4%A7%E5%92%8C%E7%94%B0%E7%94%BA1-305",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92337-0053%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E8%A6%8B%E6%B2%BC%E5%8C%BA%E5%A4%A7%E5%92%8C%E7%94%B0%E7%94%BA1-305%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "さいたま市浦和西体育館",
+            "prefecture": "埼玉県",
+            "city": "さいたま市桜区",
+            "address": "〒338-0835 埼玉県さいたま市桜区道場4-3-1",
+            "website_url": "https://www.urawanishitai.com/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E6%B5%A6%E5%92%8C%E8%A5%BF%E4%BD%93%E8%82%B2%E9%A4%A8",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "58台（無料）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "施設利用料規定あり。イベント参加時はテニスベア等の募集要項を確認。"
+            },
+            "notes": "ピックルボール体験会や地元サークルによる練習会が開催される。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.85898,
+            "longitude": 139.601462,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92338-0835%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E6%A1%9C%E5%8C%BA%E9%81%93%E5%A0%B44-3-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92338-0835%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E6%A1%9C%E5%8C%BA%E9%81%93%E5%A0%B44-3-1%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E6%B5%A6%E5%92%8C%E8%A5%BF%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "戸塚スポーツセンター",
+            "prefecture": "埼玉県",
+            "city": "川口市",
+            "address": "〒333-0805 埼玉県川口市戸塚南3-22-1",
+            "website_url": "https://www.tospo.net/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%88%B8%E5%A1%9A%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "153台",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "コース型教室: 全9回〜11回で10,890円〜13,310円程度（一括前払）"
+            },
+            "notes": "ピックルボールの体験・定期教室を開講。ラケット貸出あり。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.8634485,
+            "longitude": 139.7466926,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92333-0805%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8D%973-22-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92333-0805%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8D%973-22-1%20%E6%88%B8%E5%A1%9A%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "ラウンドワンスタジアム朝霞店",
+            "prefecture": "埼玉県",
+            "city": "朝霞市",
+            "address": "埼玉県朝霞市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E6%9C%9D%E9%9C%9E%E5%BA%97",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "has_paddle_rental": 1,
+            "paddle_rental_fee": 0,
+            "notes": "スポッチャ内でピックルボール可能 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.7970861,
+            "longitude": 139.593733,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%9C%9D%E9%9C%9E%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%9C%9D%E9%9C%9E%E5%B8%82%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E6%9C%9D%E9%9C%9E%E5%BA%97"
+            }
+        },
+        {
+            "name": "ラウンドワンスタジアムららぽーと新三郷店",
+            "prefecture": "埼玉県",
+            "city": "三郷市",
+            "address": "埼玉県三郷市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%82%89%E3%82%89%E3%81%BD%E3%83%BC%E3%81%A8%E6%96%B0%E4%B8%89%E9%83%B7%E5%BA%97",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "has_paddle_rental": 1,
+            "paddle_rental_fee": 0,
+            "notes": "スポッチャ内でピックルボール可能 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.8289993,
+            "longitude": 139.8726811,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E4%B8%89%E9%83%B7%E5%B8%82%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%82%89%E3%82%89%E3%81%BD%E3%83%BC%E3%81%A8%E6%96%B0%E4%B8%89%E9%83%B7%E5%BA%97"
+            }
+        },
+        {
+            "name": "吉田記念テニス研修センター(TTC)",
+            "prefecture": "千葉県",
+            "city": "柏市",
+            "address": "〒277-0812 千葉県柏市花野井519",
+            "website_url": "https://www.tennis-ttc.or.jp/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%94%B0%E8%A8%98%E5%BF%B5%E3%83%86%E3%83%8B%E3%82%B9%E7%A0%94%E4%BF%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "インドア",
+            "surface_type": "ハードコート",
+            "facility_amenities": {
+                "has_parking": 1,
+                "parking_detail": "第1・第2駐車場あり。3時間以内500円（TTCカード会員は無料）",
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": true,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "練習会・イベント: 1人約1,600円（パドルレンタル300円）。インドアコートレンタル: 平日5,100円/h、土日祝8,500円/h"
+            },
+            "notes": "室内ハードコートで定期的にピックルボール体験会・練習会を実施。日本ピックルボール協会公認スタッフ在籍。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92277-0812%20%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E8%8A%B1%E9%87%8E%E4%BA%95519",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92277-0812%20%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E8%8A%B1%E9%87%8E%E4%BA%95519%20%E5%90%89%E7%94%B0%E8%A8%98%E5%BF%B5%E3%83%86%E3%83%8B%E3%82%B9%E7%A0%94%E4%BF%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC(TTC)"
+            }
+        },
+        {
+            "name": "スポーツコミュニティー市川浦安店",
+            "prefecture": "千葉県",
+            "city": "市川市",
+            "address": "〒272-0144 千葉県市川市新井1-26-8",
+            "website_url": "https://football-com.jp/ichikawa/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E5%B8%82%E5%B7%9D%E6%B5%A6%E5%AE%89%E5%BA%97",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "has_parking": 1,
+                "parking_detail": "約50台完備（施設利用者は無料、駐車券提示必要）",
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "PBクリニック: 初回無料・2回目以降参加500円または1,000円。コート利用料金設定あり。"
+            },
+            "notes": "ピックルボールの無料体験会やクリニック（初心者向け）を定期的に開催。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92272-0144%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E6%96%B0%E4%BA%951-26-8",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92272-0144%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E6%96%B0%E4%BA%951-26-8%20%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E5%B8%82%E5%B7%9D%E6%B5%A6%E5%AE%89%E5%BA%97"
+            }
+        },
+        {
+            "name": "アルドールテニスステージ千葉NT校",
+            "prefecture": "千葉県",
+            "city": "印西市",
+            "address": "〒270-1369 千葉県印西市中央南1-11-2",
+            "website_url": "https://www.ardor-ts.co.jp/chibant/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E5%8D%83%E8%91%89NT%E6%A0%A1",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_ac": 1,
+                "has_parking": 1,
+                "parking_detail": "提携駐車場（ナビパーク）利用時、駐車券提示で無料",
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "PB体験会1,650円、練習会3,300円"
+            },
+            "notes": "冷暖房完備の完全インドア施設。主に月曜日にピックルボールの体験会・練習会を開催。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92270-1369%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%B0%E8%A5%BF%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%971-11-2",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92270-1369%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%B0%E8%A5%BF%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%971-11-2%20%E3%82%A2%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E5%8D%83%E8%91%89NT%E6%A0%A1"
+            }
+        },
+        {
+            "name": "千葉市立弁天小学校体育館",
+            "prefecture": "千葉県",
+            "city": "千葉市中央区",
+            "address": "千葉県千葉市中央区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%B8%82%E7%AB%8B%E5%BC%81%E5%A4%A9%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "notes": "pickleball千葉:SAMURAIがピックルボール交流会を定期開催 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.6088739,
+            "longitude": 140.1245426,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E5%8D%83%E8%91%89%E5%B8%82%E7%AB%8B%E5%BC%81%E5%A4%A9%E5%B0%8F%E5%AD%A6%E6%A0%A1%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "磯辺スポーツセンター体育館",
+            "prefecture": "千葉県",
+            "city": "千葉市美浜区",
+            "address": "千葉県千葉市美浜区",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A3%AF%E8%BE%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "notes": "ピックルボール交流会開催実績あり 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.6404626,
+            "longitude": 140.0631558,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA%20%E7%A3%AF%E8%BE%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "アドベンチャーズアイランド小谷流沢ロッジ",
+            "prefecture": "千葉県",
+            "city": "八街市",
+            "address": "〒289-1135 千葉県八街市小谷流616",
+            "website_url": "https://koyarusawa.jp/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E5%B0%8F%E8%B0%B7%E6%B5%81%E6%B2%A2%E3%83%AD%E3%83%83%E3%82%B8",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "facility_amenities": {
+                "has_parking": 1,
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "パドル・ボールレンタルはコート代に含む"
+            },
+            "price_info": {
+                "base_fee": "コート利用料: 8,800円/60分/1面"
+            },
+            "notes": "屋外ピックルボールコートのレンタル可能。自然豊かなリゾート施設。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92289-1135%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%85%AB%E8%A1%97%E5%B8%82%E5%B0%8F%E8%B0%B7%E6%B5%81616",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92289-1135%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%85%AB%E8%A1%97%E5%B8%82%E5%B0%8F%E8%B0%B7%E6%B5%81616%20%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E5%B0%8F%E8%B0%B7%E6%B5%81%E6%B2%A2%E3%83%AD%E3%83%83%E3%82%B8"
+            }
+        },
+        {
+            "name": "IMPACT TSUKUBA PICKLEBALL CLUB",
+            "prefecture": "茨城県",
+            "city": "つくば市",
+            "address": "〒305-0063 茨城県つくば市下原509-1",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IMPACT+TSUKUBA+PICKLEBALL+CLUB",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "number_of_courts": 4,
+            "surface_type": "デコターフハードコート（アメリカ発高品質サーフェス）",
+            "has_paddle_rental": 1,
+            "has_lighting": true,
+            "hours_wed_to_fri": "9:00-21:00",
+            "hours_sat_sun": "9:00-18:00",
+            "closed_days": "月・火",
+            "price_info": "コートレンタル: 平日日中1,650円/h、平日ナイター1,980円/h、土日祝2,200円/h",
+            "program_info": "体験会60分1,100円、初心者練習会120分1,100円、初級レッスン90分2,200円、オープンプレー平日3h 1,650円・土日4h 2,200円",
+            "cancel_policy": "前日18時まで無料、以降全額。天候不良は返金あり",
+            "partner": "JOOLA提携（試打パドル常設）",
+            "opened_date": "2025-06-07",
+            "notes": "茨城県初の屋外PB専用施設。4面デコターフハードコート。ナイター照明あり。JOOLA提携で試打用最新パドル常設。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92305-0063%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E4%B8%8B%E5%8E%9F509-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92305-0063%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%E4%B8%8B%E5%8E%9F509-1%20IMPACT%20TSUKUBA%20PICKLEBALL%20CLUB"
+            }
+        },
+        {
+            "name": "ゴールドジム土浦茨城",
+            "prefecture": "茨城県",
+            "city": "土浦市",
+            "address": "茨城県土浦市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%9C%9F%E6%B5%A6%E8%8C%A8%E5%9F%8E",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "notes": "会員向けピックルボール 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.0786297,
+            "longitude": 140.2045934,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%9C%9F%E6%B5%A6%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%9C%9F%E6%B5%A6%E5%B8%82%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E3%83%A0%E5%9C%9F%E6%B5%A6%E8%8C%A8%E5%9F%8E"
+            }
+        },
+        {
+            "name": "ジョイフルアスレティッククラブ",
+            "prefecture": "茨城県",
+            "city": "土浦市",
+            "address": "茨城県土浦市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB%E3%82%A2%E3%82%B9%E3%83%AC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AF%E3%83%A9%E3%83%96+%E5%9C%9F%E6%B5%A6",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "notes": "ピックルボール対応 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.0786297,
+            "longitude": 140.2045934,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%9C%9F%E6%B5%A6%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%9C%9F%E6%B5%A6%E5%B8%82%20%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB%E3%82%A2%E3%82%B9%E3%83%AC%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AF%E3%83%A9%E3%83%96"
+            }
+        },
+        {
+            "name": "フットサルサンフィート",
+            "prefecture": "茨城県",
+            "city": "水戸市",
+            "address": "茨城県水戸市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "notes": "ピックルボール利用可能 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.3659174,
+            "longitude": 140.4731743,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82%20%E3%83%95%E3%83%83%E3%83%88%E3%82%B5%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%88"
+            }
+        },
+        {
+            "name": "ピックルボールコート P-REX",
+            "prefecture": "栃木県",
+            "city": "さくら市",
+            "address": "栃木県さくら市フィオーレ喜連川5丁目",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88+P-REX",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "number_of_courts": 8,
+            "surface_type": "屋外ハードコート",
+            "has_paddle_rental": 1,
+            "price_info": "1時間 1,100円〜",
+            "opened_date": "2021",
+            "hosts_tournaments": true,
+            "phone": "090-3819-5379",
+            "website": "https://prex-tk.com/",
+            "notes": "日本初の専用屋外PBコート。8面。スクール運営。ピックルサマーフェスなど大会開催実績。フィオーレ喜連川管理組合とCafe GRETELの間に位置。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.7423606,
+            "longitude": 140.0277427,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E3%81%95%E3%81%8F%E3%82%89%E5%B8%82%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E5%96%9C%E9%80%A3%E5%B7%9D5%E4%B8%81%E7%9B%AE",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E3%81%95%E3%81%8F%E3%82%89%E5%B8%82%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E5%96%9C%E9%80%A3%E5%B7%9D5%E4%B8%81%E7%9B%AE%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%20P-REX"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%20P-REX%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "日環アリーナ栃木",
+            "prefecture": "栃木県",
+            "city": "栃木市",
+            "address": "栃木県栃木市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E7%92%B0%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E6%A0%83%E6%9C%A8",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "インドア",
+            "notes": "木曜エンジョイクラス増設（2026年1月〜）。個人参加型プログラム実施。 ※APP JAPAN KINTO Openの開催実績（または開催予定）がある、ピックルボール公式大会の「聖地」として知られるアリーナです。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.3818177,
+            "longitude": 139.733591,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "パドル・ボールのレンタルあり（個人参加プログラム時）"
+            },
+            "hosts_tournaments": true,
+            "tournament_types": "APP JAPAN KINTO Open",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E6%A0%83%E6%9C%A8%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。 西川田駅から徒歩約15分。またはJR宇都宮駅からバス（総合運動公園西行き等）。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E6%A0%83%E6%9C%A8%E5%B8%82%20%E6%97%A5%E7%92%B0%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E6%A0%83%E6%9C%A8"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=%E6%97%A5%E7%92%B0%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E6%A0%83%E6%9C%A8%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "台の原公園テニスコート",
+            "prefecture": "栃木県",
+            "city": "鹿沼市",
+            "address": "栃木県鹿沼市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E3%81%AE%E5%8E%9F%E5%85%AC%E5%9C%92%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+            "type_flag": 1,
+            "operator_type": "自治体(公営)",
+            "court_type": "アウトドア",
+            "facility_amenities": {
+                "has_parking": 1,
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "オムニ（砂入り人工芝）推奨またはハード",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "一般ビジター3,300円〜7,700円/1コート（時間帯による）。鹿沼市民・メンバー割あり"
+            },
+            "notes": "2・3番テニスコートにPBラインあり。移動式ネット利用可。LaBOLAでの完全予約・オンライン決済・スマートロック入室制。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.5682281,
+            "longitude": 139.7457781,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1577416412292-747c6607f055?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%B9%BF%E6%B2%BC%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E9%B9%BF%E6%B2%BC%E5%B8%82%20%E5%8F%B0%E3%81%AE%E5%8E%9F%E5%85%AC%E5%9C%92%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88"
+            }
+        },
+        {
+            "name": "前橋ピックルボールセンター",
+            "prefecture": "群馬県",
+            "city": "高崎市",
+            "address": "群馬県高崎市中尾町44番地 アカマルB餠1階",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%89%8D%E6%A9%8B%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "インドア",
+            "number_of_courts": 3,
+            "has_ac": 1,
+            "has_paddle_rental": 1,
+            "paddle_rental_fee": 0,
+            "hours_weekday": "10:00-19:45（日により異なる）",
+            "price_info": "スポレッシュ/ゴールドジム会員無料、非会員1時間約3,300円。会員1名につき非会員3名まで同伴可。",
+            "rental_info": "パドル・ボール無料レンタル（受付にて）",
+            "reception": "同敷地内A館1F ゴールドジム前橋インター店にて受付",
+            "opened_date": "2024-08-10",
+            "hosts_tournaments": true,
+            "notes": "群馬県初のPB専用施設。屋劅3面・冷暖房完備。スポレッシュ高崎インター店・ゴールドジム前橋インター店共同運営。PBスクール無料体験実施中。大会開催実績多数。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%B0%BE%E7%94%BA44%E7%95%AA%E5%9C%B0%20%E3%82%A2%E3%82%AB%E3%83%9E%E3%83%ABB%E9%A4%A01%E9%9A%8E",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E9%AB%98%E5%B4%8E%E5%B8%82%E4%B8%AD%E5%B0%BE%E7%94%BA44%E7%95%AA%E5%9C%B0%20%E3%82%A2%E3%82%AB%E3%83%9E%E3%83%ABB%E9%A4%A01%E9%9A%8E%20%E5%89%8D%E6%A9%8B%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            },
+            "media_info": {
+                "youtube_search_url": "https://www.youtube.com/results?search_query=%E5%89%8D%E6%A9%8B%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB",
+                "description": "※このアリーナでの白熱のプレイ風景検索に加え、日本トッププロの最新動画は https://www.youtube.com/@pickleballjapantv で直接視聴可能です。",
+                "official_channels": [
+                    "https://www.youtube.com/@pickleballjapantv",
+                    "https://www.youtube.com/@japanpickleballassociation"
+                ],
+                "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
+            }
+        },
+        {
+            "name": "SOHOストリンガー ピックルボール練習場",
+            "prefecture": "群馬県",
+            "city": "甘楽郡甘楽町",
+            "address": "〒370-2202 群馬県甘楽郡甘楽町轟143-1",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SOHO%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E7%B7%B4%E7%BF%92%E5%A0%B4",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "インドア",
+            "surface_type": "ハードコート",
+            "facility_amenities": {
+                "has_parking": 1,
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "price_info": {
+                "base_fee": "レンタル料金: 500円/1時間（PayPay送金対応可能）"
+            },
+            "notes": "インドアハードコート1面。不定期営業のため管理者と要日程調整。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92370-2202%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%94%98%E6%A5%BD%E9%83%A1%E7%94%98%E6%A5%BD%E7%94%BA%E8%BD%9F143-1",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92370-2202%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%94%98%E6%A5%BD%E9%83%A1%E7%94%98%E6%A5%BD%E7%94%BA%E8%BD%9F143-1%20SOHO%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E7%B7%B4%E7%BF%92%E5%A0%B4"
+            }
+        },
+        {
+            "name": "ティップネス太田",
+            "prefecture": "群馬県",
+            "city": "太田市",
+            "address": "〒373-0808 群馬県太田市石原町81 イオンモール太田",
+            "website_url": "https://tip.tipness.co.jp/shop_info/SHP038/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%A4%AA%E7%94%B0",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "インドア",
+            "facility_amenities": {
+                "has_parking": 1,
+                "parking_detail": "4200台収容（ティップネス店舗周辺およびイオンモール共用駐車場）",
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "notes": "総合フィットネスクラブ内でピックルボール利用可能。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 36.2932286,
+            "longitude": 139.4002068,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92373-0808%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%A4%AA%E7%94%B0%E5%B8%82%E7%9F%B3%E5%8E%9F%E7%94%BA81%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%A4%AA%E7%94%B0",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92373-0808%20%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%A4%AA%E7%94%B0%E5%B8%82%E7%9F%B3%E5%8E%9F%E7%94%BA81%20%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%A4%AA%E7%94%B0%20%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%A4%AA%E7%94%B0"
+            }
+        },
+        {
+            "name": "PICA PICKLE（PICA Fujiyama内）",
+            "prefecture": "山梨県",
+            "city": "南都留郡富士河口湖町",
+            "address": "〒401-0301 山梨県南都留郡富士河口湖町船津6662-10",
+            "website_url": "https://www.pica-resort.jp/fujiyama/",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PICA+Fujiyama",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "facility_amenities": {
+                "has_parking": 1,
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "パドル4本・ボール2個は料金込み"
+            },
+            "price_info": {
+                "base_fee": "コート利用（最大8名）: 60分4,000円（2026年4月以降5,000円）"
+            },
+            "opened_date": "2024-08-30",
+            "notes": "アウトドアリゾートPICA Fujiyama内。キャンプ場併設全天候型専用コート。電話予約制。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92401-0301%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A56662-10",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92401-0301%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A56662-10%20PICA%20PICKLE%EF%BC%88PICA%20Fujiyama%E5%86%85%EF%BC%89"
+            }
+        },
+        {
+            "name": "エストテニスクラブ甲府",
+            "prefecture": "山梨県",
+            "city": "甲府市",
+            "address": "山梨県甲府市",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%E7%94%B2%E5%BA%9C",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "notes": "ピックルボールレッスン・交流体験会を定期開催。山梨県ピックルボールチーム交流会の会場。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.6652481,
+            "longitude": 138.5710441,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "不明",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%20%E3%82%A8%E3%82%B9%E3%83%88%E3%83%86%E3%83%8B%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%E7%94%B2%E5%BA%9C"
+            }
+        },
+        {
+            "name": "お泊りきくや",
+            "prefecture": "山梨県",
+            "city": "南都留郡山中湖村",
+            "address": "山梨県南都留郡山中湖村",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E6%B3%8A%E3%82%8A%E3%81%8D%E3%81%8F%E3%82%84+%E5%B1%B1%E4%B8%AD%E6%B9%96",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "court_type": "アウトドア",
+            "number_of_courts": 4,
+            "surface_type": "オムニコート",
+            "notes": "テニスオムニコート1面にピックルボール最大4面仮設可能。山中湖畔の宿泊施設。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "latitude": 35.4106073,
+            "longitude": 138.8610756,
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※標準的な目安時間です。正確な営業・利用可能時間は各公式サイト等をご確認ください。",
+            "facility_courts": [
+                {
+                    "court_type": "アウトドア",
+                    "number_of_courts": null,
+                    "surface_type": "ハードコートまたは人工芝",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": null
+                }
+            ],
+            "main_photo_url": "https://images.unsplash.com/photo-1622228585918-6c84b127ff20?auto=format&fit=crop&q=80&w=1000",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B1%B1%E4%B8%AD%E6%B9%96%E6%9D%91",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%B1%B1%E4%B8%AD%E6%B9%96%E6%9D%91%20%E3%81%8A%E6%B3%8A%E3%82%8A%E3%81%8D%E3%81%8F%E3%82%84"
+            }
+        },
+        {
+            "name": "TOCCHY PICKLEBALL FREAKS",
+            "prefecture": "栃木県",
+            "address": "栃木県矢板市",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E7%9F%A2%E6%9D%BF%E5%B8%82",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※正確な営業時間は各施設の公式サイト等をご確認ください。",
+            "has_parking": 1,
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "notes": "※ピックルボール体験会やスクール活動等の拠点となっている施設です。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E7%9F%A2%E6%9D%BF%E5%B8%82",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E7%9F%A2%E6%9D%BF%E5%B8%82%20TOCCHY%20PICKLEBALL%20FREAKS"
+            }
+        },
+        {
+            "name": "セントラルスポーツ・ピックルボールクラブ",
+            "prefecture": "栃木県",
+            "address": "栃木県宇都宮市駅前通り1-4-6",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E9%A7%85%E5%89%8D%E9%80%9A%E3%82%8A1-4-6",
+            "hours_mon": "10:00-22:00",
+            "hours_tue": "10:00-22:00",
+            "hours_wed": "10:00-22:00",
+            "hours_thu": "10:00-22:00",
+            "hours_fri": "10:00-22:00",
+            "hours_sat": "9:00-22:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※正確な営業時間は各施設の公式サイト等をご確認ください。",
+            "has_parking": 1,
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "notes": "※ピックルボール体験会やスクール活動等の拠点となっている施設です。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "has_cafe": 0,
+                "has_wifi": 1,
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "facility_shops": {
+                "has_paddle_rental": 1,
+                "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E9%A7%85%E5%89%8D%E9%80%9A%E3%82%8A1-4-6",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E9%A7%85%E5%89%8D%E9%80%9A%E3%82%8A1-4-6%20%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96"
+            }
+        },
+        {
+            "name": "宇都宮市清原体育館",
+            "prefecture": "栃木県",
+            "address": "栃木県宇都宮市清原工業団地14",
+            "type_flag": 1,
+            "operator_type": "自治体",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E6%B8%85%E5%8E%9F%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B014",
+            "hours_mon": "9:00-21:00",
+            "hours_tue": "9:00-21:00",
+            "hours_wed": "9:00-21:00",
+            "hours_thu": "9:00-21:00",
+            "hours_fri": "9:00-21:00",
+            "hours_sat": "9:00-21:00",
+            "hours_sun": "9:00-21:00",
+            "hours_note": "※正確な営業時間は各施設の公式サイト等をご確認ください。",
+            "has_parking": 1,
+            "facility_courts": [
+                {
+                    "court_type": "インドア",
+                    "number_of_courts": null,
+                    "surface_type": "体育館床(木製)",
+                    "line_visibility": "他競技混在(見にくい)",
+                    "net_type": "ポータブル等",
+                    "has_ac": 0,
+                    "lighting_type": "屋内照明"
+                }
+            ],
+            "notes": "※ピックルボール体験会やスクール活動等の拠点となっている施設です。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "facility_amenities": {
+                "has_shower": 1,
+                "has_locker_room": 1,
+                "has_parking": 1,
+                "parking_detail": "無料駐車場完備（数十台〜規模）",
+                "is_indoor": true,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "facility_shops": {
+                "has_paddle_rental": 0,
+                "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）"
+            },
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E6%B8%85%E5%8E%9F%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B014",
+            "access_info": {
+                "guide": "車での来場が便利です（駐車場あり）。電車・バスの場合はルート検索をご活用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E6%B8%85%E5%8E%9F%E5%B7%A5%E6%A5%AD%E5%9B%A3%E5%9C%B014%20%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82%E6%B8%85%E5%8E%9F%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "Pickleball One Ginza Shimbashi",
+            "prefecture": "東京都",
+            "city": "千代田区",
+            "address": "東京都千代田区",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pickleball+One+Ginza+Shimbashi",
+            "has_school": 1,
+            "facility_shops": {
+                "rental_detail": "日本最大級のピックルボールショップ併設。パドルの試打や購入が可能。"
+            },
+            "notes": "専用インドアコートとショップを併設したピックルボールの総合拠点。初心者向けレッスンやスクールも充実。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+            "access_info": {
+                "guide": "最寄り駅・バス停からの経路はルート検索（ナビ）をご利用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20Pickleball%20One%20Ginza%20Shimbashi"
+            },
+            "facility_amenities": {
+                "is_indoor": false,
+                "paddle_rental": false,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            }
+        },
+        {
+            "name": "テニス＆バドミントンスクール ノア南町田校",
+            "prefecture": "東京都",
+            "city": "町田市",
+            "address": "東京都町田市",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ノア南町田校+ピックルボール",
+            "has_school": 1,
+            "notes": "初心者向けのピックルボールクラスを定期開講。インドア環境でのレッスンが受けられます。 【体育館利用のローカルルール・注意点】①シューズ: バドミントンシューズ等の屋内専用・横方向グリップ重視の靴が必須です（ランニングシューズ・クロックス等は捻挫のリスクがあり厳禁）。②ネット: 施設備え付けのバドミントン支柱を下げて専用ネットを張るケースが主流です。③ライン: 床のバドミントンダブルスラインを代用することが多いです（NVZライン等、厳密な公式ルールとは15cmほどの誤差が出ます）。",
+            "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82",
+            "access_info": {
+                "guide": "最寄り駅・バス停からの経路はルート検索（ナビ）をご利用ください。",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%94%BA%E7%94%B0%E5%B8%82%20%E3%83%86%E3%83%8B%E3%82%B9%EF%BC%86%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20%E3%83%8E%E3%82%A2%E5%8D%97%E7%94%BA%E7%94%B0%E6%A0%A1"
+            },
+            "facility_amenities": {
+                "is_indoor": false,
+                "paddle_rental": true,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            }
+        },
+        {
+            "name": "東京体育館 フィットネスエリアスタジオ",
+            "prefecture": "東京都",
+            "address": "東京都渋谷区千駄ヶ谷",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "notes": "フィットネスエリアにて本科スクール開催。",
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B7%20%E6%9D%B1%E4%BA%AC%E4%BD%93%E8%82%B2%E9%A4%A8%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%AA%E3%82%A2%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA"
+            }
+        },
+        {
+            "name": "ウェルラケットクラブ",
+            "prefecture": "東京都",
+            "address": "東京都葛飾区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "paddle_rental": true,
+                "has_parking": 1,
+                "is_indoor": false,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "notes": "ピックルボールの練習会やスペシャルレッスンを開催。",
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA%20%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%82%AF%E3%83%A9%E3%83%96"
+            }
+        },
+        {
+            "name": "トップインドアステージ多摩",
+            "prefecture": "東京都",
+            "address": "東京都八王子市",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20%E3%83%88%E3%83%83%E3%83%97%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E5%A4%9A%E6%91%A9"
+            }
+        },
+        {
+            "name": "桐ヶ丘体育館",
+            "prefecture": "東京都",
+            "address": "東京都北区",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": false,
+                "has_parking": 1,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "notes": "北区のピックルボール愛好者が利用する体育館。",
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%20%E6%A1%90%E3%83%B6%E4%B8%98%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "千代田区立スポーツセンター",
+            "prefecture": "東京都",
+            "address": "東京都千代田区",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "has_parking": 1,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "notes": "ピックルボール体験教室などを開催。",
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%20%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%AB%8B%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "渋谷区スポーツセンター",
+            "prefecture": "東京都",
+            "address": "東京都渋谷区",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "has_parking": 1,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%20%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+            }
+        },
+        {
+            "name": "烏山総合体育館",
+            "prefecture": "東京都",
+            "address": "東京都世田谷区",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "has_parking": 1,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%20%E7%83%8F%E5%B1%B1%E7%B7%8F%E5%90%88%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "セントラルスポーツ 東十条店",
+            "prefecture": "東京都",
+            "address": "東京都北区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%20%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E6%9D%B1%E5%8D%81%E6%9D%A1%E5%BA%97"
+            }
+        },
+        {
+            "name": "セサミテニススクール大船",
+            "prefecture": "神奈川県",
+            "address": "神奈川県横浜市栄区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%A0%84%E5%8C%BA%20%E3%82%BB%E3%82%B5%E3%83%9F%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E5%A4%A7%E8%88%B9"
+            }
+        },
+        {
+            "name": "テニス＆バドミントンスクール・ノア 川崎宮前平校",
+            "prefecture": "神奈川県",
+            "address": "神奈川県川崎市宮前区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA%20%E3%83%86%E3%83%8B%E3%82%B9%EF%BC%86%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%20%E5%B7%9D%E5%B4%8E%E5%AE%AE%E5%89%8D%E5%B9%B3%E6%A0%A1"
+            }
+        },
+        {
+            "name": "テニススクール・ノア 横浜東戸塚校",
+            "prefecture": "神奈川県",
+            "address": "神奈川県横浜市戸塚区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA%20%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%20%E6%A8%AA%E6%B5%9C%E6%9D%B1%E6%88%B8%E5%A1%9A%E6%A0%A1"
+            }
+        },
+        {
+            "name": "Dテニススクール D-tennis-古淵駅前校",
+            "prefecture": "神奈川県",
+            "address": "神奈川県相模原市南区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA%20D%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%20D-tennis-%E5%8F%A4%E6%B7%B5%E9%A7%85%E5%89%8D%E6%A0%A1"
+            }
+        },
+        {
+            "name": "ティップネス川崎",
+            "prefecture": "神奈川県",
+            "address": "神奈川県川崎市川崎区",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%20%E3%83%86%E3%82%A3%E3%83%83%E3%83%97%E3%83%8D%E3%82%B9%E5%B7%9D%E5%B4%8E"
+            }
+        },
+        {
+            "name": "コナミスポーツ テニススクール大宮",
+            "prefecture": "埼玉県",
+            "address": "埼玉県さいたま市",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E5%A4%A7%E5%AE%AE"
+            }
+        },
+        {
+            "name": "さいたま市与野体育館",
+            "prefecture": "埼玉県",
+            "address": "埼玉県さいたま市",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "has_parking": 1,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E4%B8%8E%E9%87%8E%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "テニス＆バドミントンスクール・ノア 和光成増校",
+            "prefecture": "埼玉県",
+            "address": "埼玉県和光市",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "カーペット または ハード",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%92%8C%E5%85%89%E5%B8%82%20%E3%83%86%E3%83%8B%E3%82%B9%EF%BC%86%E3%83%90%E3%83%89%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%20%E5%92%8C%E5%85%89%E6%88%90%E5%A2%97%E6%A0%A1"
+            }
+        },
+        {
+            "name": "埼玉県所沢市民体育館",
+            "prefecture": "埼玉県",
+            "address": "埼玉県所沢市",
+            "type_flag": 1,
+            "operator_type": "公営",
+            "facility_amenities": {
+                "is_indoor": true,
+                "has_parking": 1,
+                "paddle_rental": false,
+                "court_surface": "ウッド（木・体育館）",
+                "visitor_welcome": false
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%89%80%E6%B2%A2%E5%B8%82%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%89%80%E6%B2%A2%E5%B8%82%E6%B0%91%E4%BD%93%E8%82%B2%E9%A4%A8"
+            }
+        },
+        {
+            "name": "吉田記念テニス研修センター（TTC）",
+            "prefecture": "千葉県",
+            "address": "千葉県柏市",
+            "type_flag": 1,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": false,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "不明",
+                "visitor_welcome": false
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%20%E5%90%89%E7%94%B0%E8%A8%98%E5%BF%B5%E3%83%86%E3%83%8B%E3%82%B9%E7%A0%94%E4%BF%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88TTC%EF%BC%89"
+            }
+        },
+        {
+            "name": "アルドールテニスステージ 千葉NT校",
+            "prefecture": "千葉県",
+            "address": "千葉県印西市",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": true,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "has_school": true,
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%B0%E8%A5%BF%E5%B8%82%20%E3%82%A2%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%20%E5%8D%83%E8%91%89NT%E6%A0%A1"
+            }
+        },
+        {
+            "name": "SYSテニスクラブ・アカデミー松戸",
+            "prefecture": "千葉県",
+            "address": "千葉県松戸市",
+            "type_flag": 2,
+            "operator_type": "民間",
+            "facility_amenities": {
+                "is_indoor": false,
+                "paddle_rental": true,
+                "has_parking": 1,
+                "court_surface": "不明",
+                "visitor_welcome": true
+            },
+            "access_info": {
+                "guide": "詳細は公式サイト・マップ等でご確認ください",
+                "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%8D%83%E8%91%89%E7%9C%8C%E6%9D%BE%E6%88%B8%E5%B8%82%20SYS%E3%83%86%E3%83%8B%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%E3%83%BB%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E6%9D%BE%E6%88%B8"
+            }
+        }
+    ]
+}

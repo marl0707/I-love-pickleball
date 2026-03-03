@@ -1,0 +1,73 @@
+[
+    {
+        "id": "community_tokyo_shinjuku",
+        "name": "新宿ピックルボール",
+        "description": "2024年11月に活動を開始した初心者歓迎のサークルです。ラケットスポーツ経験者を中心に、新宿区内のスポーツ施設を貸し切って活動しています。",
+        "target_area": "東京都新宿区",
+        "age_limit_min": 18,
+        "age_limit_max": 60,
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": true,
+        "play_style": "エンジョイ・混合",
+        "activity_frequency": "週1回以上",
+        "schedule_text": "週末を中心に不定期（LINE公式アカウントで調整）",
+        "external_url": "https://www.tennisbear.net/circle/84045/info",
+        "location_text": "新宿区内のスポーツ施設",
+        "owner_user_id": "user_mock_001",
+        "created_at": "2024-11-01T00:00:00Z"
+    },
+    {
+        "id": "community_osaka_links",
+        "name": "PickleBall LINKS",
+        "description": "2025年5月に設立された大阪市鶴見区周辺で活動するサークルです。ピックルボールコーディネーター資格を持つ指導者がおり、初心者講習会も開催しています。",
+        "target_area": "大阪府大阪市鶴見区",
+        "age_limit_min": 10,
+        "age_limit_max": 60,
+        "target_level": "未経験〜中級者",
+        "beginner_friendly": true,
+        "play_style": "エンジョイ・レッスンあり",
+        "activity_frequency": "月3〜5回",
+        "schedule_text": "平日夜と土曜日",
+        "external_url": "https://lit.link/pickleballlinks",
+        "location_text": "大阪市鶴見区周辺の体育館",
+        "owner_user_id": "user_mock_002",
+        "created_at": "2025-05-01T00:00:00Z"
+    },
+    {
+        "id": "community_fukuoka_infinity",
+        "name": "INFINITY インフィニティー Fukuoka",
+        "description": "福岡で活動するピックルボールサークルです。入会費・年会費なしで、オープンチャットから気軽に参加申し込みが可能です。",
+        "target_area": "福岡県福岡市",
+        "age_limit_min": 18,
+        "age_limit_max": 99,
+        "target_level": "初心者〜中級者",
+        "beginner_friendly": true,
+        "play_style": "エンジョイ",
+        "activity_frequency": "不定期",
+        "schedule_text": "サークルイベントごとに告知",
+        "external_url": "https://tunagate.com/circle/89758",
+        "location_text": "福岡市内のコート",
+        "owner_user_id": "user_mock_003",
+        "created_at": "2023-04-01T00:00:00Z"
+    },
+    {
+        "id": "community_001",
+        "name": "東京ウィークエンド・ピックルボーラーズ",
+        "description": "東京都内（主に有明、東陽町など）で週末に集まってエンジョイプレーを楽しむ社会人サークルです。全くの初心者も歓迎！",
+        "target_area": "東京都",
+        "target_level": "初心者〜中級者 (DUPR 2.0 - 3.5)",
+        "beginner_friendly": true,
+        "play_style": "エンジョイ主体",
+        "activity_frequency": "週1〜2回（土日祝）"
+    },
+    {
+        "id": "community_002",
+        "name": "関西コンペティティブ PBクラブ",
+        "description": "JPA公式大会や草大会での上位入賞を目指す、競技志向の強いプレイヤー向けのクラブ。定期的なドリル練習と試合形式をメインに行います。",
+        "target_area": "大阪府・兵庫県",
+        "target_level": "中級者〜上級者 (DUPR 4.0+)",
+        "beginner_friendly": false,
+        "play_style": "競技志向",
+        "activity_frequency": "週2回（水曜夜、日曜午前）"
+    }
+]
