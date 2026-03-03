@@ -74,6 +74,12 @@ model Facility {
   errorReportCount  Int       @default(0) @map("error_report_count")
   lastCrawledAt     DateTime? @map("last_crawled_at")
 
+  // --- database_schema_draft.md 追加カラム ---
+  directionsUrl     String?   @map("directions_url")    // Google Maps等への経路案内URL
+  accessGuide       String?   @map("access_guide")      // 「駅から徒歩5分」等の補足アクセス情報
+  visitorWelcome    Boolean   @default(false) @map("visitor_welcome")  // ドロップイン・体験参加歓迎フラグ
+  hasSchool         Boolean   @default(false) @map("has_school")       // 施設主導スクール有無
+
   createdAt DateTime @default(now()) @map("created_at")
   updatedAt DateTime @updatedAt @map("updated_at")
 
@@ -502,3 +508,40 @@ model DrillBookmark {
   @@map("drill_bookmarks")
 }
 
+// ============================================
+// サークル・クラブ情報 (Communities / Circles)
+// ============================================
+model Community {
+  id                String   @id @default(uuid())
+  name              String
+  description       String?  @db.Text
+  beginnerFriendly  Boolean  @default(false) @map("beginner_friendly")  // 初心者歓迎フラグ
+  playStyle         String?  @map("play_style")          // エンジョイ, 競技, 混合
+  activityFrequency String?  @map("activity_frequency")  // 週1回, 月2回, 不定期
+  scheduleText      String?  @map("schedule_text")       // 定型スケジュール文
+  externalUrl       String?  @map("external_url")        // 公式サイト・SNSリンク
+  locationText      String?  @map("location_text")       // 主な活動場所テキスト
+  targetArea        String?  @map("target_area")         // 対象エリア（関東, 近畿等）
+  mainPhotoUrl      String?  @map("main_photo_url")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("communities")
+}
+
+// ============================================
+// メディア管理 (MediaItem)
+// ============================================
+model MediaItem {
+  id         String @id @default(uuid())
+  targetType String @map("target_type")  // facility, community
+  targetId   String @map("target_id")    // 対象のID
+  mediaType  String @map("media_type")   // youtube, image, instagram
+  url        String
+
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@index([targetType, targetId])
+  @@map("media_items")
+}

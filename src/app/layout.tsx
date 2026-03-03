@@ -39,6 +39,7 @@ export default function RootLayout({
     { label: '記事', sub: 'News', href: '/articles' },
     { label: 'イベント', sub: 'Event', href: '/events' },
     { label: '練習メニュー', sub: 'Drill', href: '/drills' },
+    { label: 'サークル', sub: 'Circle', href: '/circles' },
     { label: 'コミュニティ', sub: 'Forum', href: '/community' },
   ];
 
@@ -149,12 +150,14 @@ export default function RootLayout({
                   <div className="flex flex-col gap-3">
                     <Link href="/events" className="hover:text-white transition-colors">大会・イベント</Link>
                     <Link href="/drills" className="hover:text-white transition-colors">練習メニュー</Link>
+                    <Link href="/circles" className="hover:text-white transition-colors">サークル・クラブ</Link>
                     <Link href="/community" className="hover:text-white transition-colors">コミュニティ</Link>
                     <Link href="/advertise" className="hover:text-white transition-colors">広告掲載</Link>
                   </div>
                 </div>
               </div>
-              <div className="text-center">
+              <div className="text-center space-y-2">
+                <p className="text-[10px] text-gray-600 leading-relaxed max-w-xl mx-auto">当サイトはアフィリエイト広告（Amazonアソシエイト含む）を掲載しています。Amazonのアソシエイトとして、当メディアは適格販売により収入を得ています。</p>
                 <p className="text-xs text-gray-500">&copy; 2026 I LOVE PICKLEBALL. All rights reserved.</p>
               </div>
             </div>

@@ -15,6 +15,67 @@ interface AIChatBotProps {
     basePath?: string;
 }
 
+// AIの応答テキスト内のURLをクリック可能なボタンに変換するコンポーネント
+function RenderMessageContent({ content, accentColor }: { content: string; accentColor: string }) {
+    // URL: で始まる行を検出してボタンに変換
+    const lines = content.split("\n");
+    const elements: React.ReactNode[] = [];
+    let textBuffer = "";
+    let articleTitle = "";
+
+    const flushText = () => {
+        if (textBuffer.trim()) {
+            elements.push(
+                <span key={`text-${elements.length}`} className="whitespace-pre-wrap">
+                    {textBuffer}
+                </span>
+            );
+        }
+        textBuffer = "";
+    };
+
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+
+        // 記事タイトル行を記憶（**タイトル** 形式）
+        const titleMatch = line.match(/\*\*(.+?)\*\*/);
+        if (titleMatch) {
+            articleTitle = titleMatch[1];
+        }
+
+        // URL行を検出
+        const urlMatch = line.match(/URL:\s*(.+)/);
+        if (urlMatch) {
+            flushText();
+            const url = urlMatch[1].trim();
+            const label = articleTitle || "記事を読む";
+            elements.push(
+                <a
+                    key={`link-${elements.length}`}
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 mt-1.5 mb-1 px-3 py-1.5 text-xs font-medium rounded-lg text-white transition-all hover:opacity-90 hover:shadow-md no-underline"
+                    style={{ backgroundColor: accentColor }}
+                >
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3" />
+                    </svg>
+                    {label} →
+                </a>
+            );
+            articleTitle = "";
+            // URLの後の改行をスキップ
+            continue;
+        }
+
+        textBuffer += (textBuffer ? "\n" : "") + line;
+    }
+    flushText();
+
+    return <>{elements}</>;
+}
+
 export default function AIChatBot({
     siteName = "AIアシスタント",
     greeting = "こんにちは！お探しの情報や、サイトの改善点・誤情報の指摘などがあれば教えてください🙌",
@@ -197,15 +258,19 @@ export default function AIChatBot({
                                 )}
                                 <div
                                     className={`rounded-2xl px-3.5 py-2.5 max-w-[85%] shadow-sm ${msg.role === "user"
-                                            ? "text-white rounded-tr-sm"
-                                            : "bg-white rounded-tl-sm border border-gray-100"
+                                        ? "text-white rounded-tr-sm"
+                                        : "bg-white rounded-tl-sm border border-gray-100"
                                         }`}
                                     style={msg.role === "user" ? { backgroundColor: accentColor } : {}}
                                 >
-                                    <p className={`text-sm leading-relaxed whitespace-pre-wrap ${msg.role === "user" ? "text-white" : "text-gray-700"
+                                    <div className={`text-sm leading-relaxed ${msg.role === "user" ? "text-white" : "text-gray-700"
                                         }`}>
-                                        {msg.content}
-                                    </p>
+                                        {msg.role === "model" ? (
+                                            <RenderMessageContent content={msg.content} accentColor={accentColor} />
+                                        ) : (
+                                            <span className="whitespace-pre-wrap">{msg.content}</span>
+                                        )}
+                                    </div>
                                 </div>
                             </div>
                         ))}

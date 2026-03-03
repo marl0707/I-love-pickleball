@@ -7,6 +7,7 @@ import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
 import { createClient } from "@/utils/supabase/server";
 import BookmarkButton from "@/components/BookmarkButton";
+import { Play } from "lucide-react";
 
 const FacilityMap = dynamic(() => import('@/components/FacilityMap'), {
     ssr: false,
@@ -68,6 +69,23 @@ export default async function FacilityDetailPage({ params }: PageProps) {
             }
         }
     });
+
+    // 施設に紐づくメディアを取得
+    const mediaItems = await prisma.mediaItem.findMany({
+        where: {
+            targetType: "facility",
+            targetId: id,
+        },
+        orderBy: { createdAt: "desc" },
+    });
+
+    const youtubeMedia = mediaItems.filter(m => m.mediaType === "youtube");
+    const imageMedia = mediaItems.filter(m => m.mediaType === "image");
+
+    function getYouTubeEmbedUrl(url: string): string | null {
+        const match = url.match(/(?:youtube\.com\/(?:watch\?v=|embed\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+        return match ? `https://www.youtube.com/embed/${match[1]}` : null;
+    }
 
     if (!facility) {
         notFound();
@@ -200,6 +218,51 @@ export default async function FacilityDetailPage({ params }: PageProps) {
                                 </table>
                             </div>
                         </section>
+
+                        {/* メディア: YouTube動画 */}
+                        {youtubeMedia.length > 0 && (
+                            <section>
+                                <h2 className="text-xl font-bold text-gray-900 border-b border-gray-200 pb-3 mb-6 flex items-center gap-2">
+                                    <Play className="w-5 h-5 text-red-500" />
+                                    関連動画
+                                </h2>
+                                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                    {youtubeMedia.map(media => {
+                                        const embedUrl = getYouTubeEmbedUrl(media.url);
+                                        if (!embedUrl) return null;
+                                        return (
+                                            <div key={media.id} className="aspect-video rounded-xl overflow-hidden shadow-sm">
+                                                <iframe
+                                                    src={embedUrl}
+                                                    title="YouTube動画"
+                                                    className="w-full h-full"
+                                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                    allowFullScreen
+                                                />
+                                            </div>
+                                        );
+                                    })}
+                                </div>
+                            </section>
+                        )}
+
+                        {/* メディア: 画像ギャラリー */}
+                        {imageMedia.length > 0 && (
+                            <section>
+                                <h2 className="text-xl font-bold text-gray-900 border-b border-gray-200 pb-3 mb-6">フォトギャラリー</h2>
+                                <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                                    {imageMedia.map(media => (
+                                        <div key={media.id} className="aspect-square rounded-xl overflow-hidden bg-gray-100">
+                                            <img
+                                                src={media.url}
+                                                alt="施設の様子"
+                                                className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                                            />
+                                        </div>
+                                    ))}
+                                </div>
+                            </section>
+                        )}
 
                         <div className="flex justify-center mt-8">
                             <Link href="/facilities" className="text-brand-accent hover:underline text-sm font-bold flex items-center gap-1">

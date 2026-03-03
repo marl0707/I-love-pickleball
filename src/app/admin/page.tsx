@@ -12,12 +12,14 @@ export default async function AdminDashboardPage() {
         facilityCount,
         eventCount,
         gearCount,
+        circleCount,
         recentBids
     ] = await Promise.all([
         prisma.user.count(),
         prisma.facility.count(),
         prisma.event.count(),
-        prisma.gearPaddle.count(), // パドルのみ抜粋として扱う
+        prisma.gearPaddle.count(),
+        prisma.community.count(),
         prisma.adBid.findMany({
             take: 5,
             orderBy: { createdAt: 'desc' },
@@ -68,6 +70,15 @@ export default async function AdminDashboardPage() {
                     <div>
                         <div className="text-gray-500 text-sm font-medium">ギア (パドル)</div>
                         <div className="text-2xl font-bold text-gray-900">{gearCount}</div>
+                    </div>
+                </div>
+                <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm flex items-center gap-4">
+                    <div className="w-12 h-12 bg-teal-100 text-teal-600 rounded-full flex items-center justify-center">
+                        <span className="material-symbols-outlined">groups</span>
+                    </div>
+                    <div>
+                        <div className="text-gray-500 text-sm font-medium">サークル</div>
+                        <div className="text-2xl font-bold text-gray-900">{circleCount}</div>
                     </div>
                 </div>
             </div>
@@ -126,9 +137,12 @@ export default async function AdminDashboardPage() {
                         <Link href="/admin/facilities/new" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
                             + 施設情報を登録
                         </Link>
+                        <Link href="/admin/circles" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
+                            サークル管理を開く
+                        </Link>
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     )
 }

@@ -169,11 +169,11 @@ export default async function HomePage() {
             <div className="mt-24 space-y-20">
               <section>
                 <div className="flex flex-col items-center mb-10">
-                  <span className="text-brand-accent text-sm tracking-widest uppercase mb-2" style={{ fontFamily: "'Inter', sans-serif" }}>Geaer</span>
+                  <span className="text-brand-accent text-sm tracking-widest uppercase mb-2" style={{ fontFamily: "'Inter', sans-serif" }}>Gear</span>
                   <h2 className="text-2xl text-gray-800">最新ギア特集</h2>
                 </div>
                 <div className="grid md:grid-cols-3 gap-6">
-                  <Link href={`/gears`} className="md:col-span-2 relative group overflow-hidden h-[300px] bg-gray-200 block">
+                  <Link href={`/gear`} className="md:col-span-2 relative group overflow-hidden h-[300px] bg-gray-200 block">
                     <div className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-105" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1622396342880-9280d9aa3ac9?q=80&w=800&auto=format&fit=crop')" }} />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex flex-col justify-end p-6">
                       <h3 className="text-white text-xl font-medium mb-1">パドル徹底比較</h3>

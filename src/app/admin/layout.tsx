@@ -44,6 +44,10 @@ export default async function AdminLayout({
                         <span className="material-symbols-outlined text-lg">shopping_bag</span>
                         ギア・用具管理
                     </Link>
+                    <Link href="/admin/circles" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors">
+                        <span className="material-symbols-outlined text-lg">groups</span>
+                        サークル管理
+                    </Link>
                     <Link href="/admin/drills" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors">
                         <span className="material-symbols-outlined text-lg">fitness_center</span>
                         練習メニュー管理
@@ -64,6 +68,7 @@ export default async function AdminLayout({
                 <Link href="/admin" className="whitespace-nowrap flex items-center gap-1"><span className="material-symbols-outlined text-[16px]">dashboard</span> トップ</Link>
                 <Link href="/admin/events" className="whitespace-nowrap flex items-center gap-1"><span className="material-symbols-outlined text-[16px]">event</span> イベント</Link>
                 <Link href="/admin/facilities" className="whitespace-nowrap flex items-center gap-1"><span className="material-symbols-outlined text-[16px]">sports_tennis</span> 施設</Link>
+                <Link href="/admin/circles" className="whitespace-nowrap flex items-center gap-1"><span className="material-symbols-outlined text-[16px]">groups</span> サークル</Link>
                 <Link href="/admin/ads" className="whitespace-nowrap flex items-center gap-1"><span className="material-symbols-outlined text-[16px]">campaign</span> 広告</Link>
             </div>
 

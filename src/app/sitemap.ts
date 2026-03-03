@@ -11,6 +11,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const players = await prisma.proPlayer.findMany({ select: { id: true, updatedAt: true } });
     const categories = await prisma.communityCategory.findMany({ select: { slug: true } });
     const posts = await prisma.communityPost.findMany({ select: { id: true, updatedAt: true }, take: 200, orderBy: { createdAt: 'desc' } });
+    const communities = await prisma.community.findMany({ select: { id: true, updatedAt: true } });
+    const events = await prisma.event.findMany({ select: { id: true, updatedAt: true } });
+    const drills = await prisma.drill.findMany({ select: { id: true, updatedAt: true } });
 
     const sitemapEntries: MetadataRoute.Sitemap = [
         { url: `${baseUrl}`, lastModified: new Date(), changeFrequency: 'daily', priority: 1.0 },
@@ -19,6 +22,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         { url: `${baseUrl}/gear`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
         { url: `${baseUrl}/players`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
         { url: `${baseUrl}/community`, lastModified: new Date(), changeFrequency: 'always', priority: 0.9 },
+        { url: `${baseUrl}/circles`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
+        { url: `${baseUrl}/events`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
+        { url: `${baseUrl}/drills`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
     ];
 
     facilities.forEach((f) => {
@@ -72,6 +78,33 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
             lastModified: p.updatedAt,
             changeFrequency: 'daily',
             priority: 0.6,
+        });
+    });
+
+    communities.forEach((c) => {
+        sitemapEntries.push({
+            url: `${baseUrl}/circles/${c.id}`,
+            lastModified: c.updatedAt,
+            changeFrequency: 'weekly',
+            priority: 0.6,
+        });
+    });
+
+    events.forEach((e) => {
+        sitemapEntries.push({
+            url: `${baseUrl}/events/${e.id}`,
+            lastModified: e.updatedAt,
+            changeFrequency: 'weekly',
+            priority: 0.6,
+        });
+    });
+
+    drills.forEach((d) => {
+        sitemapEntries.push({
+            url: `${baseUrl}/drills/${d.id}`,
+            lastModified: d.updatedAt,
+            changeFrequency: 'monthly',
+            priority: 0.5,
         });
     });
 

@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
+import { generateAffiliateLinks } from "@/lib/affiliate";
 
 export const revalidate = 3600;
 
@@ -39,6 +40,9 @@ export default async function GearDetailPage({ params }: PageProps) {
         notFound();
     }
 
+    // もしもアフィリエイト自動リンク生成
+    const affiliateLinks = generateAffiliateLinks(gear.productName, gear.brandName);
+
     // スペック情報をまとめる
     const specs = [
         { label: "ブランド", value: gear.brandName },
@@ -48,6 +52,31 @@ export default async function GearDetailPage({ params }: PageProps) {
         { label: "コア厚み", value: gear.coreThickness ? `${gear.coreThickness}mm` : null },
         { label: "プレースタイル", value: gear.targetDemographic },
     ].filter(item => item.value);
+
+    // 購入リンク（DBに手動設定があればそちらを優先、なければ自動生成リンク）
+    const buyLinks = [
+        {
+            label: 'Amazonで探す',
+            url: gear.amazonUrl || affiliateLinks.amazon,
+            bgColor: 'bg-[#FF9900]',
+            hoverColor: 'hover:bg-[#e68a00]',
+            icon: '🛒',
+        },
+        {
+            label: '楽天市場で探す',
+            url: gear.rakutenUrl || affiliateLinks.rakuten,
+            bgColor: 'bg-[#BF0000]',
+            hoverColor: 'hover:bg-[#a00000]',
+            icon: '🏪',
+        },
+        {
+            label: 'Yahoo!で探す',
+            url: gear.yahooUrl || affiliateLinks.yahoo,
+            bgColor: 'bg-[#FF0033]',
+            hoverColor: 'hover:bg-[#dd002b]',
+            icon: '🛍️',
+        },
+    ];
 
     return (
         <div className="bg-white text-gray-900 font-sans">
@@ -79,23 +108,21 @@ export default async function GearDetailPage({ params }: PageProps) {
                                     ¥{gear.price?.toLocaleString() || '価格未定'} <span className="text-sm font-normal text-gray-600 block sm:inline mt-1 sm:mt-0 ml-0 sm:ml-2">※参考価格(税込)</span>
                                 </p>
 
-                                <div className="space-y-4">
-                                    {gear.amazonUrl && (
-                                        <a href={gear.amazonUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center bg-gray-900 text-white font-bold py-3 rounded-lg hover:bg-gray-800 transition">
-                                            Amazonで詳細を見る
+                                <div className="space-y-3">
+                                    {buyLinks.map((link) => (
+                                        <a
+                                            key={link.label}
+                                            href={link.url}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className={`block w-full text-center ${link.bgColor} ${link.hoverColor} text-white font-bold py-3.5 rounded-lg transition-all shadow-sm hover:shadow-md flex items-center justify-center gap-2`}
+                                        >
+                                            <span>{link.icon}</span>
+                                            {link.label}
                                         </a>
-                                    )}
-                                    {gear.rakutenUrl && (
-                                        <a href={gear.rakutenUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center bg-red-700 text-white font-bold py-3 rounded-lg hover:bg-red-800 transition">
-                                            楽天市場で詳細を見る
-                                        </a>
-                                    )}
-                                    {gear.yahooUrl && (
-                                        <a href={gear.yahooUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center bg-blue-600 text-white font-bold py-3 rounded-lg hover:bg-blue-700 transition">
-                                            Yahoo!ショッピングで詳細を見る
-                                        </a>
-                                    )}
+                                    ))}
                                 </div>
+                                <p className="text-[10px] text-gray-400 mt-3 text-center">※ アフィリエイトリンクを含みます</p>
                             </div>
                         </div>
 
