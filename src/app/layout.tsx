@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import Link from 'next/link';
+import Script from 'next/script';
+import AIChatBot from '@/components/AIChatBot';
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'),
@@ -53,21 +55,29 @@ export default function RootLayout({
         />
       </head>
       <body>
+        {/* Google Analytics 4 */}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-X1NLDNF2CS" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-X1NLDNF2CS');
+          `}
+        </Script>
         <div className="min-h-screen flex flex-col">
-          {/* ======== 3段構成ヘッダー（マレーシア生活情報局テンプレート） ======== */}
+          {/* ======== 3段構成ヘッダー ======== */}
           <header className="bg-white sticky top-0 z-50" style={{ fontFamily: "'Noto Serif JP', 'Inter', serif" }}>
 
             {/* 第1段: ユーティリティバー */}
             <div className="border-b border-gray-100">
               <div className="max-w-6xl mx-auto px-6 sm:px-10 lg:px-16">
                 <div className="flex justify-between items-center h-10">
-                  {/* モバイル向けハンバーガー（簡易版: CSS only） */}
                   <div className="lg:hidden">
                     <Link href="/community" className="text-gray-500 hover:text-brand-dark transition-colors">
                       <span className="material-symbols-outlined text-[22px]">menu</span>
                     </Link>
                   </div>
-                  {/* デスクトップ: 右寄せユーティリティ */}
                   <div className="hidden lg:flex items-center gap-6 text-xs tracking-wider text-gray-500 ml-auto" style={{ fontFamily: "'Inter', sans-serif" }}>
                     <Link href="/advertise" className="hover:text-brand-dark transition-colors flex items-center gap-1">
                       <span className="material-symbols-outlined text-[16px]">campaign</span> 広告掲載
@@ -150,6 +160,12 @@ export default function RootLayout({
             </div>
           </footer>
         </div>
+        <AIChatBot
+          siteName="I LOVE PICKLEBALL"
+          greeting="こんにちは！ピックルボールの情報をお探しですか？施設・ギア・大会情報のお問い合わせやサイトの改善要望をお待ちしています🏓"
+          accentColor="#1e40af"
+          basePath="/pickleball"
+        />
       </body>
     </html>
   );
