@@ -48,20 +48,19 @@ function RenderMessageContent({ content, accentColor }: { content: string; accen
         if (urlMatch) {
             flushText();
             const url = urlMatch[1].trim();
-            const label = articleTitle || "記事を読む";
             elements.push(
                 <a
                     key={`link-${elements.length}`}
                     href={url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1.5 mt-1.5 mb-1 px-3 py-1.5 text-xs font-medium rounded-lg text-white transition-all hover:opacity-90 hover:shadow-md no-underline"
+                    className="flex items-center justify-center gap-1.5 mt-2 mb-1 px-4 py-2.5 text-sm font-semibold rounded-xl text-white transition-all hover:opacity-90 hover:shadow-lg no-underline"
                     style={{ backgroundColor: accentColor }}
                 >
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3" />
+                    📄 詳しく見る
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
                     </svg>
-                    {label} →
                 </a>
             );
             articleTitle = "";
@@ -166,25 +165,49 @@ export default function AIChatBot({
         setShowSuggestions(true);
     };
 
+    const [showTooltip, setShowTooltip] = useState(true);
+
+    // チャットを開いたら吹き出しを非表示に
+    useEffect(() => {
+        if (isOpen) setShowTooltip(false);
+    }, [isOpen]);
+
     return (
         <>
-            {/* フローティングボタン */}
-            <button
-                onClick={() => setIsOpen(!isOpen)}
-                style={{ backgroundColor: accentColor }}
-                className="fixed bottom-6 right-6 w-14 h-14 rounded-full shadow-lg text-white flex items-center justify-center z-[9999] transition-all duration-300 hover:scale-110 hover:shadow-xl"
-                aria-label="AIチャットを開く"
-            >
-                {isOpen ? (
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                        <path d="M18 6L6 18M6 6l12 12" />
-                    </svg>
-                ) : (
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                        <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z" />
-                    </svg>
+            {/* 吹き出し + フローティングボタン */}
+            <div className="fixed bottom-6 right-6 z-[9999] flex items-end gap-2">
+                {/* 吹き出し */}
+                {showTooltip && !isOpen && (
+                    <div
+                        className="relative bg-white rounded-2xl shadow-xl px-4 py-3 border border-gray-200 animate-bounce cursor-pointer"
+                        style={{ animationDuration: "2s" }}
+                        onClick={() => { setIsOpen(true); setShowTooltip(false); }}
+                    >
+                        <p className="text-sm font-bold text-gray-800 whitespace-nowrap">✨ AIに質問してみよう！</p>
+                        <p className="text-[10px] text-gray-500 mt-0.5">クリックで開きます</p>
+                        {/* 吹き出しの三角 */}
+                        <div className="absolute -right-2 bottom-3 w-0 h-0 border-t-[8px] border-t-transparent border-b-[8px] border-b-transparent border-l-[8px] border-l-white" />
+                    </div>
                 )}
-            </button>
+
+                {/* フローティングボタン */}
+                <button
+                    onClick={() => setIsOpen(!isOpen)}
+                    style={{ backgroundColor: accentColor }}
+                    className="w-14 h-14 rounded-full shadow-lg text-white flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-xl flex-shrink-0"
+                    aria-label="AIチャットを開く"
+                >
+                    {isOpen ? (
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                            <path d="M18 6L6 18M6 6l12 12" />
+                        </svg>
+                    ) : (
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                            <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z" />
+                        </svg>
+                    )}
+                </button>
+            </div>
 
             {/* チャットウィンドウ */}
             {isOpen && (
