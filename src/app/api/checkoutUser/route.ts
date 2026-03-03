@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
 import { createClient } from '@/utils/supabase/server'
 import { prisma } from '@/lib/prisma'
-import { stripe } from '@/lib/stripe'
+import { getStripe } from '@/lib/stripe'
 
 export async function POST(req: Request) {
     try {
@@ -32,7 +32,7 @@ export async function POST(req: Request) {
 
         // 1. Stripeカスタマーが存在しない場合は作成
         if (!dbUser.stripeCustomerId) {
-            const customer = await stripe.customers.create({
+            const customer = await getStripe().customers.create({
                 email: user.email,
                 metadata: {
                     userId: user.id,
@@ -46,7 +46,7 @@ export async function POST(req: Request) {
         }
 
         // 2. Stripe Checkout Sessionの発行
-        const checkoutSession = await stripe.checkout.sessions.create({
+        const checkoutSession = await getStripe().checkout.sessions.create({
             mode: 'subscription', // 月額課金（サブスクリプション）
             payment_method_types: ['card'],
             customer: dbUser.stripeCustomerId!,
