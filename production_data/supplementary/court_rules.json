@@ -55,5 +55,116 @@
       "name": "ドロップサーブ",
       "description": "ボールを落としてバウンドさせてからサーブも可能。この場合、高さと腕の弧の制限は適用されない。"
     }
+  ],
+  "rule_changes_2025": [
+    {
+      "id": "rc_001",
+      "title_ja": "ラリースコアリング（暫定承認）",
+      "title_en": "Rally Scoring (Provisional)",
+      "description_ja": "2025年よりラリースコアリングが暫定的にオプションとして承認。ラウンドロビン、チームプレー、シングルスで使用可能。ゲームポイントはサーブ側のみ得点可能。11/15/21点制で2点差必要。従来のサイドアウトスコアリングが引き続き標準。",
+      "applies_to": [
+        "ラウンドロビン",
+        "チームプレー",
+        "シングルス"
+      ],
+      "exceptions": [
+        "ダブルス・ダブルエリミネーション方式では使用不可",
+        "USAP全米選手権は従来方式"
+      ],
+      "importance": "high",
+      "source": "USA Pickleball 2025 Rulebook"
+    },
+    {
+      "id": "rc_002",
+      "title_ja": "観客のラインコールへの介入禁止",
+      "title_en": "Spectator Input on Line Calls Prohibited",
+      "description_ja": "観客がラインコールに意見することが厳格に禁止。「相談すべきでない（should not）」から「相談してはならない（shall not）」へ強化。",
+      "importance": "medium"
+    },
+    {
+      "id": "rc_003",
+      "title_ja": "ノットレディ・シグナルの明文化",
+      "title_en": "Not Ready Signals",
+      "description_ja": "スコアがコールされた後でも「ストップ」「ウェイト」といった言葉でプレー準備ができていないことを示せる。サーバーはシグナルを認識する義務あり。",
+      "importance": "medium"
+    },
+    {
+      "id": "rc_004",
+      "title_ja": "ボレーの定義変更（NVZルール明確化）",
+      "title_en": "Volley Definition Clarification",
+      "description_ja": "ボレー行為は「空中でボールを打った瞬間に始まり、フォロースルーの動きが止まった時点で終了」と再定義。ボレー前にパドルがNVZに触れることは、足がNVZ外であればフォルトではなくなった。",
+      "importance": "high"
+    },
+    {
+      "id": "rc_005",
+      "title_ja": "サーブメカニクスの変更",
+      "title_en": "Serve Mechanics Update",
+      "description_ja": "サーブ時のボールリリースに手またはパドルの両方が使用可能に。スピンを加えることは引き続き禁止。ドロップサーブでパドル使用時は重力のみでボールを転がす。",
+      "importance": "medium"
+    },
+    {
+      "id": "rc_006",
+      "title_ja": "オートグラフ入りパドルの許可",
+      "title_en": "Autographed Paddles Permitted",
+      "description_ja": "パドル表面の特性を変えない限り、サイン入りパドルのトーナメント使用が許可。",
+      "importance": "low"
+    },
+    {
+      "id": "rc_007",
+      "title_ja": "試合後の不正行為ペナルティ",
+      "title_en": "Post-Match Misconduct Penalties",
+      "description_ja": "試合終了後もコート上にいる間の不正行為にペナルティが科せるように。次の試合に持ち越し適用可能。",
+      "importance": "medium"
+    }
+  ],
+  "etiquette": [
+    {
+      "id": "etq_001",
+      "title_ja": "自己紹介とパドルタップ",
+      "description_ja": "新しいプレイヤーと試合前に自己紹介。試合終了後は結果に関わらずパドルタップで挨拶する。",
+      "importance": "high"
+    },
+    {
+      "id": "etq_002",
+      "title_ja": "ラインコールは正直に",
+      "description_ja": "ボールがインかアウトか不確かな場合、相手に有利な判定（イン）にする。過度な議論は避ける。",
+      "importance": "high"
+    },
+    {
+      "id": "etq_003",
+      "title_ja": "「ボールオン！」コール",
+      "description_ja": "隣のコートからボールが転がってきた場合、即座に大声で「ボールオン！」とコールしてプレーを停止する。",
+      "importance": "high"
+    },
+    {
+      "id": "etq_004",
+      "title_ja": "コートの共有とローテーション",
+      "description_ja": "パブリックコートではパドルスタッキング（順番待ちシステム）を尊重。待っている人がいる場合は1ゲーム（11点）で交代。",
+      "importance": "high"
+    },
+    {
+      "id": "etq_005",
+      "title_ja": "求められていないアドバイスは控える",
+      "description_ja": "相手から聞かれない限り、技術的なアドバイスを自発的に行うことは控える。新しいプレイヤーには歓迎の雰囲気で接する。",
+      "importance": "medium"
+    },
+    {
+      "id": "etq_006",
+      "title_ja": "スコアは大きな声でコール",
+      "description_ja": "サーブ前にスコアを大きな声でコール。クイックサーブ（相手の準備前のサーブ）は避ける。",
+      "importance": "medium"
+    },
+    {
+      "id": "etq_007",
+      "title_ja": "ネットショット後のマナー",
+      "description_ja": "ネットに当たって辛うじて入ったショットや、誤って相手に当ててしまった場合は「すみません」と一言添える。",
+      "importance": "medium"
+    },
+    {
+      "id": "etq_008",
+      "title_ja": "他コートへの配慮",
+      "description_ja": "進行中の試合のコートを横切る場合はポイント終了まで待つ。他コートのボールを拾った場合はゲームの切れ目に優しく返す。",
+      "importance": "medium"
+    }
   ]
 }

@@ -2,22 +2,27 @@
   {
     "has_paddle_sales": 0,
     "has_apparel_sales": 0,
-    "has_paddle_rental": 1,
-    "paddle_rental_fee": 0,
+    "has_paddle_rental": true,
+    "paddle_rental_fee": "無料",
     "rental_detail": "パドル・ボール無料レンタル（受付にて）",
     "handled_brands": "",
     "_facility_name": "東京タワーベストアメニティピックルボールコート",
-    "_facility_index": 0
+    "_facility_index": 0,
+    "_survey_notes": "港区。東京タワーフットタウン屋上。2025年7月常設。パドル無料レンタル。夏季30%OFFキャンペーン実績。"
   },
   {
-    "has_paddle_sales": 0,
+    "has_paddle_sales": true,
     "has_apparel_sales": 0,
-    "has_paddle_rental": 1,
-    "paddle_rental_fee": 220,
+    "has_paddle_rental": true,
+    "paddle_rental_fee": "220円/本",
     "rental_detail": "パドル220円/本、ボール3個無料、インドアシューズ無料（5Fにて）。体験会・レッスン受講者はパドル無料。",
-    "handled_brands": "",
+    "handled_brands": [
+      "DIADEM",
+      "YONEX"
+    ],
     "_facility_name": "VIPインドアピックルボールクラブ",
-    "_facility_index": 1
+    "_facility_index": 1,
+    "_survey_notes": "江東区南砂。インドア3面。パドルレンタル220円/本。ボール3個+シューズ無料。DIADEM/YONEX販売。コート50分4,400円。体験会平日2,500円(パドル無料)。"
   },
   {
     "has_paddle_sales": 0,
@@ -207,11 +212,12 @@
     "_survey_notes": "川崎市。スポッチャ内PB。パドル・ボール無料レンタル。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "レイムテニスセンター",
     "_facility_index": 23,
-    "_survey_notes": "常設PBコート2面（テラス）。テニスハードコート転用時は最大10面可。レイムPBクラブは会員制。コートレンタルなし。埼玉県川口市。"
+    "_survey_notes": "川口市。PB専用プラクティスコート2面常設。パドルレンタル330円。レイムPBクラブ会員制(新規募集停止中)。体験参加可(10-69歳)。",
+    "paddle_rental_fee": "330円/本"
   },
   {
     "has_paddle_rental": 1,
@@ -431,7 +437,11 @@
   {
     "rental_detail": "日本最大級のピックルボールショップ併設。パドルの試打や購入が可能。",
     "_facility_name": "Pickleball One Ginza Shimbashi",
-    "_facility_index": 53
+    "_facility_index": 53,
+    "has_paddle_rental": true,
+    "has_paddle_sales": true,
+    "paddle_rental_fee": "500円/h",
+    "_survey_notes": "千代田区新橋。都内初都市型インドアPB施設。2025年11月オープン。パドルレンタル500円/h。試打パドル30分1,000円。PBギアショップ併設。"
   },
   {
     "has_paddle_rental": true,
@@ -523,10 +533,16 @@
     "_survey_notes": "京都市。常設PBコートなし。イベント時には第1競技場10面+第2競技場4面=計14面を設営可能。「ピックルボール京都オープン2024」が開催された実績あり。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "パドル・シューズの有料レンタルあり",
     "_facility_name": "DIADEM PICKLEBALL COMPLEX KOBE (DPC KOBE)",
-    "_facility_index": 87
+    "_facility_index": 87,
+    "has_paddle_sales": true,
+    "handled_brands": [
+      "DIADEM"
+    ],
+    "paddle_rental_fee": "550円/本",
+    "_survey_notes": "神戸市。DPCコート5面。DIADEMブランド専門。パドルレンタル550円/本(セット1,650円)。販売・試打可。"
   },
   {
     "has_paddle_rental": 0,
@@ -610,19 +626,22 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "和歌山市・松下体育館",
-    "_facility_index": 99
+    "_facility_index": 99,
+    "_survey_notes": "和歌山市。体育館でPB活動。面数可変。レンタル情報不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "田辺スポーツパーク 体育館",
-    "_facility_index": 100
+    "_facility_index": 100,
+    "_survey_notes": "和歌山県田辺市。スポーツパーク体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "紀の川市民体育館",
-    "_facility_index": 101
+    "_facility_index": 101,
+    "_survey_notes": "和歌山県紀の川市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -697,10 +716,12 @@
     "_survey_notes": "静岡県浜松市。フィットネスクラブ内でPBプログラム提供。面数不明。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "料金にパドル・ボールレンタルが含まれており手ぶらで利用可能",
     "_facility_name": "東急リゾートタウン浜名湖",
-    "_facility_index": 131
+    "_facility_index": 131,
+    "paddle_rental_fee": "無料(コート利用料込)",
+    "_survey_notes": "静岡県浜松市。東急リゾート内PBコート。パドル無料レンタル(コート利用料に含む)。"
   },
   {
     "has_paddle_rental": 0,
@@ -755,13 +776,15 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "アクトス各務原店",
-    "_facility_index": 139
+    "_facility_index": 139,
+    "_survey_notes": "岐阜県各務原市。スポーツクラブアクトス内でPB活動。面数不明。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "パドル・シューズ無料レンタルあり",
     "_facility_name": "マリンブルーテニススクール",
-    "_facility_index": 140
+    "_facility_index": 140,
+    "_survey_notes": "テニススクール内でPBスクール提供。パドルレンタル可。面数不明。"
   },
   {
     "has_paddle_rental": 0,
@@ -790,7 +813,8 @@
     "has_paddle_rental": 1,
     "rental_detail": "パドルの無料レンタルあり。ボールは貸出なし（販売）。",
     "_facility_name": "sanTasピックルボールクラブ",
-    "_facility_index": 144
+    "_facility_index": 144,
+    "_survey_notes": "PBクラブとして活動。複数施設利用。面数不明。"
   },
   {
     "has_paddle_rental": 0,
@@ -908,35 +932,40 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "松本市総合体育館",
-    "_facility_index": 160
+    "_facility_index": 160,
+    "_survey_notes": "長野県松本市。総合体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "上田城跡公園 第二体育館",
-    "_facility_index": 161
+    "_facility_index": 161,
+    "_survey_notes": "長野県上田市。上田城跡公園内体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "ユメックスアリーナ 塩尻市総合体育館",
-    "_facility_index": 162
+    "_facility_index": 162,
+    "_survey_notes": "長野県塩尻市。総合体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東武体育館",
-    "_facility_index": 163
+    "_facility_index": 163,
+    "_survey_notes": "栃木県。東武体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_sales": null,
     "has_apparel_sales": null,
-    "has_paddle_rental": 1,
-    "paddle_rental_fee": "300円/回",
+    "has_paddle_rental": true,
+    "paddle_rental_fee": "無料(リゾート利用込)",
     "rental_detail": "ラケット1本300円。ボール150円/個（買い取り）",
     "handled_brands": null,
     "_facility_name": "ルスツリゾート ピックルボールコート",
-    "_facility_index": 178
+    "_facility_index": 178,
+    "_survey_notes": "北海道虻田郡留寿都村。リゾート内PB8面。パドル無料レンタル(リゾート利用込)。"
   },
   {
     "has_paddle_sales": false,
@@ -1015,12 +1044,13 @@
   {
     "has_paddle_sales": 0,
     "has_apparel_sales": 0,
-    "has_paddle_rental": 0,
+    "has_paddle_rental": true,
     "paddle_rental_fee": null,
     "rental_detail": "テニス用具一式などのレンタル規定あり（ピックル用具は持参推奨）",
     "handled_brands": null,
     "_facility_name": "ならはスカイアリーナ",
-    "_facility_index": 189
+    "_facility_index": 189,
+    "_survey_notes": "福島県楢葉町。スカイアリーナで6面PBコート。パドルレンタル可。"
   },
   {
     "has_paddle_rental": 1,
@@ -1575,6 +1605,7 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "維新大晃アリーナ",
-    "_facility_index": 281
+    "_facility_index": 281,
+    "_survey_notes": "山口県山口市。アリーナでPB活動。面数不明。"
   }
 ]
