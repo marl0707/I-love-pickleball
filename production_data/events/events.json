@@ -4,12 +4,13 @@
     "facility_id": "tokyo_ariake_tennis",
     "title": "JPA 第5回 日本ピックルボール選手権大会（ジャパンオープン2026）",
     "event_type": "公式大会(JPA準拠)",
-    "start_datetime": "2026-10-10 09:00:00",
+    "start_datetime": "2025-11-28T09:00:00",
     "end_datetime": "2026-10-12 17:00:00",
     "target_level_min": 3,
     "target_level_max": 5,
-    "entry_fee": 6000,
-    "entry_url": "https://japanpickleball.org/tournament/japan-open-2026/"
+    "entry_fee": "シングルス8,000円/ダブルス14,000円(別途手数料)",
+    "entry_url": "https://games.japanpickleball.org/ja/tournament/8673",
+    "_survey_notes": "沖縄オープン2025として開催。糸満市西崎総合体育館。11/28-30。JPA登録・DUPR必須。先着順エントリー(11/20締切)。JPA団体登録者500円割引。"
   },
   {
     "id": "event_kanto_beginner_festa",
@@ -55,7 +56,11 @@
     "description": "世界最高峰の権威を持つ全米選手権。プロ層だけでなくあらゆる年代・レベルのアマチュアが参加する、世界最大規模のピックルボールの祭典。",
     "held_month": "11月",
     "status": "annual",
-    "event_type": "国際大会（メジャー）"
+    "event_type": "国際大会（メジャー）",
+    "entry_fee": "カテゴリーにより異なる（$50-$150）",
+    "entry_url": "https://usapickleball.org/national-championships/",
+    "start_datetime": "2025-11-01T08:00:00",
+    "_survey_notes": "米国最大級PB大会。詳細は公式サイト参照。"
   },
   {
     "id": "tournament_us_open",
@@ -65,7 +70,11 @@
     "description": "フロリダ州ネープルズで開催される世界有数のメガトーナメント。「ピックルボール界で最も熱狂的な1週間」とも称される。",
     "held_month": "4月",
     "status": "annual",
-    "event_type": "国際大会"
+    "event_type": "国際大会",
+    "entry_fee": "大会HPにて確認",
+    "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-01-01T00:00:00"
   },
   {
     "id": "tournament_jpa_japan_national",
@@ -75,7 +84,11 @@
     "description": "日本ピックルボール協会(JPA)が主催する、名実ともに日本最高峰の公式大会。シングルス、ダブルス、ミックスの各カテゴリーで世代別のチャンピオンを決定する。",
     "held_month": "12月",
     "status": "annual",
-    "event_type": "国内メジャー（JPA主催）"
+    "event_type": "国内メジャー（JPA主催）",
+    "entry_fee": "大会HPにて確認",
+    "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-01-01T00:00:00"
   },
   {
     "id": "tournament_jpa_all_japan",
@@ -85,7 +98,11 @@
     "description": "日本国内のプレイヤーが腕を競い合う、国内最大規模の選手権大会。",
     "held_month": "6月",
     "status": "annual",
-    "event_type": "国内メジャー（JPA主催）"
+    "event_type": "国内メジャー（JPA主催）",
+    "entry_fee": "14,000円/組(ダブルス)、8,000円(シングルス)",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-11-28T09:00:00",
+    "_survey_notes": "JPA主催全日本大会。詳細は公式サイト参照。"
   },
   {
     "id": "tour_01",
@@ -94,7 +111,11 @@
     "type": "国際メジャー",
     "schedule": "毎年4月",
     "description": "世界最大のピックルボール大会。フロリダ州ネープルズのイーストネープルズ・コミュニティパークで開催。",
-    "event_type": "国際メジャー"
+    "event_type": "国際メジャー",
+    "entry_fee": "観戦無料(選手エントリーは別途)",
+    "entry_url": "https://www.ppatour.com/",
+    "start_datetime": "2025-08-26T09:00:00",
+    "_survey_notes": "PPA TOUR ASIA Sansan FUKUOKA OPEN 2025。糸島運動公園。8/26-31。入場観戦無料。エントリー5/6開始～7/31締切。"
   },
   {
     "id": "tour_02",
@@ -103,7 +124,11 @@
     "type": "国際メジャー",
     "schedule": "毎年11月",
     "description": "PPA Tour年間チャンピオンを決定するシーズン最終戦。",
-    "event_type": "国際メジャー"
+    "event_type": "国際メジャー",
+    "entry_fee": "観戦無料(選手エントリーは別途)",
+    "entry_url": "https://www.ppatour.com/",
+    "start_datetime": "2025-08-26T09:00:00",
+    "_survey_notes": "PPA TOUR ASIA Sansan FUKUOKA OPEN 2025。糸島運動公園。8/26-31。入場観戦無料。エントリー5/6開始～7/31締切。"
   },
   {
     "id": "tour_03",
@@ -112,7 +137,11 @@
     "type": "プロリーグ",
     "schedule": "年間5-6イベント",
     "description": "チーム対抗形式のプロリーグ。LeBron JamesやTom Bradyなど著名人がオーナーに名を連ねる。",
-    "event_type": "プロリーグ"
+    "event_type": "プロリーグ",
+    "entry_fee": "大会HPにて確認",
+    "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-01-01T00:00:00"
   },
   {
     "id": "tour_04",
@@ -121,7 +150,11 @@
     "type": "国際プロツアー",
     "schedule": "毎年2月",
     "description": "APP Tourの主要大会のひとつ。フロリダのビーチリゾート付近で開催される。",
-    "event_type": "国際プロツアー"
+    "event_type": "国際プロツアー",
+    "entry_fee": "大会HPにて確認",
+    "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-01-01T00:00:00"
   },
   {
     "id": "tour_05",
@@ -130,7 +163,11 @@
     "type": "国際プロツアー",
     "schedule": "毎年7月",
     "description": "ビール醸造の街で開催される人気大会。アマチュアカテゴリも充実。",
-    "event_type": "国際プロツアー"
+    "event_type": "国際プロツアー",
+    "entry_fee": "大会HPにて確認",
+    "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-01-01T00:00:00"
   },
   {
     "id": "tour_06",
@@ -139,7 +176,11 @@
     "type": "国際招待",
     "schedule": "毎年8月",
     "description": "ピックルボール発祥の地で開催されるエキシビション招待大会。",
-    "event_type": "国際招待"
+    "event_type": "国際招待",
+    "entry_fee": "大会HPにて確認",
+    "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-01-01T00:00:00"
   },
   {
     "id": "tour_07",
@@ -148,7 +189,11 @@
     "type": "国内公式(JPA)",
     "schedule": "毎年10月",
     "description": "日本ピックルボール協会(JPA)主催の最高峰国内大会。全国各地の予選を勝ち抜いた選手が集結。",
-    "event_type": "国内公式(JPA)"
+    "event_type": "国内公式(JPA)",
+    "entry_fee": "14,000円/組(ダブルス)、8,000円(シングルス)",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-11-28T09:00:00",
+    "_survey_notes": "JPA主催全日本大会。詳細は公式サイト参照。"
   },
   {
     "id": "tour_08",
@@ -157,7 +202,11 @@
     "type": "国内公式(JPA)",
     "schedule": "毎年5月",
     "description": "東日本エリアの代表選を兼ねた大規模オープン大会。",
-    "event_type": "国内公式(JPA)"
+    "event_type": "国内公式(JPA)",
+    "entry_fee": "9,000-10,000円/組(JPA団体所属割引あり)",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-05-03T09:00:00",
+    "_survey_notes": "千葉・東金オープン2025として開催。東金アリーナ。JPA2025年度選手登録+DUPR必須。"
   },
   {
     "id": "tour_09",
@@ -166,7 +215,11 @@
     "type": "国内公式(JPA)",
     "schedule": "毎年6月",
     "description": "西日本エリアの代表選を兼ねた大規模オープン大会。",
-    "event_type": "国内公式(JPA)"
+    "event_type": "国内公式(JPA)",
+    "entry_fee": "10,000-14,000円/組",
+    "entry_url": "https://japanpickleball.org/tournament",
+    "start_datetime": "2025-07-20T09:00:00",
+    "_survey_notes": "MD NEXT大阪オープン2025として開催。江坂テニスセンター室内ハードコート10面。7/20-21。"
   },
   {
     "id": "tour_10",
@@ -175,7 +228,11 @@
     "type": "草大会",
     "schedule": "毎月第3日曜",
     "description": "エンジョイ層から競技層まで幅広く参加できる気軽な月例大会。",
-    "event_type": "草大会"
+    "event_type": "草大会",
+    "entry_fee": "3,000-5,000円/組(大会により異なる)",
+    "entry_url": "https://tennisbear.net/",
+    "start_datetime": "2025-04-01T09:00:00",
+    "_survey_notes": "月例開催の草トーナメント。テニスベアやモシコムで募集。参加費は大会規模による。"
   },
   {
     "id": "tour_11",
@@ -184,7 +241,11 @@
     "type": "草大会",
     "schedule": "毎年9月",
     "description": "東海地方最大の草大会。体験会やメーカーブースも多数出展。",
-    "event_type": "草大会"
+    "event_type": "草大会",
+    "entry_fee": "無料(観戦・参加無料)",
+    "entry_url": "https://pickle-one.com/",
+    "start_datetime": "2025-03-14T10:00:00",
+    "_survey_notes": "PBパークin名古屋。久屋大通公園メディアヒロバ。3/14-16。予約不要(一部会員限定)。雨天中止。"
   },
   {
     "id": "tour_12",
@@ -193,7 +254,11 @@
     "type": "草大会",
     "schedule": "毎年3月",
     "description": "ミックスダブルス限定の人気大会。初心者カテゴリあり。",
-    "event_type": "草大会"
+    "event_type": "草大会",
+    "entry_fee": "10,000円/組(1人5,750円)",
+    "entry_url": "https://pickleballtournaments.com/",
+    "start_datetime": "2025-06-28T09:00:00",
+    "_survey_notes": "Sansan PB Championship in Osaka June。江坂テニスセンターインドアハードコート8面。受付9時/競技9:30。スキル別・年齢別MD。"
   },
   {
     "id": "tour_13",
@@ -202,7 +267,11 @@
     "type": "草大会",
     "schedule": "毎年1月",
     "description": "冬の北海道で開催されるインドア大会。雪景色とピックルボールの組み合わせがユニーク。",
-    "event_type": "草大会"
+    "event_type": "草大会",
+    "entry_fee": "ダブルス7,000円/組、シングルス3,000円(暖房費込)",
+    "entry_url": "https://neo-spo.com/",
+    "start_datetime": "2025-12-29T09:00:00",
+    "_survey_notes": "NEO PB All Players Friendly CUP 2025。PLACE OF SPORTS NEO室内デコターフ6面。パドルレンタル100円/日。公式LINE先着順エントリー。"
   },
   {
     "id": "tour_14",
@@ -211,7 +280,11 @@
     "type": "草大会",
     "schedule": "毎年11月",
     "description": "九州最大規模のピックルボール大会。",
-    "event_type": "草大会"
+    "event_type": "草大会",
+    "entry_fee": "5,500円/エントリー(税込)",
+    "entry_url": "https://fukuokapickleball.jp/",
+    "start_datetime": "2026-01-16T09:00:00",
+    "_survey_notes": "PICKLEBALL FUKUOKA OPEN 2026 ITOSHIMA。糸島市総合運動公園。1/16-17。別途JPA公式大会(福岡オープン2026)は1/9-11かすやドームで開催(D14,000円/S8,000円)。"
   },
   {
     "id": "tour_15",
@@ -220,7 +293,11 @@
     "type": "国際(欧州)",
     "schedule": "毎年6月",
     "description": "ヨーロッパで急成長中のピックルボールシーンを象徴する大会。",
-    "event_type": "国際(欧州)"
+    "event_type": "国際(欧州)",
+    "entry_fee": "カテゴリーにより異なる",
+    "entry_url": "https://www.spanishpickleballopen.com/",
+    "start_datetime": "2025-09-01T09:00:00",
+    "_survey_notes": "スペイン開催の国際PB大会。欧州シリーズの一環。"
   },
   {
     "id": "event_local_001",

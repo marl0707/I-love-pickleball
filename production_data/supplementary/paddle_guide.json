@@ -1,0 +1,70 @@
+{
+  "beginner": {
+    "title": "初心者おすすめパドル (〜$100)",
+    "criteria": "ワイドボディ、ミッドウェイト(7.5-8.0oz)、大きなスイートスポット、グラファイト/ファイバーグラス面",
+    "recommendations": [
+      {
+        "paddle_id": "pdl_onyx_z5",
+        "reason": "ワイドボディでスイートスポット最大級。$79.99で初心者の定番。"
+      },
+      {
+        "paddle_id": "pdl_selkirk_slk_evo",
+        "reason": "SLK Evo Hybrid Max。$69.99で高コスパ。Selkirk品質を手頃に。"
+      },
+      {
+        "paddle_id": "pdl_head_radical_pro",
+        "reason": "HEAD Radical Pro。ワイドフェースで扱いやすい。テニスからの転向にも。"
+      }
+    ]
+  },
+  "intermediate": {
+    "title": "中級者おすすめパドル ($100-$200)",
+    "criteria": "カーボンファイバー面、16mmコア、バランスの取れた重量(7.8-8.4oz)、コントロールとパワーの両立",
+    "recommendations": [
+      {
+        "paddle_id": "pdl_vatic_pro_v7",
+        "reason": "T700 Raw Carbon、$119.99で圧倒的コスパ。中級者の決定版。"
+      },
+      {
+        "paddle_id": "pdl_joola_hyperion_cfs16",
+        "reason": "CFS16mm。Hyperfoamエッジで安定感。バランス型の名機。"
+      },
+      {
+        "paddle_id": "pdl_selkirk_power_air_invikta",
+        "reason": "Power Air。エロンゲーテッドでパワー重視。FlexFaceで打球感◎。"
+      }
+    ]
+  },
+  "advanced": {
+    "title": "上級者おすすめパドル ($200+)",
+    "criteria": "サーモフォーム構造、Raw Carbon面、フォームエッジウォール、軽量で操作性重視",
+    "recommendations": [
+      {
+        "paddle_id": "pdl_joola_perseus",
+        "reason": "Reactiveハニカムコア+Hyperfoam Edge。Anna Leigh Waters使用。最高峰の操作性。"
+      },
+      {
+        "paddle_id": "pdl_crbn_1x_16",
+        "reason": "CRBN 1X 16mm。T700 Raw Carbon、サーモフォーム。スピンの王者。"
+      },
+      {
+        "paddle_id": "pdl_selkirk_labs_007",
+        "reason": "Selkirk最高峰。FLXフレックスエッジ+QuadFlex4層。$299.99。"
+      }
+    ]
+  },
+  "seniors": {
+    "title": "シニア向けおすすめパドル",
+    "criteria": "軽量(7.0-7.6oz)、振動吸収、ワイドフェース、テニスエルボー予防",
+    "recommendations": [
+      {
+        "paddle_id": "pdl_paddletek_bantam_exl",
+        "reason": "Bantam EX-L。超軽量でアームフレンドリー。振動吸収性に優れる。"
+      },
+      {
+        "paddle_id": "pdl_engage_pursuit_pro_mx",
+        "reason": "6.0テクノロジーで振動を大幅に軽減。長時間プレイでも疲れにくい。"
+      }
+    ]
+  }
+}

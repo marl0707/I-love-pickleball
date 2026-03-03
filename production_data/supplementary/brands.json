@@ -22,7 +22,11 @@
       "Etta Wright",
       "Beth Bellamy"
     ],
-    "logo_url": "https://joolausa.com/"
+    "logo_url": "https://joolausa.com/",
+    "founded": 1952,
+    "headquarters": "Rockville, MD",
+    "website": "https://www.joola.com",
+    "specialty": "卓球からピックルボールへ転身。パドル、ボール"
   },
   {
     "id": "brand_selkirk",
@@ -43,7 +47,11 @@
       "Catherine Parenteau"
     ],
     "warranty": "生涯保証(Lifetime Warranty)",
-    "logo_url": "https://www.selkirk.com/"
+    "logo_url": "https://www.selkirk.com/",
+    "founded": 2014,
+    "headquarters": "Coeur d'Alene, ID",
+    "website": "https://www.selkirk.com",
+    "specialty": "プレミアムパドル、アパレル"
   },
   {
     "id": "brand_franklin",
@@ -64,7 +72,11 @@
       "JW Johnson(2026.1離脱)"
     ],
     "notable_products": "X-40 (US Open公式球)",
-    "logo_url": "https://franklinsports.com/"
+    "logo_url": "https://franklinsports.com/",
+    "founded": 1946,
+    "headquarters": "Ada, MI",
+    "website": "https://www.franklinsports.com",
+    "specialty": "Ben Johnsシリーズのパドル、ボール"
   },
   {
     "id": "brand_crbn",
@@ -79,7 +91,11 @@
     "founded_year": 2021,
     "hq_location": "USA",
     "notable_products": "1X Power Series, 2X, 3X, Magnum",
-    "logo_url": "https://crbnpickleball.com/"
+    "logo_url": "https://crbnpickleball.com/",
+    "founded": 2021,
+    "headquarters": "San Diego, CA",
+    "website": "https://www.carbpickleball.com",
+    "specialty": "Raw Carbon Fiberパドル専門。T700カーボン"
   },
   {
     "id": "brand_sixzero",
@@ -124,7 +140,11 @@
     "hq_location": "USA",
     "notable_products": "Pursuit Pro EX, Pursuit MX, Omega Evolution",
     "unique_tech": "Friction Surface Technology + ControlPro Black Core",
-    "logo_url": "https://engagepickleball.com/"
+    "logo_url": "https://engagepickleball.com/",
+    "founded": 2014,
+    "headquarters": "Kissimmee, FL",
+    "website": "https://engagepickleball.com",
+    "specialty": "コントロール重視パドル。6.0テクノロジー"
   },
   {
     "id": "brand_paddletek",
@@ -145,7 +165,11 @@
     ],
     "unique_tech": "Smart Response Technology (SRT)",
     "manufacturing": "米国インディアナ州で手作り",
-    "logo_url": "https://www.paddletek.com/"
+    "logo_url": "https://www.paddletek.com/",
+    "founded": 2004,
+    "headquarters": "Sumner, WA",
+    "website": "https://www.paddletek.com",
+    "specialty": "ピックルボール黎明期からのブランド。Bantamシリーズ"
   },
   {
     "id": "brand_head",
@@ -166,7 +190,11 @@
     "notable_products": "Radical Pro, Gravity Tour, Extreme Tour",
     "unique_tech": "Optimized Tubular Core (OTC)",
     "subsidiaries": "Penn (ボール), Tyrolia (スキー)",
-    "logo_url": "https://www.head.com/"
+    "logo_url": "https://www.head.com/",
+    "founded": 1950,
+    "headquarters": "Kennelbach, Austria",
+    "website": "https://www.head.com",
+    "specialty": "テニス・ラケットスポーツの老舗。パドル、シューズ"
   },
   {
     "id": "brand_prince",
@@ -201,7 +229,11 @@
     "notable_products": "Evoke Premier, Fuse Outdoor/Indoor Ball",
     "unique_tech": "Composite Face Technology",
     "notable_ball": "Fuse Indoor Ball (インドアプレイヤー定番)",
-    "logo_url": "https://www.onixpickleball.com/"
+    "logo_url": "https://www.onixpickleball.com/",
+    "founded": 2005,
+    "headquarters": "Middleton, WI",
+    "website": "https://www.onixpickleball.com",
+    "specialty": "初心者向けパドル、ボール(Fuse/Pure2)"
   },
   {
     "id": "brand_diadem",
@@ -218,7 +250,11 @@
     "hq_location": "USA",
     "notable_products": "Icon v2, Warrior, Vice (静音EVAコア)",
     "unique_tech": "RP2 Technology + 3XL Core + FS System",
-    "logo_url": "https://www.diademsports.com/"
+    "logo_url": "https://www.diademsports.com/",
+    "founded": 2015,
+    "headquarters": "Carlsbad, CA",
+    "website": "https://www.diademsports.com",
+    "specialty": "テニス＆ピックルボールパドル。Warriorシリーズ"
   },
   {
     "id": "brand_babolat",
@@ -310,7 +346,11 @@
     "hq_location": "San Diego, California, USA",
     "notable_products": "Pro Power, CX14",
     "unique_tech": "SST (Solid Span Technology) - ハニカムなし全カーボン構造",
-    "logo_url": "https://gearboxsports.com/"
+    "logo_url": "https://gearboxsports.com/",
+    "founded": 2009,
+    "headquarters": "San Diego, CA",
+    "website": "https://www.gearboxsports.com",
+    "specialty": "エッジレスパドルの先駆者"
   },
   {
     "id": "brand_volair",
@@ -630,7 +670,11 @@
     ],
     "website_url": "https://newbalance.com",
     "founding_year": 1906,
-    "logo_url": "https://newbalance.com"
+    "logo_url": "https://newbalance.com",
+    "founded": 1906,
+    "headquarters": "Boston, MA",
+    "website": "https://www.newbalance.com",
+    "specialty": "FuelCell 996コートシューズ"
   },
   {
     "id": "brand_hesacore",
