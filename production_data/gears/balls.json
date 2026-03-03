@@ -22,7 +22,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Outdoor%20Pickleballs%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_dura_fast_40",
@@ -44,7 +45,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Dura%20Fast%2040%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_joola_primo",
@@ -62,7 +64,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Primo%20Pickleballs%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_onix_fuse_indoor",
@@ -82,7 +85,8 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Fuse%20Indoor%20Pickleballs%20pickleball",
     "price_usd": null,
     "price_tier": "不明",
-    "product_url": "https://www.onixpickleball.com/products/fuse-indoor-pickleball"
+    "product_url": "https://www.onixpickleball.com/products/fuse-indoor-pickleball",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_vulcan_v520",
@@ -101,7 +105,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20Control%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "franklin-x-40",
@@ -127,7 +132,8 @@
     "official_tournament": "US Open Pickleball Championships 公式球",
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "dura-fast-40",
@@ -151,7 +157,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Fast%2040%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "vulcan-v520",
@@ -175,7 +182,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_01",
@@ -196,7 +204,8 @@
     "official_tournament": "US Open Pickleball Championships 公式球",
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_02",
@@ -215,7 +224,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-26%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_03",
@@ -234,7 +244,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Performance%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_04",
@@ -254,7 +265,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Dura%20Fast%2040%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_05",
@@ -272,7 +284,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Fuse%20G2%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_06",
@@ -290,7 +303,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Pure%202%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_07",
@@ -307,7 +321,8 @@
     "hole_count": 26,
     "image_url": "https://www.google.com/search?tbm=isch&q=CORE%20CORE%20Pickleball%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_08",
@@ -324,7 +339,8 @@
     "hole_count": 40,
     "image_url": "https://www.google.com/search?tbm=isch&q=CORE%20CORE%20Pickleball%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_10",
@@ -342,7 +358,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Radius%20Outdoor%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_11",
@@ -359,7 +376,8 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Junior%20Soft%20Ball",
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Junior%20Soft%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_12",
@@ -378,7 +396,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Pro%20S1%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_13",
@@ -396,7 +415,8 @@
     "features": "騒音制限コート向け静音フォームボール",
     "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Foam%20Quiet%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_14",
@@ -415,7 +435,8 @@
     "official_tournament": "USA Pickleball認定ボール",
     "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Penn%2040%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_15",
@@ -433,7 +454,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Tru%2032%20Pro%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_16",
@@ -450,7 +472,8 @@
     "hole_count": 40,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_17",
@@ -468,7 +491,8 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A",
     "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_18",
@@ -485,7 +509,8 @@
     "hole_count": 26,
     "image_url": "https://www.google.com/search?tbm=isch&q=Niupipo%20Indoor%20Ball%2012%E5%80%8B%E5%85%A5%E3%82%8A%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_19",
@@ -503,7 +528,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%20Pro%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_20",
@@ -521,7 +547,8 @@
     "features": "超ソフトタッチ",
     "image_url": "https://www.google.com/search?tbm=isch&q=Prokennex%20Ultra%20Soft%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_selkirk_pro_s1_gold",
@@ -540,7 +567,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Pro%20S1%20Gold%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_wilson_tru32_indoor",
@@ -559,7 +587,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20TRU%2032%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.9
   },
   {
     "id": "ball_head_penn26_indoor",
@@ -599,6 +628,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Outdoor%20Pickleball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.92,
+    "diameter_in": 2.9
   }
 ]

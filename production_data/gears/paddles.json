@@ -1800,7 +1800,8 @@
     "price_tier": "ミッドレンジ",
     "length_in": 15.75,
     "grip_length_in": 5.25,
-    "product_url": "https://www.wilson.com/en-us/product/echo-energy-wr098911u"
+    "product_url": "https://www.wilson.com/en-us/product/echo-energy-wr098911u",
+    "width_in": 8
   },
   {
     "id": "pdl_wilson_fierce",
@@ -1826,7 +1827,8 @@
     "price_tier": "ミッドレンジ",
     "length_in": 16,
     "grip_length_in": 5.25,
-    "product_url": "https://www.wilson.com/en-us/product/fierce-max-paddle"
+    "product_url": "https://www.wilson.com/en-us/product/fierce-max-paddle",
+    "width_in": 8
   },
   {
     "id": "pdl_prokennex_kinetic",
@@ -1881,7 +1883,8 @@
     "price_tier": "プレミアム",
     "length_in": 16.5,
     "grip_length_in": 5.5,
-    "product_url": "https://prokennex.com/products/black-ace-pro"
+    "product_url": "https://prokennex.com/products/black-ace-pro",
+    "width_in": 7.6
   },
   {
     "id": "pdl_pickleball_apes",
@@ -2615,7 +2618,8 @@
     "price_usd": 79.99,
     "price_tier": "エントリー",
     "length_in": 16,
-    "grip_length_in": 5.25
+    "grip_length_in": 5.25,
+    "width_in": 7.85
   },
   {
     "id": "pdl_babolat_mnstr_touch",

@@ -76,43 +76,50 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "港区スポーツセンター",
-    "_facility_index": 7
+    "_facility_index": 7,
+    "_survey_notes": "サブアリーナに4面。木製コート。ラインテープは利用者が自分で設置。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "新宿区立新宿スポーツセンター",
-    "_facility_index": 8
+    "_facility_index": 8,
+    "_survey_notes": "東京都新宿区。区立スポーツセンターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "新宿コズミックスポーツセンター",
-    "_facility_index": 9
+    "_facility_index": 9,
+    "_survey_notes": "東京都新宿区。コズミックSCでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "北区内 各スポーツセンター（滝野川・赤羽・桐ヶ丘等）",
-    "_facility_index": 10
+    "_facility_index": 10,
+    "_survey_notes": "東京都北区。複数スポーツセンターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "世田谷区立北烏山地区体育室",
-    "_facility_index": 11
+    "_facility_index": 11,
+    "_survey_notes": "東京都世田谷区。地区体育室でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "世田谷区総合運動場体育館",
-    "_facility_index": 12
+    "_facility_index": 12,
+    "_survey_notes": "バドミントンコートを転用して3面。世田谷区民を中心に利用。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "有明スポーツセンター",
-    "_facility_index": 13
+    "_facility_index": 13,
+    "_survey_notes": "東京都江東区有明。Toyosu PBクラブが体育館で月1回以上練習会開催。有明在勤在住者中心。参加費割り勘制。BANDアプリで参加申請。"
   },
   {
     "has_paddle_rental": true,
@@ -158,25 +165,29 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "GODAI横浜",
-    "_facility_index": 17
+    "_facility_index": 17,
+    "_survey_notes": "テニススクール内。PB体験会を定期開催。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "セントラルスポーツF東戸塚店",
-    "_facility_index": 18
+    "_facility_index": 18,
+    "_survey_notes": "神奈川県横浜市戸塚区。セントラルスポーツ施設内でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "横浜市緑区山下みどり台小学校体育館",
-    "_facility_index": 19
+    "_facility_index": 19,
+    "_survey_notes": "神奈川県横浜市緑区。小学校体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "茅ヶ崎台小学校体育館（ノースポートPBクラブ拠点）",
-    "_facility_index": 20
+    "_facility_index": 20,
+    "_survey_notes": "神奈川県横浜市都筑区。ノースポートPBクラブが小学校体育館を拠点に活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -199,13 +210,15 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "レイムテニスセンター",
-    "_facility_index": 23
+    "_facility_index": 23,
+    "_survey_notes": "常設PBコート2面（テラス）。テニスハードコート転用時は最大10面可。レイムPBクラブは会員制。コートレンタルなし。埼玉県川口市。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピックルボールアカデミー",
-    "_facility_index": 24
+    "_facility_index": 24,
+    "_survey_notes": "さいたま市の公共施設(与野体育館、東大宮CC等)を利用した間借り活動。専用コートは持たない。"
   },
   {
     "has_paddle_rental": true,
@@ -219,19 +232,22 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "さいたま市大宮体育館",
-    "_facility_index": 26
+    "_facility_index": 26,
+    "_survey_notes": "埼玉県さいたま市大宮区。大宮体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "さいたま市浦和西体育館",
-    "_facility_index": 27
+    "_facility_index": 27,
+    "_survey_notes": "埼玉県さいたま市。浦和西体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "戸塚スポーツセンター",
-    "_facility_index": 28
+    "_facility_index": 28,
+    "_survey_notes": "埼玉県川口市。スポーツセンターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -253,13 +269,15 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "吉田記念テニス研修センター(TTC)",
-    "_facility_index": 31
+    "_facility_index": 31,
+    "_survey_notes": "テニス用ハードコートをPB用に転用。通常2-4面利用可能。施設全体は14-15面のテニスコート保有。千葉県柏市。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "スポーツコミュニティー市川浦安店",
-    "_facility_index": 32
+    "_facility_index": 32,
+    "_survey_notes": "テニス兼用コート(Aコート/Bコート/Cコート)をPBに使用。初心者向け無料体験あり。"
   },
   {
     "has_paddle_rental": true,
@@ -273,13 +291,15 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "千葉市立弁天小学校体育館",
-    "_facility_index": 34
+    "_facility_index": 34,
+    "_survey_notes": "千葉県千葉市。小学校体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "磯辺スポーツセンター体育館",
-    "_facility_index": 35
+    "_facility_index": 35,
+    "_survey_notes": "千葉県千葉市。スポーツセンター体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -302,31 +322,36 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ゴールドジム土浦茨城",
-    "_facility_index": 38
+    "_facility_index": 38,
+    "_survey_notes": "茨城県土浦市。ジム施設内でPB利用可能。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ジョイフルアスレティッククラブ",
-    "_facility_index": 39
+    "_facility_index": 39,
+    "_survey_notes": "土浦店。バドコートサイズ。メンバーは無料利用可。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "フットサルサンフィート",
-    "_facility_index": 40
+    "_facility_index": 40,
+    "_survey_notes": "茨城県水戸市。フットサル専用レンタルピッチ。PB情報は未確認のため要注意。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピックルボールコート P-REX",
-    "_facility_index": 41
+    "_facility_index": 41,
+    "_survey_notes": "2021年オープン。屋外PB専用コート1面。栃木県。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "パドル・ボールのレンタルあり（個人参加プログラム時）",
     "_facility_name": "日環アリーナ栃木",
-    "_facility_index": 42
+    "_facility_index": 42,
+    "_survey_notes": "栃木市。メインアリーナ(バスケ4面分)・サブアリーナ(バスケ2面分)。PB教室開催(火曜定員32名/水木定員16名)。常設PBコートなし、多目的スペース転用。"
   },
   {
     "has_paddle_rental": true,
@@ -350,13 +375,15 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "SOHOストリンガー ピックルボール練習場",
-    "_facility_index": 45
+    "_facility_index": 45,
+    "_survey_notes": "群馬県。ピックルボール練習場1面。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ティップネス太田",
-    "_facility_index": 46
+    "_facility_index": 46,
+    "_survey_notes": "群馬県太田市。スタジオ利用でPBコート1面。"
   },
   {
     "has_paddle_rental": true,
@@ -377,25 +404,29 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "お泊りきくや",
-    "_facility_index": 49
+    "_facility_index": 49,
+    "_survey_notes": "宿泊施設内でPB体験可能。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "TOCCHY PICKLEBALL FREAKS",
-    "_facility_index": 50
+    "_facility_index": 50,
+    "_survey_notes": "栃木県矢板市。地域PBクラブ。各体育館で活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "セントラルスポーツ・ピックルボールクラブ",
-    "_facility_index": 51
+    "_facility_index": 51,
+    "_survey_notes": "栃木県宇都宮市。セントラルスポーツ施設内でPBクラブ活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "宇都宮市清原体育館",
-    "_facility_index": 52
+    "_facility_index": 52,
+    "_survey_notes": "栃木県宇都宮市。清原体育館でPB活動。面数不明。"
   },
   {
     "rental_detail": "日本最大級のピックルボールショップ併設。パドルの試打や購入が可能。",
@@ -415,7 +446,8 @@
     "paddle_rental_fee": "500円",
     "rental_detail": "パドル1本+ボール2球セット 500円/人",
     "_facility_name": "南港中央庭球場",
-    "_facility_index": 76
+    "_facility_index": 76,
+    "_survey_notes": "大阪市住之江区。PBコート4面。2025年春にコート拡充計画あり。"
   },
   {
     "has_paddle_rental": true,
@@ -429,31 +461,36 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "住之江スポーツセンター",
-    "_facility_index": 78
+    "_facility_index": 78,
+    "_survey_notes": "大阪市住之江区。インドア木製コート3面。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東淀川体育館",
-    "_facility_index": 79
+    "_facility_index": 79,
+    "_survey_notes": "大阪市東淀川区。体育館でのPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "大阪狭山市総合体育館サブアリーナ",
-    "_facility_index": 80
+    "_facility_index": 80,
+    "_survey_notes": "大阪狭山市。サブアリーナでPB利用。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "河内長野市立市民総合体育館",
-    "_facility_index": 81
+    "_facility_index": 81,
+    "_survey_notes": "大阪府河内長野市。市民総合体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東大阪市立ウィルチェアスポーツコート",
-    "_facility_index": 82
+    "_facility_index": 82,
+    "_survey_notes": "大阪府東大阪市。ウィルチェアスポーツコートでPB利用。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -468,19 +505,22 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "右京地域体育館（右京区役所4F）",
-    "_facility_index": 84
+    "_facility_index": 84,
+    "_survey_notes": "京都市右京区。区役所4F体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "伏見区醍醐地域体育館",
-    "_facility_index": 85
+    "_facility_index": 85,
+    "_survey_notes": "京都市伏見区。地域体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "島津アリーナ京都",
-    "_facility_index": 86
+    "_facility_index": 86,
+    "_survey_notes": "京都市。常設PBコートなし。イベント時には第1競技場10面+第2競技場4面=計14面を設営可能。「ピックルボール京都オープン2024」が開催された実績あり。"
   },
   {
     "has_paddle_rental": 1,
@@ -492,61 +532,71 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東垂水公民館・垂水体育館",
-    "_facility_index": 88
+    "_facility_index": 88,
+    "_survey_notes": "兵庫県神戸市垂水区。公民館/体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東灘体育館",
-    "_facility_index": 89
+    "_facility_index": 89,
+    "_survey_notes": "兵庫県神戸市東灘区。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "北神戸田園スポーツ公園体育館",
-    "_facility_index": 90
+    "_facility_index": 90,
+    "_survey_notes": "兵庫県神戸市北区。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "皇子が丘公園体育館",
-    "_facility_index": 91
+    "_facility_index": 91,
+    "_survey_notes": "滋賀県大津市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "石山市民体育館",
-    "_facility_index": 92
+    "_facility_index": 92,
+    "_survey_notes": "滋賀県大津市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "奈良市勤労者総合福祉センター（サン・アクティブなら）",
-    "_facility_index": 93
+    "_facility_index": 93,
+    "_survey_notes": "奈良市。多目的体育室でPB利用可。面数はイベント設営次第。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "奈良市西部公民館",
-    "_facility_index": 94
+    "_facility_index": 94,
+    "_survey_notes": "奈良県奈良市。西部公民館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "曽我川緑地体育館",
-    "_facility_index": 95
+    "_facility_index": 95,
+    "_survey_notes": "奈良県橿原市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "広陵町西体育館・北体育館",
-    "_facility_index": 96
+    "_facility_index": 96,
+    "_survey_notes": "奈良県広陵町。体育館2か所でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "紀の川市民体育館メインアリーナ",
-    "_facility_index": 97
+    "_facility_index": 97,
+    "_survey_notes": "和歌山県紀の川市。メインアリーナでPB利用。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -594,49 +644,57 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "名古屋市稲永スポーツセンター",
-    "_facility_index": 123
+    "_facility_index": 123,
+    "_survey_notes": "名古屋市港区。体育館にPB専用コートライン引き済。バドコート転用も可能。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "枇杷島スポーツセンター（名西ピックルズ拠点）",
-    "_facility_index": 124
+    "_facility_index": 124,
+    "_survey_notes": "名古屋市西区。名西ピックルズの活動拠点。体育館でPBプレイ。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "西尾市総合体育館",
-    "_facility_index": 125
+    "_facility_index": 125,
+    "_survey_notes": "愛知県西尾市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "岡崎市体育館",
-    "_facility_index": 126
+    "_facility_index": 126,
+    "_survey_notes": "愛知県岡崎市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "一宮総合体育館",
-    "_facility_index": 127
+    "_facility_index": 127,
+    "_survey_notes": "愛知県一宮市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "尾張旭市総合体育館",
-    "_facility_index": 128
+    "_facility_index": 128,
+    "_survey_notes": "愛知県尾張旭市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "豊橋市飯村地区体育館",
-    "_facility_index": 129
+    "_facility_index": 129,
+    "_survey_notes": "愛知県豊橋市。地区体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ティップネス浜松葵東店",
-    "_facility_index": 130
+    "_facility_index": 130,
+    "_survey_notes": "静岡県浜松市。フィットネスクラブ内でPBプログラム提供。面数不明。"
   },
   {
     "has_paddle_rental": 1,
@@ -648,43 +706,50 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "堀之内体育館（菊川ピックルズ拠点）",
-    "_facility_index": 132
+    "_facility_index": 132,
+    "_survey_notes": "静岡県菊川市。菊川ピックルズが水曜19-21:30/日曜18-21に利用。参加費200-300円。パドル貸出100円。50名超のメンバー。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "小山臨海公園マリンホール",
-    "_facility_index": 133
+    "_facility_index": 133,
+    "_survey_notes": "栃木県小山市。体育館でPB活動。面数はイベント設営次第。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "岐阜メモリアルセンター",
-    "_facility_index": 134
+    "_facility_index": 134,
+    "_survey_notes": "岐阜市。PB専用コートなし。で愛ドーム(第1体育館)にバド12面利用可。PBコートとして転用可能。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "OKBぎふ清流アリーナ",
-    "_facility_index": 135
+    "_facility_index": 135,
+    "_survey_notes": "岐阜県岐阜市。アリーナでPB活動。面数はイベント設営次第。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "大垣市総合体育館 第二体育館",
-    "_facility_index": 136
+    "_facility_index": 136,
+    "_survey_notes": "岐阜県大垣市。第二体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "プリニーの総合体育館",
-    "_facility_index": 137
+    "_facility_index": 137,
+    "_survey_notes": "岐阜県池田町。総合体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "多治見市総合体育館",
-    "_facility_index": 138
+    "_facility_index": 138,
+    "_survey_notes": "岐阜県多治見市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
@@ -702,13 +767,15 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "新潟市東総合スポーツセンター",
-    "_facility_index": 141
+    "_facility_index": 141,
+    "_survey_notes": "新潟市。2026年3月末まで天井改修工事で休場中。PB専用情報なし。バスケ2面/バレー3面/バド12面の広さ。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "亀田総合体育館（新潟PBクラブMerrily拠点）",
-    "_facility_index": 142
+    "_facility_index": 142,
+    "_survey_notes": "新潟市。新潟PBクラブMerrilyの活動拠点。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -729,7 +796,8 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "高岡市民体育館",
-    "_facility_index": 145
+    "_facility_index": 145,
+    "_survey_notes": "富山県高岡市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -752,7 +820,8 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "日硝ハイウエーアリーナ",
-    "_facility_index": 148
+    "_facility_index": 148,
+    "_survey_notes": "三重県津市。屋内総合スポーツ施設。PB国際大会の開催実績あり。面数はイベント時可変。"
   },
   {
     "has_paddle_rental": true,
@@ -775,13 +844,15 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "安茂里体育館",
-    "_facility_index": 151
+    "_facility_index": 151,
+    "_survey_notes": "長野県長野市安茂里。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "安曇野市三郷文化公園体育館",
-    "_facility_index": 152
+    "_facility_index": 152,
+    "_survey_notes": "長野県安曇野市。文化公園体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -795,37 +866,43 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "福井市体育館",
-    "_facility_index": 154
+    "_facility_index": 154,
+    "_survey_notes": "福井県福井市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "富山東部体育館",
-    "_facility_index": 155
+    "_facility_index": 155,
+    "_survey_notes": "富山県富山市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "ふれあい松東体育館",
-    "_facility_index": 156
+    "_facility_index": 156,
+    "_survey_notes": "石川県小松市。ピックルビート小松の月2回練習会場のひとつ。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "福井市南体育館",
-    "_facility_index": 157
+    "_facility_index": 157,
+    "_survey_notes": "福井県福井市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "福井市東体育館",
-    "_facility_index": 158
+    "_facility_index": 158,
+    "_survey_notes": "福井県福井市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "安茂里体育館",
-    "_facility_index": 159
+    "_facility_index": 159,
+    "_survey_notes": "長野県長野市安茂里。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
@@ -876,7 +953,8 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "TOPインドアステージ札幌森林公園",
-    "_facility_index": 180
+    "_facility_index": 180,
+    "_survey_notes": "札幌市。道内最大級のインドアコート。テニススクール内でPB体験会開催実績あり。床暖房完備。参加費2,000円。面数はイベント時のみ確定。"
   },
   {
     "has_paddle_rental": true,
@@ -889,43 +967,50 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "セントラルフィットネスクラブ山鼻",
-    "_facility_index": 182
+    "_facility_index": 182,
+    "_survey_notes": "札幌市。セントラルスポーツ会員+一般参加可能な「ピックルボールタイム」を開催。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "スポーツクラブNAS Vit Park 札幌",
-    "_facility_index": 183
+    "_facility_index": 183,
+    "_survey_notes": "札幌市。NASフィットネスクラブ内でPBプログラム提供。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "札幌北区体育館",
-    "_facility_index": 184
+    "_facility_index": 184,
+    "_survey_notes": "札幌市北区。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "NHPC（苗穂・本町地区センター）",
-    "_facility_index": 185
+    "_facility_index": 185,
+    "_survey_notes": "札幌市中央区。地区センターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "札幌ピックルズ（複数拠点）",
-    "_facility_index": 186
+    "_facility_index": 186,
+    "_survey_notes": "北海道札幌市。複数施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "仙台ピックルボール機構（複数拠点）",
-    "_facility_index": 187
+    "_facility_index": 187,
+    "_survey_notes": "宮城県仙台市。複数施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピックルボール仙台ぐれもん",
-    "_facility_index": 188
+    "_facility_index": 188,
+    "_survey_notes": "仙台市内の三本松市民センター、泉海洋センター、泉体育館等で活動。火or木曜。参加費500円。18時フリーコート/19-21時体験練習会。"
   },
   {
     "has_paddle_sales": 0,
@@ -941,31 +1026,36 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピックルボールふくしま（福島市各施設）",
-    "_facility_index": 190
+    "_facility_index": 190,
+    "_survey_notes": "福島県福島市。各公共施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "南相馬ピックルボールアカデミー",
-    "_facility_index": 191
+    "_facility_index": 191,
+    "_survey_notes": "福島県南相馬市小高区。小高体育センター等の公共施設を利用して活動。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "いわき市立総合体育館",
-    "_facility_index": 192
+    "_facility_index": 192,
+    "_survey_notes": "福島県いわき市。総合体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "秋桜アリーナ（浪江町地域スポーツセンター）",
-    "_facility_index": 193
+    "_facility_index": 193,
+    "_survey_notes": "福島県浪江町。地域スポーツセンターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "由利本荘総合防災公園ナイスアリーナ",
-    "_facility_index": 194
+    "_facility_index": 194,
+    "_survey_notes": "秋田県由利本荘市。ナイスアリーナでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -982,19 +1072,22 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "秋田ピックルボールクラブ",
-    "_facility_index": 196
+    "_facility_index": 196,
+    "_survey_notes": "秋田市内の複数市民サービスセンター(センタース/なんぴあ/ウェスター/いーぱる/キタスカ)一や文化創造館で週2-3回活動。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピックルボールやまがた",
-    "_facility_index": 197
+    "_facility_index": 197,
+    "_survey_notes": "山形県。各施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "もりおかピクルズ",
-    "_facility_index": 198
+    "_facility_index": 198,
+    "_survey_notes": "岩手県盛岡市。地域PBクラブ。各施設で活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1008,25 +1101,29 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "青森市総合体育館",
-    "_facility_index": 200
+    "_facility_index": 200,
+    "_survey_notes": "青森県青森市。総合体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "リバティテニスクラブ (Liberty Tennis Club)",
-    "_facility_index": 201
+    "_facility_index": 201,
+    "_survey_notes": "テニスクラブ内でPB活動可能。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピヴォーレ福岡 (Pivole FUKUOKA)",
-    "_facility_index": 209
+    "_facility_index": 209,
+    "_survey_notes": "福岡市。九州初インドアPBコート。2025年6月完成。ソフトコート最大4面。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "山国川緑地 ピックルボールコート（吉富コート）",
-    "_facility_index": 210
+    "_facility_index": 210,
+    "_survey_notes": "福岡県築上郡吉富町。山国川河川敷にPB専用コート3面整備。吉富町が健康増進・交流目的で設置。子供から高齢者まで利用可。"
   },
   {
     "has_paddle_rental": true,
@@ -1039,49 +1136,57 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "飯塚市総合体育館・穂波体育館",
-    "_facility_index": 212
+    "_facility_index": 212,
+    "_survey_notes": "福岡県飯塚市。総合体育館/穂波体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "北九州学術研究都市体育館",
-    "_facility_index": 213
+    "_facility_index": 213,
+    "_survey_notes": "福岡県北九州市若松区。アリーナ35×42m。バスケ/バレー/卓球等に対応。PBイベント・練習会開催実績あり。面数可変。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "福津市 津屋崎体育センター・福間体育センター",
-    "_facility_index": 214
+    "_facility_index": 214,
+    "_survey_notes": "福岡県福津市。2施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "福岡市立中央体育館・東体育館・城南体育館",
-    "_facility_index": 215
+    "_facility_index": 215,
+    "_survey_notes": "福岡市。3体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "さざんぴあ博多・まどかぴあ・大野城市総合体育館",
-    "_facility_index": 216
+    "_facility_index": 216,
+    "_survey_notes": "福岡県。3施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "根体育館（佐賀ピックルボールクラブ拠点）",
-    "_facility_index": 217
+    "_facility_index": 217,
+    "_survey_notes": "佐賀県。佐賀PBクラブの活動拠点。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "多久市体育センター・北多久社会体育館",
-    "_facility_index": 218
+    "_facility_index": 218,
+    "_survey_notes": "佐賀県多久市。体育センター/社会体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "佐賀勤労者体育センター",
-    "_facility_index": 219
+    "_facility_index": 219,
+    "_survey_notes": "佐賀県佐賀市。勤労者体育センターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1095,19 +1200,22 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "長崎市民体育館",
-    "_facility_index": 221
+    "_facility_index": 221,
+    "_survey_notes": "長崎県長崎市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東公園コミュニティ体育館",
-    "_facility_index": 222
+    "_facility_index": 222,
+    "_survey_notes": "長崎県長崎市。コミュニティ体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "佐世保市体育文化館",
-    "_facility_index": 223
+    "_facility_index": 223,
+    "_survey_notes": "長崎県佐世保市。体育文化館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1122,55 +1230,64 @@
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "COSMOS【熊本県フットボールセンター】",
-    "_facility_index": 225
+    "_facility_index": 225,
+    "_survey_notes": "熊本県上益城郡嘉島町。2025年10月完成。PB専用コート2面。COSMOSロゴカラーの特別色調仕上げ。2025年11月3日に体験イベント開催。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "西部公民館（ピックルボールおおいた拠点）",
-    "_facility_index": 226
+    "_facility_index": 226,
+    "_survey_notes": "大分市。PBおおいたが西部公民館を拠点に初心者体験会・練習会を定期開催。専用常設コートなし。体育館スペースに応じて可変設置。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "杵築市B&G海洋センター体育館",
-    "_facility_index": 227
+    "_facility_index": 227,
+    "_survey_notes": "大分県杵築市。PBサークル「Suppie!」が毎週木曜に活動。体育館でPBプレイ。面数可変。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "日出町中央体育館",
-    "_facility_index": 228
+    "_facility_index": 228,
+    "_survey_notes": "大分県速見郡日出町。PBサークル「Suppie!」が毎週水曜に活動。体育館でPBプレイ。面数可変。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "別府市西部地区公民館",
-    "_facility_index": 229
+    "_facility_index": 229,
+    "_survey_notes": "大分県別府市。PBサークル「Suppie!」が毎週土曜に活動。公民館体育館でPBプレイ。面数可変。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "日南多目的体育館",
-    "_facility_index": 230
+    "_facility_index": 230,
+    "_survey_notes": "宮崎県日南市。多目的体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "広瀬地区地域交流センター",
-    "_facility_index": 231
+    "_facility_index": 231,
+    "_survey_notes": "地域交流センターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "宮崎市住吉スポーツクラブ",
-    "_facility_index": 232
+    "_facility_index": 232,
+    "_survey_notes": "宮崎県宮崎市。スポーツクラブでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "鹿児島市民体育館",
-    "_facility_index": 233
+    "_facility_index": 233,
+    "_survey_notes": "鹿児島県鹿児島市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1185,31 +1302,36 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "沖縄県総合運動公園体育館メインアリーナ",
-    "_facility_index": 235
+    "_facility_index": 235,
+    "_survey_notes": "沖縄県沖縄市。メインアリーナでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "宜野湾市体育館",
-    "_facility_index": 236
+    "_facility_index": 236,
+    "_survey_notes": "沖縄県宜野湾市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "東風平体育館",
-    "_facility_index": 237
+    "_facility_index": 237,
+    "_survey_notes": "沖縄県八重瀬町。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "浦添市民体育館",
-    "_facility_index": 238
+    "_facility_index": 238,
+    "_survey_notes": "沖縄県浦添市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "21世紀の森体育館",
-    "_facility_index": 239
+    "_facility_index": 239,
+    "_survey_notes": "沖縄県名護市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1231,103 +1353,120 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "五日市公民館",
-    "_facility_index": 250
+    "_facility_index": 250,
+    "_survey_notes": "広島県広島市佐伯区。公民館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "呉市内公共施設",
-    "_facility_index": 251
+    "_facility_index": 251,
+    "_survey_notes": "広島県呉市。公共施設でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "倉敷体育館",
-    "_facility_index": 252
+    "_facility_index": 252,
+    "_survey_notes": "岡山県倉敷市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "倉敷運動公園ウエイトリフティング場",
-    "_facility_index": 253
+    "_facility_index": 253,
+    "_survey_notes": "岡山県倉敷市。PB活動場所。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "水島体育館",
-    "_facility_index": 254
+    "_facility_index": 254,
+    "_survey_notes": "岡山県倉敷市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "玉島の森",
-    "_facility_index": 255
+    "_facility_index": 255,
+    "_survey_notes": "岡山県倉敷市。施設内でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "山口ピックルボールクラブ（YPC）拠点各施設",
-    "_facility_index": 256
+    "_facility_index": 256,
+    "_survey_notes": "山口県。YPCが複数施設で活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "新南陽体育センター",
-    "_facility_index": 257
+    "_facility_index": 257,
+    "_survey_notes": "山口県周南市。体育センターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "美東小学校体育館",
-    "_facility_index": 258
+    "_facility_index": 258,
+    "_survey_notes": "山口県美祢市。小学校体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "須恵健康公園体育館",
-    "_facility_index": 259
+    "_facility_index": 259,
+    "_survey_notes": "福岡県須恵町。健康公園体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 1,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ふくいテニスクラブ",
-    "_facility_index": 260
+    "_facility_index": 260,
+    "_survey_notes": "福井県。テニスクラブ内でPBプレイ可能。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "玉湯体育館（松江PB同好会拠点）",
-    "_facility_index": 261
+    "_facility_index": 261,
+    "_survey_notes": "島根県松江市。松江PB同好会の活動拠点。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "島根県立はつらつ体育館",
-    "_facility_index": 262
+    "_facility_index": 262,
+    "_survey_notes": "島根県松江市。県立体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "安来市立飯梨小学校体育館",
-    "_facility_index": 263
+    "_facility_index": 263,
+    "_survey_notes": "島根県安来市。小学校体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "鳥取市民体育館",
-    "_facility_index": 264
+    "_facility_index": 264,
+    "_survey_notes": "鳥取県鳥取市。市民体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "米子市内体育館",
-    "_facility_index": 265
+    "_facility_index": 265,
+    "_survey_notes": "鳥取県米子市。市内体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "牟礼中央公園運動センター体育館",
-    "_facility_index": 266
+    "_facility_index": 266,
+    "_survey_notes": "香川県高松市。運動センター体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1357,7 +1496,8 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "高松市香南体育館",
-    "_facility_index": 270
+    "_facility_index": 270,
+    "_survey_notes": "香川県高松市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1371,7 +1511,8 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "羽ノ浦スポーツセンター",
-    "_facility_index": 272
+    "_facility_index": 272,
+    "_survey_notes": "徳島県阿南市。スポーツセンターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": true,
@@ -1392,37 +1533,43 @@
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "今治中央体育館",
-    "_facility_index": 275
+    "_facility_index": 275,
+    "_survey_notes": "愛媛県今治市。体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "高知市東部体育センター",
-    "_facility_index": 276
+    "_facility_index": 276,
+    "_survey_notes": "高知県高知市。体育センターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "ふくいテニスクラブ",
-    "_facility_index": 277
+    "_facility_index": 277,
+    "_survey_notes": "福井県。テニスクラブ内でPBプレイ可能。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "新南陽体育センター",
-    "_facility_index": 278
+    "_facility_index": 278,
+    "_survey_notes": "山口県周南市。体育センターでPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "美東小学校体育館",
-    "_facility_index": 279
+    "_facility_index": 279,
+    "_survey_notes": "山口県美祢市。小学校体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "須恵健康公園体育館",
-    "_facility_index": 280
+    "_facility_index": 280,
+    "_survey_notes": "福岡県須恵町。健康公園体育館でPB活動。面数不明。"
   },
   {
     "has_paddle_rental": 0,

@@ -298,5 +298,41 @@
     "name": "UVプロテクション",
     "category": "アパレル特性",
     "description": "UPF防御機能付きのアパレル。"
+  },
+  {
+    "id": "tag_tournament_approved",
+    "name": "トーナメント対応",
+    "category": "認定",
+    "description": "公式トーナメントで使用可能な認定ギア。"
+  },
+  {
+    "id": "tag_waterproof",
+    "name": "防水",
+    "category": "アクセサリー特性",
+    "description": "防水・撥水加工されたアクセサリーやバッグ。"
+  },
+  {
+    "id": "tag_vibration_dampening",
+    "name": "振動吸収",
+    "category": "パドル技術",
+    "description": "振動を吸収してテニスエルボーを予防する技術。"
+  },
+  {
+    "id": "tag_edgeless",
+    "name": "エッジレス",
+    "category": "パドル設計",
+    "description": "エッジガードなしの設計。面積を最大化。"
+  },
+  {
+    "id": "tag_carbon_fiber_face",
+    "name": "カーボンファイバー面",
+    "category": "パドル素材",
+    "description": "カーボンファイバー面のパドル。高スピン・耐久性。"
+  },
+  {
+    "id": "tag_fiberglass_face",
+    "name": "ファイバーグラス面",
+    "category": "パドル素材",
+    "description": "ファイバーグラス面のパドル。パワー・柔らかいタッチ感。"
   }
 ]
