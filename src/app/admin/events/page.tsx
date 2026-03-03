@@ -38,7 +38,6 @@ export default async function AdminEventsPage() {
                                 <th className="p-4 font-semibold">開催日時</th>
                                 <th className="p-4 font-semibold">開催場所</th>
                                 <th className="p-4 font-semibold">主催者</th>
-                                <th className="p-4 font-semibold">ステータス</th>
                                 <th className="p-4 font-semibold text-right">アクション</th>
                             </tr>
                         </thead>
@@ -62,7 +61,9 @@ export default async function AdminEventsPage() {
                                             )}
                                         </td>
                                         <td className="p-4 text-gray-600">
-                                            {format(new Date(event.startDateTime), 'yyyy/MM/dd HH:mm', { locale: ja })}
+                                            {event.date && !isNaN(new Date(event.date).getTime())
+                                                ? format(new Date(event.date), 'yyyy/MM/dd HH:mm', { locale: ja })
+                                                : '未設定'}
                                         </td>
                                         <td className="p-4 text-gray-600 line-clamp-1">
                                             {event.location}
@@ -70,14 +71,7 @@ export default async function AdminEventsPage() {
                                         <td className="p-4 text-gray-600">
                                             {event.organizer.nickname || event.organizer.email}
                                         </td>
-                                        <td className="p-4">
-                                            <span className={`inline-block px-2 py-1 rounded-full text-xs font-bold ${event.status === 'PUBLISHED' ? 'bg-green-100 text-green-700' :
-                                                    event.status === 'DRAFT' ? 'bg-gray-100 text-gray-700' :
-                                                        'bg-red-100 text-red-700'
-                                                }`}>
-                                                {event.status}
-                                            </span>
-                                        </td>
+
                                         <td className="p-4 text-right flex items-center justify-end gap-2">
                                             <Link href={`/events/${event.id}`} target="_blank" className="text-gray-400 hover:text-brand-accent transition-colors" title="ページを確認">
                                                 <span className="material-symbols-outlined text-[18px]">visibility</span>
