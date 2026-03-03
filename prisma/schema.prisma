@@ -16,23 +16,23 @@ datasource db {
 // ユーザー (Users)
 // ============================================
 model User {
-  id              String   @id @default(uuid())
-  email           String   @unique
-  nickname        String?
-  isProfilePublic Boolean  @default(true) @map("is_profile_public")
-  profileImageUrl String?  @map("profile_image_url")
-  stripeCustomerId String? @map("stripe_customer_id")
-  createdAt       DateTime @default(now()) @map("created_at")
-  updatedAt       DateTime @updatedAt @map("updated_at")
+  id               String   @id @default(uuid())
+  email            String   @unique
+  nickname         String?
+  isProfilePublic  Boolean  @default(true) @map("is_profile_public")
+  profileImageUrl  String?  @map("profile_image_url")
+  stripeCustomerId String?  @map("stripe_customer_id")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
 
   // リレーション
-  facilityReviews   FacilityReview[]
-  gearReviews       GearReview[]
-  advertisements    Advertisement[]
-  adBids            AdBid[]
-  bookmarks         Bookmark[]
-  communityPosts    CommunityPost[]
-  communityComments CommunityComment[]
+  facilityReviews     FacilityReview[]
+  gearReviews         GearReview[]
+  advertisements      Advertisement[]
+  adBids              AdBid[]
+  bookmarks           Bookmark[]
+  communityPosts      CommunityPost[]
+  communityComments   CommunityComment[]
   eventParticipations EventParticipant[]
   drillBookmarks      DrillBookmark[]
   organizedEvents     Event[]            @relation("EventOrganizer")
@@ -75,10 +75,10 @@ model Facility {
   lastCrawledAt     DateTime? @map("last_crawled_at")
 
   // --- database_schema_draft.md 追加カラム ---
-  directionsUrl     String?   @map("directions_url")    // Google Maps等への経路案内URL
-  accessGuide       String?   @map("access_guide")      // 「駅から徒歩5分」等の補足アクセス情報
-  visitorWelcome    Boolean   @default(false) @map("visitor_welcome")  // ドロップイン・体験参加歓迎フラグ
-  hasSchool         Boolean   @default(false) @map("has_school")       // 施設主導スクール有無
+  directionsUrl  String? @map("directions_url") // Google Maps等への経路案内URL
+  accessGuide    String? @map("access_guide") // 「駅から徒歩5分」等の補足アクセス情報
+  visitorWelcome Boolean @default(false) @map("visitor_welcome") // ドロップイン・体験参加歓迎フラグ
+  hasSchool      Boolean @default(false) @map("has_school") // 施設主導スクール有無
 
   createdAt DateTime @default(now()) @map("created_at")
   updatedAt DateTime @updatedAt @map("updated_at")
@@ -342,29 +342,29 @@ model Bookmark {
 // ============================================
 
 model CommunityCategory {
-  id          String   @id @default(uuid())
-  slug        String   @unique
+  id          String          @id @default(uuid())
+  slug        String          @unique
   name        String
   description String?
-  sortOrder   Int      @default(0) @map("sort_order")
+  sortOrder   Int             @default(0) @map("sort_order")
   posts       CommunityPost[]
 
   @@map("community_categories")
 }
 
 model CommunityPost {
-  id          String   @id @default(uuid())
-  categoryId  String   @map("category_id")
-  userId      String   @map("user_id")
-  title       String
-  content     String
-  viewCount   Int      @default(0) @map("view_count")
-  likeCount   Int      @default(0) @map("like_count")
-  createdAt   DateTime @default(now()) @map("created_at")
-  updatedAt   DateTime @updatedAt @map("updated_at")
+  id         String   @id @default(uuid())
+  categoryId String   @map("category_id")
+  userId     String   @map("user_id")
+  title      String
+  content    String
+  viewCount  Int      @default(0) @map("view_count")
+  likeCount  Int      @default(0) @map("like_count")
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
 
-  category CommunityCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade)
-  user     User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  category CommunityCategory  @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  user     User               @relation(fields: [userId], references: [id], onDelete: Cascade)
   comments CommunityComment[]
 
   @@map("community_posts")
@@ -415,17 +415,17 @@ enum AdvertisementStatus {
 }
 
 model AdBid {
-  id             String      @id @default(uuid())
-  category       String // 入札対象カテゴリ (ALL, Facility, Gear 等)
-  bidderId       String      @map("bidder_id")
-  bidAmount      Int         @map("bid_amount")
-  imageUrl       String      @map("image_url")
-  targetUrl      String      @map("target_url")
-  advertiserName String      @map("advertiser_name")
-  stripeSubscriptionId String? @map("stripe_subscription_id")
-  status         AdBidStatus @default(ACTIVE)
-  createdAt      DateTime    @default(now()) @map("created_at")
-  updatedAt      DateTime    @updatedAt @map("updated_at")
+  id                   String      @id @default(uuid())
+  category             String // 入札対象カテゴリ (ALL, Facility, Gear 等)
+  bidderId             String      @map("bidder_id")
+  bidAmount            Int         @map("bid_amount")
+  imageUrl             String      @map("image_url")
+  targetUrl            String      @map("target_url")
+  advertiserName       String      @map("advertiser_name")
+  stripeSubscriptionId String?     @map("stripe_subscription_id")
+  status               AdBidStatus @default(ACTIVE)
+  createdAt            DateTime    @default(now()) @map("created_at")
+  updatedAt            DateTime    @updatedAt @map("updated_at")
 
   bidderUser User @relation(fields: [bidderId], references: [id], onDelete: Cascade)
 
@@ -444,18 +444,18 @@ enum AdBidStatus {
 // ============================================
 
 model Event {
-  id          String   @id @default(uuid())
-  title       String
-  description String?  @db.Text
-  date        DateTime
-  location    String?
-  organizerId String   @map("organizer_id")
-  maxCapacity Int?     @map("max_capacity")
-  fee         Int?
-  imageUrl    String?  @map("image_url")
-  externalLink String? @map("external_link") // 外部の参加申し込みURL
-  createdAt   DateTime @default(now()) @map("created_at")
-  updatedAt   DateTime @updatedAt @map("updated_at")
+  id           String   @id @default(uuid())
+  title        String
+  description  String?  @db.Text
+  date         DateTime
+  location     String?
+  organizerId  String   @map("organizer_id")
+  maxCapacity  Int?     @map("max_capacity")
+  fee          Int?
+  imageUrl     String?  @map("image_url")
+  externalLink String?  @map("external_link") // 外部の参加申し込みURL
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
 
   organizer    User               @relation("EventOrganizer", fields: [organizerId], references: [id])
   participants EventParticipant[]
@@ -512,17 +512,17 @@ model DrillBookmark {
 // サークル・クラブ情報 (Communities / Circles)
 // ============================================
 model Community {
-  id                String   @id @default(uuid())
+  id                String  @id @default(uuid())
   name              String
-  description       String?  @db.Text
-  beginnerFriendly  Boolean  @default(false) @map("beginner_friendly")  // 初心者歓迎フラグ
-  playStyle         String?  @map("play_style")          // エンジョイ, 競技, 混合
-  activityFrequency String?  @map("activity_frequency")  // 週1回, 月2回, 不定期
-  scheduleText      String?  @map("schedule_text")       // 定型スケジュール文
-  externalUrl       String?  @map("external_url")        // 公式サイト・SNSリンク
-  locationText      String?  @map("location_text")       // 主な活動場所テキスト
-  targetArea        String?  @map("target_area")         // 対象エリア（関東, 近畿等）
-  mainPhotoUrl      String?  @map("main_photo_url")
+  description       String? @db.Text
+  beginnerFriendly  Boolean @default(false) @map("beginner_friendly") // 初心者歓迎フラグ
+  playStyle         String? @map("play_style") // エンジョイ, 競技, 混合
+  activityFrequency String? @map("activity_frequency") // 週1回, 月2回, 不定期
+  scheduleText      String? @map("schedule_text") // 定型スケジュール文
+  externalUrl       String? @map("external_url") // 公式サイト・SNSリンク
+  locationText      String? @map("location_text") // 主な活動場所テキスト
+  targetArea        String? @map("target_area") // 対象エリア（関東, 近畿等）
+  mainPhotoUrl      String? @map("main_photo_url")
 
   createdAt DateTime @default(now()) @map("created_at")
   updatedAt DateTime @updatedAt @map("updated_at")
@@ -535,13 +535,200 @@ model Community {
 // ============================================
 model MediaItem {
   id         String @id @default(uuid())
-  targetType String @map("target_type")  // facility, community
-  targetId   String @map("target_id")    // 対象のID
-  mediaType  String @map("media_type")   // youtube, image, instagram
+  targetType String @map("target_type") // facility, community
+  targetId   String @map("target_id") // 対象のID
+  mediaType  String @map("media_type") // youtube, image, instagram
   url        String
 
   createdAt DateTime @default(now()) @map("created_at")
 
   @@index([targetType, targetId])
   @@map("media_items")
+}
+
+model GearAccessory {
+  id               String  @id @default(uuid())
+  brandName        String  @map("brand_name")
+  productName      String  @map("product_name")
+  price            Int?
+  category         String?
+  subCategory      String? @map("sub_category")
+  specificFeatures String? @map("specific_features")
+  colorVariations  String? @map("color_variations")
+  amazonUrl        String? @map("amazon_url")
+  rakutenUrl       String? @map("rakuten_url")
+  yahooUrl         String? @map("yahoo_url")
+  imageUrl         String? @map("image_url")
+  priceUsd         Float?  @map("price_usd")
+  priceTier        String? @map("price_tier")
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("gears_accessories")
+}
+
+model GlossaryTerm {
+  id          String   @id @default(uuid())
+  termEn      String   @map("term_en")
+  termJa      String   @map("term_ja")
+  description String   @db.Text
+  category    String?
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("glossary_terms")
+}
+
+model Brand {
+  id              String   @id @default(uuid())
+  name            String
+  description     String?  @db.Text
+  countryOfOrigin String?  @map("country_of_origin")
+  websiteUrl      String?  @map("website_url")
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+
+  @@map("brands")
+}
+
+model Tag {
+  id        String   @id @default(uuid())
+  name      String   @unique
+  category  String?
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("tags")
+}
+
+model Association {
+  id          String   @id @default(uuid())
+  name        String
+  description String?  @db.Text
+  websiteUrl  String?  @map("website_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("associations")
+}
+
+model Coach {
+  id               String   @id @default(uuid())
+  name             String
+  profileText      String?  @db.Text
+  location         String?
+  certificationIds String?  @map("certification_ids")
+  websiteUrl       String?  @map("website_url")
+  createdAt        DateTime @default(now()) @map("created_at")
+  updatedAt        DateTime @updatedAt @map("updated_at")
+
+  @@map("coaches")
+}
+
+model InjuryPrevention {
+  id          String   @id @default(uuid())
+  title       String
+  description String   @db.Text
+  category    String?
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("injury_prevention")
+}
+
+model Award {
+  id          String    @id @default(uuid())
+  title       String
+  date        DateTime?
+  recipient   String?
+  description String?   @db.Text
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  @@map("awards")
+}
+
+model AdvancedShot {
+  id          String   @id @default(uuid())
+  name        String
+  description String   @db.Text
+  difficulty  String?
+  videoUrl    String?  @map("video_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("advanced_shots")
+}
+
+model MlpTeam {
+  id          String   @id @default(uuid())
+  name        String
+  city        String?
+  owner       String?
+  description String?  @db.Text
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("mlp_teams")
+}
+
+model Certification {
+  id           String   @id @default(uuid())
+  name         String
+  organization String?
+  description  String?  @db.Text
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  @@map("certifications")
+}
+
+model PbApp {
+  id          String   @id @default(uuid())
+  name        String
+  developer   String?
+  description String?  @db.Text
+  iosUrl      String?  @map("ios_url")
+  androidUrl  String?  @map("android_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("pb_apps")
+}
+
+model Promotion {
+  id          String    @id @default(uuid())
+  code        String
+  description String?   @db.Text
+  discount    String?
+  validUntil  DateTime? @map("valid_until")
+  createdAt   DateTime  @default(now()) @map("created_at")
+  updatedAt   DateTime  @updatedAt @map("updated_at")
+
+  @@map("promotions")
+}
+
+model PriceGuide {
+  id           String   @id @default(uuid())
+  category     String
+  averagePrice Int?     @map("average_price")
+  description  String?  @db.Text
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  @@map("price_guides")
+}
+
+model ExpertReview {
+  id           String   @id @default(uuid())
+  reviewerName String   @map("reviewer_name")
+  targetType   String   @map("target_type")
+  targetId     String   @map("target_id")
+  score        Float?
+  content      String   @db.Text
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  @@map("expert_reviews")
 }
