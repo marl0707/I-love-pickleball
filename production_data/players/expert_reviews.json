@@ -466,5 +466,108 @@
     "item_type": "paddle",
     "score": 4.5,
     "comment": "Six Zero Double Black Diamond 16mmはToray 700K Raw Carbon面でスピンとコントロールを両立。サーモフォーミングで堅牢性も確保。万能型ハイブリッドシェイプで幅広いプレーヤーに対応。"
+  },
+  {
+    "id": "rev_selkirk_labs_007",
+    "paddle_id": "pdl_selkirk_labs_007",
+    "reviewer": "pickleballeffect.com",
+    "item_type": "paddle",
+    "rating": 4.8,
+    "score": 4.8,
+    "date": "2024-08-15",
+    "pros": [
+      "最先端テクノロジーの集結",
+      "FLXフレックスエッジでミスヒット許容",
+      "圧倒的なスピン性能",
+      "Selkirk最高峰モデル"
+    ],
+    "cons": [
+      "$299.99と最高価格帯",
+      "上級者向けで初心者には扱いにくい"
+    ],
+    "summary": "Selkirk Labs 007はSelkirk最高峰パドル。FLXフレックスエッジとQuadFlex4層フェースで最先端性能を実現。",
+    "comment": "Selkirk Labs 007はSelkirk最高峰パドル。FLXフレックスエッジとQuadFlex4層フェースで最先端性能を実現。"
+  },
+  {
+    "id": "rev_engage_pursuit_pro",
+    "paddle_id": "pdl_engage_pursuit_pro_mx",
+    "reviewer": "pickleballstudio.com",
+    "item_type": "paddle",
+    "rating": 4.5,
+    "score": 4.5,
+    "date": "2024-06-01",
+    "pros": [
+      "ControlPro Polymer Coreで優れたタッチ",
+      "6.0テクノロジーで振動吸収",
+      "スキンフレックス面でスピン良好"
+    ],
+    "cons": [
+      "$259.99と高価",
+      "やや重め"
+    ],
+    "summary": "Engage Pursuit Pro MXはコントロール重視設計。6.0テクノロジーで振動を抑え長時間プレイでも疲れにくい。",
+    "comment": "Engage Pursuit Pro MXはコントロール重視設計。6.0テクノロジーで振動を抑え長時間プレイでも疲れにくい。"
+  },
+  {
+    "id": "rev_vatic_pro_v7",
+    "paddle_id": "pdl_vatic_pro_v7",
+    "reviewer": "pickleheads.com",
+    "item_type": "paddle",
+    "rating": 4.6,
+    "score": 4.6,
+    "date": "2024-04-10",
+    "pros": [
+      "$119.99で高コスパ",
+      "T700 Raw Carbonで高スピン",
+      "幅広パドル面でスイートスポット大",
+      "中級者に最適"
+    ],
+    "cons": [
+      "ブランド認知度が低い",
+      "上級者にはパワー不足の場合あり"
+    ],
+    "summary": "Vatic Pro V7は手頃な価格でプレミアム品質。T700 Raw Carbon面と16mm厚コアで中級者に最適なバランス型。",
+    "comment": "Vatic Pro V7は手頃な価格でプレミアム品質。T700 Raw Carbon面と16mm厚コアで中級者に最適なバランス型。"
+  },
+  {
+    "id": "rev_franklin_carbon_stk",
+    "paddle_id": "pdl_franklin_carbon_stk",
+    "reviewer": "thirdshot.com",
+    "item_type": "paddle",
+    "rating": 4.3,
+    "score": 4.3,
+    "date": "2024-05-20",
+    "pros": [
+      "MaxGrit面でスピン性能◎",
+      "14mmコアでパワーとコントロールのバランス",
+      "耐久性の高いカーボンファイバー構造"
+    ],
+    "cons": [
+      "グリップが太めで手が小さい人には不向き",
+      "エッジガードがやや厚い"
+    ],
+    "summary": "Franklin Carbon STKはBen Johnsシリーズの中核モデル。MaxGrit面でトップクラスのスピンを実現。",
+    "comment": "Franklin Carbon STKはBen Johnsシリーズの中核モデル。MaxGrit面でトップクラスのスピンを実現。"
+  },
+  {
+    "id": "rev_onix_z5",
+    "paddle_id": "pdl_onyx_z5",
+    "reviewer": "pickleballcentral.com",
+    "item_type": "paddle",
+    "rating": 4.1,
+    "score": 4.1,
+    "date": "2024-02-15",
+    "pros": [
+      "$79.99で初心者に最適",
+      "ワイドボディでスイートスポット最大級",
+      "グラファイト面でコントロール良好",
+      "軽量で扱いやすい"
+    ],
+    "cons": [
+      "上級者にはパワー・スピン不足",
+      "競技レベルには物足りない"
+    ],
+    "summary": "Onix Z5は初心者のベストセラー。ワイドボディとグラファイト面で安定したショットが打てる入門モデルの定番。",
+    "comment": "Onix Z5は初心者のベストセラー。ワイドボディとグラファイト面で安定したショットが打てる入門モデルの定番。"
   }
 ]

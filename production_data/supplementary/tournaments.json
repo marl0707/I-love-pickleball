@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tour_ppa_masters",
+    "name": "PPA Tour Masters",
+    "organization": "PPA",
+    "location": "Rancho Mirage, CA",
+    "date": "2025-01-06",
+    "tier": "マスターズ",
+    "description": "PPA Tourシーズン開幕戦。プロピックルボールの最高峰トーナメント。"
+  },
+  {
+    "id": "tour_ppa_australia",
+    "name": "PPA Australia Open",
+    "organization": "PPA",
+    "location": "Melbourne, Australia",
+    "date": "2025-01-30",
+    "tier": "オープン",
+    "description": "PPA Tour初のオーストラリア開催。ピックルボールのグローバル展開を象徴するイベント。"
+  },
+  {
+    "id": "tour_us_open",
+    "name": "US Open Pickleball Championships",
+    "organization": "USA Pickleball",
+    "location": "Naples, FL",
+    "date": "2025-04-26",
+    "tier": "メジャー",
+    "description": "「世界最大のピックルボールパーティー」と呼ばれる大会。プロからアマまで参加。年に一度のフロリダ開催。"
+  },
+  {
+    "id": "tour_mlp_midseason",
+    "name": "MLP Mid-Season Tournament",
+    "organization": "MLP",
+    "location": "Grand Rapids, MI",
+    "date": "2025-07-10",
+    "tier": "メジャー",
+    "prize_pool_usd": 100000,
+    "description": "MLP全22チームが参加するミッドシーズントーナメント。Beer City Openと同時開催。プレミア優勝$50,000。"
+  },
+  {
+    "id": "tour_mlp_cup",
+    "name": "MLP Cup",
+    "organization": "MLP",
+    "location": "Dallas, TX",
+    "date": "2025-10-31",
+    "tier": "カップ",
+    "description": "MLP単独イベント。World Championships開幕戦としてダラスで開催。"
+  },
+  {
+    "id": "tour_ppa_worlds",
+    "name": "PPA World Championships",
+    "organization": "PPA/UPA",
+    "location": "Dallas, TX",
+    "date": "2025-11-15",
+    "tier": "ワールド",
+    "description": "PPA Tour最高峰。3000ポイント獲得のワールドチャンピオンシップ。ダブルス優勝$90,000。"
+  },
+  {
+    "id": "tour_usap_nationals",
+    "name": "USA Pickleball National Championships",
+    "organization": "USA Pickleball",
+    "location": "Mesa, AZ",
+    "date": "2025-11-15",
+    "tier": "ナショナル",
+    "description": "全米チャンピオンシップ。「Golden Ticket」イベントで予選通過が必要。"
+  }
+]

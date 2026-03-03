@@ -904,7 +904,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%20Pleated%20Pickleball%20Skirt%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "product_url": "https://www.selkirk.com/products/womens-essential-pleated-skirt"
   },
   {
     "id": "apparel_lucky_love_skirt",
@@ -947,7 +948,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Junk%20Brands%20Big%20Bang%20Lite%20Headband%20(Pickle%20Party)%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "product_url": "https://junkbrands.com/collections/pickleball"
   },
   {
     "id": "apparel_nike_swoosh_headband",
@@ -971,7 +973,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Swoosh%20Headband%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "product_url": "https://www.nike.com/t/swoosh-headband-tg8Z9W"
   },
   {
     "id": "apparel_selkirk_visor",
@@ -995,7 +998,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Visor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "product_url": "https://www.selkirk.com/products/performance-visor"
   },
   {
     "id": "apparel_joola_shorts",
@@ -1019,6 +1023,7 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Performance%20Shorts%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "product_url": "https://www.joola.com/collections/apparel"
   }
 ]

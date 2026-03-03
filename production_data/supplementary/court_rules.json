@@ -1,0 +1,59 @@
+{
+  "court_dimensions": {
+    "length_ft": 44,
+    "width_ft": 20,
+    "length_m": 13.41,
+    "width_m": 6.1,
+    "recommended_play_area": {
+      "length_ft": 60,
+      "width_ft": 30
+    },
+    "description": "ピックルボールコートはバドミントンのダブルスコートと同じサイズ。"
+  },
+  "net": {
+    "height_sideline_in": 36,
+    "height_center_in": 34,
+    "height_sideline_m": 0.91,
+    "height_center_m": 0.86,
+    "width_ft": 21.75,
+    "description": "ネットはサイドラインで36インチ(91cm)、中央で34インチ(86cm)。2インチの差がダイナミックなネットプレイを促す。"
+  },
+  "non_volley_zone": {
+    "depth_ft": 7,
+    "depth_m": 2.13,
+    "description": "ネットから7フィート(2.13m)のノンボレーゾーン(キッチン)。この中ではボレー(ノーバウンドで打つこと)は禁止。"
+  },
+  "service_court": {
+    "length_ft": 15,
+    "width_ft": 10,
+    "description": "サービスコートは各サイド15フィート×10フィート。サーブは対角線上に打つ。"
+  },
+  "scoring": {
+    "game_points": 11,
+    "win_by": 2,
+    "tournament_options": [
+      11,
+      15,
+      21
+    ],
+    "description": "通常11点先取、2点差で勝利。トーナメントでは15点/21点の場合もある。サービング側のみ得点可能。"
+  },
+  "key_rules": [
+    {
+      "name": "2バウンスルール",
+      "description": "サーブ後、レシーブ側は1回バウンドさせてから返球。サーブ側も1回バウンドさせてから返球。その後はボレーOK。"
+    },
+    {
+      "name": "アンダーハンドサーブ",
+      "description": "サーブはアンダーハンドストロークで、ウエスト以下でパドルのヘッドが手首の最高点より下で打つ。"
+    },
+    {
+      "name": "キッチンルール",
+      "description": "ノンボレーゾーン(キッチン)内ではボレー禁止。バウンド後は打球OK。モメンタムで入るのもフォルト。"
+    },
+    {
+      "name": "ドロップサーブ",
+      "description": "ボールを落としてバウンドさせてからサーブも可能。この場合、高さと腕の弧の制限は適用されない。"
+    }
+  ]
+}

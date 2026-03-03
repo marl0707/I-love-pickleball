@@ -1,0 +1,161 @@
+[
+    {
+        "id": "app_dupr",
+        "name": "DUPR (Dynamic Universal Pickleball Rating)",
+        "category": "レーティング・マッチ記録",
+        "platform": [
+            "iOS",
+            "Android",
+            "Web"
+        ],
+        "price": "無料（DUPR+有料プラン有）",
+        "description": "世界標準のピックルボールレーティングシステム。2.000〜8.000のスケールで実力を数値化。USA Pickleball/PPA/MLP公式採用。レク〜トーナメント全試合を記録し、勝敗・対戦相手のレーティングからアルゴリズムで算出。",
+        "key_features": [
+            "自動レーティング算出（2.000〜8.000）",
+            "マッチログ記録・履歴閲覧",
+            "DUPR Replay（年間パフォーマンス振り返り）",
+            "DUPR Reset（リセット期間中のレーティング再評価）",
+            "近隣プレイヤー検索・マッチング",
+            "DUPR+でより詳細なデータ分析"
+        ],
+        "official_url": "https://www.dupr.com",
+        "image_url": "https://www.google.com/search?tbm=isch&q=DUPR+pickleball+app+logo"
+    },
+    {
+        "id": "app_pickleplay",
+        "name": "Pickleplay",
+        "category": "コミュニティ・コート検索",
+        "platform": [
+            "iOS",
+            "Android"
+        ],
+        "price": "無料",
+        "description": "APP Tour公式パートナーのコミュニティアプリ。コート・クラブ・イベント検索、スキルレベル別プレイヤーマッチング、スクランブルイベント組織化など。",
+        "key_features": [
+            "全米のPBコート検索・ナビ",
+            "スキルレベル別プレイヤーマッチング",
+            "クラブイベント・スクランブル組織化",
+            "トーナメント情報検索",
+            "ギアレコメンデーション"
+        ],
+        "official_url": "https://www.pickleplay.com",
+        "image_url": "https://www.google.com/search?tbm=isch&q=Pickleplay+pickleball+app+logo"
+    },
+    {
+        "id": "app_swingvision",
+        "name": "SwingVision",
+        "category": "AI分析・スタッツ追跡",
+        "platform": [
+            "iOS",
+            "Apple Watch"
+        ],
+        "price": "月額$9.99〜",
+        "description": "AIがスマホカメラで自動的にポイント追跡、ショット分析、詳細統計を生成。リアルタイムフィードバック、ビデオリプレイ、ラインコール支援機能搭載。",
+        "key_features": [
+            "AI自動ポイント追跡",
+            "ショットタイプ別分析（ディンク/ドライブ/ロブ等）",
+            "リアルタイムフィードバック",
+            "ビデオリプレイ・ハイライト自動生成",
+            "ラインコール支援（イン/アウト判定）",
+            "Apple Watch連携"
+        ],
+        "official_url": "https://www.swingvision.com",
+        "image_url": "https://www.google.com/search?tbm=isch&q=SwingVision+pickleball+app"
+    },
+    {
+        "id": "app_courtreserve",
+        "name": "CourtReserve",
+        "category": "コート予約・施設管理",
+        "platform": [
+            "iOS",
+            "Android",
+            "Web"
+        ],
+        "price": "施設向け有料/プレイヤー無料",
+        "description": "マルチスポーツ対応のコート予約・メンバーシップ管理プラットフォーム。DUPR連携済み。施設のプログラム管理、イベント運営にも対応。",
+        "key_features": [
+            "オンラインコート予約",
+            "メンバーシップ管理",
+            "DUPR連携レーティング表示",
+            "プログラム・イベント管理",
+            "決済処理"
+        ],
+        "official_url": "https://www.courtreserve.com",
+        "image_url": "https://www.google.com/search?tbm=isch&q=CourtReserve+pickleball+app"
+    },
+    {
+        "id": "app_pb_vision",
+        "name": "PB Vision",
+        "category": "AI分析",
+        "platform": [
+            "iOS",
+            "Android"
+        ],
+        "price": "フリーミアム",
+        "description": "AI技術でマッチ映像を分析し、パフォーマンスインサイトを提供。ショットの精度・配球パターン・弱点を可視化。",
+        "key_features": [
+            "AIマッチ分析",
+            "ショット精度・配球パターン可視化",
+            "弱点・改善点の自動検出",
+            "パフォーマンストレンド追跡"
+        ],
+        "official_url": "https://pb360.me",
+        "image_url": "https://www.google.com/search?tbm=isch&q=PB+Vision+pickleball+app"
+    },
+    {
+        "id": "app_podplay",
+        "name": "PodPlay",
+        "category": "施設管理・ビデオ",
+        "platform": [
+            "Web"
+        ],
+        "price": "施設向け有料",
+        "description": "先進的なコート予約システムにビデオリプレイ、デジタルスコアボード、自律運営モードを統合した施設向けプラットフォーム。",
+        "key_features": [
+            "コート予約システム",
+            "ビデオリプレイ",
+            "デジタルスコアボード",
+            "自律運営モード（無人施設対応）"
+        ],
+        "official_url": "https://www.podplay.com",
+        "image_url": "https://www.google.com/search?tbm=isch&q=PodPlay+pickleball+court+management"
+    },
+    {
+        "id": "app_playtomic",
+        "name": "Playtomic",
+        "category": "コート予約・コミュニティ",
+        "platform": [
+            "iOS",
+            "Android",
+            "Web"
+        ],
+        "price": "無料",
+        "description": "ラケットスポーツ全般対応のグローバルプラットフォーム。コート検索・予約、マッチ作成、コミュニティ参加が可能。ヨーロッパで特に人気。",
+        "key_features": [
+            "グローバルコート検索・予約",
+            "マッチ作成・参加",
+            "プレイヤーコミュニティ",
+            "複数ラケットスポーツ対応"
+        ],
+        "official_url": "https://www.playtomic.com",
+        "image_url": "https://www.google.com/search?tbm=isch&q=Playtomic+app+pickleball"
+    },
+    {
+        "id": "tech_smart_paddles",
+        "name": "スマートパドル（次世代テクノロジー）",
+        "category": "テクノロジートレンド",
+        "platform": [
+            "統合センサー"
+        ],
+        "price": "未定（2025-2026年普及予定）",
+        "description": "パドルにセンサーを内蔵し、スイングスピード/インパクトポイント/スピン量をリアルタイム計測。アプリ連携でパフォーマンスフィードバックを提供。",
+        "key_features": [
+            "スイングスピード計測",
+            "インパクトポイント追跡",
+            "スピン量リアルタイム測定",
+            "アプリ連携フィードバック"
+        ],
+        "official_url": null,
+        "image_url": "https://www.google.com/search?tbm=isch&q=smart+pickleball+paddle+sensor+technology"
+    }
+]

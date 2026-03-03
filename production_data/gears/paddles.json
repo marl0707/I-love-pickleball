@@ -51,7 +51,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Signature%20Pro%2014mm%20pickleball%20paddle",
     "price_usd": 120,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "paddle_selkirk_vanguard_16",
@@ -160,7 +161,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Pro%20Epic%20pickleball%20paddle",
     "price_usd": 233.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_selkirk_halo_max",
@@ -241,7 +243,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Labs%20Project%20003%20pickleball%20paddle",
     "price_usd": 320,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_selkirk_vanguard_control",
@@ -266,7 +269,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Vanguard%20Control%20pickleball%20paddle",
     "price_usd": 186.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_joola_perseus_3",
@@ -345,7 +349,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Radius%20Pro%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_joola_collin_johns",
@@ -622,7 +627,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Ruby%20pickleball%20paddle",
     "price_usd": 206.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_sixzero_infinity",
@@ -647,7 +653,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Infinity%20pickleball%20paddle",
     "price_usd": 220,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_sixzero_sapphire",
@@ -672,7 +679,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Sapphire%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_engage_pursuit_pro_ex",
@@ -698,7 +706,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Pursuit%20Pro%20EX%20pickleball%20paddle",
     "price_usd": 226.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_engage_pursuit_pro_mx",
@@ -753,7 +762,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Encore%20MX%206.0%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_gearbox_pro_power",
@@ -808,7 +818,8 @@
     "unique_tech": "SST (ハニカム不使用・全カーボン構造)",
     "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Pro%20Control%20Elongated%20pickleball%20paddle",
     "price_usd": 280,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_gearbox_cx14_e",
@@ -1054,7 +1065,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Carbon%20STK%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_diadem_vice",
@@ -1081,7 +1093,8 @@
     "product_url": "https://diadempickleball.com/products/vice",
     "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Vice%20(EVA%20Core)%20pickleball%20paddle",
     "price_usd": 149.99,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_diadem_warrior",
@@ -1352,7 +1365,8 @@
     "width_in": 7.9,
     "image_url": "https://www.google.com/search?tbm=isch&q=Hudef%20Viva%20Pro%20pickleball%20paddle",
     "price_usd": 120,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_oneshot_aeroshoot",
@@ -1377,7 +1391,8 @@
     "width_in": 7.5,
     "image_url": "https://www.google.com/search?tbm=isch&q=OneShot%20Aeroshoot%20pickleball%20paddle",
     "price_usd": 126.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_electrum_model_e",
@@ -1574,7 +1589,8 @@
     "unique_tech": "RPM Grit Technology (スピン強化面加工)",
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20RNGD%20Touch%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_babolat_mnstr_power",
@@ -1599,7 +1615,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20MNSTR%20Power%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_prince_response_pro",
@@ -1626,7 +1643,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Response%20Pro%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_prince_spectrum_pro",
@@ -1651,7 +1669,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Spectrum%20Pro%20pickleball%20paddle",
     "price_usd": 129.99,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_gamma_never_stop",
@@ -1676,7 +1695,8 @@
     "width_in": 7.375,
     "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Never%20Stop%20pickleball%20paddle",
     "price_usd": 99.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_gamma_206",
@@ -1726,7 +1746,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Hypercourt%20Paddle%20pickleball%20paddle",
     "price_usd": 126.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 15.75,
+    "grip_length_in": 5.25,
+    "product_url": "https://www.kswiss.com/pickleball-paddles"
   },
   {
     "id": "pdl_asics_court_speed",
@@ -1749,7 +1772,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Court%20Speed%20Pickleball%20pickleball%20paddle",
     "price_usd": 140,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 15.75,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_wilson_echo",
@@ -1772,7 +1797,10 @@
     "weight_oz": "7.8",
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Echo%20Energy%20pickleball%20paddle",
     "price_usd": 120,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 15.75,
+    "grip_length_in": 5.25,
+    "product_url": "https://www.wilson.com/en-us/product/echo-energy-wr098911u"
   },
   {
     "id": "pdl_wilson_fierce",
@@ -1795,7 +1823,10 @@
     "weight_oz": "8.0",
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Fierce%20Max%20pickleball%20paddle",
     "price_usd": 153.33,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 16,
+    "grip_length_in": 5.25,
+    "product_url": "https://www.wilson.com/en-us/product/fierce-max-paddle"
   },
   {
     "id": "pdl_prokennex_kinetic",
@@ -1847,7 +1878,10 @@
     "unique_tech": "Kinetic Technology (テニス肘予防)",
     "image_url": "https://www.google.com/search?tbm=isch&q=ProKennex%20Black%20Ace%20Pro%20pickleball%20paddle",
     "price_usd": 226.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "length_in": 16.5,
+    "grip_length_in": 5.5,
+    "product_url": "https://prokennex.com/products/black-ace-pro"
   },
   {
     "id": "pdl_pickleball_apes",
@@ -1870,7 +1904,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Pickleball%20Apes%20Pro%20Line%20Energy%20S%20pickleball%20paddle",
     "price_usd": 186.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "length_in": 15.75,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_the_kitchen",
@@ -1893,7 +1929,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=The%20Kitchen%20Signature%20Paddle%20pickleball%20paddle",
     "price_usd": 100,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 15.75,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_11_six_24",
@@ -1918,7 +1956,8 @@
     "width_in": 7.5,
     "image_url": "https://www.google.com/search?tbm=isch&q=11SIX24%20Hurache-X%20pickleball%20paddle",
     "price_usd": 153.33,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_juciao_pro",
@@ -1941,7 +1980,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Juciao%20T700%20Carbon%20Pro%20pickleball%20paddle",
     "price_usd": 53.33,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "length_in": 16,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_niupipo_explorer",
@@ -1969,7 +2010,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Niupipo%20Explorer%20Pro%20pickleball%20paddle",
     "price_usd": 80,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "product_url": "https://niupipo.com/products/explorer-pro"
   },
   {
     "id": "pdl_vinsguir_carbon",
@@ -1993,7 +2035,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vinsguir%20Carbon%20Flex%20pickleball%20paddle",
     "price_usd": 60,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "length_in": 15.75,
+    "grip_length_in": 5.25,
+    "product_url": "https://www.amazon.com/dp/B0BQY5Y9F8"
   },
   {
     "id": "pdl_amazin_aces",
@@ -2016,7 +2061,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20Signature%20Wood%20pickleball%20paddle",
     "price_usd": 26.67,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "length_in": 15.5,
+    "grip_length_in": 5.25,
+    "product_url": "https://www.amazon.com/dp/B07MR94VQR"
   },
   {
     "id": "pdl_zcebra_gorilla",
@@ -2062,7 +2110,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Big%20Dill%20Original%20Pickleball%20pickleball%20paddle",
     "price_usd": 93.33,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "length_in": 15.5,
+    "grip_length_in": 5.25,
+    "product_url": "https://bigdillpickleball.com/products/original-paddle"
   },
   {
     "id": "pdl_friday_challenger",
@@ -2158,7 +2209,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20Invikta%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_selkirk_s2",
@@ -2184,7 +2236,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20S2%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_crbn_magnum",
@@ -2230,7 +2283,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Legacy%20Legacy%20Pro%2016mm%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 16.5,
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_spinhaven_velocity",
@@ -2276,7 +2331,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=OWL%20Quiet%20Paddle%20pickleball%20paddle",
     "price_usd": 200,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "length_in": 15.75,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_proxr_titan",
@@ -2299,7 +2356,9 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Titan%2014%20pickleball%20paddle",
     "price_usd": 180,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "length_in": 16,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_paddletek_bantam_ts5",
@@ -2423,7 +2482,9 @@
     "unique_tech": "SST (ハニカム不使用)",
     "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20CP7%20Honeycomb%20pickleball%20paddle",
     "price_usd": 133.33,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "length_in": 16.625,
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_sixzero_bd_16",
@@ -2475,7 +2536,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Hudef%20HD6.1%20pickleball%20paddle",
     "price_usd": 93.33,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_joola_senator",
@@ -2500,7 +2562,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Senator%20Pro%20pickleball%20paddle",
     "price_usd": 186.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_crbn_zero",
@@ -2525,7 +2588,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Zero%2016%20pickleball%20paddle",
     "price_usd": 133.33,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_selkirk_slk_evo",
@@ -2549,7 +2613,9 @@
     "product_url": "https://www.selkirk.com/collections/slk-paddles",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20SLK%20Evo%20Power%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "length_in": 16,
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_babolat_mnstr_touch",
@@ -2574,7 +2640,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20MNSTR%20Touch%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_prince_synergy_pro",
@@ -2599,7 +2666,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Synergy%20Pro%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_gamma_micron",
@@ -2651,7 +2719,8 @@
     "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel%20Resolution%20Paddle%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_wilson_profile",
@@ -2674,7 +2743,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Profile%20pickleball%20paddle",
     "price_usd": 89.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "length_in": 15.75,
+    "grip_length_in": 5.25,
+    "product_url": "https://www.wilson.com/en-us/product/profile-pro-paddle"
   },
   {
     "id": "pdl_vatic_pro_alchemy",
@@ -2700,7 +2772,8 @@
     "grip_circumference_in": 4.25,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vatic%20Pro%20Alchemy%2016mm%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_ronbus_r2_pulsar",
@@ -2749,7 +2822,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Bread%20%26%20Butter%20Loco%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_bnb_filth",
@@ -2771,7 +2845,8 @@
     "width_in": 7.5,
     "image_url": "https://www.google.com/search?tbm=isch&q=Bread%20%26%20Butter%20The%20Filth%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_honolulu_j2nf",
@@ -2793,7 +2868,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Honolulu%20Pickleball%20Co%20Sword%20%26%20Shield%20J2NF%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_crbn_trufoam_genesis",
@@ -2816,7 +2892,8 @@
     "product_url": "https://crbnpickleball.com/products/trufoam-genesis",
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20TruFoam%20Genesis%20pickleball%20paddle",
     "price_usd": 249.99,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_selkirk_labs_007",
@@ -2839,7 +2916,8 @@
     "product_url": "https://www.selkirk.com/products/labs-project-007",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Labs%20Project%20007%20pickleball%20paddle",
     "price_usd": 299.99,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_selkirk_luxx_control",
@@ -2862,7 +2940,8 @@
     "product_url": "https://www.selkirk.com/products/luxx-control-air-epic",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20LUXX%20Control%20Air%20Epic%20pickleball%20paddle",
     "price_usd": 279.99,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.5
   },
   {
     "id": "pdl_electrum_elite",
@@ -2884,7 +2963,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Electrum%20Model%20E%20Elite%20pickleball%20paddle",
     "price_usd": 199.99,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_sixzero_coral",
@@ -2906,6 +2986,7 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Six%20Zero%20Coral%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "grip_length_in": 5.5
   }
 ]

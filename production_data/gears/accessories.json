@@ -1068,5 +1068,75 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Hesacore%20Tour%20Grip%20for%20Pickleball%20pickleball",
     "price_usd": null,
     "price_tier": "不明"
+  },
+  {
+    "id": "acc_overgrip_tourna",
+    "brand_name": "Tourna",
+    "product_name": "Tourna Grip Original",
+    "category": "オーバーグリップ",
+    "description": "世界中のプロが愛用するドライグリップ。吸湿性抜群で汗をかいてもグリップ力維持。",
+    "features": [
+      "ドライタイプ",
+      "吸湿速乾",
+      "プロ使用率No.1"
+    ],
+    "price_usd": 5.99,
+    "image_url": "https://tournasports.com/cdn/shop/products/tourna-grip-original.jpg"
+  },
+  {
+    "id": "acc_lead_tape_selkirk",
+    "brand_name": "Selkirk",
+    "product_name": "Edge Guard Lead Tape",
+    "category": "ウェイトテープ",
+    "description": "パドルのバランス調整用鉛テープ。パワー重視やスイングウェイト調整に。",
+    "features": [
+      "鉛テープ",
+      "カスタムバランス",
+      "簡単カット"
+    ],
+    "price_usd": 9.99,
+    "image_url": "https://www.selkirk.com/cdn/shop/products/lead-tape.jpg"
+  },
+  {
+    "id": "acc_dampener_gamma",
+    "brand_name": "Gamma",
+    "product_name": "Honeycomb Cushion Grip",
+    "category": "リプレースメントグリップ",
+    "description": "ハニカム構造の衝撃吸収グリップ。振動を大幅に軽減し、テニスエルボー予防に。",
+    "features": [
+      "ハニカム構造",
+      "振動吸収",
+      "テニスエルボー予防"
+    ],
+    "price_usd": 7.99,
+    "image_url": "https://www.gammasports.com/cdn/shop/products/honeycomb-grip.jpg"
+  },
+  {
+    "id": "acc_ball_retriever",
+    "brand_name": "各種",
+    "product_name": "ピックルボールリトリーバー",
+    "category": "ボール回収",
+    "description": "パドルまたはチューブ先端でボールを拾う道具。腰をかがめずにボール回収可能。",
+    "features": [
+      "吸着式",
+      "パドル装着型",
+      "腰への負担軽減"
+    ],
+    "price_usd": 14.99,
+    "image_url": ""
+  },
+  {
+    "id": "acc_sweatband_set",
+    "brand_name": "HEAD",
+    "product_name": "Wristband 2.5\" Double Pack",
+    "category": "リストバンド",
+    "description": "HEADのテリー素材リストバンド2個セット。汗を吸収しグリップへの汗の流入を防ぐ。",
+    "features": [
+      "テリー素材",
+      "汗吸収",
+      "2個セット"
+    ],
+    "price_usd": 8.99,
+    "image_url": "https://www.head.com/cdn/shop/products/wristband.jpg"
   }
 ]

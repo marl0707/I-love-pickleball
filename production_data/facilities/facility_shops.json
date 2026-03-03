@@ -151,7 +151,8 @@
     "_facility_name": "GODAIセンター南",
     "_facility_index": 16,
     "has_paddle_sales": false,
-    "_survey_notes": "横浜市都筑区。インドアPBコート1面(85%サイズ)+練習用1面。PBクラス・体験会で無料貸出。35年以上のインドアスクール。"
+    "_survey_notes": "横浜市。PB体験会2,200円。パドル無料貸出。85%サイズコート1面。",
+    "paddle_rental_fee": "無料(体験2,200円)"
   },
   {
     "has_paddle_rental": 1,
@@ -579,7 +580,7 @@
     "_facility_name": "テニスラウンジ名西",
     "_facility_index": 121,
     "has_paddle_sales": false,
-    "_survey_notes": "名古屋市西区枇杷島。PBコート2面。レンタルコート・イベント開催。パドルレンタルあり。"
+    "_survey_notes": "名古屋市。インドアPB2面。高密度人工芝。2026年3月レンタルコート開始。"
   },
   {
     "has_paddle_rental": true,
@@ -587,7 +588,7 @@
     "_facility_name": "ウェルネススクエア新栄",
     "_facility_index": 122,
     "has_paddle_sales": false,
-    "_survey_notes": "名古屋市中区。テニスコート1面転用PB2面。パドル・ボール・ネット貸出あり。"
+    "_survey_notes": "名古屋市。PB2面。ネット・ボール・パドルレンタル可。無料駐車場。"
   },
   {
     "has_paddle_rental": 0,
@@ -715,7 +716,8 @@
     "_facility_name": "ロッテアライリゾート",
     "_facility_index": 143,
     "has_paddle_sales": false,
-    "_survey_notes": "新潟県妙高市。リゾート施設内。PBコート利用可。レンタル機材あり。"
+    "_survey_notes": "妙高市。リゾート内PB。ワンダーパス対象。パドル・ボール無料提供。",
+    "paddle_rental_fee": "無料(ワンダーパス込)"
   },
   {
     "has_paddle_rental": 1,
@@ -758,7 +760,7 @@
     "_facility_name": "ネムリゾート ピックルボールコート",
     "_facility_index": 149,
     "has_paddle_sales": false,
-    "_survey_notes": "三重県志摩市。2026年4月18日リニューアルでPBコート新設。1面1h 1,100円(大人)/550円(小学生)。レンタル情報詳細不明。"
+    "_survey_notes": "志摩市。リゾート内PBコート10面(2026年4月)。レンタル情報詳細不明。"
   },
   {
     "has_paddle_rental": true,
@@ -877,10 +879,11 @@
     "_facility_index": 180
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ライジングテニスクラブ北野",
-    "_facility_index": 181
+    "_facility_index": 181,
+    "_survey_notes": "札幌市清田区。PB専用コートあり。レンタル用具利用可。フィジカルレッスン提供。"
   },
   {
     "has_paddle_rental": 1,
@@ -1026,10 +1029,11 @@
     "_facility_index": 210
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "田川テニスクラブ",
-    "_facility_index": 211
+    "_facility_index": 211,
+    "_survey_notes": "田川市。九州初PB専用コート2026年1月新設予定。レンタルあり（詳細未定）。"
   },
   {
     "has_paddle_rental": 0,
@@ -1216,10 +1220,12 @@
     "_survey_notes": "鹿児島市。スポッチャ内PB。パドル・ボール無料レンタル。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "NBテニスガーデン",
-    "_facility_index": 249
+    "_facility_index": 249,
+    "paddle_rental_fee": "3,300円/h(会員)/4,400円/h(ビジター) ※コートレンタル込",
+    "_survey_notes": "広島市。PBレンタルセット(パドル4+ボール4+ネット+ラインマーカー)込。1h単位。1ヶ月前予約可。"
   },
   {
     "has_paddle_rental": 0,
@@ -1344,8 +1350,8 @@
     "_facility_name": "瀬戸内リゾート ベッセルおおち",
     "_facility_index": 269,
     "has_paddle_sales": false,
-    "paddle_rental_fee": "1,000円/50分(ラケット4本+ボール+ライン込)",
-    "_survey_notes": "香川県東かがわ市。屋内プレイ可。レンタルセット(ラケット4本+ボール+ラインマーカー)1,000円/50分。"
+    "paddle_rental_fee": "1,000円/50分(パドル4本+ボール+マーカー)",
+    "_survey_notes": "東かがわ市。PBレンタルセット50分1,000円。2026年3月から宿泊者無料(JOYSPO)。"
   },
   {
     "has_paddle_rental": 0,
@@ -1359,7 +1365,7 @@
     "_facility_name": "NFL末広体育館",
     "_facility_index": 271,
     "has_paddle_sales": false,
-    "_survey_notes": "徳島県徳島市。PBコート1h 1,650円。スクール(小学生/中高生/大人)・ゲームサークルあり。パドル等貸出あり。"
+    "_survey_notes": "徳島県。PB専用コートあり。レンタル提供。マイナースポーツ振興施設。"
   },
   {
     "has_paddle_rental": 0,

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "drill_paddle_tap",
+    "level": "初心者",
+    "name": "パドルタップドリル",
+    "category": "パドルコントロール",
+    "description": "ボールをパドルで繰り返し弾ませる。フォアハンドとバックハンドを交互に。歩きながらやると難易度UP。",
+    "duration_min": 5,
+    "players_needed": 1
+  },
+  {
+    "id": "drill_wall_rally",
+    "level": "初心者",
+    "name": "ウォールラリー",
+    "category": "基礎練習",
+    "description": "壁に向かってフォアハンド/バックハンドのストロークを打つ。ネット高さにテープを貼って実戦シミュレーション。",
+    "duration_min": 10,
+    "players_needed": 1
+  },
+  {
+    "id": "drill_dink_practice",
+    "level": "初心者",
+    "name": "ディンク練習",
+    "category": "ソフトゲーム",
+    "description": "パートナーとキッチンラインでディンクの打ち合い。ボールを低く保ち、相手のNVZ内にコントロール。",
+    "duration_min": 10,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_serve_target",
+    "level": "初心者",
+    "name": "サーブターゲット",
+    "category": "サーブ",
+    "description": "コートの特定の場所にマーカーを置き、サーブの精度を磨く。深さと左右のコントロールを意識。",
+    "duration_min": 10,
+    "players_needed": 1
+  },
+  {
+    "id": "drill_triangle_dinks",
+    "level": "中級者",
+    "name": "トライアングルディンク",
+    "category": "ソフトゲーム",
+    "description": "3つのマーカーを使い、三角形パターンでディンクを打ち分ける。ショットプレースメントとプレッシャー下のコントロールを磨く。",
+    "duration_min": 15,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_crosscourt_dink",
+    "level": "中級者",
+    "name": "クロスコートディンク",
+    "category": "ソフトゲーム",
+    "description": "ネット越しに対角線上にソフトなディンクを打ち合う。角度とコントロール、忍耐力を養う。ゲーム形式で0点リセットも有効。",
+    "duration_min": 15,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_serve_volley",
+    "level": "中級者",
+    "name": "サーブ&ボレー",
+    "category": "攻撃",
+    "description": "サーブ後すぐにネットに詰め、リターンをボレーで返す。フットワークとネットポジショニングを磨く。",
+    "duration_min": 15,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_blocking",
+    "level": "中級者",
+    "name": "ブロッキングドリル",
+    "category": "守備",
+    "description": "速いショットをオープンなパドル面、緩いグリップ、体に近い打点で吸収する練習。パンチフォワードはしない。",
+    "duration_min": 10,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_slinky_drop",
+    "level": "中級者",
+    "name": "スリンキードロップ",
+    "category": "サードショット",
+    "description": "キッチンラインからディンク→2歩下がってドロップ→さらに2歩下がって…ベースラインまで。距離が増すごとにフォロースルーを大きく。",
+    "duration_min": 15,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_0_to_60",
+    "level": "中級者",
+    "name": "0 to 60ドリル",
+    "category": "サードショット",
+    "description": "NVZの相手がフィードしたボールをベースラインからドロップ。連続成功で得点、ミスでチェンジ。累計60点を目指す。",
+    "duration_min": 20,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_crosscourt_grinder",
+    "level": "上級者",
+    "name": "クロスコートグラインダー",
+    "category": "総合",
+    "description": "対角線上で全ラリーをプレイ。精度、スタミナ、タイトアングルのプレイを磨く上級者向けドリル。",
+    "duration_min": 20,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_dink_lob_combo",
+    "level": "上級者",
+    "name": "ディンク&ロブコンボ",
+    "category": "攻守転換",
+    "description": "ディンクからランダムにロブを混ぜる。ソフトプレイとアグレッシブプレイの切り替え、デセプション技術を磨く。",
+    "duration_min": 15,
+    "players_needed": 2
+  },
+  {
+    "id": "drill_rapid_volley",
+    "level": "上級者",
+    "name": "ラピッドファイアボレー",
+    "category": "反射",
+    "description": "ネットで高速ボレーの打ち合い。反射神経、反応速度、ネットプレゼンスを強化する上級者向けドリル。",
+    "duration_min": 10,
+    "players_needed": 2
+  }
+]

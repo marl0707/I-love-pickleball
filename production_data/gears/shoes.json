@@ -112,7 +112,7 @@
     "midsole": "EVA + Ortholite X40",
     "weight_grams": 370,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20SFX3%20pickleball",
-    "price_usd": null,
+    "price_usd": 89,
     "price_tier": "不明"
   },
   {
@@ -756,7 +756,7 @@
     "weight_grams": 370,
     "product_url": "https://tyrolpickleball.com/products/drive-v",
     "image_url": "https://www.google.com/search?tbm=isch&q=Tyrol%20Drive-V%20pickleball",
-    "price_usd": null,
+    "price_usd": 160,
     "price_tier": "不明"
   },
   {
@@ -775,7 +775,7 @@
     "price": null,
     "weight_grams": 330,
     "image_url": "https://www.google.com/search?tbm=isch&q=Acacia%20Tyler%20Signature%20Edition%20Pro%20pickleball",
-    "price_usd": null,
+    "price_usd": 129.99,
     "price_tier": "不明"
   },
   {
@@ -793,7 +793,7 @@
     "price": null,
     "weight_grams": 350,
     "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Court%20Burst%20pickleball",
-    "price_usd": null,
+    "price_usd": 149.95,
     "price_tier": "不明"
   },
   {
@@ -812,7 +812,7 @@
     "weight_grams": 360,
     "product_url": "https://www.selkirk.com/products/courtstrike-pro",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20CourtStrike%20Pro%20pickleball",
-    "price_usd": null,
+    "price_usd": 149.99,
     "price_tier": "不明"
   },
   {
@@ -840,7 +840,7 @@
     "price": null,
     "product_url": "https://www.head.com/en_US/motion-pro-shoe.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Motion%20Pro%20Pickleball%20Shoe%20pickleball",
-    "price_usd": null,
+    "price_usd": 129.95,
     "price_tier": "不明"
   },
   {
@@ -867,7 +867,7 @@
     "price": null,
     "product_url": "https://www.mizuno.com/us/wave-enforce-tour-2-ac.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Wave%20Enforce%20Tour%202%20pickleball",
-    "price_usd": null,
+    "price_usd": 129.95,
     "price_tier": "不明"
   },
   {
@@ -895,7 +895,7 @@
     "price": null,
     "product_url": "https://www.newbalance.com/pd/fuelcell-996v6/MCH996V6-D.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20FuelCell%20996v6%20pickleball",
-    "price_usd": null,
+    "price_usd": 134.99,
     "price_tier": "不明"
   }
 ]

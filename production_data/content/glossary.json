@@ -607,5 +607,47 @@
     "term_ja": "チキンウイング",
     "category": "戦術",
     "description": "体の横、特にバックハンド側の肘付近に来たボールを、腕を鶏の翼のように広げてブロックするディフェンシブショット。本来は避けたいフォームだが、相手のスピードアップに対する即座の反応として使わざるを得ない状況がある。スコーピオンはこれを攻撃に転換するテクニック。"
+  },
+  {
+    "id": "term_pbcor",
+    "term_en": "PBCoR (Paddle Ball Coefficient of Restitution)",
+    "term_ja": "PBCoR（パドルボール反発係数）",
+    "category": "ルール",
+    "description": "2025年導入のパドル性能規制基準。パドルの反発力（ボールを跳ね返す力）を数値化し、基準値を超えるパドルは公式大会で使用禁止。JOOLA Perseus/Gearbox Pro Power等が対象に。ゲームの公平性を守るためのUSA Pickleballの重要な規制措置。"
+  },
+  {
+    "id": "term_dupr",
+    "term_en": "DUPR (Dynamic Universal Pickleball Rating)",
+    "term_ja": "DUPR（ダイナミック・ユニバーサル・ピックルボール・レーティング）",
+    "category": "テクノロジー",
+    "description": "世界標準のPBレーティングシステム。2.000〜8.000のスケールで実力を評価。レクリエーション〜トーナメント全試合を記録し、勝敗・対戦相手のレベルからアルゴリズムで算出。2026年よりUSA Pickleball/PPA/MLP公式採用。"
+  },
+  {
+    "id": "term_thermoformed",
+    "term_en": "Thermoformed / Unibody Construction",
+    "term_ja": "サーモフォーム（一体成型）",
+    "category": "ギア",
+    "description": "高温高圧でフェース・エッジ・コアを一体成型するパドル製造技法。従来の接着製法に比べスイートスポットが広く、パワーとコントロールが向上。CRBN/SixZero/Volair等が採用する2023年以降のトレンド技術。"
+  },
+  {
+    "id": "term_acrylic_surface",
+    "term_en": "Acrylic Court Surface",
+    "term_ja": "アクリルコートサーフェス",
+    "category": "施設",
+    "description": "コンクリートやアスファルトの上に塗布するアクリルコーティング。滑り止め・UV耐性・カスタマイズ性に優れ、屋内外のPBコートで最も一般的なサーフェス仕上げ。色やロゴのカスタマイズも可能。"
+  },
+  {
+    "id": "term_nvz_dimensions",
+    "term_en": "Non-Volley Zone Dimensions",
+    "term_ja": "ノンボレーゾーン寸法",
+    "category": "ルール",
+    "description": "ネットから7フィート(2.13m)の範囲で、コートの全幅20フィート(6.1m)にわたるエリア。このゾーン内ではボレー（ノーバウンドでの打球）が禁止。正式名称はNon-Volley Zone、通称「キッチン」。"
+  },
+  {
+    "id": "term_smart_paddle",
+    "term_en": "Smart Paddle",
+    "term_ja": "スマートパドル",
+    "category": "テクノロジー",
+    "description": "センサーを内蔵した次世代パドル。スイングスピード・インパクトポイント・スピン量をリアルタイム計測し、スマホアプリにデータを送信。2025-2026年に本格普及が予測される新テクノロジー。テニスのBabolat Play等の系譜を引く。"
   }
 ]
