@@ -3,6 +3,7 @@ export const revalidate = 3600; // ISR: 1時間キャッシュ
 import Link from "next/link";
 import HeroSlider from "@/components/HeroSlider";
 import AdSlot from "@/components/AdSlot";
+import BeginnerGuide from "@/components/BeginnerGuide";
 import { prisma } from "@/lib/prisma";
 
 // フォールバック画像
@@ -94,6 +95,9 @@ export default async function HomePage() {
           <AdSlot slot="header-banner" />
         </div>
       </div>
+
+      {/* ===== 初心者ガイドナビ ===== */}
+      <BeginnerGuide />
 
       {/* ===== ヒーローセクション（動的スライドショー） ===== */}
       <HeroSlider />
