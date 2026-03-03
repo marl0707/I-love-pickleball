@@ -15,7 +15,10 @@
       "PCI認定コーチ"
     ],
     "media_url": "https://www.youtube.com/results?search_query=Morgan+Evans+Pickleball+Coach",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Morgan%20Evans%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Morgan%20Evans%20pickleball%20coach",
+    "qualifications": "PPA Tour Pro Player / PCI認定コーチ",
+    "country": "アメリカ",
+    "_survey_notes": "プロPBプレイヤー兼コーチ。スピンコントロールとプレッシャー下のショットに定評。PPA Tour参戦経験。"
   },
   {
     "id": "coach-tyson-mcguffin",
@@ -30,7 +33,10 @@
     "location": "アメリカ合衆国 / ワシントン州",
     "certifications": [],
     "media_url": "https://www.youtube.com/@TysonMcGuffin",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Tyson%20McGuffin%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Tyson%20McGuffin%20pickleball%20coach",
+    "qualifications": "PPA Tour Pro / トリプルクラウン / USオープン2019王者 / GS5回 / 国内4回 / PPA13金",
+    "country": "アメリカ",
+    "_survey_notes": "2016年プロ転向。パワフルなサーブとアグレッシブスタイル。シングルス世界ランク30位前後。ダブルス12位。2019年USオープンS+D優勝。5Grand Slam、4National Championships。"
   },
   {
     "id": "coach-mark-renneson",
@@ -48,7 +54,10 @@
       "PCI創設者・代表"
     ],
     "media_url": "https://www.youtube.com/@ThirdShotSports",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Mark%20Renneson%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Mark%20Renneson%20pickleball%20coach",
+    "qualifications": "PCI(Pickleball Coaching International)創設者 / Third Shot Sports主宰 / Tennis Canada PBコーチ教育主任 / 教育学修士 / 5.0プロレベル",
+    "country": "カナダ",
+    "_survey_notes": "2014年Third Shot Sports設立。PCI創設(2020年~)でコーチ認定制度構築。USA PB公式コーチ教育パートナー。2021年Tennis Canada PBコーチ教育主任就任。20年以上のコーチ経験。Selkirkが2024年PCI買収、Renneson社長継続。"
   },
   {
     "id": "coach-simone-jardim",
@@ -66,7 +75,9 @@
       "ピックルボール殿堂入り"
     ],
     "media_url": "https://www.youtube.com/results?search_query=Simone+Jardim+pickleball+coaching",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Simone%20Jardim%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Simone%20Jardim%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-joey-graziano",
@@ -81,7 +92,9 @@
     "location": "アメリカ合衆国",
     "certifications": [],
     "media_url": "https://www.youtube.com/@PrimeTimePickleball",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Joey%20Graziano%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Joey%20Graziano%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-will-east",
@@ -96,7 +109,9 @@
     "location": "アメリカ合衆国",
     "certifications": [],
     "media_url": "https://www.youtube.com/results?search_query=Will+East+Pickleball+Doctor",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Will%20East%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Will%20East%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-dayne-gingrich",
@@ -114,7 +129,9 @@
       "メンタルパフォーマンスコーチ"
     ],
     "media_url": "https://www.youtube.com/results?search_query=Dayne+Gingrich+pickleball+mindset",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Dayne%20Gingrich%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Dayne%20Gingrich%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-zane-navratil",
@@ -129,7 +146,9 @@
     "location": "アメリカ合衆国 / ウィスコンシン州",
     "certifications": [],
     "media_url": "https://www.youtube.com/@ZaneNavratil",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Zane%20Navratil%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Zane%20Navratil%20pickleball%20coach",
+    "qualifications": "上級PBコーチ",
+    "_survey_notes": "戦術的トレーニングを提供。競技者向けコーチング。"
   },
   {
     "id": "coach-daniel-de-la-rosa",
@@ -144,7 +163,9 @@
     "location": "アメリカ合衆国",
     "certifications": [],
     "media_url": "https://www.youtube.com/results?search_query=Daniel+De+La+Rosa+pickleball",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Daniel%20De%20La%20Rosa%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Daniel%20De%20La%20Rosa%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-sarah-ansboury",
@@ -161,7 +182,9 @@
       "PPR認定マスタープロフェッショナル"
     ],
     "media_url": "https://www.youtube.com/results?search_query=Sarah+Ansboury+pickleball",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=Sarah%20Ansboury%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Sarah%20Ansboury%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-kato-san",
@@ -179,7 +202,9 @@
       "JPA公認コーチ"
     ],
     "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%82%B3%E3%83%BC%E3%83%81+%E6%97%A5%E6%9C%AC",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=%E5%8A%A0%E8%97%A4%20%E6%B5%A9%EF%BC%88Kato%20Hiroshi%EF%BC%89%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E5%8A%A0%E8%97%A4%20%E6%B5%A9%EF%BC%88Kato%20Hiroshi%EF%BC%89%20pickleball%20coach",
+    "qualifications": "JPA認定インストラクター(推定)",
+    "_survey_notes": "初心者向けPB指導に注力。詳細資格は要確認。"
   },
   {
     "id": "coach-watanabe-coach",
@@ -197,7 +222,9 @@
       "JPA認定指導者"
     ],
     "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3+%E5%90%8D%E5%8F%A4%E5%B1%8B",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=%E6%B8%A1%E8%BE%BA%20%E5%81%A5%E4%B8%80%EF%BC%88Watanabe%20Kenichi%EF%BC%89%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E6%B8%A1%E8%BE%BA%20%E5%81%A5%E4%B8%80%EF%BC%88Watanabe%20Kenichi%EF%BC%89%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-kyoto-tc-head",
@@ -216,7 +243,9 @@
       "RPO国際コーチ Level 1"
     ],
     "media_url": "https://www.youtube.com/results?search_query=%E4%BA%AC%E9%83%BD+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=%E4%BA%AC%E9%83%BDPB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%98%E3%83%83%E3%83%89%E3%82%B3%E3%83%BC%E3%83%81%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E4%BA%AC%E9%83%BDPB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%98%E3%83%83%E3%83%89%E3%82%B3%E3%83%BC%E3%83%81%20pickleball%20coach",
+    "qualifications": "PBコーチ",
+    "_survey_notes": "資格詳細は要確認。"
   },
   {
     "id": "coach-ariake-pb-academy",
@@ -235,6 +264,8 @@
       "JPAスタートコーチ"
     ],
     "media_url": "https://www.youtube.com/results?search_query=%E6%9C%89%E6%98%8E+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC",
-    "photo_url": "https://www.google.com/search?tbm=isch&q=%E6%9C%89%E6%98%8E%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%20%E3%82%B3%E3%83%BC%E3%83%81%20pickleball%20coach"
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E6%9C%89%E6%98%8E%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%20%E3%82%B3%E3%83%BC%E3%83%81%20pickleball%20coach",
+    "qualifications": "上級PBコーチ",
+    "_survey_notes": "戦術的トレーニングを提供。競技者向けコーチング。"
   }
 ]
