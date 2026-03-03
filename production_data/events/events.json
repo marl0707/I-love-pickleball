@@ -54,7 +54,8 @@
     "location": "Dallas, Texas, USA",
     "description": "世界最高峰の権威を持つ全米選手権。プロ層だけでなくあらゆる年代・レベルのアマチュアが参加する、世界最大規模のピックルボールの祭典。",
     "held_month": "11月",
-    "status": "annual"
+    "status": "annual",
+    "event_type": "国際大会（メジャー）"
   },
   {
     "id": "tournament_us_open",
@@ -63,7 +64,8 @@
     "location": "Naples, Florida, USA",
     "description": "フロリダ州ネープルズで開催される世界有数のメガトーナメント。「ピックルボール界で最も熱狂的な1週間」とも称される。",
     "held_month": "4月",
-    "status": "annual"
+    "status": "annual",
+    "event_type": "国際大会"
   },
   {
     "id": "tournament_jpa_japan_national",
@@ -72,7 +74,8 @@
     "location": "Ariake Tennis Forest Park (過去実績: 有明テニスの森 等)",
     "description": "日本ピックルボール協会(JPA)が主催する、名実ともに日本最高峰の公式大会。シングルス、ダブルス、ミックスの各カテゴリーで世代別のチャンピオンを決定する。",
     "held_month": "12月",
-    "status": "annual"
+    "status": "annual",
+    "event_type": "国内メジャー（JPA主催）"
   },
   {
     "id": "tournament_jpa_all_japan",
@@ -81,7 +84,8 @@
     "location": "Saorina, Mie (過去実績: サオリーナ 等)",
     "description": "日本国内のプレイヤーが腕を競い合う、国内最大規模の選手権大会。",
     "held_month": "6月",
-    "status": "annual"
+    "status": "annual",
+    "event_type": "国内メジャー（JPA主催）"
   },
   {
     "id": "tour_01",
@@ -89,7 +93,8 @@
     "location": "ネープルズ, フロリダ州, 米国",
     "type": "国際メジャー",
     "schedule": "毎年4月",
-    "description": "世界最大のピックルボール大会。フロリダ州ネープルズのイーストネープルズ・コミュニティパークで開催。"
+    "description": "世界最大のピックルボール大会。フロリダ州ネープルズのイーストネープルズ・コミュニティパークで開催。",
+    "event_type": "国際メジャー"
   },
   {
     "id": "tour_02",
@@ -97,7 +102,8 @@
     "location": "ダラス, テキサス州, 米国",
     "type": "国際メジャー",
     "schedule": "毎年11月",
-    "description": "PPA Tour年間チャンピオンを決定するシーズン最終戦。"
+    "description": "PPA Tour年間チャンピオンを決定するシーズン最終戦。",
+    "event_type": "国際メジャー"
   },
   {
     "id": "tour_03",
@@ -105,7 +111,8 @@
     "location": "全米各地(ローテーション)",
     "type": "プロリーグ",
     "schedule": "年間5-6イベント",
-    "description": "チーム対抗形式のプロリーグ。LeBron JamesやTom Bradyなど著名人がオーナーに名を連ねる。"
+    "description": "チーム対抗形式のプロリーグ。LeBron JamesやTom Bradyなど著名人がオーナーに名を連ねる。",
+    "event_type": "プロリーグ"
   },
   {
     "id": "tour_04",
@@ -113,7 +120,8 @@
     "location": "デルレイビーチ, フロリダ州, 米国",
     "type": "国際プロツアー",
     "schedule": "毎年2月",
-    "description": "APP Tourの主要大会のひとつ。フロリダのビーチリゾート付近で開催される。"
+    "description": "APP Tourの主要大会のひとつ。フロリダのビーチリゾート付近で開催される。",
+    "event_type": "国際プロツアー"
   },
   {
     "id": "tour_05",
@@ -121,7 +129,8 @@
     "location": "グランドラピッズ, ミシガン州, 米国",
     "type": "国際プロツアー",
     "schedule": "毎年7月",
-    "description": "ビール醸造の街で開催される人気大会。アマチュアカテゴリも充実。"
+    "description": "ビール醸造の街で開催される人気大会。アマチュアカテゴリも充実。",
+    "event_type": "国際プロツアー"
   },
   {
     "id": "tour_06",
@@ -129,7 +138,8 @@
     "location": "ベインブリッジ島, ワシントン州, 米国",
     "type": "国際招待",
     "schedule": "毎年8月",
-    "description": "ピックルボール発祥の地で開催されるエキシビション招待大会。"
+    "description": "ピックルボール発祥の地で開催されるエキシビション招待大会。",
+    "event_type": "国際招待"
   },
   {
     "id": "tour_07",
@@ -137,7 +147,8 @@
     "location": "東京都",
     "type": "国内公式(JPA)",
     "schedule": "毎年10月",
-    "description": "日本ピックルボール協会(JPA)主催の最高峰国内大会。全国各地の予選を勝ち抜いた選手が集結。"
+    "description": "日本ピックルボール協会(JPA)主催の最高峰国内大会。全国各地の予選を勝ち抜いた選手が集結。",
+    "event_type": "国内公式(JPA)"
   },
   {
     "id": "tour_08",
@@ -145,7 +156,8 @@
     "location": "東京都・神奈川県",
     "type": "国内公式(JPA)",
     "schedule": "毎年5月",
-    "description": "東日本エリアの代表選を兼ねた大規模オープン大会。"
+    "description": "東日本エリアの代表選を兼ねた大規模オープン大会。",
+    "event_type": "国内公式(JPA)"
   },
   {
     "id": "tour_09",
@@ -153,7 +165,8 @@
     "location": "大阪府",
     "type": "国内公式(JPA)",
     "schedule": "毎年6月",
-    "description": "西日本エリアの代表選を兼ねた大規模オープン大会。"
+    "description": "西日本エリアの代表選を兼ねた大規模オープン大会。",
+    "event_type": "国内公式(JPA)"
   },
   {
     "id": "tour_10",
@@ -161,7 +174,8 @@
     "location": "関東各地(持ち回り)",
     "type": "草大会",
     "schedule": "毎月第3日曜",
-    "description": "エンジョイ層から競技層まで幅広く参加できる気軽な月例大会。"
+    "description": "エンジョイ層から競技層まで幅広く参加できる気軽な月例大会。",
+    "event_type": "草大会"
   },
   {
     "id": "tour_11",
@@ -169,7 +183,8 @@
     "location": "愛知県名古屋市",
     "type": "草大会",
     "schedule": "毎年9月",
-    "description": "東海地方最大の草大会。体験会やメーカーブースも多数出展。"
+    "description": "東海地方最大の草大会。体験会やメーカーブースも多数出展。",
+    "event_type": "草大会"
   },
   {
     "id": "tour_12",
@@ -177,7 +192,8 @@
     "location": "大阪府",
     "type": "草大会",
     "schedule": "毎年3月",
-    "description": "ミックスダブルス限定の人気大会。初心者カテゴリあり。"
+    "description": "ミックスダブルス限定の人気大会。初心者カテゴリあり。",
+    "event_type": "草大会"
   },
   {
     "id": "tour_13",
@@ -185,7 +201,8 @@
     "location": "北海道札幌市",
     "type": "草大会",
     "schedule": "毎年1月",
-    "description": "冬の北海道で開催されるインドア大会。雪景色とピックルボールの組み合わせがユニーク。"
+    "description": "冬の北海道で開催されるインドア大会。雪景色とピックルボールの組み合わせがユニーク。",
+    "event_type": "草大会"
   },
   {
     "id": "tour_14",
@@ -193,7 +210,8 @@
     "location": "福岡県福岡市",
     "type": "草大会",
     "schedule": "毎年11月",
-    "description": "九州最大規模のピックルボール大会。"
+    "description": "九州最大規模のピックルボール大会。",
+    "event_type": "草大会"
   },
   {
     "id": "tour_15",
@@ -201,7 +219,8 @@
     "location": "バルセロナ, スペイン",
     "type": "国際(欧州)",
     "schedule": "毎年6月",
-    "description": "ヨーロッパで急成長中のピックルボールシーンを象徴する大会。"
+    "description": "ヨーロッパで急成長中のピックルボールシーンを象徴する大会。",
+    "event_type": "国際(欧州)"
   },
   {
     "id": "event_local_001",

@@ -17,7 +17,8 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon+Pace+Rival+Skirt",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon+Pace+Rival+Skirt/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon+Pace+Rival+Skirt"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon+Pace+Rival+Skirt",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Pace%20Rival%20Mid-Rise%20Skirt%20pickleball"
   },
   {
     "id": "apparel_nike_court_dri_fit",
@@ -37,7 +38,8 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=NikeCourt+Dri-FIT+Advantage",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/NikeCourt+Dri-FIT+Advantage/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=NikeCourt+Dri-FIT+Advantage"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=NikeCourt+Dri-FIT+Advantage",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20NikeCourt%20Dri-FIT%20Advantage%20pickleball"
   },
   {
     "id": "apparel_fila_heritage_polo",
@@ -56,31 +58,62 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=FILA+Heritage+Polo",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA+Heritage+Polo/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA+Heritage+Polo"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA+Heritage+Polo",
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Heritage%20Short%20Sleeve%20Polo%20pickleball"
   },
   {
     "id": "gear_apparel_001",
     "brand_name": "FILA",
     "product_name": "Heritage Pickleball Polo",
+    "price": null,
     "category": "アパレル",
-    "target_gender": "men",
-    "description": "吸水速乾性に優れたポリエステル素材を使用。クラシックなデザインで、プロ大会でも多くのプレイヤーに愛用されているポロシャツ。"
+    "target_gender": "Mens(男性用)",
+    "material_features": null,
+    "has_ball_pocket": null,
+    "design_taste": null,
+    "size_range": null,
+    "color_variations": [],
+    "description": "吸水速乾性に優れたポリエステル素材を使用。クラシックなデザインで、プロ大会でも多くのプレイヤーに愛用されているポロシャツ。",
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20Heritage%20Pickleball%20Polo",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20Heritage%20Pickleball%20Polo/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20Heritage%20Pickleball%20Polo",
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Heritage%20Pickleball%20Polo%20pickleball"
   },
   {
     "id": "gear_apparel_002",
     "brand_name": "Skechers",
     "product_name": "Viper Court Skort",
+    "price": null,
     "category": "アパレル",
-    "target_gender": "women",
-    "description": "ピックルボールの激しい動きに対応するインナースパッツ付きのスコート。ボールポケット付きで実用性抜群。"
+    "target_gender": "Womens(女性用)",
+    "material_features": null,
+    "has_ball_pocket": true,
+    "design_taste": null,
+    "size_range": null,
+    "color_variations": [],
+    "description": "ピックルボールの激しい動きに対応するインナースパッツ付きのスコート。ボールポケット付きで実用性抜群。",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Skechers%20Viper%20Court%20Skort",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers%20Viper%20Court%20Skort/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers%20Viper%20Court%20Skort",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Skort%20pickleball"
   },
   {
     "id": "gear_bag_001",
     "brand_name": "JOOLA",
     "product_name": "Tour Elite Pickleball Bag",
+    "price": null,
     "category": "バッグ",
-    "target_gender": "unisex",
-    "description": "パドルが最低4本、シューズ（専用コンパートメント）、着替え、水筒など、トーナメントに必要なすべてを収納できる大容量プロ仕様バッグ。熱からパドルを守る断熱ポケット(サーマルガード)を搭載。"
+    "target_gender": "Unisex(男女兼用)",
+    "material_features": null,
+    "has_ball_pocket": null,
+    "design_taste": null,
+    "size_range": null,
+    "color_variations": [],
+    "description": "パドルが最低4本、シューズ（専用コンパートメント）、着替え、水筒など、トーナメントに必要なすべてを収納できる大容量プロ仕様バッグ。熱からパドルを守る断熱ポケット(サーマルガード)を搭載。",
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Tour%20Elite%20Pickleball%20Bag",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Tour%20Elite%20Pickleball%20Bag/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Tour%20Elite%20Pickleball%20Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pickleball%20Bag%20pickleball"
   },
   {
     "id": "ap_01",
@@ -93,7 +126,15 @@
     "has_ball_pocket": true,
     "design_taste": "プリーツ",
     "size_range": "XS, S, M, L, XL",
-    "color_variations": "ホワイト, ネイビー, ペールピンク"
+    "color_variations": [
+      "ホワイト",
+      "ネイビー",
+      "ペールピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV%20pickleball"
   },
   {
     "id": "ap_02",
@@ -106,7 +147,15 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL, XXL",
-    "color_variations": "ブラック, ネイビー, グレー"
+    "color_variations": [
+      "ブラック",
+      "ネイビー",
+      "グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84%20pickleball"
   },
   {
     "id": "ap_03",
@@ -119,7 +168,15 @@
     "has_ball_pocket": false,
     "design_taste": "クラシック",
     "size_range": "S, M, L, XL, XXL",
-    "color_variations": "ホワイト, ブラック, ネイビー"
+    "color_variations": [
+      "ホワイト",
+      "ブラック",
+      "ネイビー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD%20pickleball"
   },
   {
     "id": "ap_04",
@@ -132,7 +189,15 @@
     "has_ball_pocket": true,
     "design_taste": "スポーティー",
     "size_range": "XS, S, M, L, XL",
-    "color_variations": "ブラック, ホワイト, コーラル"
+    "color_variations": [
+      "ブラック",
+      "ホワイト",
+      "コーラル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
   },
   {
     "id": "ap_05",
@@ -145,7 +210,14 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "ホワイト, グリーン"
+    "color_variations": [
+      "ホワイト",
+      "グリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_06",
@@ -158,7 +230,14 @@
     "has_ball_pocket": true,
     "design_taste": "フリル",
     "size_range": "XS, S, M, L",
-    "color_variations": "ホワイト, コーラルレッド"
+    "color_variations": [
+      "ホワイト",
+      "コーラルレッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9",
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9%20pickleball"
   },
   {
     "id": "ap_07",
@@ -171,7 +250,13 @@
     "has_ball_pocket": false,
     "design_taste": "クラシック",
     "size_range": "S, M, L, XL",
-    "color_variations": "ホワイト/ネイビー/レッド"
+    "color_variations": [
+      "ホワイト/ネイビー/レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_08",
@@ -184,7 +269,14 @@
     "has_ball_pocket": true,
     "design_taste": "プリーツ",
     "size_range": "S, M, L",
-    "color_variations": "ホワイト, ネイビー"
+    "color_variations": [
+      "ホワイト",
+      "ネイビー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE",
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE%20pickleball"
   },
   {
     "id": "ap_09",
@@ -197,7 +289,16 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL, XXL",
-    "color_variations": "ブラック, グレー, ブルー, レッド"
+    "color_variations": [
+      "ブラック",
+      "グレー",
+      "ブルー",
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0%20pickleball"
   },
   {
     "id": "ap_10",
@@ -210,7 +311,15 @@
     "has_ball_pocket": true,
     "design_taste": "パステルカラー",
     "size_range": "XS, S, M, L, XL",
-    "color_variations": "ラベンダー, ミント, ローズ"
+    "color_variations": [
+      "ラベンダー",
+      "ミント",
+      "ローズ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
   },
   {
     "id": "ap_11",
@@ -223,7 +332,14 @@
     "has_ball_pocket": true,
     "design_taste": "フリル",
     "size_range": "XS, S, M, L",
-    "color_variations": "ネオンピンク, ターコイズ"
+    "color_variations": [
+      "ネオンピンク",
+      "ターコイズ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
   },
   {
     "id": "ap_12",
@@ -236,7 +352,14 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "XS, S, M, L",
-    "color_variations": "ブラック, ホワイト"
+    "color_variations": [
+      "ブラック",
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
+    "image_url": "https://www.google.com/search?tbm=isch&q=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%20pickleball"
   },
   {
     "id": "ap_13",
@@ -249,7 +372,14 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "ブラック, ネイビー"
+    "color_variations": [
+      "ブラック",
+      "ネイビー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%20pickleball"
   },
   {
     "id": "ap_14",
@@ -262,7 +392,13 @@
     "has_ball_pocket": false,
     "design_taste": "クラシック",
     "size_range": "M, L, XL, XXL",
-    "color_variations": "ブラック/ブルー"
+    "color_variations": [
+      "ブラック/ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD",
+    "image_url": "https://www.google.com/search?tbm=isch&q=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD%20pickleball"
   },
   {
     "id": "ap_15",
@@ -275,7 +411,15 @@
     "has_ball_pocket": false,
     "design_taste": "ポップ",
     "size_range": "S, M, L, XL",
-    "color_variations": "ホワイト, ブラック, ピンク"
+    "color_variations": [
+      "ホワイト",
+      "ブラック",
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Dink%20I%20Love%20Pickleball%20Tee",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dink%20I%20Love%20Pickleball%20Tee/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dink%20I%20Love%20Pickleball%20Tee",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Dink%20I%20Love%20Pickleball%20Tee%20pickleball"
   },
   {
     "id": "ap_16",
@@ -288,7 +432,15 @@
     "has_ball_pocket": true,
     "design_taste": "エレガント",
     "size_range": "XXS, XS, S, M, L, XL",
-    "color_variations": "ブラック, ホワイト, オリーブ"
+    "color_variations": [
+      "ブラック",
+      "ホワイト",
+      "オリーブ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
   },
   {
     "id": "ap_17",
@@ -301,7 +453,15 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "グレー, ネイビー, ブラック"
+    "color_variations": [
+      "グレー",
+      "ネイビー",
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84%20pickleball"
   },
   {
     "id": "ap_18",
@@ -314,7 +474,14 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "ロイヤルブルー, ホワイト"
+    "color_variations": [
+      "ロイヤルブルー",
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_19",
@@ -327,7 +494,14 @@
     "has_ball_pocket": false,
     "design_taste": "パステルカラー",
     "size_range": "XS, S, M, L, XL",
-    "color_variations": "スカイブルー, コーラル"
+    "color_variations": [
+      "スカイブルー",
+      "コーラル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%20pickleball"
   },
   {
     "id": "ap_20",
@@ -340,7 +514,16 @@
     "has_ball_pocket": false,
     "design_taste": "シンプル",
     "size_range": "XS, S, M, L, XL, XXL, 3XL",
-    "color_variations": "ホワイト, ブラック, ネイビー, ブルー"
+    "color_variations": [
+      "ホワイト",
+      "ブラック",
+      "ネイビー",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_21",
@@ -353,7 +536,16 @@
     "has_ball_pocket": false,
     "design_taste": "シンプル",
     "size_range": "XS, S, M, L, XL, XXL, 3XL",
-    "color_variations": "ホワイト, グレー, ネイビー, ベージュ"
+    "color_variations": [
+      "ホワイト",
+      "グレー",
+      "ネイビー",
+      "ベージュ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB%20pickleball"
   },
   {
     "id": "ap_22",
@@ -366,7 +558,13 @@
     "has_ball_pocket": false,
     "design_taste": "クラシック",
     "size_range": "S, M, L, XL",
-    "color_variations": "ホワイト/レッド/ネイビー"
+    "color_variations": [
+      "ホワイト/レッド/ネイビー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_23",
@@ -379,7 +577,14 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "ブラック, ネイビー"
+    "color_variations": [
+      "ブラック",
+      "ネイビー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_24",
@@ -392,7 +597,15 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "ブルー, レッド, ホワイト"
+    "color_variations": [
+      "ブルー",
+      "レッド",
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
   },
   {
     "id": "ap_25",
@@ -405,6 +618,317 @@
     "has_ball_pocket": false,
     "design_taste": "スポーティー",
     "size_range": "S, M, L, XL",
-    "color_variations": "ブラック"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84%20pickleball"
+  },
+  {
+    "id": "apparel_joola_propel_crew",
+    "brand_name": "JOOLA",
+    "product_name": "Ben Johns Propel Crewneck Shirt",
+    "category": "トップス",
+    "description": "マイクロメッシュ織りで通気性抜群。吸湿速乾。Ben Johns公式モデル。",
+    "features": [
+      "マイクロメッシュ織り",
+      "吸湿速乾",
+      "フルレンジモーション設計"
+    ],
+    "color_variations": [
+      "Black",
+      "White",
+      "Navy"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Propel%20Crewneck%20Shirt%20pickleball"
+  },
+  {
+    "id": "apparel_selkirk_perf_shorts",
+    "brand_name": "Selkirk",
+    "product_name": "Essentials 9\" Performance Shorts",
+    "category": "ボトムス",
+    "description": "軽量・通気・吸湿速乾の高機能ショーツ。UPF防御、4方向ストレッチ、防臭加工。",
+    "features": [
+      "軽量",
+      "吸湿速乾",
+      "UPF防御",
+      "4方向ストレッチ",
+      "速乾",
+      "シワ防止",
+      "防臭"
+    ],
+    "color_variations": [
+      "Black",
+      "Navy",
+      "Grey"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%209%22%20Performance%20Shorts%20pickleball"
+  },
+  {
+    "id": "apparel_selkirk_dress",
+    "brand_name": "Selkirk",
+    "product_name": "Performance Pickleball Dress",
+    "category": "ワンピース",
+    "description": "通気性素材、内蔵ショーツ、UPFプロテクション搭載のピックルボール用ドレス。",
+    "features": [
+      "通気性素材",
+      "内蔵ショーツ",
+      "UPFプロテクション"
+    ],
+    "color_variations": [
+      "White",
+      "Black"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Pickleball%20Dress%20pickleball"
+  },
+  {
+    "id": "apparel_lulu_pace_breaker",
+    "brand_name": "Lululemon",
+    "product_name": "Pace Breaker Lined Short 7\"",
+    "category": "ボトムス",
+    "description": "ピックルボールプレイヤーに人気のLululemonショーツ。軽量・速乾・ライナー付き。",
+    "features": [
+      "Swift fabric",
+      "ライナー付き",
+      "速乾",
+      "軽量"
+    ],
+    "color_variations": [
+      "Black",
+      "True Navy",
+      "Dark Olive"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Pace%20Breaker%20Lined%20Short%207%22%20pickleball"
+  },
+  {
+    "id": "apparel_lulu_metal_vent",
+    "brand_name": "Lululemon",
+    "product_name": "Metal Vent Tech Short-Sleeve Shirt 2.0",
+    "category": "トップス",
+    "description": "メタルベントテクノロジーで通気性・防臭性に優れたトレーニングTシャツ。",
+    "features": [
+      "Silverescent防臭",
+      "通気性メッシュ",
+      "速乾"
+    ],
+    "color_variations": [
+      "Black",
+      "White",
+      "Heathered Grey"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Metal%20Vent%20Tech%20Short-Sleeve%20Shirt%202.0%20pickleball"
+  },
+  {
+    "id": "apparel_nike_pb_tee",
+    "brand_name": "Nike",
+    "product_name": "Dri-FIT Pickleball T-Shirt",
+    "category": "トップス",
+    "description": "Nike Dri-FIT テクノロジーで吸湿速乾。ピックルボール専用デザイン。",
+    "features": [
+      "Dri-FIT吸湿速乾",
+      "コットンポリブレンド",
+      "リラックスフィット"
+    ],
+    "color_variations": [
+      "White",
+      "Black"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Dri-FIT%20Pickleball%20T-Shirt%20pickleball"
+  },
+  {
+    "id": "apparel_pb5star_polo",
+    "brand_name": "PB5star",
+    "product_name": "Performance Polo",
+    "category": "トップス",
+    "description": "2025年注目のPB専用アパレルブランド。高品質パフォーマンスポロ。",
+    "features": [
+      "吸湿速乾",
+      "UPF50+",
+      "4方向ストレッチ"
+    ],
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=PB5star%20Performance%20Polo%20pickleball"
+  },
+  {
+    "id": "apparel_vuori_polo",
+    "brand_name": "Vuori",
+    "product_name": "Knit Twill Polo",
+    "category": "トップス",
+    "description": "リサイクル素材使用。4方向ストレッチ＆吸湿速乾。コート内外で着用可能。",
+    "features": [
+      "リサイクル素材",
+      "4方向ストレッチ",
+      "吸湿速乾",
+      "オン/オフコート兼用"
+    ],
+    "color_variations": [
+      "Navy",
+      "Grey",
+      "White"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vuori%20Knit%20Twill%20Polo%20pickleball"
+  },
+  {
+    "id": "apparel_selkirk_pleated_skirt",
+    "brand_name": "Selkirk",
+    "product_name": "Essentials Pleated Pickleball Skirt",
+    "category": "スカート",
+    "description": "軽量・冷却・吸湿速乾・UPF防御・4方向ストレッチ。内蔵ライナー＋スマホポケット付き。",
+    "features": [
+      "プリーツデザイン",
+      "内蔵ライナーショーツ",
+      "UPF防御",
+      "4方向ストレッチ",
+      "スマホポケット"
+    ],
+    "color_variations": [
+      "White",
+      "Black",
+      "Navy"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%20Pleated%20Pickleball%20Skirt%20pickleball"
+  },
+  {
+    "id": "apparel_lucky_love_skirt",
+    "brand_name": "Lucky in Love",
+    "product_name": "Pickleball Pleated Skort",
+    "category": "スカート",
+    "description": "テニス/ピックルボール用プリーツスコート。ファッション性と機能性を両立。",
+    "features": [
+      "プリーツ",
+      "内蔵ショーツ",
+      "吸湿速乾"
+    ],
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lucky%20in%20Love%20Pickleball%20Pleated%20Skort%20pickleball"
+  },
+  {
+    "id": "apparel_junk_headband",
+    "brand_name": "Junk Brands",
+    "product_name": "Big Bang Lite Headband (Pickle Party)",
+    "category": "ヘッドバンド",
+    "description": "Technical T-Shirt素材。滑り止め・吸湿速乾・通気性。PBデザイン。",
+    "features": [
+      "Technical T-Shirt素材",
+      "ノンスリップ",
+      "吸湿速乾",
+      "通気性"
+    ],
+    "color_variations": [
+      "Pickle Party"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Junk%20Brands%20Big%20Bang%20Lite%20Headband%20(Pickle%20Party)%20pickleball"
+  },
+  {
+    "id": "apparel_nike_swoosh_headband",
+    "brand_name": "Nike",
+    "product_name": "Swoosh Headband",
+    "category": "ヘッドバンド",
+    "description": "Nikeの定番テリーループヘッドバンド。コットン/ナイロン/ラバー混紡で汗吸収。",
+    "features": [
+      "テリーループ素材",
+      "汗吸収",
+      "フィット感"
+    ],
+    "color_variations": [
+      "White",
+      "Black",
+      "Red"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Swoosh%20Headband%20pickleball"
+  },
+  {
+    "id": "apparel_selkirk_visor",
+    "brand_name": "Selkirk",
+    "product_name": "Performance Visor",
+    "category": "バイザー",
+    "description": "Selkirk公式パフォーマンスバイザー。軽量・通気性・UV防御。",
+    "features": [
+      "軽量",
+      "通気性",
+      "UV防御",
+      "調整可能"
+    ],
+    "color_variations": [
+      "White",
+      "Black"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Visor%20pickleball"
+  },
+  {
+    "id": "apparel_joola_shorts",
+    "brand_name": "JOOLA",
+    "product_name": "Ben Johns Performance Shorts",
+    "category": "ボトムス",
+    "description": "Ben Johns監修のパフォーマンスショーツ。軽量・通気・吸湿速乾。",
+    "features": [
+      "軽量",
+      "通気性",
+      "吸湿速乾",
+      "ストレッチ"
+    ],
+    "color_variations": [
+      "Black",
+      "Navy"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Performance%20Shorts%20pickleball"
   }
 ]

@@ -14,5 +14,29 @@
     "target_id": "facility_viptop",
     "year": 2025,
     "description": "冷暖房完備、アクセスの良さ、そして専用コートのクオリティが評価され初代ベストコートに選出。"
+  },
+  {
+    "id": "award_2025_best_beginner_paddle",
+    "title": "2025年 初心者におすすめ「ベスト・スターターパドル」",
+    "target_type": "gear",
+    "target_id": null,
+    "year": 2025,
+    "description": "1万円以下の価格帯で、操作性と耐久性のバランスに優れた初心者向けパドル部門のアワード。手軽に始められるピックルボールの入り口として高い評価を受けた。"
+  },
+  {
+    "id": "award_2025_best_outdoor_facility",
+    "title": "2025年 みんなが選んだ「ベスト・アウトドアコート」",
+    "target_type": "facility",
+    "target_id": "kpi_park_yokohama",
+    "year": 2025,
+    "description": "KPI PARK横浜のピックルボール10面コートが、規模・コート品質・アクセスの3拍子揃った施設としてアウトドア部門で最高評価を獲得。"
+  },
+  {
+    "id": "award_2025_community_mvp",
+    "title": "2025年 コミュニティ功労賞「ベスト・コミュニティリーダー」",
+    "target_type": "community",
+    "target_id": null,
+    "year": 2025,
+    "description": "全国のピックルボールコミュニティの発展に最も貢献したリーダー・主催者に贈られるアワード。初心者の受け入れ体制とイベント開催実績が評価基準。"
   }
 ]

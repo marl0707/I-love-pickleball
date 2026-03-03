@@ -4,27 +4,675 @@
     "name": "JOOLA",
     "country": "Germany / USA",
     "description": "卓球ブランドとしての世界的な実績を背景にピックルボール界に参入。Ben Johnsを筆頭にトッププロと契約し、最強のパワーパドル「Perseus」シリーズ等で市場を席巻している。",
-    "website_url": "https://joolausa.com/"
+    "website_url": "https://joolausa.com/",
+    "product_categories": [
+      "パドル",
+      "ボール",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "founded_year": 1952,
+    "hq_location": "Siebeldingen, Germany / Rockville, MD, USA",
+    "notable_players": [
+      "Ben Johns",
+      "Anna Bright",
+      "Collin Johns",
+      "Federico Staksrud",
+      "Lea Jansen",
+      "Etta Wright",
+      "Beth Bellamy"
+    ],
+    "logo_url": "https://joolausa.com/"
   },
   {
     "id": "brand_selkirk",
     "name": "Selkirk Sport",
     "country": "USA",
     "description": "「We Are Pickleball」を掲げるピックルボール専業のトップブランド。品質に徹底的にこだわり、生涯保証（Lifetime Warranty）を提供している。VANGUARDやLUXXシリーズが有名。",
-    "website_url": "https://www.selkirk.com/"
+    "website_url": "https://www.selkirk.com/",
+    "product_categories": [
+      "パドル",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "founded_year": 2014,
+    "hq_location": "Coeur d'Alene, Idaho, USA",
+    "notable_players": [
+      "Tyson McGuffin",
+      "Jack Sock",
+      "Catherine Parenteau"
+    ],
+    "warranty": "生涯保証(Lifetime Warranty)",
+    "logo_url": "https://www.selkirk.com/"
   },
   {
     "id": "brand_franklin",
     "name": "Franklin Sports",
     "country": "USA",
     "description": "全米オープンの公式球「X-40」を製造する総合スポーツメーカー。パドルでもFS Tourシリーズなど高品質かつ手頃な価格帯のギアを多数展開している。",
-    "website_url": "https://franklinsports.com/"
+    "website_url": "https://franklinsports.com/",
+    "product_categories": [
+      "パドル",
+      "ボール",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "founded_year": 1946,
+    "hq_location": "Stoughton, Massachusetts, USA",
+    "notable_players": [
+      "Ben Johns(初期契約)",
+      "JW Johnson(2026.1離脱)"
+    ],
+    "notable_products": "X-40 (US Open公式球)",
+    "logo_url": "https://franklinsports.com/"
   },
   {
     "id": "brand_crbn",
     "name": "CRBN",
     "country": "USA",
     "description": "カーボンファイバー表面を採用した「生カーボン」パドルの先駆者。強烈なスピン性能を求める競技者から絶大な支持を得ている。",
-    "website_url": "https://crbnpickleball.com/"
+    "website_url": "https://crbnpickleball.com/",
+    "product_categories": [
+      "パドル",
+      "アクセサリー"
+    ],
+    "founded_year": 2021,
+    "hq_location": "USA",
+    "notable_products": "1X Power Series, 2X, 3X, Magnum",
+    "logo_url": "https://crbnpickleball.com/"
+  },
+  {
+    "id": "brand_sixzero",
+    "name": "Six Zero",
+    "country": "USA",
+    "product_categories": [
+      "パドル",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "website_url": "https://sixzeropickleball.com/",
+    "description": "Double Black Diamondシリーズで知られるピックルボール専業ブランド。独自のエアロカーブ形状（AeroCurve）が特徴で、空気抵抗を軽減しスイングスピードを向上させる。",
+    "founded_year": 2020,
+    "hq_location": "USA",
+    "notable_products": "Double Black Diamond, Ruby, Infinity",
+    "face_technology": "Japanese Toray 700K Raw Carbon",
+    "logo_url": "https://sixzeropickleball.com/"
+  },
+  {
+    "id": "brand_vatic_pro",
+    "name": "Vatic Pro",
+    "country": "USA",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://vaticpro.com/",
+    "description": "「コスパ革命」を起こしたピックルボールパドルブランド。ハイエンド性能を低価格で実現し、Prism FlashやV7シリーズが特に人気。",
+    "logo_url": "https://vaticpro.com/"
+  },
+  {
+    "id": "brand_engage",
+    "name": "Engage Pickleball",
+    "country": "USA",
+    "product_categories": [
+      "パドル",
+      "ボール",
+      "バッグ"
+    ],
+    "website_url": "https://engagepickleball.com/",
+    "description": "Pursuit Proシリーズが人気のピックルボール専業ブランド。独自のFriction Surface Technology（摩擦面加工技術）でスピン性能に定評がある。",
+    "founded_year": 2014,
+    "hq_location": "USA",
+    "notable_products": "Pursuit Pro EX, Pursuit MX, Omega Evolution",
+    "unique_tech": "Friction Surface Technology + ControlPro Black Core",
+    "logo_url": "https://engagepickleball.com/"
+  },
+  {
+    "id": "brand_paddletek",
+    "name": "Paddletek",
+    "country": "USA",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://www.paddletek.com/",
+    "description": "Bantamシリーズで知られるピックルボール老舗ブランド。米国インディアナ州で手作りされる高品質パドルが特徴。",
+    "founded_year": 2004,
+    "hq_location": "New Haven, Indiana, USA",
+    "notable_products": "Bantam TS-5 Pro, Tsunami Pro, Tempest Wave Pro",
+    "notable_players": [
+      "Riley Newman (2026.1契約)",
+      "Zane Navratil",
+      "Lucy Kovalova"
+    ],
+    "unique_tech": "Smart Response Technology (SRT)",
+    "manufacturing": "米国インディアナ州で手作り",
+    "logo_url": "https://www.paddletek.com/"
+  },
+  {
+    "id": "brand_head",
+    "name": "HEAD",
+    "country": "Austria",
+    "product_categories": [
+      "パドル",
+      "シューズ",
+      "ボール",
+      "アパレル",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "website_url": "https://www.head.com/",
+    "description": "テニス・スキーで世界的に有名な総合スポーツブランド。ピックルボール市場にもGravityやRadicalシリーズで参入。Penn(ボール)ブランドも傘下。",
+    "founded_year": 1950,
+    "hq_location": "Kennelbach, Austria",
+    "notable_products": "Radical Pro, Gravity Tour, Extreme Tour",
+    "unique_tech": "Optimized Tubular Core (OTC)",
+    "subsidiaries": "Penn (ボール), Tyrolia (スキー)",
+    "logo_url": "https://www.head.com/"
+  },
+  {
+    "id": "brand_prince",
+    "name": "Prince",
+    "country": "USA",
+    "product_categories": [
+      "パドル",
+      "シューズ",
+      "アクセサリー"
+    ],
+    "website_url": "https://www.princesports.com/",
+    "description": "テニスラケットの名門ブランド。ピックルボールでもResponse ProやSpectrum Proなどの丸型パドルで独自路線を展開。",
+    "founded_year": 1970,
+    "hq_location": "Bordentown, New Jersey, USA",
+    "notable_products": "Response Pro, Spectrum Pro, Synergy Pro",
+    "notable_achievement": "テニス界の「オーバーサイズラケット」の発明者",
+    "logo_url": "https://www.princesports.com/"
+  },
+  {
+    "id": "brand_onix",
+    "name": "Onix",
+    "country": "USA",
+    "product_categories": [
+      "パドル",
+      "ボール",
+      "ポータブルネット"
+    ],
+    "website_url": "https://www.onixpickleball.com/",
+    "description": "ピックルボールの老舗ブランドの一つ。FuseシリーズのボールとEvoke Premierパドルが代表的。特にFuse Indoor Ballはインドアプレイヤーに広く愛用されている。",
+    "founded_year": 2005,
+    "hq_location": "USA",
+    "notable_products": "Evoke Premier, Fuse Outdoor/Indoor Ball",
+    "unique_tech": "Composite Face Technology",
+    "notable_ball": "Fuse Indoor Ball (インドアプレイヤー定番)",
+    "logo_url": "https://www.onixpickleball.com/"
+  },
+  {
+    "id": "brand_diadem",
+    "name": "Diadem",
+    "country": "USA",
+    "product_categories": [
+      "パドル",
+      "ボール",
+      "アクセサリー"
+    ],
+    "website_url": "https://www.diademsports.com/",
+    "description": "WarriorやIcon、Vice（EVAコア静音パドル）など、独自性の高いパドルラインナップで知られる。テニスブランドとしても展開。",
+    "founded_year": 2015,
+    "hq_location": "USA",
+    "notable_products": "Icon v2, Warrior, Vice (静音EVAコア)",
+    "unique_tech": "RP2 Technology + 3XL Core + FS System",
+    "logo_url": "https://www.diademsports.com/"
+  },
+  {
+    "id": "brand_babolat",
+    "name": "Babolat",
+    "country": "France",
+    "product_categories": [
+      "パドル",
+      "シューズ",
+      "アパレル",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "website_url": "https://www.babolat.com/",
+    "description": "1875年創業のフランスの老舗ラケットスポーツブランド。テニスでの圧倒的な実績を背景にピックルボール市場に参入。RNGDやMNSTRシリーズを展開。",
+    "founded_year": 1875,
+    "hq_location": "Lyon, France",
+    "notable_products": "RNGD, RNGD Touch, MNSTR Power, MNSTR Touch",
+    "unique_tech": "RPM Grit Technology (スピン面加工)",
+    "heritage": "1875年創業・世界最古のラケットスポーツブランド",
+    "logo_url": "https://www.babolat.com/"
+  },
+  {
+    "id": "brand_kswiss",
+    "name": "K-Swiss",
+    "country": "USA",
+    "product_categories": [
+      "シューズ",
+      "パドル",
+      "アパレル"
+    ],
+    "website_url": "https://www.kswiss.com/",
+    "description": "ピックルボール専用シューズのパイオニア。Express Lightシリーズが非常に有名で、PPA Tour公式フットウェアパートナー。",
+    "founded_year": 1966,
+    "hq_location": "Los Angeles, California, USA",
+    "notable_products": "Express Light, Speedex",
+    "partnership": "PPA Tour公式フットウェアパートナー",
+    "unique_tech": "Aösta 7.0 High-Density Rubber Outsole",
+    "logo_url": "https://www.kswiss.com/"
+  },
+  {
+    "id": "brand_fila",
+    "name": "FILA",
+    "country": "Italy / South Korea",
+    "product_categories": [
+      "シューズ",
+      "アパレル",
+      "アクセサリー"
+    ],
+    "website_url": "https://www.fila.com/",
+    "description": "イタリア発祥の世界的スポーツファッションブランド。ピックルボールではVolley Zoneシューズやヘリテージポロシリーズなど、レトロスポーツテイストのギアを展開。",
+    "founded_year": 1911,
+    "hq_location": "Seoul, South Korea (本社移転) / Biella, Italy (創業地)",
+    "notable_products": "Volley Zone, Double Bounce",
+    "unique_tech": "Energized EVA + Evergrind Outsole",
+    "logo_url": "https://www.fila.com/"
+  },
+  {
+    "id": "brand_skechers",
+    "name": "Skechers",
+    "country": "USA",
+    "product_categories": [
+      "シューズ",
+      "アパレル"
+    ],
+    "website_url": "https://www.skechers.com/",
+    "description": "米国大手フットウェアブランド。Viper Court ProはGoodyearラバーアウトソールとArch Fitインソールを搭載したピックルボール専用設計で、多くのプロ選手が愛用。",
+    "founded_year": 1992,
+    "hq_location": "Manhattan Beach, California, USA",
+    "notable_products": "Viper Court Pro, Viper Court Pro 2.0",
+    "notable_players": [
+      "Tyson McGuffin"
+    ],
+    "unique_tech": "Goodyear® Gold Compound Outsole + Arch Fit® + ULTRA FLIGHT®",
+    "certification": "APMA Seal of Acceptance (American Podiatric Medical Association)",
+    "logo_url": "https://www.skechers.com/"
+  },
+  {
+    "id": "brand_gearbox",
+    "name": "Gearbox",
+    "country": "USA",
+    "product_categories": [
+      "パドル",
+      "バッグ",
+      "アクセサリー"
+    ],
+    "website_url": "https://gearboxsports.com/",
+    "description": "従来のハニカムコアを使わない独自のSST（Solid Span Technology）全面カーボン構造パドルを製造する唯一のブランド。ダイレクトな打球感が特徴。",
+    "founded_year": 2003,
+    "hq_location": "San Diego, California, USA",
+    "notable_products": "Pro Power, CX14",
+    "unique_tech": "SST (Solid Span Technology) - ハニカムなし全カーボン構造",
+    "logo_url": "https://gearboxsports.com/"
+  },
+  {
+    "id": "brand_volair",
+    "name": "Volair",
+    "country": "USA",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://volair.com/",
+    "description": "2025年に急成長したピックルボールパドルブランド。Dylan Frazierの契約で一躍注目を集めた。Mach1 Forzaが代表的モデルで、コントロールとパワーのバランスに定評がある。",
+    "founded_year": 2023,
+    "hq_location": "USA",
+    "notable_products": "Mach1 Forza",
+    "notable_players": [
+      "Dylan Frazier",
+      "Ella Yeh"
+    ],
+    "logo_url": "https://volair.com/"
+  },
+  {
+    "id": "brand_11six24",
+    "name": "11SIX24",
+    "country": "USA",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://11six24.com/",
+    "description": "HexGritサーフェス技術を特徴とする新興パドルブランド。2025年末にDekel Barが契約し注目度が急上昇。UPA-A承認の全フォームパドルVapor Power 2が代表的。",
+    "founded_year": 2023,
+    "hq_location": "USA",
+    "notable_products": "Vapor Power 2",
+    "notable_players": [
+      "Dekel Bar"
+    ],
+    "unique_tech": "HexGrit Surface Technology",
+    "logo_url": "https://11six24.com/"
+  },
+  {
+    "id": "brand_bread_butter",
+    "description": "2024年に急成長したピックルボールパドルブランド。コストパフォーマンスの高いthermoformedパドルで人気。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://breadandbutterpickleball.com",
+    "founded_year": 2023,
+    "hq_location": "USA",
+    "notable_products": "Loco (2025年ベストハイブリッド), The Filth (パワー特化)",
+    "name": "Bread & Butter",
+    "country": "USA",
+    "logo_url": "https://breadandbutterpickleball.com"
+  },
+  {
+    "id": "brand_honolulu",
+    "description": "ハワイ発のピックルボールブランド。フォームコアパドルで2025年にブレイク。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": null,
+    "founded_year": 2024,
+    "hq_location": "Honolulu, Hawaii, USA",
+    "notable_products": "Sword & Shield J2NF (2025年最高峰フォームパドル)",
+    "name": "Honolulu Pickleball Company",
+    "country": "USA"
+  },
+  {
+    "id": "brand_tyrol",
+    "description": "ピックルボール専用シューズブランド。Vibram®ソール採用で高いグリップ力を実現。",
+    "product_categories": [
+      "シューズ"
+    ],
+    "website_url": "https://tyrolpickleball.com",
+    "founded_year": null,
+    "hq_location": "USA",
+    "notable_products": "Drive-V, Velocity-V, Striker Pro-V",
+    "unique_tech": "Vibram® Outsole + Wide/Deep Toe Box + Flow-Through Cooling",
+    "name": "Tyrol",
+    "country": "USA",
+    "logo_url": "https://tyrolpickleball.com"
+  },
+  {
+    "id": "brand_acacia",
+    "description": "ピックルボール専用シューズとアクセサリーブランド。軽量で快適な設計が特徴。",
+    "product_categories": [
+      "シューズ"
+    ],
+    "website_url": "https://acaciasports.com",
+    "founded_year": null,
+    "hq_location": "USA",
+    "notable_products": "Tyler Signature Pro, DinkShot, ProShot",
+    "notable_players": [
+      "Tyler Loong(署名モデル)"
+    ],
+    "unique_tech": "Honeycomb Memory Foam + ProFlex Upper + HCS",
+    "name": "Acacia",
+    "country": "USA",
+    "logo_url": "https://acaciasports.com"
+  },
+  {
+    "id": "brand_electrum",
+    "description": "高性能ピックルボールパドルブランド。Model Eシリーズで知られる。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://electrumpickleball.com",
+    "founded_year": null,
+    "hq_location": "USA",
+    "notable_products": "Model E Pro II, Model E Elite",
+    "unique_tech": "Foam Injected Perimeter",
+    "name": "Electrum",
+    "country": "USA",
+    "logo_url": "https://electrumpickleball.com"
+  },
+  {
+    "id": "brand_legacy",
+    "description": "Thermoformed構造のハイパフォーマンスパドルブランド。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": null,
+    "notable_products": "Legacy Pro (1900+ RPMスピン)",
+    "name": "Legacy Pro",
+    "country": "USA"
+  },
+  {
+    "id": "brand_proxr",
+    "description": "プロ選手Zane Navratil共同開発のパドルブランド。6インチの長いグリップが特徴。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://proxrpickleball.com",
+    "founded_year": null,
+    "hq_location": "USA",
+    "notable_players": [
+      "Zane Navratil"
+    ],
+    "notable_products": "Zane Navratil Signature, The Sweet Spot",
+    "unique_tech": "6\" Extended Handle + Shock Foam Perimeter",
+    "name": "ProXR",
+    "country": "USA",
+    "logo_url": "https://proxrpickleball.com"
+  },
+  {
+    "id": "brand_ronbus",
+    "description": "コストパフォーマンスの高いthermoformedパドルで注目を集めるブランド。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": null,
+    "founded_year": null,
+    "hq_location": "USA",
+    "notable_products": "R1 Nova, R2 Pulsar, R3 Pulsar FX",
+    "name": "Ronbus",
+    "country": "USA"
+  },
+  {
+    "id": "brand_vulcan",
+    "description": "幅広い価格帯のパドルとボールを製造するピックルボールブランド。V900シリーズが上位モデル。",
+    "product_categories": [
+      "パドル",
+      "ボール"
+    ],
+    "website_url": "https://vulcanpickleball.com",
+    "founded_year": null,
+    "hq_location": "USA",
+    "notable_products": "V520 Control, V510 Hybrid, V930/V940, V520 Indoor Ball",
+    "unique_tech": "Quatro-Carbon™ Face + ZEP9™ Core",
+    "name": "Vulcan",
+    "country": "USA",
+    "logo_url": "https://vulcanpickleball.com"
+  },
+  {
+    "id": "brand_forwrd",
+    "name": "FORWRD",
+    "country": "USA",
+    "description": "2025年注目のピックルボールバッグ・アクセサリーブランド。先進的収納システムが特徴。",
+    "product_categories": [
+      "バッグ"
+    ],
+    "website_url": "https://forwrd.co",
+    "logo_url": "https://forwrd.co"
+  },
+  {
+    "id": "brand_titan_pb",
+    "name": "Titan (Pickleball)",
+    "country": "USA",
+    "description": "ボールマシンとパドルを製造するピックルボールブランド。アプリ連携機能が充実。",
+    "product_categories": [
+      "ボールマシン",
+      "パドル"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_erne",
+    "name": "Erne (Machine)",
+    "country": "USA",
+    "description": "高性能ピックルボールマシンブランド。最大150球収容の大容量モデル。",
+    "product_categories": [
+      "ボールマシン"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_oneshot",
+    "name": "OneShot",
+    "country": "USA",
+    "description": "Aeroシリーズのピックルボールパドルブランド。Aeroshoot/Proshot/Powershotを展開。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_juciao",
+    "name": "Juciao",
+    "country": "China",
+    "description": "Thermoformedパドルを製造するピックルボールブランド。WU KONGシリーズで知られる。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_gruvn",
+    "name": "GRUVN",
+    "country": "USA",
+    "description": "Mulaシリーズでコスパの高い高性能パドルを提供するブランド。T700 Raw CF面。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": "https://gruvn.co",
+    "logo_url": "https://gruvn.co"
+  },
+  {
+    "id": "brand_owl",
+    "name": "OWL",
+    "country": "USA",
+    "description": "静音設計のピックルボールパドルブランド。騒音制限コート向け。CX/PXシリーズ展開。",
+    "product_categories": [
+      "パドル"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_pb5star",
+    "name": "PB5star",
+    "country": "USA",
+    "description": "2025年注目のピックルボール専用アパレルブランド。高品質かつスタイリッシュなデザイン。",
+    "product_categories": [
+      "アパレル"
+    ],
+    "website_url": "https://pb5star.com",
+    "logo_url": "https://pb5star.com"
+  },
+  {
+    "id": "brand_vuori",
+    "name": "Vuori",
+    "country": "USA",
+    "description": "サステナブル素材を使用したプレミアムアスレジャーブランド。ピックルボールプレイヤーに人気。",
+    "product_categories": [
+      "アパレル"
+    ],
+    "website_url": "https://vuori.com",
+    "logo_url": "https://vuori.com"
+  },
+  {
+    "id": "brand_lululemon",
+    "name": "Lululemon",
+    "country": "Canada",
+    "description": "世界的プレミアムアスレジャーブランド。ピックルボール市場にも進出し、Life Timeの公式アパレルパートナー。",
+    "product_categories": [
+      "アパレル"
+    ],
+    "website_url": "https://lululemon.com",
+    "logo_url": "https://lululemon.com"
+  },
+  {
+    "id": "brand_a11n",
+    "name": "A11N",
+    "country": "USA",
+    "description": "ピックルボール用ネット・コートマーカー・リバウンダーを製造するアクセサリーブランド。",
+    "product_categories": [
+      "アクセサリー",
+      "ネット"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_tourna",
+    "name": "Tourna",
+    "country": "USA",
+    "description": "テニス発祥のグリップテープブランド。Tourna GripはPBプレイヤーにも人気。",
+    "product_categories": [
+      "アクセサリー"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_mizuno",
+    "name": "Mizuno",
+    "country": "Japan",
+    "description": "日本発スポーツブランド。Wave Enforce Tour 2でピックルボールシューズ市場に参入。Wave テクノロジーで安定性と反発性を両立。",
+    "product_categories": [
+      "シューズ"
+    ],
+    "website_url": "https://mizuno.com",
+    "founding_year": 1906,
+    "logo_url": "https://mizuno.com"
+  },
+  {
+    "id": "brand_new_balance",
+    "name": "New Balance",
+    "country": "USA",
+    "description": "FuelCell 996v6でピックルボール市場に参入。FuelCell Foamミッドソールの推進力が特徴。",
+    "product_categories": [
+      "シューズ"
+    ],
+    "website_url": "https://newbalance.com",
+    "founding_year": 1906,
+    "logo_url": "https://newbalance.com"
+  },
+  {
+    "id": "brand_hesacore",
+    "name": "Hesacore",
+    "country": "Germany",
+    "description": "ハニカム構造の革新的グリップで知られるブランド。テニスで大人気となりPBにも波及。",
+    "product_categories": [
+      "アクセサリー"
+    ],
+    "website_url": null
+  },
+  {
+    "id": "brand_dink_eyewear",
+    "name": "Dink Eyewear",
+    "country": "USA",
+    "description": "ピックルボール専用アイウェアブランド。ColorBoost™テクノロジーでボール視認性を最適化。",
+    "product_categories": [
+      "アイウェア"
+    ],
+    "website_url": "https://dinkeyewear.com",
+    "logo_url": "https://dinkeyewear.com"
+  },
+  {
+    "id": "brand_junk",
+    "name": "Junk Brands",
+    "country": "USA",
+    "description": "ハイパフォーマンスヘッドバンドの専門ブランド。Technical T-Shirt素材のノンスリップ設計。",
+    "product_categories": [
+      "ヘッドウェア"
+    ],
+    "website_url": "https://junkbrands.com",
+    "logo_url": "https://junkbrands.com"
+  },
+  {
+    "id": "brand_lucky_in_love",
+    "name": "Lucky in Love",
+    "country": "USA",
+    "description": "テニス/PB用女性アパレルブランド。ファッション性の高いスコート/スカートで人気。",
+    "product_categories": [
+      "アパレル"
+    ],
+    "website_url": "https://shopluckyinlove.com",
+    "logo_url": "https://shopluckyinlove.com"
   }
 ]

@@ -20,5 +20,74 @@
     "valid_from": "2026-03-01T00:00:00Z",
     "valid_until": "2026-12-31T23:59:59Z",
     "target_url": "https://www.viptop.jp/toyocho/"
+  },
+  {
+    "id": "promo_pb_awards_sale",
+    "code": null,
+    "title": "Pickleball Awards Japan 2025 大感謝祭 パドル特別セール",
+    "description": "競技用パドル部門ノミネートモデルを特別価格で提供。通常セール対象外のモデルも含まれる期間限定企画。Pickleball Japan Shopにて展開。",
+    "discount_type": "special_price",
+    "discount_value": null,
+    "valid_from": "2025-12-01T00:00:00Z",
+    "valid_until": null,
+    "target_url": "https://pickleball-jpn.shop/"
+  },
+  {
+    "id": "promo_pb_one_blackfriday",
+    "code": null,
+    "title": "Pickleball One BLACK FRIDAY 2025",
+    "description": "日本最大PB専門メディア「Pickleball One」の公式ショップによるブラックフライデーセール。パドル・アクセサリー等が対象。毎年11月末に開催。",
+    "discount_type": "percentage",
+    "discount_value": null,
+    "valid_from": "2025-11-25T00:00:00Z",
+    "valid_until": "2025-12-01T23:59:59Z",
+    "target_url": "https://pickleball-jpn.shop/"
+  },
+  {
+    "id": "promo_vaticpro_chiba",
+    "code": "ChibaPB_03",
+    "title": "Vatic Pro PRISM パドル 3%OFFクーポン",
+    "description": "千葉ピックルボール提携クーポン。Vatic Pro PRISMパドル購入時にコード入力で3%オフ。初心者におすすめのコスパモデル。",
+    "discount_type": "percentage",
+    "discount_value": 3,
+    "valid_from": "2026-01-01T00:00:00Z",
+    "valid_until": null,
+    "target_url": "https://pickleball-chiba.com/"
+  },
+  {
+    "id": "promo_tokyotower_summer",
+    "code": null,
+    "title": "東京タワーピックルボール 夏季コートレンタル30%OFFキャンペーン",
+    "description": "東京タワーピックルボールの7月・8月限定コートレンタル30%OFFキャンペーン。平日1時間8,000円→5,600円、土日祝1時間12,000円→8,400円。東京タワー内の屋外ピックルボールコート。",
+    "discount_type": "percentage",
+    "discount_value": 30,
+    "valid_from": "2025-07-01T00:00:00Z",
+    "valid_until": "2025-08-31T23:59:59Z",
+    "target_url": "https://pickle-one.com/tokyotower-pickleball/",
+    "_source": "pickle-one.com記事より確認"
+  },
+  {
+    "id": "promo_awards_thanks_awa",
+    "code": "THANKS-AWA",
+    "title": "PICKLEBALL AWARDS JAPAN 2025 大感謝祭 10%OFFクーポン",
+    "description": "Pickleball Japan Shopでの決済時にクーポンコード「THANKS-AWA」を入力するとノミネートパドルが10%OFF。AWARDS JAPAN大感謝祭の一環として提供。",
+    "discount_type": "percentage",
+    "discount_value": 10,
+    "valid_from": "2025-12-01T00:00:00Z",
+    "valid_until": null,
+    "target_url": "https://pickleball-jpn.shop/",
+    "_source": "pickleball-jpn.shop公式サイトより確認"
+  },
+  {
+    "id": "promo_noah_pb_unlimited",
+    "code": null,
+    "title": "ノアテニススクール ピックルボール通い放題プラン",
+    "description": "ノアテニススクールのピックルボールプログラム。月額9,900円で通い放題。パドル・ボール・シューズの無料レンタル込み。初心者から経験者まで対応。",
+    "discount_type": "subscription",
+    "discount_value": 9900,
+    "valid_from": "2025-01-01T00:00:00Z",
+    "valid_until": null,
+    "target_url": "https://www.noahtennis.com/",
+    "_source": "ノアテニススクール公式情報より確認"
   }
 ]

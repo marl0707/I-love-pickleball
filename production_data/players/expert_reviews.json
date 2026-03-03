@@ -1,10 +1,12 @@
 [
   {
     "id": "review_joola_gen3_perseus",
-    "target_gear_id": "paddle_joola_perseus_16",
-    "reviewer_type": "Expert",
-    "rating": 4.5,
-    "title": "圧倒的なパワーとスピン。使いこなせるかどうかが鍵",
+    "item_type": "paddle",
+    "item_id": "paddle_joola_perseus_16",
+    "player_id": null,
+    "expert_name": "Expert",
+    "score": 9,
+    "comment": "4.5以上の攻撃的な上級者にとっては最強の武器（Weapon）になりますが、コントロールに自信のないプレイヤーは避けるべき、いわゆる「じゃじゃ馬」パドルです。",
     "pros": [
       "Propulsion Coreによる、他を圧倒する圧倒的なポップとパワー",
       "強烈なトップスピンを可能にする表面加工",
@@ -15,15 +17,16 @@
       "スイートスポットがやや狭く感じられることがある",
       "大会公認（USAPA承認）に関する一時的な問題が発生した経歴あり"
     ],
-    "verdict": "4.5以上の攻撃的な上級者にとっては最強の武器（Weapon）になりますが、コントロールに自信のないプレイヤーは避けるべき、いわゆる「じゃじゃ馬」パドルです。",
     "related_youtube_url": "https://www.youtube.com/results?search_query=JOOLA+Gen3+Perseus+Review"
   },
   {
     "id": "review_crbn_1x_power_series_14",
-    "target_gear_id": "paddle_crbn_1x_14",
-    "reviewer_type": "Expert",
-    "rating": 4.8,
-    "title": "パワー、スピン、耐久性の高次元バランス",
+    "item_type": "paddle",
+    "item_id": "paddle_crbn_1x_14",
+    "player_id": null,
+    "expert_name": "Expert",
+    "score": 9.6,
+    "comment": "JOOLAのHyperion CFS 16と比較しても、打感の良さと強烈なスピン性能に加えて、欠点だったネック部分の耐久性がユニボディ構造によって劇的に改善されています。アグレッシブに攻める中上級者に最高の選択肢です。",
     "pros": [
       "サーモフォームド（熱成型）とユニボディ構造による非常に高い耐久性",
       "『スピンキング』と称されるほどの強烈な回転量（1700 RPM超）",
@@ -33,223 +36,435 @@
       "14mmモデルは非常に弾きが強いため、ソフトなタッチショットが難しい",
       "価格設定が高め（ハイエンド帯）"
     ],
-    "verdict": "JOOLAのHyperion CFS 16と比較しても、打感の良さと強烈なスピン性能に加えて、欠点だったネック部分の耐久性がユニボディ構造によって劇的に改善されています。アグレッシブに攻める中上級者に最高の選択肢です。",
     "related_youtube_url": "https://www.youtube.com/results?search_query=CRBN+1X+Power+Series+Review"
   },
   {
     "id": "review_001",
     "item_type": "paddle",
-    "item_id": "paddle_joola_perseus",
+    "item_id": "paddle_joola_perseus_16",
+    "player_id": null,
     "expert_name": "Ben Johns (JP Pro Tester)",
     "score": 9.5,
-    "comment": "スイートスポットの広さと反発力は現行モデルで最強クラス。ただし14mmはかなり打感に硬さがあり、初心者が扱うにはパワーの制御が難しいため、中級者以上におすすめ。"
+    "comment": "スイートスポットの広さと反発力は現行モデルで最強クラス。ただし14mmはかなり打感に硬さがあり、初心者が扱うにはパワーの制御が難しいため、中級者以上におすすめ。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "review_002",
     "item_type": "shoe",
     "item_id": "shoe_skechers_viper_court",
+    "player_id": null,
     "expert_name": "Tyson McGuffin",
     "score": 9,
-    "comment": "ピックルボール特有の横の動きに抜群の安定感がある。特にアウトソール部分のグリップ力が高く、ダッシュ＆ストップ時の安心感はピカイチ。幅広足の人にもフィットしやすい。"
+    "comment": "ピックルボール特有の横の動きに抜群の安定感がある。特にアウトソール部分のグリップ力が高く、ダッシュ＆ストップ時の安心感はピカイチ。幅広足の人にもフィットしやすい。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_01",
     "item_type": "paddle",
     "item_id": "pdl_selkirk_vanguard_pro",
+    "player_id": null,
     "expert_name": "ベン・ジョンズ(プロ)",
     "score": 9.5,
-    "comment": "Raw Carbon Fiberの打感が最高。スイートスポットが広く、スピンも申し分ない。トッププロが求める全てがある。"
+    "comment": "Raw Carbon Fiberの打感が最高。スイートスポットが広く、スピンも申し分ない。トッププロが求める全てがある。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_02",
     "item_type": "paddle",
     "item_id": "pdl_joola_perseus_3",
+    "player_id": null,
     "expert_name": "コリン・ジョンズ(プロ)",
     "score": 9.2,
-    "comment": "プロパルジョンコアの反発力が次世代。コントロールとパワーの高次元な両立を実現。"
+    "comment": "プロパルジョンコアの反発力が次世代。コントロールとパワーの高次元な両立を実現。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_03",
     "item_type": "paddle",
     "item_id": "pdl_crbn_1x_16",
+    "player_id": null,
     "expert_name": "ゼイン・ナバラティル(プロ)",
     "score": 9,
-    "comment": "16mmの安定感は抜群。ディンクの精度が激変する。スピン量もトップクラス。"
+    "comment": "16mmの安定感は抜群。ディンクの精度が激変する。スピン量もトップクラス。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_04",
     "item_type": "paddle",
     "item_id": "pdl_sixzero_dbd_16",
+    "player_id": null,
     "expert_name": "公認コーチ 佐藤",
     "score": 8.8,
-    "comment": "エアロカーブ形状は独特だが、振り抜きと空気抵抗の低減効果は本物。初中級者の「次の一本」に最適。"
+    "comment": "エアロカーブ形状は独特だが、振り抜きと空気抵抗の低減効果は本物。初中級者の「次の一本」に最適。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_05",
     "item_type": "paddle",
     "item_id": "pdl_vatic_pro_prism_flash",
+    "player_id": null,
     "expert_name": "公認コーチ 佐藤",
     "score": 9,
-    "comment": "この価格帯でこの性能は破壊的。1万5000円クラスの革命児。最もコスパの高いパドルとして自信を持っておすすめできる。"
+    "comment": "この価格帯でこの性能は破壊的。1万5000円クラスの革命児。最もコスパの高いパドルとして自信を持っておすすめできる。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_06",
     "item_type": "paddle",
     "item_id": "pdl_gearbox_pro_power",
+    "player_id": null,
     "expert_name": "田中太郎(国内プロ)",
     "score": 8.5,
-    "comment": "全面カーボンSST構造は唯一無二。ハニカムなしのトランポリン感がなく、ダイレクトな打球感を求める人に。"
+    "comment": "全面カーボンSST構造は唯一無二。ハニカムなしのトランポリン感がなく、ダイレクトな打球感を求める人に。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_07",
     "item_type": "paddle",
     "item_id": "pdl_franklin_ben_johns",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 7.5,
-    "comment": "1万7000円でこの品質は入門者にとって最高の選択肢。ただし上級者には物足りない。"
+    "comment": "1万7000円でこの品質は入門者にとって最高の選択肢。ただし上級者には物足りない。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_08",
     "item_type": "paddle",
     "item_id": "pdl_engage_pursuit_pro_ex",
+    "player_id": null,
     "expert_name": "山田花子(国内プロ)",
     "score": 8.7,
-    "comment": "摩擦加工のフェースは本当にスピンがかかる。特にバックハンドロールの精度が向上するのを実感。"
+    "comment": "摩擦加工のフェースは本当にスピンがかかる。特にバックハンドロールの精度が向上するのを実感。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_09",
     "item_type": "paddle",
     "item_id": "pdl_prokennex_blackace",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 8.3,
-    "comment": "キネティックテクノロジーはテニス肘に悩む方への福音。振動が本当に少ない。打球感は好みが分かれる。"
+    "comment": "キネティックテクノロジーはテニス肘に悩む方への福音。振動が本当に少ない。打球感は好みが分かれる。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_10",
     "item_type": "paddle",
     "item_id": "pdl_amazin_aces",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 5,
-    "comment": "体験用・レンタル用としては十分。ただし競技への参入を少しでも考えるなら、すぐに買い替えるべき。"
+    "comment": "体験用・レンタル用としては十分。ただし競技への参入を少しでも考えるなら、すぐに買い替えるべき。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_11",
     "item_type": "shoe",
-    "item_id": "shoe_05",
+    "item_id": null,
+    "player_id": null,
     "expert_name": "公認コーチ 佐藤",
     "score": 9,
-    "comment": "数少ないピックルボール「専用」シューズ。ガムソールの体育館での安定感は圧倒的。"
+    "comment": "数少ないピックルボール「専用」シューズ。ガムソールの体育館での安定感は圧倒的。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_12",
     "item_type": "shoe",
     "item_id": "shoe_07",
+    "player_id": null,
     "expert_name": "田中太郎(国内プロ)",
     "score": 8.8,
-    "comment": "Gelクッションの衝撃吸収力はシニアプレイヤーの膝にも優しい。コスパも文句なし。"
+    "comment": "Gelクッションの衝撃吸収力はシニアプレイヤーの膝にも優しい。コスパも文句なし。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_13",
     "item_type": "shoe",
     "item_id": "shoe_14",
+    "player_id": null,
     "expert_name": "ベン・ジョンズ(プロ)",
     "score": 9.2,
-    "comment": "軽さとサポートの完璧な融合。Air Zoomのレスポンスは他の追随を許さない。"
+    "comment": "軽さとサポートの完璧な融合。Air Zoomのレスポンスは他の追随を許さない。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_14",
     "item_type": "shoe",
     "item_id": "shoe_01",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 8.5,
-    "comment": "K-Swissはピックルボール界のシューズNo.1。横方向のサポートが抜群。デザインもクリーン。"
+    "comment": "K-Swissはピックルボール界のシューズNo.1。横方向のサポートが抜群。デザインもクリーン。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_15",
     "item_type": "ball",
     "item_id": "ball_01",
+    "player_id": null,
     "expert_name": "公認コーチ 佐藤",
     "score": 9.5,
-    "comment": "アウトドアの公式球といえばこれ。飛距離と耐久性のバランスが最も良い。大会では必ずこのボール。"
+    "comment": "アウトドアの公式球といえばこれ。飛距離と耐久性のバランスが最も良い。大会では必ずこのボール。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_16",
     "item_type": "ball",
     "item_id": "ball_04",
+    "player_id": null,
     "expert_name": "ゼイン・ナバラティル(プロ)",
     "score": 9,
-    "comment": "Dura Fast 40は打球感が最も硬く、飛びが鋭い。プロツアーの標準球。ただし割れやすいのが唯一の欠点。"
+    "comment": "Dura Fast 40は打球感が最も硬く、飛びが鋭い。プロツアーの標準球。ただし割れやすいのが唯一の欠点。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_17",
     "item_type": "ball",
     "item_id": "ball_13",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 7,
-    "comment": "騒音対策として非常に優れている。マンション住人への配慮が必要な練習場では必須アイテム。"
+    "comment": "騒音対策として非常に優れている。マンション住人への配慮が必要な練習場では必須アイテム。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_18",
     "item_type": "apparel",
     "item_id": "ap_01",
+    "player_id": null,
     "expert_name": "山田花子(国内プロ)",
     "score": 9,
-    "comment": "Lululemonのプリーツスコートはデザイン・機能性ともにNo.1。ボールポケット付きで試合中も便利。"
+    "comment": "Lululemonのプリーツスコートはデザイン・機能性ともにNo.1。ボールポケット付きで試合中も便利。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_19",
     "item_type": "apparel",
     "item_id": "ap_20",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 8.5,
-    "comment": "ユニクロのドライEXは驚くべきコスパ。初心者にまず最初に勧めるウェア。汗びっしょりになっても快適。"
+    "comment": "ユニクロのドライEXは驚くべきコスパ。初心者にまず最初に勧めるウェア。汗びっしょりになっても快適。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_20",
     "item_type": "accessory",
     "item_id": "acc_01",
+    "player_id": null,
     "expert_name": "田中太郎(国内プロ)",
     "score": 9.2,
-    "comment": "ドライ系グリップのキング。汗を吸収して常にサラサラ。一度使うと他に戻れない。"
+    "comment": "ドライ系グリップのキング。汗を吸収して常にサラサラ。一度使うと他に戻れない。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_21",
     "item_type": "accessory",
     "item_id": "acc_11",
+    "player_id": null,
     "expert_name": "公認コーチ 佐藤",
     "score": 9.5,
-    "comment": "目のケガは取り返しがつかない。高いと感じるかもしれないが、Oakleyのプリズムレンズの視認性は別格。全プレイヤーに着用を推奨。"
+    "comment": "目のケガは取り返しがつかない。高いと感じるかもしれないが、Oakleyのプリズムレンズの視認性は別格。全プレイヤーに着用を推奨。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_22",
     "item_type": "accessory",
     "item_id": "acc_10",
+    "player_id": null,
     "expert_name": "ゼイン・ナバラティル(プロ)",
     "score": 7.5,
-    "comment": "鉛テープは魔法のアイテム。パドルの打球感とパワーを自分好みにカスタマイズできる。位置で効果が全然違う。"
+    "comment": "鉛テープは魔法のアイテム。パドルの打球感とパワーを自分好みにカスタマイズできる。位置で効果が全然違う。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_23",
     "item_type": "bag",
     "item_id": "bag_01",
+    "player_id": null,
     "expert_name": "アンナ・リー・ウォーターズ(プロ)",
     "score": 9,
-    "comment": "JOOLAのツアーバッグは収容力が圧倒的。パドル4本、シューズ、着替え、全部入る。遠征の味方。"
+    "comment": "JOOLAのツアーバッグは収容力が圧倒的。パドル4本、シューズ、着替え、全部入る。遠征の味方。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_24",
     "item_type": "bag",
     "item_id": "bag_10",
+    "player_id": null,
     "expert_name": "山田花子(国内プロ)",
     "score": 8,
-    "comment": "Nettieのコートトートは可愛い！保冷ポケットでドリンクも冷たいまま。女性プレイヤーに特におすすめ。"
+    "comment": "Nettieのコートトートは可愛い！保冷ポケットでドリンクも冷たいまま。女性プレイヤーに特におすすめ。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
   },
   {
     "id": "rev_25",
     "item_type": "paddle",
     "item_id": "pdl_owl_quiet",
+    "player_id": null,
     "expert_name": "公認コーチ 鈴木",
     "score": 7.8,
-    "comment": "静音パドルの需要は確実に高まっている。住宅地近くのコートでは救世主。打感は少しこもるが許容範囲。"
+    "comment": "静音パドルの需要は確実に高まっている。住宅地近くのコートでは救世主。打感は少しこもるが許容範囲。",
+    "pros": null,
+    "cons": null,
+    "related_youtube_url": null
+  },
+  {
+    "id": "rev_selkirk_slk_evo",
+    "paddle_id": "pdl_selkirk_slk_evo",
+    "reviewer": "pickleballeffect.com",
+    "rating": 4.2,
+    "date": "2024-06-15",
+    "pros": [
+      "手頃な価格で最新テクノロジー",
+      "SpinFlex™面でスピン性能良好",
+      "7.8ozと軽量で腕への負担少",
+      "初中級者に最適"
+    ],
+    "cons": [
+      "上級者には物足りないパワー",
+      "edge guard部分がやや分厚い"
+    ],
+    "summary": "Selkirk SLK Evoは手頃な価格で最新のサーモフォーミングとカーボンファイバー技術を搭載。Rev-Hybrid Polymerコアの広いスイートスポットが初中級者に最適。SpinFlex™面でスピンも良好。",
+    "item_type": "paddle",
+    "score": 4.2,
+    "comment": "Selkirk SLK Evoは手頃な価格で最新のサーモフォーミングとカーボンファイバー技術を搭載。Rev-Hybrid Polymerコアの広いスイートスポットが初中級者に最適。SpinFlex™面でスピンも良好。"
+  },
+  {
+    "id": "rev_joola_hyperion_cfs14",
+    "paddle_id": "pdl_joola_hyperion_cfs14",
+    "reviewer": "pickleballstudio.com",
+    "rating": 4.6,
+    "date": "2024-04-20",
+    "pros": [
+      "16mmより軽くスイングが速い",
+      "Carbon Flex3面でスピン良好(1500+ RPM)",
+      "Hyperfoam Edge Wallで甘いスイートスポット",
+      "キッチンでの攻撃性"
+    ],
+    "cons": [
+      "ハンドルの耐久性に不安あり(初期ロット)",
+      "16mmほどのコントロールはない"
+    ],
+    "summary": "JOOLA Hyperion CFS 14mmは16mm版のヘッド重さ問題を改善。速いスイングとポップ力を両立し、キッチンでのアグレッシブなプレイに最適。",
+    "item_type": "paddle",
+    "score": 4.6,
+    "comment": "JOOLA Hyperion CFS 14mmは16mm版のヘッド重さ問題を改善。速いスイングとポップ力を両立し、キッチンでのアグレッシブなプレイに最適。"
+  },
+  {
+    "id": "rev_crbn_1x_power",
+    "paddle_id": "pdl_crbn_1x_16",
+    "reviewer": "pickleheads.com",
+    "rating": 4.7,
+    "date": "2024-03-10",
+    "pros": [
+      "スピン性能10/10",
+      "パワーとコントロールのバランス秀逸",
+      "ユニボディ+フォーム注入エッジで堅牢",
+      "広いスイートスポット"
+    ],
+    "cons": [
+      "価格が高め",
+      "スイングウェイトがやや重い"
+    ],
+    "summary": "CRBN 1X Power Seriesは中級者向けパワー重視パドルの最高峰。T700 Raw Carbon面でスピン性能抜群。ユニボディ構造とフォーム注入エッジで耐久性と安定性を両立。",
+    "item_type": "paddle",
+    "score": 4.7,
+    "comment": "CRBN 1X Power Seriesは中級者向けパワー重視パドルの最高峰。T700 Raw Carbon面でスピン性能抜群。ユニボディ構造とフォーム注入エッジで耐久性と安定性を両立。"
+  },
+  {
+    "id": "rev_head_gravity_tour",
+    "paddle_id": "pdl_head_gravity_tour",
+    "reviewer": "racquetdepot.com",
+    "rating": 4.4,
+    "date": "2024-05-05",
+    "pros": [
+      "12K Raw Carbon面で高スピン",
+      "17mmコアの優れたコントロール",
+      "FoamedCoreで快適な打球感",
+      "安定感抜群"
+    ],
+    "cons": [
+      "8.4-8.5ozとやや重い",
+      "グリップサイズの選択肢が限定的"
+    ],
+    "summary": "HEAD Gravity Tourは17mm厚コアでコントロール重視設計。12K Raw Carbon面で高スピンを実現。FoamedCoreで振動を吸収し快適。安定性を重視する中上級者に最適。",
+    "item_type": "paddle",
+    "score": 4.4,
+    "comment": "HEAD Gravity Tourは17mm厚コアでコントロール重視設計。12K Raw Carbon面で高スピンを実現。FoamedCoreで振動を吸収し快適。安定性を重視する中上級者に最適。"
+  },
+  {
+    "id": "rev_sixzero_dbd_16",
+    "paddle_id": "pdl_sixzero_dbd_16",
+    "reviewer": "pickleballdepot.ca",
+    "rating": 4.5,
+    "date": "2024-07-01",
+    "pros": [
+      "Toray 700K Raw CF面でトップクラスのスピン",
+      "サーモフォームで耐久性◎",
+      "ハイブリッドシェイプで万能型",
+      "8.1ozのバランスの良い重量"
+    ],
+    "cons": [
+      "やや高価",
+      "初心者にはパワーが強すぎる場合あり"
+    ],
+    "summary": "Six Zero Double Black Diamond 16mmはToray 700K Raw Carbon面でスピンとコントロールを両立。サーモフォーミングで堅牢性も確保。万能型ハイブリッドシェイプで幅広いプレーヤーに対応。",
+    "item_type": "paddle",
+    "score": 4.5,
+    "comment": "Six Zero Double Black Diamond 16mmはToray 700K Raw Carbon面でスピンとコントロールを両立。サーモフォーミングで堅牢性も確保。万能型ハイブリッドシェイプで幅広いプレーヤーに対応。"
   }
 ]

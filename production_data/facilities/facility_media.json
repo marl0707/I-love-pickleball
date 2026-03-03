@@ -4,37 +4,351 @@
     "target_type": "facility",
     "target_id": "kpi_park_yokohama",
     "media_type": "youtube",
-    "url": "https://www.youtube.com/watch?v=Dummy_KPI_Park_Review"
+    "url": null,
+    "description": "KPI PARK横浜 施設紹介動画（KPI PARK公式YouTubeチャンネルにて公開。ピックルボール10面コートを含む複合スポーツ施設の全体像を紹介）"
   },
   {
     "id": "f_media_002",
     "target_type": "facility",
-    "target_id": "tokyo_tower_pickleball",
+    "target_id": "kpi_park_yokohama",
     "media_type": "instagram",
-    "url": "https://www.instagram.com/p/Dummy_Tokyo_Tower_Court/"
+    "url": null,
+    "description": "KPI PARK横浜 公式Instagram（イベント情報や施設の写真を定期的に投稿）"
   },
   {
-    "id": "media_fmedia_001",
+    "id": "f_media_003",
     "target_type": "facility",
     "target_id": "facility_viptop",
-    "media_type": "youtube",
-    "url": "https://www.youtube.com/watch?v=dummy_viptop_intro",
-    "description": "VIPインドア東陽町 施設紹介＆コートの広さ解説動画"
-  },
-  {
-    "id": "media_fmedia_002",
-    "target_type": "facility",
-    "target_id": "facility_tokyotower",
     "media_type": "instagram",
-    "url": "https://www.instagram.com/p/dummy_tokyotower",
-    "description": "東京タワーを見上げる絶景ナイトピックルボールの様子"
+    "url": null,
+    "description": "VIPインドアピックルボールクラブ東陽町 公式Instagram（体験会・練習会の様子や施設情報を投稿。公式サイト: viptop.jp）"
   },
   {
-    "id": "media_cmedia_001",
-    "target_type": "community",
-    "target_id": "community_001",
-    "media_type": "youtube",
-    "url": "https://www.youtube.com/watch?v=dummy_community_practice",
-    "description": "東京ウィークエンド・ピックルボーラーズ 週末の練習風景（ディンクドリル）"
+    "id": "f_media_004",
+    "target_type": "facility",
+    "target_id": "facility_viptop",
+    "media_type": "image",
+    "url": "https://www.viptop.jp/toyocho/",
+    "description": "VIPインドアピックルボールクラブ東陽町 公式サイト（施設写真・コート情報・料金・予約方法を掲載）"
+  },
+  {
+    "id": "f_media_005",
+    "target_type": "facility",
+    "target_id": "sendai_pb_org",
+    "media_type": "instagram",
+    "url": null,
+    "description": "仙台ピックルボール機構 Instagram（仙台市内各拠点での活動の様子やイベント告知を掲載）"
+  },
+  {
+    "id": "f_media_006",
+    "target_type": "facility",
+    "target_id": "morioka_royal_tennis",
+    "media_type": "image",
+    "url": "https://moriokaroyal-tennis.jp/",
+    "description": "モリオカロイヤルテニスクラブ 公式サイト（2025年6月開設のピックルボール専用エリアの詳細情報）"
+  },
+  {
+    "id": "f_media_007",
+    "target_type": "facility",
+    "target_id": "sunbow_daisen",
+    "media_type": "image",
+    "url": null,
+    "description": "indoor sports park SUNBOW 施設紹介（冷暖房完備の室内コートとレンタルパドル完備の施設情報）"
+  },
+  {
+    "id": "f_media_008",
+    "target_type": "facility",
+    "target_id": "nice_arena_yurihonjo",
+    "media_type": "image",
+    "url": null,
+    "description": "由利本荘総合防災公園ナイスアリーナ 施設情報（個人参加型ピックルボールプログラム実施中。パドル貸出あり。）"
+  },
+  {
+    "id": "media_kpipark_01",
+    "facility_id": null,
+    "_facility_name": "KPI PARK",
+    "media_type": "official_site",
+    "url": "https://kpi.asia/",
+    "description": "KPI PARK 横浜 公式サイト",
+    "_source": "kpi.asia"
+  },
+  {
+    "id": "media_kpipark_02",
+    "facility_id": null,
+    "_facility_name": "KPI PARK",
+    "media_type": "photo",
+    "url": "https://kpi.asia/pickleball/",
+    "description": "KPI PARK ピックルボールページ（施設写真あり）",
+    "_source": "kpi.asia"
+  },
+  {
+    "id": "media_dpckobe_01",
+    "facility_id": null,
+    "_facility_name": "DIADEM PICKLEBALL COMPLEX KOBE",
+    "media_type": "official_site",
+    "url": "https://dpckobe.jp/",
+    "description": "DPC KOBE 公式サイト（施設写真・料金）",
+    "_source": "dpckobe.jp"
+  },
+  {
+    "id": "media_dpckobe_02",
+    "facility_id": null,
+    "_facility_name": "DIADEM PICKLEBALL COMPLEX KOBE",
+    "media_type": "photo",
+    "url": "https://kisspress.jp/articles/58449/",
+    "description": "DPC KOBE 施設紹介記事（写真多数）",
+    "_source": "kisspress.jp"
+  },
+  {
+    "id": "media_pbone_ginza_01",
+    "facility_id": null,
+    "_facility_name": "PICKLEBALL ONE GINZA SHIMBASHI",
+    "media_type": "official_site",
+    "url": "https://pickle-one.com/ginza/",
+    "description": "PickleballOne銀座新橋 公式ページ",
+    "_source": "pickle-one.com"
+  },
+  {
+    "id": "media_vip_toyocho_01",
+    "facility_id": null,
+    "_facility_name": "VIPインドアテニススクール東陽町",
+    "media_type": "official_site",
+    "url": "https://www.viptop.jp/toyocho/",
+    "description": "VIPインドア東陽町 公式サイト",
+    "_source": "viptop.jp"
+  },
+  {
+    "id": "media_hilton_01",
+    "facility_id": null,
+    "_facility_name": "ヒルトン東京",
+    "media_type": "official_site",
+    "url": "https://hiltonjapan.co.jp/shinjuku/activity/pickleball/",
+    "description": "ヒルトン東京 ピックルボール公式ページ（施設写真あり）",
+    "_source": "hiltonjapan.co.jp"
+  },
+  {
+    "id": "media_tateshina_01",
+    "facility_id": null,
+    "_facility_name": "東急リゾートタウン蓼科",
+    "media_type": "photo",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000149780.html",
+    "description": "東急リゾートタウン蓼科 PBコートプレスリリース（写真あり）",
+    "_source": "prtimes.jp"
+  },
+  {
+    "id": "media_nagasaki_sc_01",
+    "facility_id": null,
+    "_facility_name": "長崎スタジアムシティ ピックルボールコート",
+    "media_type": "official_site",
+    "url": "https://nagasakistadiumcity.com/pickleball/",
+    "description": "長崎スタジアムシティ PB公式ページ（コート写真あり）",
+    "_source": "nagasakistadiumcity.com"
+  },
+  {
+    "id": "media_nagasaki_sc_02",
+    "facility_id": null,
+    "_facility_name": "長崎スタジアムシティ ピックルボールコート",
+    "media_type": "photo",
+    "url": "https://prtimes.jp/main/html/rd/p/000000107.000095498.html",
+    "description": "長崎SC PBコートオープン記事（写真あり）",
+    "_source": "prtimes.jp"
+  },
+  {
+    "id": "media_pbbase_osaka_01",
+    "facility_id": null,
+    "_facility_name": "Pickleball Base Osaka",
+    "media_type": "photo",
+    "url": "https://osaka.style/pickleball-base-osaka/",
+    "description": "PB Base Osaka 施設紹介（イメージ写真あり）",
+    "_source": "osaka.style"
+  },
+  {
+    "id": "media_posneo_01",
+    "facility_id": null,
+    "_facility_name": "PLACE OF SPORTS NEO",
+    "media_type": "official_site",
+    "url": "https://neo-spo.com/",
+    "description": "PLACE OF SPORTS NEO 公式サイト（施設写真あり）",
+    "_source": "neo-spo.com"
+  },
+  {
+    "id": "media_sunbow_01",
+    "facility_id": null,
+    "_facility_name": "indoor sports park SUNBOW",
+    "media_type": "official_site",
+    "url": "https://select-type.com/rsv/?id=TG0JfQLjJW4",
+    "description": "SUNBOW 予約ページ",
+    "_source": "select-type.com"
+  },
+  {
+    "id": "media_impact_tsukuba_01",
+    "facility_id": null,
+    "_facility_name": "IMPACT TSUKUBA PICKLEBALL CLUB",
+    "media_type": "official_site",
+    "url": "https://impact-tsukuba.square.site/",
+    "description": "IMPACT TSUKUBA 公式サイト（コート写真あり）",
+    "_source": "square.site"
+  },
+  {
+    "id": "media_wellpickle_01",
+    "facility_id": null,
+    "_facility_name": "WELL PICKLE CLUB",
+    "media_type": "official_site",
+    "url": "https://well-k.jp/",
+    "description": "WELL PICKLE CLUB 公式サイト",
+    "_source": "well-k.jp"
+  },
+  {
+    "id": "media_nagoya_pbbase_01",
+    "facility_id": null,
+    "_facility_name": "Nagoya Pickleball Base",
+    "media_type": "official_site",
+    "url": "https://pickleball-base.com/",
+    "description": "Nagoya PB Base 公式サイト（コート写真あり）",
+    "_source": "pickleball-base.com"
+  },
+  {
+    "id": "media_tipness_kamiiida_01",
+    "facility_id": null,
+    "_facility_name": "ティップネス上飯田",
+    "media_type": "official_site",
+    "url": "https://tipness.co.jp/shop/SHP072/pickleball/",
+    "description": "ティップネス上飯田 PBページ（施設写真あり）",
+    "_source": "tipness.co.jp"
+  },
+  {
+    "id": "media_maebashi_pb_01",
+    "facility_id": null,
+    "_facility_name": "前橋ピックルボールセンター",
+    "media_type": "photo",
+    "url": "https://pickleball-portal.jp/facility/maebashi-pickleball-center/",
+    "description": "前橋PBセンター 施設情報（写真あり）",
+    "_source": "pickleball-portal.jp"
+  },
+  {
+    "id": "media_konami_omiya_01",
+    "facility_id": null,
+    "_facility_name": "コナミスポーツ テニススクール大宮",
+    "media_type": "photo",
+    "url": "https://konami.com/sportsclub/tennis/omiya/pickleball/",
+    "description": "コナミ大宮 PB紹介ページ",
+    "_source": "konami.com"
+  },
+  {
+    "id": "media_rising_kitano_01",
+    "facility_id": null,
+    "_facility_name": "ライジングテニスクラブ北野",
+    "media_type": "official_site",
+    "url": "https://rising2005.com/",
+    "description": "ライジングTC北野 公式サイト（PB専用コート情報あり）",
+    "_source": "rising2005.com"
+  },
+  {
+    "id": "media_ardor_cnt_01",
+    "facility_id": null,
+    "_facility_name": "アルドールテニスステージ千葉NT校",
+    "media_type": "official_site",
+    "url": "https://ardor-ts.co.jp/cnt/",
+    "description": "アルドール千葉NT 公式サイト（PB体験会情報あり）",
+    "_source": "ardor-ts.co.jp"
+  },
+  {
+    "id": "media_tag_sumiyoshi_01",
+    "facility_id": null,
+    "_facility_name": "テニスアリーナガーデン住吉",
+    "media_type": "official_site",
+    "url": "https://tagtennis.com/",
+    "description": "テニスアリーナガーデン住吉 公式サイト（PBスクール情報）",
+    "_source": "tagtennis.com"
+  },
+  {
+    "id": "media_prex_01",
+    "facility_id": null,
+    "_facility_name": "ピックルボールコート P-REX",
+    "media_type": "photo",
+    "url": "https://play-pickleball.jp/pickleball-courts/tochigi/p-rex/",
+    "description": "P-REX 施設紹介（日本初専用屋外コート写真）",
+    "_source": "play-pickleball.jp"
+  },
+  {
+    "id": "media_pacific_01",
+    "facility_id": null,
+    "_facility_name": "Pacific Pickle Club",
+    "media_type": "official_site",
+    "url": "https://pacificpickleclub.com/",
+    "description": "Pacific Pickle Club 有明 公式サイト（コート写真あり）",
+    "_source": "pacificpickleclub.com"
+  },
+  {
+    "id": "media_esaka_01",
+    "facility_id": null,
+    "_facility_name": "江坂テニスセンター",
+    "media_type": "photo",
+    "url": "https://play-pickleball.jp/pickleball-courts/osaka/esaka-tennis-center/",
+    "description": "江坂TC PBコート紹介（施設写真あり）",
+    "_source": "play-pickleball.jp"
+  },
+  {
+    "id": "media_pivole_01",
+    "facility_id": null,
+    "_facility_name": "ピヴォーレ福岡",
+    "media_type": "official_site",
+    "url": "https://pivole.com/",
+    "description": "ピヴォーレ福岡 公式サイト（コート写真あり）",
+    "_source": "pivole.com"
+  },
+  {
+    "id": "media_picklebeat_01",
+    "facility_id": null,
+    "_facility_name": "ピックルビート",
+    "media_type": "photo",
+    "url": "https://play-pickleball.jp/pickleball-courts/ishikawa/picklebeat/",
+    "description": "ピックルビート小松 施設紹介写真",
+    "_source": "play-pickleball.jp"
+  },
+  {
+    "id": "media_sansan_ikebukuro_01",
+    "facility_id": null,
+    "_facility_name": "Sansanピックルボールコート池袋",
+    "media_type": "photo",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000152850.html",
+    "description": "Sansan池袋 発表プレスリリース（施設イメージあり）",
+    "_source": "prtimes.jp"
+  },
+  {
+    "id": "media_ttc_01",
+    "facility_id": null,
+    "_facility_name": "吉田記念テニス研修センター(TTC)",
+    "media_type": "official_site",
+    "url": "https://www.yoshida-ttc.or.jp/",
+    "description": "吉田記念TTC 公式サイト",
+    "_source": "yoshida-ttc.or.jp"
+  },
+  {
+    "id": "media_pbkumamoto_01",
+    "facility_id": null,
+    "_facility_name": "ピックルボールくまもと",
+    "media_type": "photo",
+    "url": "https://play-pickleball.jp/pickleball-courts/kumamoto/pickleball-kumamoto/",
+    "description": "ピックルボールくまもと 施設紹介（コート写真）",
+    "_source": "play-pickleball.jp"
+  },
+  {
+    "id": "media_picapickle_01",
+    "facility_id": null,
+    "_facility_name": "PICA PICKLE（PICA Fujiyama内）",
+    "media_type": "photo",
+    "url": "https://play-pickleball.jp/pickleball-courts/yamanashi/pica-pickle/",
+    "description": "PICA PICKLE 施設紹介写真",
+    "_source": "play-pickleball.jp"
+  },
+  {
+    "id": "media_racketpark_01",
+    "facility_id": null,
+    "_facility_name": "ラケットパーク金沢野々市",
+    "media_type": "photo",
+    "url": "https://play-pickleball.jp/pickleball-courts/ishikawa/racket-park/",
+    "description": "ラケットパーク金沢野々市 施設写真",
+    "_source": "play-pickleball.jp"
   }
 ]

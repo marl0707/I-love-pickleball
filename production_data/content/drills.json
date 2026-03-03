@@ -1,257 +1,242 @@
 [
   {
-    "id": "drill_third_shot_drop_101",
-    "title": "初心者向け：サードショット・ドロップの基本と成功率をあげるコツ",
-    "target_level": "初心者向け",
-    "skill_focus": "サードショットドロップ",
-    "youtube_url": "https://www.youtube.com/watch?v=F1ontvvINWQ",
-    "description": "ピックルボールで最も重要な「サードショット・ドロップ」を安定させるための初心者向け練習メニュー。カゴ出しからの打ち込みと、ノーバウンドでのキャッチ練習を解説しています。"
-  },
-  {
-    "id": "drill_dink_patience",
-    "title": "ディンクラリーで我慢する！忍耐力を鍛える壁打ち＆クロスドリル",
-    "target_level": "中級者向け",
-    "skill_focus": "ディンク",
-    "youtube_url": "https://www.youtube.com/watch?v=W14EVVU3Es7E",
-    "description": "キッチン（ノンボレーゾーン）での攻防で、甘い球を上げずにしぶとくクロスに返し続けるためのドリル。焦って強打してしまうミスを減らすことに特化しています。"
-  },
-  {
-    "id": "drill_fast_hands_battle",
-    "title": "前衛でのファイヤーファイト（高速ボレー戦）を制する特訓",
-    "target_level": "上級者向け",
-    "skill_focus": "ボレー戦",
-    "youtube_url": "https://www.youtube.com/watch?v=kEf3HmYWOyg",
-    "description": "プロレベルの試合で頻出する、至近距離でのボレーの打ち合い（ハンドバトル）に勝つための反射神経・ブロック練習。ラケットを胸の前に構えた状態からのコンパクトなスウィングを身につけます。"
-  },
-  {
-    "id": "drill_transition_zone",
-    "title": "トランジションゾーン（ノーマンズランド）の歩き方とリセット",
-    "target_level": "中級者向け",
-    "skill_focus": "トランジション",
-    "youtube_url": "https://www.youtube.com/watch?v=Y3Qz95GrQqiH",
-    "description": "ベースラインからキッチンへ前進する途中の「デッドゾーン」にボールを落とされた時の対処法。ブロックアウトしてリセット（緩い球で返球）し、安全に前衛につくためのステップワーク解説。"
-  },
-  {
-    "id": "drill_beginner_01",
-    "title": "初心者のためのディンク練習（Dink Drill）",
-    "target_level": "初心者向け",
-    "skill_focus": "ディンク（キッチンでのコントロール）",
-    "description": "ノンボレーゾーン（キッチン）での基本的な打ち合い。パドルの面を下から上へ向け、ボールを優しく持ち上げる感覚を養うドリル。手首を使わず、肩を支点にスイングすることが重要。",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+dink+drill+beginner"
-  },
-  {
-    "id": "drill_beginner_02",
-    "title": "正しいサーブとリターンの基本",
-    "target_level": "初心者向け",
-    "skill_focus": "サーブ＆リターン",
-    "description": "ツーバウンスルールを確実に守るため、深くコントロールされたサーブと、ベースライン深くへ返すリターンを反復練習する。",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+serve+and+return+drill"
-  },
-  {
-    "id": "drill_intermediate_01",
-    "title": "サードショットドロップ（Third Shot Drop）マスター",
-    "target_level": "中級者向け",
-    "skill_focus": "サードショットドロップ",
-    "description": "中級者への最大の壁であるサードショットドロップの練習。ベースラインから、相手のキッチン内にボールを落とし、前進する時間を作るコントロールを身につける。",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+third+shot+drop+drill"
-  },
-  {
-    "id": "drill_intermediate_02",
-    "title": "トランジションゾーン（ノーマンズランド）の攻略",
-    "target_level": "中級者向け",
-    "skill_focus": "トランジション、リセット",
-    "description": "ベースラインからキッチンへ向かう途中の「トランジションゾーン（ノーマンズランド）」でボールを足元に打たれた際、柔らかくブロックして相手のキッチンに落とす（リセットする）ドリル。",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+transition+zone+reset+drill"
-  },
-  {
     "id": "drill_01",
-    "name": "ストレートディンクラリー",
-    "level": "初心者",
-    "category": "ディンク",
-    "description": "キッチンライン上で対面のパートナーとストレートにディンクを打ち続ける基本ドリル。手首を固定し、リラックスしたグリップで30球連続を目指す。"
+    "title": "ストレートディンクラリー",
+    "target_level": "初心者",
+    "skill_focus": "ディンク",
+    "description": "キッチンライン上で対面のパートナーとストレートにディンクを打ち続ける基本ドリル。手首を固定し、リラックスしたグリップで30球連続を目指す。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+straight+dink+drill"
   },
   {
     "id": "drill_02",
-    "name": "クロスコートディンク",
-    "level": "初心者",
-    "category": "ディンク",
-    "description": "キッチンの対角線上にディンクを打ち合う。バックハンド側を意識的に練習することが重要。"
+    "title": "クロスコートディンク",
+    "target_level": "初心者",
+    "skill_focus": "ディンク",
+    "description": "キッチンの対角線上にディンクを打ち合う。バックハンド側を意識的に練習することが重要。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+crosscourt+dink+drill"
   },
   {
     "id": "drill_03",
-    "name": "ディンクからのアタック判断",
-    "level": "中級者",
-    "category": "ディンク",
-    "description": "相手のディンクが高く浮いたタイミングでスピードアップ（アタック）を選択する判断力を養うドリル。"
+    "title": "ディンクからのアタック判断",
+    "target_level": "中級者",
+    "skill_focus": "ディンク",
+    "description": "相手のディンクが高く浮いたタイミングでスピードアップ（アタック）を選択する判断力を養うドリル。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+dink+attack+decision+drill"
   },
   {
     "id": "drill_04",
-    "name": "サーブ＆リターン基礎",
-    "level": "初心者",
-    "category": "サーブ&リターン",
-    "description": "コーンをサービスコートの四隅に置き、サーブの精度を高める。ディープサーブとショートサーブの打ち分けを練習する。"
+    "title": "サーブ＆リターン基礎",
+    "target_level": "初心者",
+    "skill_focus": "サーブ＆リターン",
+    "description": "コーンをサービスコートの四隅に置き、サーブの精度を高める。ディープサーブとショートサーブの打ち分けを練習する。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+serve+accuracy+drill"
   },
   {
     "id": "drill_05",
-    "name": "ディープリターン練習",
-    "level": "初心者",
-    "category": "サーブ&リターン",
-    "description": "リターンを必ずサービスコート深くに返すことを目標とするドリル。相手がキッチンに来る時間を与えないためのディープリターンは最重要技術。"
+    "title": "ディープリターン練習",
+    "target_level": "初心者",
+    "skill_focus": "サーブ＆リターン",
+    "description": "リターンを必ずサービスコート深くに返すことを目標とするドリル。相手がキッチンに来る時間を与えないためのディープリターンは最重要技術。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+deep+return+drill"
   },
   {
     "id": "drill_06",
-    "name": "サードショットドロップ ターゲット",
-    "level": "中級者",
-    "category": "戦術ショット",
-    "description": "バックライン付近からキッチン内に山なりのボールを落とす練習。コーンをキッチン内に3個置き、その付近にバウンドさせることを目指す。"
+    "title": "サードショットドロップ ターゲット",
+    "target_level": "中級者",
+    "skill_focus": "サードショットドロップ",
+    "description": "バックライン付近からキッチン内に山なりのボールを落とす練習。コーンをキッチン内に3個置き、その付近にバウンドさせることを目指す。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+third+shot+drop+target+drill"
   },
   {
     "id": "drill_07",
-    "name": "サードショットドライブ",
-    "level": "中級者",
-    "category": "戦術ショット",
-    "description": "サードショットとしてフラットなドライブで攻撃する練習。ドロップと見せかけてのドライブの切り替えを身につける。"
+    "title": "サードショットドライブ",
+    "target_level": "中級者",
+    "skill_focus": "サードショットドロップ",
+    "description": "サードショットとしてフラットなドライブで攻撃する練習。ドロップと見せかけてのドライブの切り替えを身につける。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+third+shot+drive+drill"
   },
   {
     "id": "drill_08",
-    "name": "チェーングリル（打ち合いボレー）",
-    "level": "中級者",
-    "category": "ボレー",
-    "description": "キッチンライン上でスピードボレーを打ち合うスピードドリル。反射神経とパドルコントロールを鍛える。"
+    "title": "チェーングリル（打ち合いボレー）",
+    "target_level": "中級者",
+    "skill_focus": "ボレー戦",
+    "description": "キッチンライン上でスピードボレーを打ち合うスピードドリル。反射神経とパドルコントロールを鍛える。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+speed+volley+drill"
   },
   {
     "id": "drill_09",
-    "name": "ブロックリセットドリル",
-    "level": "中級者",
-    "category": "ボレー",
-    "description": "相手の強打に対して、パドルの面をオープンにして柔らかくキッチン内にリセットする技術を練習する。"
+    "title": "ブロックリセットドリル",
+    "target_level": "中級者",
+    "skill_focus": "ボレー戦",
+    "description": "相手の強打に対して、パドルの面をオープンにして柔らかくキッチン内にリセットする技術を練習する。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+block+reset+drill"
   },
   {
     "id": "drill_10",
-    "name": "ロブ&スマッシュ",
-    "level": "初心者",
-    "category": "ロブ",
-    "description": "一方がロブを上げ、もう一方がオーバーヘッドスマッシュで返球する交互練習。ロブの高さとスマッシュのタイミング両方を同時に学べる。"
+    "title": "ロブ＆スマッシュ",
+    "target_level": "初心者",
+    "skill_focus": "ロブ",
+    "description": "一方がロブを上げ、もう一方がオーバーヘッドスマッシュで返球する交互練習。ロブの高さとスマッシュのタイミング両方を同時に学べる。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+lob+smash+drill"
   },
   {
     "id": "drill_11",
-    "name": "ディフェンシブロブ",
-    "level": "上級者",
-    "category": "ロブ",
-    "description": "苦しい体勢からあえてハイロブを打ち、体勢を立て直す時間を稼ぐための高度なディフェンステクニック。"
+    "title": "ディフェンシブロブ",
+    "target_level": "上級者",
+    "skill_focus": "ロブ",
+    "description": "苦しい体勢からあえてハイロブを打ち、体勢を立て直す時間を稼ぐための高度なディフェンステクニック。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+defensive+lob+drill"
   },
   {
     "id": "drill_12",
-    "name": "アーネ（Erne）シミュレーション",
-    "level": "上級者",
-    "category": "上級テクニック",
-    "description": "キッチン横のサイドラインの外側に回り込み、NVZ違反なしにネット際のボールをボレーで叩く超上級テクニック。2人一組でタイミングのパターン練習をする。"
+    "title": "アーネ（Erne）シミュレーション",
+    "target_level": "上級者",
+    "skill_focus": "上級テクニック",
+    "description": "キッチン横のサイドラインの外側に回り込み、NVZ違反なしにネット際のボールをボレーで叩く超上級テクニック。2人一組でタイミングのパターン練習をする。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+erne+drill+practice"
   },
   {
     "id": "drill_13",
-    "name": "ATP（アラウンド・ザ・ポスト）練習",
-    "level": "上級者",
-    "category": "上級テクニック",
-    "description": "ネットポストの外側を通してボールを返球する上級ショット。相手のワイドなディンクに対してこのショットが有効な場面を作り出すシチュエーションドリル。"
+    "title": "ATP（アラウンド・ザ・ポスト）練習",
+    "target_level": "上級者",
+    "skill_focus": "上級テクニック",
+    "description": "ネットポストの外側を通してボールを返球する上級ショット。相手のワイドなディンクに対してこのショットが有効な場面を作り出すシチュエーションドリル。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+around+the+post+ATP+drill"
   },
   {
     "id": "drill_14",
-    "name": "スタッキング陣形練習（ダブルス）",
-    "level": "中級者",
-    "category": "ダブルス戦術",
-    "description": "パートナーと横並びでスタートし、サーブ後にフォアハンドが強い側にポジション交換するスタッキングフォーメーションのドリル。"
+    "title": "スタッキング陣形練習（ダブルス）",
+    "target_level": "中級者",
+    "skill_focus": "スタッキング",
+    "description": "パートナーと横並びでスタートし、サーブ後にフォアハンドが強い側にポジション交換するスタッキングフォーメーションのドリル。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+stacking+formation+drill"
   },
   {
     "id": "drill_15",
-    "name": "シェイキングハンズ（鍔迫り合い）",
-    "level": "中級者",
-    "category": "ボレー",
-    "description": "ネット越しに2人で至近距離のボレー合戦をする超実戦的ドリル。パドルの出し方とターゲティングを鍛える。"
+    "title": "シェイキングハンズ（鍔迫り合い）",
+    "target_level": "中級者",
+    "skill_focus": "ボレー戦",
+    "description": "ネット越しに2人で至近距離のボレー合戦をする超実戦的ドリル。パドルの出し方とターゲティングを鍛える。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+hands+battle+drill"
   },
   {
     "id": "drill_16",
-    "name": "バックハンドロールディンク",
-    "level": "上級者",
-    "category": "ディンク",
-    "description": "バックハンド面に強いトップスピンをかけ、ネットすれすれを越えて相手の足元に沈めるディンク練習。手首のスナップが最重要。"
+    "title": "バックハンドロールディンク",
+    "target_level": "上級者",
+    "skill_focus": "ディンク",
+    "description": "バックハンド面に強いトップスピンをかけ、ネットすれすれを越えて相手の足元に沈めるディンク練習。手首のスナップが最重要。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+backhand+roll+dink+drill"
   },
   {
     "id": "drill_17",
-    "name": "2対1ラリー（ハンデ練習）",
-    "level": "中級者",
-    "category": "総合練習",
-    "description": "コートの片側に2人、もう片側に1人を配置し、1人側がフルコートをカバーする高強度ラリー。スタミナとショット選択力を養う。"
+    "title": "2対1ラリー（ハンデ練習）",
+    "target_level": "中級者",
+    "skill_focus": "総合練習",
+    "description": "コートの片側に2人、もう片側に1人を配置し、1人側がフルコートをカバーする高強度ラリー。スタミナとショット選択力を養う。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+2+vs+1+rally+drill"
   },
   {
     "id": "drill_18",
-    "name": "スキニーシングルス",
-    "level": "初心者",
-    "category": "総合練習",
-    "description": "コートの半面のみを使ったシングルス。狭いスペースで正確性を追求する最適な練習方法。"
+    "title": "スキニーシングルス",
+    "target_level": "初心者",
+    "skill_focus": "総合練習",
+    "description": "コートの半面のみを使ったシングルス。狭いスペースで正確性を追求する最適な練習方法。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+skinny+singles+drill"
   },
   {
     "id": "drill_19",
-    "name": "トランジション(移行)ゾーンドリル",
-    "level": "中級者",
-    "category": "フットワーク",
-    "description": "バックラインからキッチンラインまでのスムーズな前進を反復するドリル。スプリットステップのタイミングを体に染み込ませる。"
+    "title": "トランジション(移行)ゾーンドリル",
+    "target_level": "中級者",
+    "skill_focus": "トランジション",
+    "description": "バックラインからキッチンラインまでのスムーズな前進を反復するドリル。スプリットステップのタイミングを体に染み込ませる。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+transition+zone+footwork+drill"
   },
   {
     "id": "drill_20",
-    "name": "シャドーフットワーク",
-    "level": "初心者",
-    "category": "フットワーク",
-    "description": "ボールなしでコート上を動き、正しいフットワークパターンを体に覚えさせるシャドー練習。横への素早いサイドステップが重要。"
+    "title": "シャドーフットワーク",
+    "target_level": "初心者",
+    "skill_focus": "フットワーク",
+    "description": "ボールなしでコート上を動き、正しいフットワークパターンを体に覚えさせるシャドー練習。横への素早いサイドステップが重要。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+shadow+footwork+drill"
   },
   {
     "id": "drill_21",
-    "name": "プレッシャーサーブ",
-    "level": "上級者",
-    "category": "サーブ&リターン",
-    "description": "連続でサービスエースを狙う高強度ドリル。ライン際・ボディ・フォア/バック側の3コースを使い分ける。"
+    "title": "プレッシャーサーブ",
+    "target_level": "上級者",
+    "skill_focus": "サーブ＆リターン",
+    "description": "連続でサービスエースを狙う高強度ドリル。ライン際・ボディ・フォア/バック側の3コースを使い分ける。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+pressure+serve+drill"
   },
   {
     "id": "drill_22",
-    "name": "パートナーチェンジラリー",
-    "level": "中級者",
-    "category": "総合練習",
-    "description": "4人以上で回しながらパートナーを定期的に入れ替えるラリー。対応力と多様なプレイスタイルへの適応力を養う。"
+    "title": "パートナーチェンジラリー",
+    "target_level": "中級者",
+    "skill_focus": "総合練習",
+    "description": "4人以上で回しながらパートナーを定期的に入れ替えるラリー。対応力と多様なプレイスタイルへの適応力を養う。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+partner+change+rally+drill"
   },
   {
     "id": "drill_23",
-    "name": "ボレーボレーカウント",
-    "level": "初心者",
-    "category": "ボレー",
-    "description": "ペアでボレーの連続打を行い、ミスなく何球続くか数えるシンプルかつ効果的なドリル。最高記録を更新していくモチベーション型。"
+    "title": "ボレーボレーカウント",
+    "target_level": "初心者",
+    "skill_focus": "ボレー戦",
+    "description": "ペアでボレーの連続打を行い、ミスなく何球続くか数えるシンプルかつ効果的なドリル。最高記録を更新していくモチベーション型。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+volley+count+drill"
   },
   {
     "id": "drill_24",
-    "name": "ディンク・トゥ・ドライブ切り替え",
-    "level": "上級者",
-    "category": "総合練習",
-    "description": "ラリーをわざとスローペースのディンク戦で始め、合図とともに一気にトップスピンの効いたドライブ合戦に切り替える。実戦のペースチェンジを体で覚える。"
+    "title": "ディンク・トゥ・ドライブ切り替え",
+    "target_level": "上級者",
+    "skill_focus": "総合練習",
+    "description": "ラリーをわざとスローペースのディンク戦で始め、合図とともに一気にトップスピンの効いたドライブ合戦に切り替える。実戦のペースチェンジを体で覚える。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+dink+to+drive+pace+change+drill"
   },
   {
     "id": "drill_25",
-    "name": "壁打ちディンク",
-    "level": "初心者",
-    "category": "ディンク",
-    "description": "壁や練習用リバウンドボードに向かって一人でディンクの感覚を磨く自主練ドリル。タッチの繊細さを鍛える最も手軽な方法。"
+    "title": "壁打ちディンク",
+    "target_level": "初心者",
+    "skill_focus": "ディンク",
+    "description": "壁や練習用リバウンドボードに向かって一人でディンクの感覚を磨く自主練ドリル。タッチの繊細さを鍛える最も手軽な方法。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+wall+dink+drill+solo"
   },
   {
-    "id": "drill_advanced_01",
-    "title": "前衛でのファイヤーファイト（打ち合い）を制す！ブロックボレーの基本姿勢とラケットワーク",
-    "target_level": "上級者向け",
-    "skill_focus": "ボレー戦, ファイヤーファイト",
-    "description": "キッチンライン同士での激しいボレー戦（ファイヤーファイト）において、コンパクトなテイクバックで相手のドライブをブロックし、カウンターを狙うドリル。ハンドスピードと動体視力を鍛える。",
-    "youtube_url": "https://www.youtube.com/results?search_query=pickleball+firefight+drill+advanced"
+    "id": "drill_26",
+    "title": "壁打ちボレー速射（ラピッドエクスチェンジ）",
+    "target_level": "中級者",
+    "skill_focus": "ボレー・反応速度",
+    "description": "壁から2〜3m離れて立ち、ノーバウンドのボレーを連続で打ち続けるソロドリル。ボールを地面に落とさず、コンパクトなスウィングと素早いリカバリーで20球→50球→100球と目標を上げていく。フォアハンド・バックハンドの切り替えも練習。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+wall+volley+rapid+exchange+drill"
   },
   {
-    "id": "drill_advanced_02",
-    "title": "「スタッキング（陣形）」って何？ダブルスの専門的ポジショニング",
-    "target_level": "上級者向け",
-    "skill_focus": "スタッキング, 戦術",
-    "description": "ペアの利き腕や得意なサイド（フォアサイド/バックサイド）を固定して戦うための「スタッキング」という高度な陣形の仕組みと、サーバー／レシーバーごとの移動パターンの実践。",
-    "youtube_url": "https://www.youtube.com/results?search_query=pickleball+stacking+strategy"
+    "id": "drill_27",
+    "title": "壁打ちサードショットドロップ",
+    "target_level": "中級者",
+    "skill_focus": "サードショットドロップ",
+    "description": "壁に向かってドライブサーブ→バウンド後にソフトなドロップショットを壁の低い位置に当てる、を繰り返すソロドリル。low-to-highのパドルモーションとソフトハンドの感覚を鍛える。10球中8球がネットライン（壁の34インチ目印）以下に当たれば合格。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+wall+third+shot+drop+drill+solo"
+  },
+  {
+    "id": "drill_28",
+    "title": "壁打ちスピンマスター",
+    "target_level": "上級者",
+    "skill_focus": "スピン",
+    "description": "壁に向かって意図的にスピンをかける練習。(1)トップスピン: ボールの背面を下から上に擦り上げる (2)バックスピン: 高→低のスウィングでフロート回転 (3)サイドスピン: カーブサーブの回転練習。各20球ずつ、回転の方向を観察しながら繰り返す。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+wall+spin+practice+topspin+backspin+drill"
+  },
+  {
+    "id": "drill_29",
+    "title": "壁打ちトランジションリセット",
+    "target_level": "上級者",
+    "skill_focus": "トランジション・リセット",
+    "description": "壁から3m離れてドライブ→すぐにソフトなリセットドロップ→前進してディンク、のパターンを繰り返す。試合でのトランジションゾーン（ノーマンズランド）からの脱出スキルを鍛える。ドライブ後の体勢レディポジションへの素早い戻りが肝。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+wall+transition+reset+drill"
+  },
+  {
+    "id": "drill_30",
+    "title": "シャドースウィング＆フットワーク",
+    "target_level": "初心者",
+    "skill_focus": "フットワーク・フォーム",
+    "description": "ボールなしでストロークとフットワークを練習するソロドリル。鏡の前でスウィングフォーム確認(FH/BH/ボレー/サーブ各20回)→サイドシャッフル10往復→スプリットステップ+反応ステップ→アジリティラダー(有れば)。プレイ前のウォームアップとしても効果的。",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+shadow+swing+footwork+drill+at+home"
   }
 ]

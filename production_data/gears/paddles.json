@@ -5,8 +5,8 @@
     "product_name": "Ben Johns Perseus CFS 16mm",
     "price": 38500,
     "paddle_shape": "Elongated(長方形)",
-    "face_material": "Raw Carbon Fiber (CFS)",
-    "core_material": "Polymer Honeycomb",
+    "face_material": "Raw Carbon Fiber (CFS - Charged Carbon Surface, T700)",
+    "core_material": "Reactive Honeycomb Polymer Core",
     "core_thickness": 16,
     "target_demographic": "上級者",
     "design_taste": "スポーティー",
@@ -15,7 +15,16 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Ben+Johns+Perseus+16mm",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Ben+Johns+Perseus/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Ben+Johns+Perseus"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Ben+Johns+Perseus",
+    "weight_oz": "8.0-8.2",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "price_usd": 199.95,
+    "_pbcor_status": "2025年7月1日より公式大会使用禁止（PBCoR基準超過）。JOOLA Perseus Mod TA-15 14mm/16mmが対象。JOOLAは後継モデルへの50%OFF交換プログラムを提供。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Perseus%20CFS%2016mm%20pickleball%20paddle"
   },
   {
     "id": "paddle_franklin_signature_14",
@@ -24,7 +33,7 @@
     "price": 18000,
     "paddle_shape": "Standard(標準)",
     "face_material": "Fiberglass",
-    "core_material": "Polymer Honeycomb",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 14,
     "target_demographic": "中級者",
     "design_taste": "シンプル",
@@ -35,7 +44,12 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+Signature+Pro",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+Signature+Pro/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Signature+Pro"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Signature+Pro",
+    "usapa_approved": true,
+    "weight_oz": "7.5-7.9",
+    "length_in": 15.75,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Signature%20Pro%2014mm%20pickleball%20paddle"
   },
   {
     "id": "paddle_selkirk_vanguard_16",
@@ -43,10 +57,10 @@
     "product_name": "VANGUARD Invikta 16mm",
     "price": 33000,
     "paddle_shape": "Elongated(長方形)",
-    "face_material": "QuadCarbon Face",
-    "core_material": "X5 Core",
+    "face_material": "QuadFlex 4-Layer Hybrid Face (Carbon Fiber + FiberFlex)",
+    "core_material": "SuperCore Polymer Honeycomb",
     "core_thickness": 16,
-    "target_demographic": "初〜中級者",
+    "target_demographic": "中〜上級者",
     "design_taste": "ラグジュアリー",
     "color_variations": [
       "レッド",
@@ -54,7 +68,14 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk+VANGUARD+Invikta",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk+VANGUARD+Invikta/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk+VANGUARD+Invikta"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk+VANGUARD+Invikta",
+    "weight_oz": "7.7-8.2",
+    "length_in": 16.5,
+    "width_in": 7.375,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Invikta%2016mm%20pickleball%20paddle"
   },
   {
     "id": "paddle_crbn_1x_14",
@@ -63,7 +84,7 @@
     "price": 35000,
     "paddle_shape": "Elongated(長方形)",
     "face_material": "Raw Carbon Fiber (T700)",
-    "core_material": "Polymer Honeycomb",
+    "core_material": "Polymer Honeycomb (Thermoformed Unibody)",
     "core_thickness": 14,
     "target_demographic": "上級者",
     "design_taste": "シンプル",
@@ -72,16 +93,23 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=CRBN+1X+Power",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN+1X+Power/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN+1X+Power"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN+1X+Power",
+    "weight_oz": "7.8-8.1",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%201X%20Power%20Series%2014mm%20pickleball%20paddle"
   },
   {
     "id": "paddle_sixzero_dbd_16",
     "brand_name": "Six Zero",
     "product_name": "Double Black Diamond Control 16mm",
     "price": 29000,
-    "paddle_shape": "Hybrid",
-    "face_material": "Raw Carbon Fiber",
-    "core_material": "Polymer Honeycomb",
+    "paddle_shape": "Hybrid(AeroCurve)",
+    "face_material": "Raw Carbon Fiber (Japanese Toray 700K)",
+    "core_material": "Premium Honeycomb Polymer Core",
     "core_thickness": 16,
     "target_demographic": "中〜上級者",
     "design_taste": "スポーティー",
@@ -91,7 +119,14 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Six+Zero+Double+Black+Diamond",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Six+Zero+Double+Black+Diamond/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Six+Zero+Double+Black+Diamond"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Six+Zero+Double+Black+Diamond",
+    "weight_oz": "8.0-8.2",
+    "length_in": 16.3,
+    "width_in": 7.7,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Six%20Zero%20Double%20Black%20Diamond%20Control%2016mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_vanguard_pro",
@@ -99,13 +134,23 @@
     "product_name": "VANGUARD Pro Epic",
     "price": 35000,
     "paddle_shape": "標準(エピック)",
-    "face_material": "生カーボンファイバー",
-    "core_material": "ポリマーハニカム",
-    "core_thickness": 16,
+    "face_material": "QuadFlex 4-Layer Hybrid Face",
+    "core_material": "SuperCore Polymer Honeycomb",
+    "core_thickness": 13,
     "target_demographic": "中・上級者",
     "design_taste": "プロフェッショナル",
-    "color_variations": "ブラック, レッド",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック",
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20VANGUARD%20Pro%20Epic",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20VANGUARD%20Pro%20Epic/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20VANGUARD%20Pro%20Epic",
+    "weight_oz": "7.7-8.2",
+    "length_in": 16.5,
+    "width_in": 7.375,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Pro%20Epic%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_halo_max",
@@ -113,13 +158,25 @@
     "product_name": "SLK Halo Max",
     "price": 22000,
     "paddle_shape": "標準",
-    "face_material": "T700カーボン",
-    "core_material": "Rev-Core+",
+    "face_material": "T700 Raw Carbon Fiber (Raw Spin Technology)",
+    "core_material": "Rev-Control Polymer Honeycomb",
     "core_thickness": 16,
     "target_demographic": "初・中級者",
     "design_taste": "スポーツ",
-    "color_variations": "ブルー, パープル",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー",
+      "パープル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20SLK%20Halo%20Max",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20SLK%20Halo%20Max/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20SLK%20Halo%20Max",
+    "weight_oz": "7.9-8.0",
+    "length_in": 16.25,
+    "width_in": 7.87,
+    "grip_length_in": 4.87,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20SLK%20Halo%20Max%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_halo_xl",
@@ -127,13 +184,25 @@
     "product_name": "SLK Halo XL",
     "price": 22000,
     "paddle_shape": "長方形(XL)",
-    "face_material": "T700カーボン",
-    "core_material": "Rev-Core+",
+    "face_material": "T700 Raw Carbon Fiber",
+    "core_material": "Rev-Power Polymer Honeycomb",
     "core_thickness": 13,
     "target_demographic": "攻撃重視の初中級者",
     "design_taste": "スポーツ",
-    "color_variations": "グリーン, ピンク",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "グリーン",
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20SLK%20Halo%20XL",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20SLK%20Halo%20XL/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20SLK%20Halo%20XL",
+    "weight_oz": "7.8",
+    "length_in": 16.25,
+    "width_in": 7.87,
+    "grip_length_in": 4.87,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20SLK%20Halo%20XL%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_labs_003",
@@ -141,13 +210,22 @@
     "product_name": "Labs Project 003",
     "price": 48000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "実験的オープンコア",
-    "core_thickness": 20,
+    "face_material": "Carbon Fiber (ProSpin+ NextGen)",
+    "core_material": "SuperCore Polymer Honeycomb",
+    "core_thickness": 16,
     "target_demographic": "最上級者",
     "design_taste": "ハイテク",
-    "color_variations": "シルバー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "シルバー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Labs%20Project%20003",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Labs%20Project%20003/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Labs%20Project%20003",
+    "weight_oz": "7.8-8.2",
+    "length_in": 16.4,
+    "width_in": 7.4,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Labs%20Project%20003%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_vanguard_control",
@@ -155,13 +233,22 @@
     "product_name": "Vanguard Control",
     "price": 28000,
     "paddle_shape": "標準",
-    "face_material": "T700ロー（生）カーボン",
-    "core_material": "X5ハニカム",
+    "face_material": "QuadFlex 4-Layer Hybrid Face",
+    "core_material": "SuperCore Polymer Honeycomb",
     "core_thickness": 16,
     "target_demographic": "全レベル",
     "design_taste": "モダン",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Vanguard%20Control",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Vanguard%20Control/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Vanguard%20Control",
+    "weight_oz": "7.7-8.2",
+    "length_in": 15.75,
+    "width_in": 8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Vanguard%20Control%20pickleball%20paddle"
   },
   {
     "id": "pdl_joola_perseus_3",
@@ -169,13 +256,24 @@
     "product_name": "Ben Johns Perseus 3",
     "price": 38000,
     "paddle_shape": "長方形",
-    "face_material": "充電式カーボン",
-    "core_material": "プロパルジョンコア",
+    "face_material": "Charged Carbon Surface",
+    "core_material": "Propulsion Core Polymer",
     "core_thickness": 16,
     "target_demographic": "上級者",
     "design_taste": "シック",
-    "color_variations": "ブラック/ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Ben%20Johns%20Perseus%203",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Ben%20Johns%20Perseus%203/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Ben%20Johns%20Perseus%203",
+    "weight_oz": "8.0",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Perseus%203%20pickleball%20paddle"
   },
   {
     "id": "pdl_joola_scorpeus_3",
@@ -183,13 +281,24 @@
     "product_name": "Anna Bright Scorpeus 3",
     "price": 38000,
     "paddle_shape": "ワイド幅",
-    "face_material": "カーボンフェース",
-    "core_material": "プロパルジョンコア",
+    "face_material": "Charged Carbon Surface",
+    "core_material": "Propulsion Core Polymer",
     "core_thickness": 14,
     "target_demographic": "ダブルス前衛",
     "design_taste": "鮮やかなピンク",
-    "color_variations": "ピンク",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Anna%20Bright%20Scorpeus%203",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Anna%20Bright%20Scorpeus%203/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Anna%20Bright%20Scorpeus%203",
+    "weight_oz": "7.8",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Anna%20Bright%20Scorpeus%203%20pickleball%20paddle"
   },
   {
     "id": "pdl_joola_radius",
@@ -197,13 +306,22 @@
     "product_name": "Radius Pro",
     "price": 25000,
     "paddle_shape": "卓球ラケット型",
-    "face_material": "カーボン",
-    "core_material": "レスポンスハニカム",
-    "core_thickness": 14,
+    "face_material": "Carbon Friction Surface (CFS)",
+    "core_material": "Reactive Honeycomb Polymer",
+    "core_thickness": 16,
     "target_demographic": "卓球出身者",
     "design_taste": "ユニーク",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Radius%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Radius%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Radius%20Pro",
+    "weight_oz": "7.6-8.0",
+    "length_in": 15.87,
+    "width_in": 8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Radius%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_joola_collin_johns",
@@ -211,13 +329,27 @@
     "product_name": "Collin Johns Scorpeus",
     "price": 36000,
     "paddle_shape": "ワイド幅",
-    "face_material": "カーボン",
-    "core_material": "プロパルジョンコア",
-    "core_thickness": 16,
+    "face_material": "Carbon Friction Surface (CFS)",
+    "core_material": "Propulsion Core Polymer",
+    "core_thickness": 14,
     "target_demographic": "コントロール重視",
     "design_taste": "プロモデル",
-    "color_variations": "ブラック/グレー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Collin%20Johns%20Scorpeus",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Collin%20Johns%20Scorpeus/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Collin%20Johns%20Scorpeus",
+    "weight_oz": "7.8",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "product_url": "https://www.joola.com/products/collin-johns-scorpeus",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Collin%20Johns%20Scorpeus%20pickleball%20paddle",
+    "price_usd": 219.95,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_joola_solaire",
@@ -225,13 +357,28 @@
     "product_name": "Solaire FAS 13",
     "price": 26000,
     "paddle_shape": "標準",
-    "face_material": "ファイバーグラス",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass Abrasion Surface (FAS - サンドブラスト加工)",
+    "core_material": "Response Honeycomb Polymer",
     "core_thickness": 13,
     "target_demographic": "ポップコーンプレイヤー",
     "design_taste": "スタイリッシュ",
-    "color_variations": "ホワイト/ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト/ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Solaire%20FAS%2013",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Solaire%20FAS%2013/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Solaire%20FAS%2013",
+    "weight_oz": "8.2",
+    "length_in": 16,
+    "width_in": 8,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "unique_tech": "Aero-Curve head design",
+    "product_url": "https://www.joola.com/products/solaire-fas-13",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Solaire%20FAS%2013%20pickleball%20paddle",
+    "price_usd": 199.95,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_crbn_1x_16",
@@ -239,13 +386,27 @@
     "product_name": "CRBN 1X 16mm",
     "price": 32000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ポリウレタン注入",
+    "face_material": "T700 Toray Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Foam Injected Edge Walls, Thermoformed Unibody)",
     "core_thickness": 16,
     "target_demographic": "パワー＆スピン",
     "design_taste": "ステルスブラック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20CRBN%201X%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20CRBN%201X%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%201X%2016mm",
+    "weight_oz": "7.8-8.1",
+    "length_in": 16.5,
+    "width_in": 7.25,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "product_url": "https://crbnpickleball.com/products/crbn-1x-power-series-16mm",
+    "image_url": "https://crbnpickleball.com/cdn/shop/products/1X_Front_Web_1800x1800.jpg?v=1673322003",
+    "price_usd": 229.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_crbn_2x_14",
@@ -253,13 +414,27 @@
     "product_name": "CRBN 2X 14mm",
     "price": 32000,
     "paddle_shape": "スクエア",
-    "face_material": "カーボン",
-    "core_material": "ポリウレタン注入",
+    "face_material": "T700 Toray Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Foam Injected Edge Walls, Thermoformed Unibody)",
     "core_thickness": 14,
     "target_demographic": "手の回転が速い選手",
     "design_taste": "ステルスブラック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20CRBN%202X%2014mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20CRBN%202X%2014mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%202X%2014mm",
+    "weight_oz": "7.8-8.1",
+    "length_in": 15.75,
+    "width_in": 8,
+    "grip_length_in": 4.75,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "product_url": "https://crbnpickleball.com/products/crbn-2x-power-series-14mm",
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%202X%2014mm%20pickleball%20paddle",
+    "price_usd": 229.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_crbn_3x_16",
@@ -267,13 +442,27 @@
     "product_name": "CRBN 3X 16mm",
     "price": 32000,
     "paddle_shape": "ハイブリッド",
-    "face_material": "カーボン",
-    "core_material": "ハニカム",
+    "face_material": "T700 Toray Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Foam Injected Edge Walls, Thermoformed Unibody)",
     "core_thickness": 16,
     "target_demographic": "バランス型",
     "design_taste": "ステルスブラック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20CRBN%203X%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20CRBN%203X%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%203X%2016mm",
+    "weight_oz": "7.8-8.1",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "product_url": "https://crbnpickleball.com/products/crbn-3x-power-series-16mm",
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%203X%2016mm%20pickleball%20paddle",
+    "price_usd": 229.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_crbn_1_16",
@@ -281,13 +470,24 @@
     "product_name": "CRBN 1 (Original) 16mm",
     "price": 28000,
     "paddle_shape": "長方形",
-    "face_material": "生カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (T700)",
+    "core_material": "Polymer Honeycomb (Thermoformed Unibody)",
     "core_thickness": 16,
     "target_demographic": "ピュアコントロール",
     "design_taste": "クラシック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20CRBN%201%20(Original)%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20CRBN%201%20(Original)%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%201%20(Original)%2016mm",
+    "weight_oz": "8.0-8.3",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.35,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%201%20(Original)%2016mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_crbn_2_14",
@@ -295,13 +495,24 @@
     "product_name": "CRBN 2 (Original) 14mm",
     "price": 28000,
     "paddle_shape": "標準",
-    "face_material": "生カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (T700)",
+    "core_material": "Polymer Honeycomb (Thermoformed Unibody)",
     "core_thickness": 14,
     "target_demographic": "ポップ感を求める人",
     "design_taste": "クラシック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20CRBN%202%20(Original)%2014mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20CRBN%202%20(Original)%2014mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%202%20(Original)%2014mm",
+    "weight_oz": "7.8-8.1",
+    "length_in": 15.75,
+    "width_in": 8,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%202%20(Original)%2014mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_sixzero_dbd_16",
@@ -309,13 +520,29 @@
     "product_name": "Double Black Diamond 16mm",
     "price": 29000,
     "paddle_shape": "エアロカーブ",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Japanese Toray 700K Raw Carbon Fiber",
+    "core_material": "Premium Honeycomb Polymer Core (Thermoformed)",
     "core_thickness": 16,
     "target_demographic": "究極のオールラウンダー",
     "design_taste": "ダイヤモンド柄",
-    "color_variations": "ブラック, ピンク, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック",
+      "ピンク",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Double%20Black%20Diamond%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Double%20Black%20Diamond%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Double%20Black%20Diamond%2016mm",
+    "weight_oz": "8.1",
+    "length_in": 16.3,
+    "width_in": 7.7,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "product_url": "https://www.sixzeropickleball.com/products/double-black-diamond-control-16mm",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=2000",
+    "price_usd": 199.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_sixzero_dbd_14",
@@ -323,13 +550,25 @@
     "product_name": "Double Black Diamond 14mm",
     "price": 29000,
     "paddle_shape": "エアロカーブ",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (Japanese Toray 700K)",
+    "core_material": "Premium Honeycomb Polymer Core",
     "core_thickness": 14,
     "target_demographic": "スピード重視",
     "design_taste": "ダイヤモンド柄",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Double%20Black%20Diamond%2014mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Double%20Black%20Diamond%2014mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Double%20Black%20Diamond%2014mm",
+    "weight_oz": "7.8-8.0",
+    "length_in": 16.3,
+    "width_in": 7.7,
+    "usapa_approved": true,
+    "product_url": "https://www.sixzeropickleball.com/products/double-black-diamond-power-14mm",
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Double%20Black%20Diamond%2014mm%20pickleball%20paddle",
+    "price_usd": 199.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_sixzero_ruby",
@@ -337,13 +576,22 @@
     "product_name": "Ruby",
     "price": 31000,
     "paddle_shape": "エアロカーブ",
-    "face_material": "100%ケブラー",
-    "core_material": "ポリマー",
+    "face_material": "100% Aramid Fiber (DuPont™ Kevlar®)",
+    "core_material": "Polypropylene Honeycomb (Thermoformed)",
     "core_thickness": 16,
     "target_demographic": "ソフトな打感とスピン",
     "design_taste": "ルビーレッド",
-    "color_variations": "レッド",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Ruby",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Ruby/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Ruby",
+    "weight_oz": "8.2",
+    "length_in": 16.3,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Ruby%20pickleball%20paddle"
   },
   {
     "id": "pdl_sixzero_infinity",
@@ -351,13 +599,22 @@
     "product_name": "Infinity",
     "price": 33000,
     "paddle_shape": "エッジレス",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (Japanese Toray 700K)",
+    "core_material": "Honeycomb Polymer Core",
     "core_thickness": 16,
     "target_demographic": "空気抵抗低減",
     "design_taste": "流線型",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Infinity",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Infinity/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Infinity",
+    "weight_oz": "8.0-8.2",
+    "length_in": 16.3,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Infinity%20pickleball%20paddle"
   },
   {
     "id": "pdl_sixzero_sapphire",
@@ -365,13 +622,22 @@
     "product_name": "Sapphire",
     "price": 22000,
     "paddle_shape": "ハイブリッド",
-    "face_material": "複合素材",
-    "core_material": "ポリマー",
-    "core_thickness": 14,
+    "face_material": "Woven Carbon Fiber (Japanese Toray)",
+    "core_material": "Honeycomb Polymer Core",
+    "core_thickness": 16,
     "target_demographic": "初・中級者",
     "design_taste": "サファイアブルー",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Sapphire",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Sapphire/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Sapphire",
+    "weight_oz": "8.0-8.2",
+    "length_in": 16.3,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Sapphire%20pickleball%20paddle"
   },
   {
     "id": "pdl_engage_pursuit_pro_ex",
@@ -379,13 +645,23 @@
     "product_name": "Pursuit Pro EX",
     "price": 34000,
     "paddle_shape": "標準",
-    "face_material": "摩擦加工カーボン",
-    "core_material": "ブラックコア",
+    "face_material": "摩擦フリクション(Friction Surface Technology)",
+    "core_material": "ControlPro Black Core",
     "core_thickness": 16,
     "target_demographic": "パワーとスピン",
     "design_taste": "プロ志向",
-    "color_variations": "ブラック, レッド",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック",
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Pursuit%20Pro%20EX",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Pursuit%20Pro%20EX/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Pursuit%20Pro%20EX",
+    "weight_oz": "7.8-8.3",
+    "length_in": 16,
+    "width_in": 8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Pursuit%20Pro%20EX%20pickleball%20paddle"
   },
   {
     "id": "pdl_engage_pursuit_pro_mx",
@@ -393,13 +669,26 @@
     "product_name": "Pursuit Pro MX",
     "price": 34000,
     "paddle_shape": "長方形",
-    "face_material": "摩擦加工カーボン",
-    "core_material": "ブラックコア",
+    "face_material": "Friction Surface Technology",
+    "core_material": "ControlPro Black Core",
     "core_thickness": 16,
     "target_demographic": "リーチとパワー",
     "design_taste": "プロ志向",
-    "color_variations": "ブラック, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Pursuit%20Pro%20MX",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Pursuit%20Pro%20MX/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Pursuit%20Pro%20MX",
+    "weight_oz": "7.9-8.3",
+    "length_in": 15.5,
+    "width_in": 8.125,
+    "usapa_approved": true,
+    "product_url": "https://engagepickleball.com/collections/pursuit-pro-mx",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Pursuit%20Pro%20MX%20pickleball%20paddle",
+    "price_usd": 259.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_engage_encore_mx",
@@ -407,13 +696,24 @@
     "product_name": "Encore MX 6.0",
     "price": 25000,
     "paddle_shape": "長方形",
-    "face_material": "ファイバーグラス",
-    "core_material": "ControlPro",
+    "face_material": "Friction Surface Technology",
+    "core_material": "ControlPro Core Polymer",
     "core_thickness": 16,
     "target_demographic": "スイートスポット重視",
     "design_taste": "カラフル",
-    "color_variations": "パープル, ブルー, レッド",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "パープル",
+      "ブルー",
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Encore%20MX%206.0",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Encore%20MX%206.0/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Encore%20MX%206.0",
+    "weight_oz": "7.9-8.3",
+    "length_in": 15.5,
+    "width_in": 8.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Encore%20MX%206.0%20pickleball%20paddle"
   },
   {
     "id": "pdl_gearbox_pro_power",
@@ -421,13 +721,26 @@
     "product_name": "Pro Power Elongated",
     "price": 42000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "SST(全カーボン)",
+    "face_material": "Carbon Fiber",
+    "core_material": "SSTCore™ (Solid Span Technology) 14mm Carbon Fiber",
     "core_thickness": 14,
     "target_demographic": "圧倒的パワー",
     "design_taste": "ハイエンド",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gearbox%20Pro%20Power%20Elongated",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gearbox%20Pro%20Power%20Elongated/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20Pro%20Power%20Elongated",
+    "weight_oz": "8.0",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4,
+    "usapa_approved": true,
+    "unique_tech": "SST (ハニカム不使用・全カーボン構造) + Power Matrix",
+    "_pbcor_status": "2025年7月1日より公式大会使用禁止（PBCoR基準超過）。GearboxはPro Ultimate Power 14mmへの交換プログラム(PBCoR Innovation Program)を提供。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Pro%20Power%20Elongated%20pickleball%20paddle"
   },
   {
     "id": "pdl_gearbox_pro_control",
@@ -435,13 +748,23 @@
     "product_name": "Pro Control Elongated",
     "price": 42000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "SST(全カーボン)",
+    "face_material": "Carbon Fiber",
+    "core_material": "SSTCore™ (Solid Span Technology) Carbon Fiber",
     "core_thickness": 14,
     "target_demographic": "ソフトタッチ",
     "design_taste": "ハイエンド",
-    "color_variations": "ブラック/イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gearbox%20Pro%20Control%20Elongated",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gearbox%20Pro%20Control%20Elongated/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20Pro%20Control%20Elongated",
+    "weight_oz": "7.8",
+    "length_in": 16,
+    "width_in": 8,
+    "usapa_approved": true,
+    "unique_tech": "SST (ハニカム不使用・全カーボン構造)",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Pro%20Control%20Elongated%20pickleball%20paddle"
   },
   {
     "id": "pdl_gearbox_cx14_e",
@@ -449,13 +772,25 @@
     "product_name": "CX14 Elongated",
     "price": 30000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "SST",
+    "face_material": "Carbon Fiber",
+    "core_material": "SSTCore™ Carbon Fiber (14mm)",
     "core_thickness": 14,
     "target_demographic": "コントロール重視",
     "design_taste": "スリム",
-    "color_variations": "レッド, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gearbox%20CX14%20Elongated",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gearbox%20CX14%20Elongated/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20CX14%20Elongated",
+    "weight_oz": "7.5-8.0",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20CX14%20Elongated%20pickleball%20paddle"
   },
   {
     "id": "pdl_proxr_zane",
@@ -463,13 +798,24 @@
     "product_name": "Zane Navratil Signature",
     "price": 28000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "T700 Raw Carbon Fiber (Ultra-Raw)",
+    "core_material": "Polypropylene Honeycomb + Shock Foam Perimeter",
     "core_thickness": 14,
     "target_demographic": "スピンとリーチ",
     "design_taste": "特徴的なグリップ",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=ProXR%20Zane%20Navratil%20Signature",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ProXR%20Zane%20Navratil%20Signature/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProXR%20Zane%20Navratil%20Signature",
+    "weight_oz": "8.0-8.4",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 6,
+    "grip_circumference_in": 4,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Zane%20Navratil%20Signature%20pickleball%20paddle"
   },
   {
     "id": "pdl_proxr_advantage",
@@ -477,13 +823,24 @@
     "product_name": "Advantage 16",
     "price": 26000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "T700 Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb + Shock Foam Perimeter",
     "core_thickness": 16,
     "target_demographic": "オールラウンド",
     "design_taste": "特徴的なグリップ",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=ProXR%20Advantage%2016",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ProXR%20Advantage%2016/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProXR%20Advantage%2016",
+    "weight_oz": "8.0-8.4",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 6,
+    "grip_circumference_in": 4,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Advantage%2016%20pickleball%20paddle"
   },
   {
     "id": "pdl_paddletek_bantam_exl",
@@ -491,13 +848,27 @@
     "product_name": "Bantam EXL Pro",
     "price": 24000,
     "paddle_shape": "標準",
-    "face_material": "ベルベットテクスチャポリカーボネート",
-    "core_material": "Bantamポリコア",
-    "core_thickness": 16,
+    "face_material": "Carbon Fiber (Smart Response Technology)",
+    "core_material": "Bantam Polymer Core",
+    "core_thickness": 14,
     "target_demographic": "パワープレイヤー",
     "design_taste": "スポーティ",
-    "color_variations": "イエロー, レッド, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "イエロー",
+      "レッド",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Paddletek%20Bantam%20EXL%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Paddletek%20Bantam%20EXL%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Bantam%20EXL%20Pro",
+    "weight_oz": "7.6-8.1",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "product_url": "https://www.paddletek.com/products/bantam-exl-pro",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Bantam%20EXL%20Pro%20pickleball%20paddle",
+    "price_usd": 149.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_paddletek_tsunami",
@@ -505,13 +876,24 @@
     "product_name": "Tempest Wave Pro",
     "price": 27000,
     "paddle_shape": "標準",
-    "face_material": "グラファイト",
-    "core_material": "Tempestポリコア",
+    "face_material": "Textured Graphite",
+    "core_material": "Tempest SRT Core (Advanced Polymer)",
     "core_thickness": 14,
     "target_demographic": "コントロール・タッチ",
     "design_taste": "スポーティ",
-    "color_variations": "ブルー, パープル",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー",
+      "パープル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Paddletek%20Tempest%20Wave%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Paddletek%20Tempest%20Wave%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Tempest%20Wave%20Pro",
+    "weight_oz": "7.6-8.0",
+    "length_in": 15.875,
+    "width_in": 8,
+    "grip_length_in": 5.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Tempest%20Wave%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_vulcan_v520_control",
@@ -519,13 +901,24 @@
     "product_name": "V520 Control",
     "price": 18000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass (V-Skin)",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 13,
     "target_demographic": "初級者",
     "design_taste": "ポップカラー",
-    "color_variations": "ピンク/ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ピンク/ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan%20V520%20Control",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan%20V520%20Control/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20V520%20Control",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "grip_circumference_in": 4.25,
+    "grip_length_in": 4.5,
+    "length_in": 15.5,
+    "width_in": 7.75,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20Control%20pickleball%20paddle"
   },
   {
     "id": "pdl_vulcan_v900",
@@ -533,13 +926,24 @@
     "product_name": "V900 Max",
     "price": 32000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "Z-Core",
+    "face_material": "Quatro-Carbon™ (3K Cross-Weave)",
+    "core_material": "ZEP9™ Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "プロ仕様",
     "design_taste": "クール",
-    "color_variations": "ホワイト/ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト/ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan%20V900%20Max",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan%20V900%20Max/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20V900%20Max",
+    "weight_oz": "7.6-8.0",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V900%20Max%20pickleball%20paddle"
   },
   {
     "id": "pdl_franklin_ben_johns",
@@ -547,13 +951,27 @@
     "product_name": "Signature Series 16mm",
     "price": 17000,
     "paddle_shape": "標準",
-    "face_material": "ファイバーグラス",
-    "core_material": "ポリプロピレン",
+    "face_material": "Carbon Fiber (MaxGrit Surface)",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "初・中級者向けコスパ最強",
     "design_taste": "シンプル",
-    "color_variations": "ホワイト, ブラック, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト",
+      "ブラック",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20Signature%20Series%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20Signature%20Series%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20Signature%20Series%2016mm",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "length_in": 16,
+    "width_in": 8,
+    "product_url": "https://www.franklinsports.com/pickleball/paddles/signature-series",
+    "image_url": "https://franklinsports.com/media/catalog/product/5/2/52985-phase1-main.jpg",
+    "price_usd": 119.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_franklin_carbon_stk",
@@ -561,13 +979,22 @@
     "product_name": "Carbon STK",
     "price": 24000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ポリプロピレン",
-    "core_thickness": 14.5,
+    "face_material": "Carbon Fiber (MaxGrit Surface)",
+    "core_material": "Polypropylene Honeycomb",
+    "core_thickness": 14,
     "target_demographic": "ステップアップ",
     "design_taste": "カーボン柄",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20Carbon%20STK",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20Carbon%20STK/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20Carbon%20STK",
+    "weight_oz": "7.5-8.0",
+    "usapa_approved": true,
+    "length_in": 16,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Carbon%20STK%20pickleball%20paddle"
   },
   {
     "id": "pdl_diadem_vice",
@@ -575,13 +1002,26 @@
     "product_name": "Vice (EVA Core)",
     "price": 30000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "EVAフォーム（非公認）",
-    "core_thickness": 16,
+    "face_material": "Carbon Fiber",
+    "core_material": "EVA Core (静音設計)",
+    "core_thickness": 14,
     "target_demographic": "練習・レジャープール",
     "design_taste": "静音",
-    "color_variations": "ブラック/ティール",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/ティール"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Diadem%20Vice%20(EVA%20Core)",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Diadem%20Vice%20(EVA%20Core)/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Diadem%20Vice%20(EVA%20Core)",
+    "weight_oz": "7.8-8.2",
+    "length_in": 16,
+    "width_in": 7.6,
+    "usapa_approved": true,
+    "unique_tech": "静音EVAコア - 騒音制限コート対応",
+    "product_url": "https://diadempickleball.com/products/vice",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Vice%20(EVA%20Core)%20pickleball%20paddle",
+    "price_usd": 149.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_diadem_warrior",
@@ -589,13 +1029,25 @@
     "product_name": "Warrior V2",
     "price": 32000,
     "paddle_shape": "標準",
-    "face_material": "エッチングカーボン",
-    "core_material": "3層ポリマー",
-    "core_thickness": 19,
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
+    "core_thickness": 16,
     "target_demographic": "ディフェンス・ブロック",
     "design_taste": "重厚",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Diadem%20Warrior%20V2",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Diadem%20Warrior%20V2/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Diadem%20Warrior%20V2",
+    "weight_oz": "8.0-8.4",
+    "usapa_approved": true,
+    "length_in": 16,
+    "width_in": 7.6,
+    "product_url": "https://diadempickleball.com/products/warrior-v2",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Warrior%20V2%20pickleball%20paddle",
+    "price_usd": 169.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_diadem_icon",
@@ -603,13 +1055,25 @@
     "product_name": "Icon V2",
     "price": 26000,
     "paddle_shape": "スリム",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
-    "core_thickness": 12,
+    "face_material": "RP2 Technology (Polyurethane Grit Paint)",
+    "core_material": "3XL Core (Multi-Layer Polypropylene Honeycomb)",
+    "core_thickness": 13.7,
     "target_demographic": "機動力",
     "design_taste": "スタイリッシュ",
-    "color_variations": "ホワイト, ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト",
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Diadem%20Icon%20V2",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Diadem%20Icon%20V2/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Diadem%20Icon%20V2",
+    "weight_oz": "8.0",
+    "length_in": 16,
+    "width_in": 7.6,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Icon%20V2%20pickleball%20paddle"
   },
   {
     "id": "pdl_volair_mach1_forza",
@@ -617,13 +1081,27 @@
     "product_name": "Mach 1 Forza",
     "price": 28000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "T700 Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Foam Walls, Thermoformed)",
     "core_thickness": 16,
     "target_demographic": "スピン特化",
     "design_taste": "ミリタリー",
-    "color_variations": "オリーブ",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "オリーブ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Volair%20Mach%201%20Forza",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Volair%20Mach%201%20Forza/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Volair%20Mach%201%20Forza",
+    "weight_oz": "8.2",
+    "length_in": 16.3,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "product_url": "https://volairpickleball.com/products/mach-1-forza-16mm",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Volair%20Mach%201%20Forza%20pickleball%20paddle",
+    "price_usd": 199.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_volair_mach2_forza",
@@ -631,13 +1109,24 @@
     "product_name": "Mach 2 Forza",
     "price": 28000,
     "paddle_shape": "幅広",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
-    "core_thickness": 14,
+    "face_material": "T700 Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Foam Walls, Thermoformed)",
+    "core_thickness": 16,
     "target_demographic": "スイートスポット最大化",
     "design_taste": "ミリタリー",
-    "color_variations": "オリーブ",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "オリーブ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Volair%20Mach%202%20Forza",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Volair%20Mach%202%20Forza/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Volair%20Mach%202%20Forza",
+    "weight_oz": "8.0",
+    "length_in": 16,
+    "width_in": 8,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Volair%20Mach%202%20Forza%20pickleball%20paddle"
   },
   {
     "id": "pdl_ronbus_r1_nova",
@@ -645,13 +1134,24 @@
     "product_name": "R1 Nova",
     "price": 26000,
     "paddle_shape": "エアロ",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (Toray T700)",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "バランス・コントロール",
     "design_taste": "シンプルブラック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Ronbus%20R1%20Nova",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Ronbus%20R1%20Nova/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Ronbus%20R1%20Nova",
+    "weight_oz": "7.8-8.2",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Ronbus%20R1%20Nova%20pickleball%20paddle"
   },
   {
     "id": "pdl_ronbus_r3_pulsar",
@@ -659,13 +1159,24 @@
     "product_name": "R3 Pulsar",
     "price": 27000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
-    "core_thickness": 14,
+    "face_material": "Raw Carbon Fiber (T700)",
+    "core_material": "Polypropylene Honeycomb (Thermoformed)",
+    "core_thickness": 16,
     "target_demographic": "パワー・スピード",
     "design_taste": "シンプルブラック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Ronbus%20R3%20Pulsar",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Ronbus%20R3%20Pulsar/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Ronbus%20R3%20Pulsar",
+    "weight_oz": "7.8-8.2",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Ronbus%20R3%20Pulsar%20pickleball%20paddle"
   },
   {
     "id": "pdl_vatic_pro_prism_flash",
@@ -673,13 +1184,25 @@
     "product_name": "Prism Flash 16mm",
     "price": 15000,
     "paddle_shape": "ハイブリッド",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Toray T700 Carbon Fiber (Heat-Compressed Texture)",
+    "core_material": "C7 Polymers Honeycomb + Unibody Foam Injected Walls",
     "core_thickness": 16,
     "target_demographic": "中級者（コスパ革命）",
     "design_taste": "オレンジライン",
-    "color_variations": "ブラック/オレンジ",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vatic%20Pro%20Prism%20Flash%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vatic%20Pro%20Prism%20Flash%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vatic%20Pro%20Prism%20Flash%2016mm",
+    "weight_oz": "7.9-8.2",
+    "length_in": 16.2,
+    "width_in": 7.7,
+    "grip_length_in": 5.3,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "price_usd": 99.99,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vatic%20Pro%20Prism%20Flash%2016mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_vatic_pro_v7",
@@ -687,13 +1210,25 @@
     "product_name": "V7 Carbon",
     "price": 22000,
     "paddle_shape": "長方形",
-    "face_material": "生カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (Toray T700)",
+    "core_material": "C7 Polymers Honeycomb + Foam Injected Walls",
     "core_thickness": 16,
     "target_demographic": "ハードヒッター",
     "design_taste": "オレンジライン",
-    "color_variations": "ブラック/オレンジ",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vatic%20Pro%20V7%20Carbon",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vatic%20Pro%20V7%20Carbon/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vatic%20Pro%20V7%20Carbon",
+    "weight_oz": "8.2-8.5",
+    "usapa_approved": true,
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "product_url": "https://vaticpro.com/products/v7-carbon",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vatic%20Pro%20V7%20Carbon%20pickleball%20paddle",
+    "price_usd": 119.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_gruvn_mula",
@@ -701,13 +1236,27 @@
     "product_name": "Mula 16H",
     "price": 25000,
     "paddle_shape": "長方形（ロングハンドル）",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "T700 Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Thermoformed)",
     "core_thickness": 16,
     "target_demographic": "両手バックハンダー",
     "design_taste": "ポップロゴ",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=GRUVN%20Mula%2016H",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/GRUVN%20Mula%2016H/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=GRUVN%20Mula%2016H",
+    "weight_oz": "7.9",
+    "length_in": 16.5,
+    "width_in": 7.375,
+    "grip_length_in": 5.875,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "product_url": "https://gruvn.co/products/mula-16h-raw-carbon-fiber-pickleball-paddle",
+    "image_url": "https://www.google.com/search?tbm=isch&q=GRUVN%20Mula%2016H%20pickleball%20paddle",
+    "price_usd": 89.99,
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_hudef_viva_pro",
@@ -715,13 +1264,23 @@
     "product_name": "Viva Pro",
     "price": 18000,
     "paddle_shape": "ハイブリッド",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "スピンプレイヤー",
     "design_taste": "クール",
-    "color_variations": "ブルー, グリーン",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー",
+      "グリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Hudef%20Viva%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Hudef%20Viva%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Hudef%20Viva%20Pro",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "length_in": 15.9,
+    "width_in": 7.9,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Hudef%20Viva%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_oneshot_aeroshoot",
@@ -729,13 +1288,22 @@
     "product_name": "Aeroshoot",
     "price": 19000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 14,
     "target_demographic": "オールラウンド",
     "design_taste": "ストライプ",
-    "color_variations": "レッド/ホワイト",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド/ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=OneShot%20Aeroshoot",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/OneShot%20Aeroshoot/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=OneShot%20Aeroshoot",
+    "weight_oz": "7.9",
+    "usapa_approved": true,
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "image_url": "https://www.google.com/search?tbm=isch&q=OneShot%20Aeroshoot%20pickleball%20paddle"
   },
   {
     "id": "pdl_electrum_model_e",
@@ -743,13 +1311,24 @@
     "product_name": "Model E",
     "price": 27000,
     "paddle_shape": "長方形",
-    "face_material": "トルクカーボン",
-    "core_material": "ハニカム",
-    "core_thickness": 16,
+    "face_material": "Composite",
+    "core_material": "Polymer Honeycomb",
+    "core_thickness": 11,
     "target_demographic": "スピン重視",
     "design_taste": "イエローライン",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Electrum%20Model%20E",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Electrum%20Model%20E/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Electrum%20Model%20E",
+    "weight_oz": "7.9-8.2",
+    "length_in": 16,
+    "width_in": 8,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Electrum%20Model%20E%20pickleball%20paddle"
   },
   {
     "id": "pdl_electrum_pro_ii",
@@ -757,13 +1336,27 @@
     "product_name": "Pro II",
     "price": 26000,
     "paddle_shape": "ワイド",
-    "face_material": "カーボン",
-    "core_material": "ハニカム",
+    "face_material": "Composite",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 11,
     "target_demographic": "超速ハンドスピード",
     "design_taste": "スリム",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Electrum%20Pro%20II",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Electrum%20Pro%20II/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Electrum%20Pro%20II",
+    "weight_oz": "7.9-8.2",
+    "length_in": 16,
+    "width_in": 8,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "product_url": "https://electrumpickleball.com/products/model-e-elite",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Electrum%20Pro%20II%20pickleball%20paddle",
+    "price_usd": 199.99,
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_onyx_evoke_premier",
@@ -771,13 +1364,29 @@
     "product_name": "Evoke Premier",
     "price": 21000,
     "paddle_shape": "標準",
-    "face_material": "コンポジット",
-    "core_material": "ポリプロピレン",
-    "core_thickness": 15,
+    "face_material": "DF Composite (Textured Fiberglass)",
+    "core_material": "Polypropylene Honeycomb",
+    "core_thickness": 13,
     "target_demographic": "パワープレイヤー",
     "design_taste": "ブラック＆レッド",
-    "color_variations": "レッド, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Onix%20Evoke%20Premier",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Onix%20Evoke%20Premier/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix%20Evoke%20Premier",
+    "weight_oz": "7.8-8.2",
+    "length_in": 16,
+    "width_in": 8,
+    "grip_length_in": 5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "unique_tech": "Atomic 13 Edge Guard",
+    "product_url": "https://www.onixpickleball.com/products/evoke-premier",
+    "image_url": "https://cdn.shopify.com/s/files/1/0481/9828/7516/products/onixcompositeevokepro-red_pickleballpaddle_kz1131-red-1_1__KZ1131-RED-1.jpg?v=1750277546",
+    "price_usd": 119.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_onyx_z5",
@@ -785,13 +1394,30 @@
     "product_name": "Z5 Graphite",
     "price": 14000,
     "paddle_shape": "ワイド",
-    "face_material": "グラファイト",
-    "core_material": "ノーメックス(木材系)",
+    "face_material": "Graphite",
+    "core_material": "Nomex Honeycomb",
     "core_thickness": 10,
     "target_demographic": "初心者〜昔からの愛好家",
     "design_taste": "クラシック",
-    "color_variations": "ブルー, パープル, イエロー, ピンク",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー",
+      "パープル",
+      "イエロー",
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Onix%20Z5%20Graphite",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Onix%20Z5%20Graphite/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix%20Z5%20Graphite",
+    "weight_oz": "7.5-8.2",
+    "length_in": 15.5,
+    "width_in": 8.125,
+    "grip_length_in": 5,
+    "grip_circumference_in": 4.25,
+    "usapa_approved": true,
+    "product_url": "https://www.onixpickleball.com/products/z5-graphite",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Z5%20Graphite%20pickleball%20paddle",
+    "price_usd": 79.99,
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_head_gravity_tour",
@@ -799,13 +1425,26 @@
     "product_name": "Gravity Tour",
     "price": 24000,
     "paddle_shape": "ティアドロップ",
-    "face_material": "ハイブリッド",
-    "core_material": "ポリマー",
-    "core_thickness": 14,
+    "face_material": "12K Raw Carbon / Hybrid Hitting Surface",
+    "core_material": "FoamedCore PP Honeycomb",
+    "core_thickness": 17,
     "target_demographic": "スイートスポット重視",
     "design_taste": "カラフル",
-    "color_variations": "ブルー/イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー/イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20Gravity%20Tour",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20Gravity%20Tour/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Gravity%20Tour",
+    "weight_oz": "8.4-8.5",
+    "length_in": 15.75,
+    "width_in": 8.1,
+    "grip_length_in": 4.9,
+    "usapa_approved": true,
+    "product_url": "https://www.head.com/en_US/gravity-tour-pickleball-paddle.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Gravity%20Tour%20pickleball%20paddle",
+    "price_usd": 179.95,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_head_radical_pro",
@@ -813,13 +1452,27 @@
     "product_name": "Radical Pro",
     "price": 20000,
     "paddle_shape": "ダイナミック",
-    "face_material": "コンポジット",
-    "core_material": "ポリマー",
+    "face_material": "Composite",
+    "core_material": "Optimized Tubular Core (OTC) Polymer",
     "core_thickness": 15,
     "target_demographic": "テニス出身者",
     "design_taste": "オレンジ",
-    "color_variations": "オレンジ",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20Radical%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20Radical%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Radical%20Pro",
+    "usapa_approved": true,
+    "weight_oz": "8.1",
+    "length_in": 16,
+    "width_in": 7.875,
+    "grip_length_in": 5,
+    "grip_circumference_in": 4.125,
+    "product_url": "https://www.head.com/en_US/radical-pro-pickleball-paddle-225013.html",
+    "image_url": "https://cdn-mdb.head.com/CDN3/G/200145/1/683x911/radical-pro15-2026.webp",
+    "price_usd": 179.95,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_babolat_rngd_touch",
@@ -827,13 +1480,23 @@
     "product_name": "RNGD Touch",
     "price": 22000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ハニカム",
+    "face_material": "100% Fiberglass (RPM Grit Technology)",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 14,
     "target_demographic": "コントロール",
     "design_taste": "フレンチデザイン",
-    "color_variations": "ホワイト/ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト/ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20RNGD%20Touch",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20RNGD%20Touch/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20RNGD%20Touch",
+    "weight_oz": "7.4-7.8",
+    "length_in": 16.1,
+    "width_in": 7.8,
+    "usapa_approved": true,
+    "unique_tech": "RPM Grit Technology (スピン強化面加工)",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20RNGD%20Touch%20pickleball%20paddle"
   },
   {
     "id": "pdl_babolat_mnstr_power",
@@ -841,41 +1504,72 @@
     "product_name": "MNSTR Power",
     "price": 25000,
     "paddle_shape": "やや幅広",
-    "face_material": "グラスファイバー",
-    "core_material": "EVAブレンド",
+    "face_material": "100% Fiberglass (RPM Grit Technology)",
+    "core_material": "Polypropylene Honeycomb (EVA enclosed)",
     "core_thickness": 15,
     "target_demographic": "強打者",
     "design_taste": "アグレッシブ",
-    "color_variations": "ブラック/イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20MNSTR%20Power",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20MNSTR%20Power/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20MNSTR%20Power",
+    "weight_oz": "8.1",
+    "length_in": 16.1,
+    "width_in": 7.8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20MNSTR%20Power%20pickleball%20paddle"
   },
   {
     "id": "pdl_prince_response_pro",
     "brand_name": "Prince",
     "product_name": "Response Pro",
     "price": 24000,
-    "paddle_shape": "丸型",
-    "face_material": "ファイバーグラス",
-    "core_material": "ポリマー",
+    "paddle_shape": "Round(丸型)",
+    "face_material": "Fiberglass",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 14,
     "target_demographic": "初心者〜中級者",
     "design_taste": "円形",
-    "color_variations": "ピンク, ブルー, グリーン",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ピンク",
+      "ブルー",
+      "グリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Prince%20Response%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Prince%20Response%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prince%20Response%20Pro",
+    "usapa_approved": true,
+    "weight_oz": "7.7-8.2",
+    "length_in": 15.75,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Response%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_prince_spectrum_pro",
     "brand_name": "Prince",
     "product_name": "Spectrum Pro",
     "price": 24000,
-    "paddle_shape": "丸型",
-    "face_material": "グラファイト",
-    "core_material": "ポリマー",
+    "paddle_shape": "Round(丸型)",
+    "face_material": "Graphite",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 14,
     "target_demographic": "コントロール",
     "design_taste": "円形",
-    "color_variations": "ホワイト",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Prince%20Spectrum%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Prince%20Spectrum%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prince%20Spectrum%20Pro",
+    "usapa_approved": true,
+    "weight_oz": "7.6-8.0",
+    "length_in": 15.75,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Spectrum%20Pro%20pickleball%20paddle",
+    "price_usd": 129.99,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_gamma_never_stop",
@@ -883,13 +1577,24 @@
     "product_name": "Never Stop",
     "price": 18000,
     "paddle_shape": "標準",
-    "face_material": "コンポジット",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass",
+    "core_material": "NeuCore Polypropylene Honeycomb",
     "core_thickness": 13,
     "target_demographic": "初心者",
     "design_taste": "ネオン",
-    "color_variations": "ネオングリーン",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ネオングリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gamma%20Never%20Stop",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gamma%20Never%20Stop/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma%20Never%20Stop",
+    "weight_oz": "7.6-8.0",
+    "usapa_approved": true,
+    "length_in": 16.375,
+    "width_in": 7.375,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Never%20Stop%20pickleball%20paddle",
+    "price_usd": 99.99,
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_gamma_206",
@@ -897,13 +1602,24 @@
     "product_name": "Obsidian 16",
     "price": 26000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "NeuCore",
+    "face_material": "Toray T700 Raw Carbon Fiber",
+    "core_material": "16mm NeuCore Polypropylene Honeycomb (Thermoformed, Foam Edge Walls)",
     "core_thickness": 16,
     "target_demographic": "スピンとプレイスメント",
     "design_taste": "黒曜石",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gamma%20Obsidian%2016",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gamma%20Obsidian%2016/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma%20Obsidian%2016",
+    "weight_oz": "7.8-8.3",
+    "length_in": 16.375,
+    "width_in": 7.375,
+    "grip_length_in": 5.75,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Obsidian%2016%20pickleball%20paddle"
   },
   {
     "id": "pdl_kswiss_hypercourt",
@@ -911,13 +1627,20 @@
     "product_name": "Hypercourt Paddle",
     "price": 19000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー",
-    "core_material": "ポリプロピレン",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 14,
     "target_demographic": "入門",
     "design_taste": "シューズ連動",
-    "color_variations": "ホワイト/ネイビー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト/ネイビー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss%20Hypercourt%20Paddle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss%20Hypercourt%20Paddle/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss%20Hypercourt%20Paddle",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Hypercourt%20Paddle%20pickleball%20paddle"
   },
   {
     "id": "pdl_asics_court_speed",
@@ -925,13 +1648,20 @@
     "product_name": "Court Speed Pickleball",
     "price": 21000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 14,
     "target_demographic": "入門",
     "design_taste": "スポーティ",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Asics%20Court%20Speed%20Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics%20Court%20Speed%20Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics%20Court%20Speed%20Pickleball",
+    "weight_oz": "8.0",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Court%20Speed%20Pickleball%20pickleball%20paddle"
   },
   {
     "id": "pdl_wilson_echo",
@@ -939,13 +1669,20 @@
     "product_name": "Echo Energy",
     "price": 18000,
     "paddle_shape": "標準",
-    "face_material": "複合",
-    "core_material": "ハニカム",
+    "face_material": "Fiberglass",
+    "core_material": "Honeycomb Polymer",
     "core_thickness": 14,
     "target_demographic": "レクリエーション",
     "design_taste": "ビビッド",
-    "color_variations": "オレンジ",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20Echo%20Energy",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20Echo%20Energy/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20Echo%20Energy",
+    "usapa_approved": true,
+    "weight_oz": "7.8",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Echo%20Energy%20pickleball%20paddle"
   },
   {
     "id": "pdl_wilson_fierce",
@@ -953,13 +1690,20 @@
     "product_name": "Fierce Max",
     "price": 23000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ハニカム",
+    "face_material": "Carbon Fiber",
+    "core_material": "Honeycomb Polymer",
     "core_thickness": 16,
     "target_demographic": "パワープレイヤー",
     "design_taste": "レッド",
-    "color_variations": "レッド",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20Fierce%20Max",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20Fierce%20Max/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20Fierce%20Max",
+    "usapa_approved": true,
+    "weight_oz": "8.0",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Fierce%20Max%20pickleball%20paddle"
   },
   {
     "id": "pdl_prokennex_kinetic",
@@ -967,13 +1711,25 @@
     "product_name": "Kinetic Ovation Speed",
     "price": 31000,
     "paddle_shape": "オーバル",
-    "face_material": "カーボン",
-    "core_material": "キネティックテクノロジー",
+    "face_material": "Carbon Fiber",
+    "core_material": "PK Opti-Cell Core (静音・高耐衝撃ポリマー)",
     "core_thickness": 11,
     "target_demographic": "テニス肘予防",
     "design_taste": "革新的",
-    "color_variations": "ブラック/ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=ProKennex%20Kinetic%20Ovation%20Speed",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ProKennex%20Kinetic%20Ovation%20Speed/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProKennex%20Kinetic%20Ovation%20Speed",
+    "weight_oz": "7.7-8.0",
+    "length_in": 15.67,
+    "width_in": 7.6,
+    "grip_length_in": 4.875,
+    "grip_circumference_in": 3.875,
+    "usapa_approved": true,
+    "unique_tech": "Kinetic Technology (タングステンビーズ振動低減: 衝撃46%減, 振動23%減)",
+    "image_url": "https://www.google.com/search?tbm=isch&q=ProKennex%20Kinetic%20Ovation%20Speed%20pickleball%20paddle"
   },
   {
     "id": "pdl_prokennex_blackace",
@@ -981,13 +1737,21 @@
     "product_name": "Black Ace Pro",
     "price": 34000,
     "paddle_shape": "標準",
-    "face_material": "トルクカーボン",
-    "core_material": "キネティックテクノロジー",
+    "face_material": "Torque Carbon (トルクカーボン)",
+    "core_material": "PK Opti-Cell Core + Kinetic Technology",
     "core_thickness": 11,
     "target_demographic": "テニス肘予防",
     "design_taste": "ブラックエース",
-    "color_variations": "ブラック/ピンク",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=ProKennex%20Black%20Ace%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ProKennex%20Black%20Ace%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProKennex%20Black%20Ace%20Pro",
+    "weight_oz": "7.8-8.1",
+    "usapa_approved": true,
+    "unique_tech": "Kinetic Technology (テニス肘予防)",
+    "image_url": "https://www.google.com/search?tbm=isch&q=ProKennex%20Black%20Ace%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_pickleball_apes",
@@ -995,13 +1759,20 @@
     "product_name": "Pro Line Energy S",
     "price": 28000,
     "paddle_shape": "標準",
-    "face_material": "ケブラー/カーボン複合",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb (Thermoformed)",
     "core_thickness": 16,
     "target_demographic": "独特の打感",
     "design_taste": "エイプスロゴ",
-    "color_variations": "イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Pickleball%20Apes%20Pro%20Line%20Energy%20S",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Pickleball%20Apes%20Pro%20Line%20Energy%20S/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Pickleball%20Apes%20Pro%20Line%20Energy%20S",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Pickleball%20Apes%20Pro%20Line%20Energy%20S%20pickleball%20paddle"
   },
   {
     "id": "pdl_the_kitchen",
@@ -1009,13 +1780,20 @@
     "product_name": "Signature Paddle",
     "price": 15000,
     "paddle_shape": "ワイド",
-    "face_material": "グラスファイバー",
-    "core_material": "ハニカム",
+    "face_material": "Raw Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 13,
     "target_demographic": "コミュニティモデル",
     "design_taste": "ポップ",
-    "color_variations": "グリーン",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "グリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=The%20Kitchen%20Signature%20Paddle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/The%20Kitchen%20Signature%20Paddle/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=The%20Kitchen%20Signature%20Paddle",
+    "weight_oz": "8.0-8.3",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=The%20Kitchen%20Signature%20Paddle%20pickleball%20paddle"
   },
   {
     "id": "pdl_11_six_24",
@@ -1023,13 +1801,22 @@
     "product_name": "Hurache-X",
     "price": 23000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "アマチュア競技者",
     "design_taste": "幾何学",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=11SIX24%20Hurache-X",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/11SIX24%20Hurache-X/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=11SIX24%20Hurache-X",
+    "weight_oz": "8.0-8.3",
+    "usapa_approved": true,
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "image_url": "https://www.google.com/search?tbm=isch&q=11SIX24%20Hurache-X%20pickleball%20paddle"
   },
   {
     "id": "pdl_juciao_pro",
@@ -1037,13 +1824,20 @@
     "product_name": "T700 Carbon Pro",
     "price": 8000,
     "paddle_shape": "標準",
-    "face_material": "生カーボン",
-    "core_material": "ポリプロピレン",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Thermoformed Unibody)",
     "core_thickness": 16,
     "target_demographic": "コスパ重視の入門者",
     "design_taste": "無地",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Juciao%20T700%20Carbon%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Juciao%20T700%20Carbon%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Juciao%20T700%20Carbon%20Pro",
+    "weight_oz": "8.0",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Juciao%20T700%20Carbon%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_niupipo_explorer",
@@ -1051,13 +1845,25 @@
     "product_name": "Explorer Pro",
     "price": 12000,
     "paddle_shape": "ワイド",
-    "face_material": "グラファイト",
-    "core_material": "ハニカム",
+    "face_material": "Graphite Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 13,
     "target_demographic": "Amazonベストセラー",
     "design_taste": "幾何学模様",
-    "color_variations": "ブルー, グレー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー",
+      "グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Niupipo%20Explorer%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Niupipo%20Explorer%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Niupipo%20Explorer%20Pro",
+    "weight_oz": "8.0-8.2",
+    "length_in": 15.94,
+    "width_in": 7.91,
+    "grip_length_in": 4.96,
+    "grip_circumference_in": 4.45,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Niupipo%20Explorer%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_vinsguir_carbon",
@@ -1065,13 +1871,21 @@
     "product_name": "Carbon Flex",
     "price": 9000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 13,
     "target_demographic": "公園レジャー",
     "design_taste": "派手",
-    "color_variations": "レッド, イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド",
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vinsguir%20Carbon%20Flex",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vinsguir%20Carbon%20Flex/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vinsguir%20Carbon%20Flex",
+    "weight_oz": "7.76-8.11",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vinsguir%20Carbon%20Flex%20pickleball%20paddle"
   },
   {
     "id": "pdl_amazin_aces",
@@ -1079,13 +1893,20 @@
     "product_name": "Signature Wood",
     "price": 4000,
     "paddle_shape": "スクエア",
-    "face_material": "ウッド(木製)",
-    "core_material": "ウッド",
+    "face_material": "Graphite",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 10,
     "target_demographic": "体験用・低予算",
     "design_taste": "木目",
-    "color_variations": "ブラウン",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラウン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Amazin'%20Aces%20Signature%20Wood",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Amazin'%20Aces%20Signature%20Wood/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Amazin'%20Aces%20Signature%20Wood",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20Signature%20Wood%20pickleball%20paddle"
   },
   {
     "id": "pdl_zcebra_gorilla",
@@ -1093,13 +1914,20 @@
     "product_name": "Gorilla Pro",
     "price": 25000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ハニカム",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 16,
     "target_demographic": "ヨーロピアン競技者",
     "design_taste": "ゴリラ柄",
-    "color_variations": "ブラック/ホワイト",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック/ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Zcebra%20Gorilla%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Zcebra%20Gorilla%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Zcebra%20Gorilla%20Pro",
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Zcebra%20Gorilla%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_bigdill_original",
@@ -1107,13 +1935,20 @@
     "product_name": "Original Pickleball",
     "price": 14000,
     "paddle_shape": "標準",
-    "face_material": "グラファイト",
-    "core_material": "ハニカム",
+    "face_material": "Fiberglass",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 13,
     "target_demographic": "ジョーク・プレゼント",
     "design_taste": "ピクルス柄",
-    "color_variations": "グリーン",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "グリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Big%20Dill%20Original%20Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Big%20Dill%20Original%20Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Big%20Dill%20Original%20Pickleball",
+    "weight_oz": "7.5-7.8",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Big%20Dill%20Original%20Pickleball%20pickleball%20paddle"
   },
   {
     "id": "pdl_friday_challenger",
@@ -1121,13 +1956,21 @@
     "product_name": "Challenger 16",
     "price": 15000,
     "paddle_shape": "標準",
-    "face_material": "サンドブラストカーボン",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 16,
     "target_demographic": "2本セット購入者",
     "design_taste": "ポップカラー",
-    "color_variations": "ミント, コーラル",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ミント",
+      "コーラル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Friday%20Challenger%2016",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Friday%20Challenger%2016/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Friday%20Challenger%2016",
+    "weight_oz": "7.8-8.0",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Friday%20Challenger%2016%20pickleball%20paddle"
   },
   {
     "id": "pdl_macgregor_classic",
@@ -1135,13 +1978,20 @@
     "product_name": "Classic PE",
     "price": 5000,
     "paddle_shape": "標準",
-    "face_material": "プラスチック",
-    "core_material": "プラスチック",
+    "face_material": "Composite",
+    "core_material": "Polymer",
     "core_thickness": 12,
     "target_demographic": "学校・体育用",
     "design_taste": "無骨",
-    "color_variations": "イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=MacGregor%20Classic%20PE",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/MacGregor%20Classic%20PE/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=MacGregor%20Classic%20PE",
+    "usapa_approved": false,
+    "weight_oz": "7.5",
+    "image_url": "https://www.google.com/search?tbm=isch&q=MacGregor%20Classic%20PE%20pickleball%20paddle"
   },
   {
     "id": "pdl_joola_gen3_alpha",
@@ -1149,13 +1999,20 @@
     "product_name": "Gen 3 Alpha",
     "price": 38000,
     "paddle_shape": "標準",
-    "face_material": "チタン注入カーボン",
-    "core_material": "プロパルジョンコア",
+    "face_material": "Titanium-Injected Carbon Fiber",
+    "core_material": "Propulsion Core Polymer",
     "core_thickness": 14,
     "target_demographic": "プロ競技者",
     "design_taste": "シルバー",
-    "color_variations": "シルバー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "シルバー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Gen%203%20Alpha",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Gen%203%20Alpha/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Gen%203%20Alpha",
+    "usapa_approved": true,
+    "weight_oz": "8.0",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Gen%203%20Alpha%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_invikta",
@@ -1163,13 +2020,23 @@
     "product_name": "Amped Invikta",
     "price": 22000,
     "paddle_shape": "長方形(Invikta)",
-    "face_material": "FiberFlex",
-    "core_material": "X5ポリマー",
+    "face_material": "FiberFlex Fiberglass",
+    "core_material": "X5 Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "リーチ・パワー",
     "design_taste": "ソリッドカラー",
-    "color_variations": "レッド, ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Amped%20Invikta",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Amped%20Invikta/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Amped%20Invikta",
+    "weight_oz": "7.9-8.4",
+    "length_in": 16.4,
+    "width_in": 7.375,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20Invikta%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_s2",
@@ -1177,13 +2044,23 @@
     "product_name": "Amped S2",
     "price": 22000,
     "paddle_shape": "大面積(ショートハンドル)",
-    "face_material": "FiberFlex",
-    "core_material": "X5ポリマー",
+    "face_material": "FiberFlex Fiberglass",
+    "core_material": "X5 Polypropylene Honeycomb",
     "core_thickness": 16,
     "target_demographic": "卓球出身者・スイートスポット",
     "design_taste": "ソリッドカラー",
-    "color_variations": "グリーン, パープル",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "グリーン",
+      "パープル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Amped%20S2",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Amped%20S2/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Amped%20S2",
+    "weight_oz": "7.9-8.4",
+    "length_in": 15.75,
+    "width_in": 8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20S2%20pickleball%20paddle"
   },
   {
     "id": "pdl_crbn_magnum",
@@ -1191,13 +2068,20 @@
     "product_name": "Magnum 1X",
     "price": 35000,
     "paddle_shape": "長方形",
-    "face_material": "ケブラー/カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber / Kevlar Hybrid",
+    "core_material": "Polymer Honeycomb (Thermoformed Unibody)",
     "core_thickness": 16,
     "target_demographic": "スピンマニア",
     "design_taste": "マットブラック",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20Magnum%201X",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20Magnum%201X/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20Magnum%201X",
+    "usapa_approved": true,
+    "weight_oz": "8.0-8.3",
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Magnum%201X%20pickleball%20paddle"
   },
   {
     "id": "pdl_legacy_pro",
@@ -1205,13 +2089,20 @@
     "product_name": "Legacy Pro 16mm",
     "price": 24000,
     "paddle_shape": "長方形",
-    "face_material": "生カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb (Thermoformed, Foam Injected)",
     "core_thickness": 16,
     "target_demographic": "パワーヒッター",
     "design_taste": "レッドL柄",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Legacy%20Legacy%20Pro%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Legacy%20Legacy%20Pro%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Legacy%20Legacy%20Pro%2016mm",
+    "weight_oz": "8.0-8.4",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Legacy%20Legacy%20Pro%2016mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_spinhaven_velocity",
@@ -1219,13 +2110,20 @@
     "product_name": "Velocity Pro",
     "price": 18000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 14,
     "target_demographic": "初中級",
     "design_taste": "スピンロゴ",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SpinHaven%20Velocity%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SpinHaven%20Velocity%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SpinHaven%20Velocity%20Pro",
+    "weight_oz": "7.9-8.2",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=SpinHaven%20Velocity%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_owl_quiet",
@@ -1233,13 +2131,20 @@
     "product_name": "Quiet Paddle",
     "price": 30000,
     "paddle_shape": "標準",
-    "face_material": "防音フェルト素材",
-    "core_material": "静音ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polymer Honeycomb (静音設計)",
     "core_thickness": 16,
     "target_demographic": "騒音制限コート用",
     "design_taste": "フクロウロゴ",
-    "color_variations": "グレー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=OWL%20Quiet%20Paddle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/OWL%20Quiet%20Paddle/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=OWL%20Quiet%20Paddle",
+    "weight_oz": "7.9",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=OWL%20Quiet%20Paddle%20pickleball%20paddle"
   },
   {
     "id": "pdl_proxr_titan",
@@ -1247,13 +2152,20 @@
     "product_name": "Titan 14",
     "price": 27000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ハニカム",
+    "face_material": "T700 Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 14,
     "target_demographic": "スピード",
     "design_taste": "チタン",
-    "color_variations": "シルバー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "シルバー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=ProXR%20Titan%2014",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/ProXR%20Titan%2014/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProXR%20Titan%2014",
+    "weight_oz": "8.0-8.4",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Titan%2014%20pickleball%20paddle"
   },
   {
     "id": "pdl_paddletek_bantam_ts5",
@@ -1261,13 +2173,26 @@
     "product_name": "Bantam TS-5",
     "price": 16000,
     "paddle_shape": "標準",
-    "face_material": "ポリカーボネート",
-    "core_material": "Bantamコア",
-    "core_thickness": 13,
+    "face_material": "ポリカーボネート(Smart Response Technology)",
+    "core_material": "Bantam Polymer Core",
+    "core_thickness": 14.3,
     "target_demographic": "軽量志向",
     "design_taste": "ベーシック",
-    "color_variations": "ブルー, ピンク",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー",
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Paddletek%20Bantam%20TS-5",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Paddletek%20Bantam%20TS-5/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Bantam%20TS-5",
+    "weight_oz": "7.6-8.1",
+    "length_in": 16,
+    "width_in": 7.875,
+    "grip_length_in": 4.75,
+    "grip_circumference_in": 4.375,
+    "usapa_approved": true,
+    "price_usd": 149.99,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Bantam%20TS-5%20pickleball%20paddle"
   },
   {
     "id": "pdl_vulcan_v510",
@@ -1275,13 +2200,24 @@
     "product_name": "V510 Hybrid",
     "price": 17000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー/カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 13,
     "target_demographic": "初・中級",
     "design_taste": "サイバー",
-    "color_variations": "イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan%20V510%20Hybrid",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan%20V510%20Hybrid/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20V510%20Hybrid",
+    "weight_oz": "7.9",
+    "length_in": 15.5,
+    "width_in": 7.75,
+    "grip_circumference_in": 4.375,
+    "grip_length_in": 4.75,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V510%20Hybrid%20pickleball%20paddle"
   },
   {
     "id": "pdl_engage_omega",
@@ -1289,13 +2225,20 @@
     "product_name": "Omega Evolution",
     "price": 22000,
     "paddle_shape": "長方形",
-    "face_material": "摩擦フリクション",
-    "core_material": "HoldTite",
+    "face_material": "Friction Surface Technology",
+    "core_material": "ControlPro Black Core (HoldTite)",
     "core_thickness": 16,
     "target_demographic": "スピン特化",
     "design_taste": "オメガ",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Omega%20Evolution",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Omega%20Evolution/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Omega%20Evolution",
+    "usapa_approved": true,
+    "weight_oz": "7.9-8.3",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Omega%20Evolution%20pickleball%20paddle"
   },
   {
     "id": "pdl_franklin_christina",
@@ -1303,13 +2246,20 @@
     "product_name": "Christina McGrath Signature",
     "price": 17000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー",
-    "core_material": "ポリマー",
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 13,
     "target_demographic": "女性プレイヤー",
     "design_taste": "ピンク",
-    "color_variations": "ピンク",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20Christina%20McGrath%20Signature",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20Christina%20McGrath%20Signature/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20Christina%20McGrath%20Signature",
+    "weight_oz": "7.5-8.0",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Christina%20McGrath%20Signature%20pickleball%20paddle"
   },
   {
     "id": "pdl_gearbox_cp7",
@@ -1317,13 +2267,21 @@
     "product_name": "CP7 Honeycomb",
     "price": 20000,
     "paddle_shape": "長方形",
-    "face_material": "カーボン",
-    "core_material": "ハニカム(非SST)",
+    "face_material": "Carbon Fiber",
+    "core_material": "SSTCore™ (Solid Span Technology) Carbon Fiber",
     "core_thickness": 14,
     "target_demographic": "ギアボックス入門",
     "design_taste": "シンプル",
-    "color_variations": "ライム",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ライム"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gearbox%20CP7%20Honeycomb",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gearbox%20CP7%20Honeycomb/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20CP7%20Honeycomb",
+    "weight_oz": "7.5-8.0",
+    "usapa_approved": true,
+    "unique_tech": "SST (ハニカム不使用)",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20CP7%20Honeycomb%20pickleball%20paddle"
   },
   {
     "id": "pdl_sixzero_bd_16",
@@ -1331,13 +2289,24 @@
     "product_name": "Black Diamond 16mm",
     "price": 29000,
     "paddle_shape": "エアロカーブ",
-    "face_material": "グラスファイバー/コンポジット",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (Japanese Toray 700K)",
+    "core_material": "Premium Honeycomb Polymer Core + Carbon Fusion Edge",
     "core_thickness": 16,
     "target_demographic": "究極のパワー",
     "design_taste": "ブラック/ホワイト",
-    "color_variations": "ホワイト",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Black%20Diamond%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Black%20Diamond%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Black%20Diamond%2016mm",
+    "weight_oz": "8.0-8.2",
+    "length_in": 16.3,
+    "width_in": 7.7,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Black%20Diamond%2016mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_hudef_hd6",
@@ -1345,13 +2314,22 @@
     "product_name": "HD6.1",
     "price": 14000,
     "paddle_shape": "標準",
-    "face_material": "グラファイト",
-    "core_material": "ポリマー",
-    "core_thickness": 13,
+    "face_material": "Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
+    "core_thickness": 16,
     "target_demographic": "軽量",
     "design_taste": "HD",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Hudef%20HD6.1",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Hudef%20HD6.1/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Hudef%20HD6.1",
+    "weight_oz": "8.0-8.3",
+    "length_in": 15.9,
+    "width_in": 7.9,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Hudef%20HD6.1%20pickleball%20paddle"
   },
   {
     "id": "pdl_joola_senator",
@@ -1359,13 +2337,22 @@
     "product_name": "Senator Pro",
     "price": 28000,
     "paddle_shape": "ワイド",
-    "face_material": "カーボン",
-    "core_material": "レスポンス",
+    "face_material": "Carbon Friction Surface (CFS)",
+    "core_material": "Response Polymer Core",
     "core_thickness": 16,
     "target_demographic": "ディフェンス",
     "design_taste": "セネター",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Senator%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Senator%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Senator%20Pro",
+    "usapa_approved": true,
+    "weight_oz": "8.0",
+    "length_in": 15.75,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Senator%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_crbn_zero",
@@ -1373,13 +2360,22 @@
     "product_name": "Zero 16",
     "price": 20000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass",
+    "core_material": "Polymer Honeycomb",
     "core_thickness": 16,
     "target_demographic": "パワー系CRBN",
     "design_taste": "ホワイトCRBN",
-    "color_variations": "ホワイト",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20Zero%2016",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20Zero%2016/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20Zero%2016",
+    "usapa_approved": true,
+    "weight_oz": "7.8-8.1",
+    "length_in": 16,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Zero%2016%20pickleball%20paddle"
   },
   {
     "id": "pdl_selkirk_slk_evo",
@@ -1387,13 +2383,23 @@
     "product_name": "SLK Evo Power",
     "price": 16000,
     "paddle_shape": "標準",
-    "face_material": "ファイバーグラス",
-    "core_material": "Rev-Core Power",
+    "face_material": "FiberFlex Fiberglass",
+    "core_material": "Rev-Core Power Polymer Honeycomb",
     "core_thickness": 13,
     "target_demographic": "初・中級",
     "design_taste": "EVO",
-    "color_variations": "レッド",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "レッド"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20SLK%20Evo%20Power",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20SLK%20Evo%20Power/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20SLK%20Evo%20Power",
+    "weight_oz": "7.6-8.0",
+    "usapa_approved": true,
+    "product_url": "https://www.selkirk.com/collections/slk-paddles",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20SLK%20Evo%20Power%20pickleball%20paddle",
+    "price_usd": 79.99,
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_babolat_mnstr_touch",
@@ -1401,13 +2407,22 @@
     "product_name": "MNSTR Touch",
     "price": 25000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "EVAブレンド",
+    "face_material": "100% Fiberglass (RPM Grit Technology)",
+    "core_material": "EVA enclosed Polypropylene Honeycomb",
     "core_thickness": 13,
     "target_demographic": "コントロール重視",
     "design_taste": "ブルー",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20MNSTR%20Touch",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20MNSTR%20Touch/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20MNSTR%20Touch",
+    "weight_oz": "7.6",
+    "length_in": 16.1,
+    "width_in": 7.8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20MNSTR%20Touch%20pickleball%20paddle"
   },
   {
     "id": "pdl_prince_synergy_pro",
@@ -1415,13 +2430,22 @@
     "product_name": "Synergy Pro",
     "price": 24000,
     "paddle_shape": "標準",
-    "face_material": "グラファイト",
-    "core_material": "ポリマー",
-    "core_thickness": 14,
+    "face_material": "Fiberglass",
+    "core_material": "Polymer Honeycomb",
+    "core_thickness": 16,
     "target_demographic": "オールラウンド",
     "design_taste": "丸型ではない",
-    "color_variations": "イエロー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Prince%20Synergy%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Prince%20Synergy%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prince%20Synergy%20Pro",
+    "weight_oz": "7.8-8.2",
+    "length_in": 15.75,
+    "width_in": 8,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Synergy%20Pro%20pickleball%20paddle"
   },
   {
     "id": "pdl_gamma_micron",
@@ -1429,13 +2453,24 @@
     "product_name": "Micron 2.0",
     "price": 12000,
     "paddle_shape": "標準",
-    "face_material": "グラスファイバー",
-    "core_material": "アラミド",
-    "core_thickness": 11,
+    "face_material": "Textured Fiberglass",
+    "core_material": "Aramid/Nomex Honeycomb",
+    "core_thickness": null,
     "target_demographic": "超軽量",
     "design_taste": "ブルー",
-    "color_variations": "ブルー",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gamma%20Micron%202.0",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gamma%20Micron%202.0/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma%20Micron%202.0",
+    "weight_oz": "7.6-8.1",
+    "length_in": 15.75,
+    "width_in": 7.75,
+    "grip_length_in": 5.25,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Micron%202.0%20pickleball%20paddle"
   },
   {
     "id": "pdl_asics_gel_paddle",
@@ -1443,13 +2478,22 @@
     "product_name": "Gel Resolution Paddle",
     "price": 22000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass",
+    "core_material": "Polypropylene Honeycomb",
     "core_thickness": 14,
     "target_demographic": "シューズ連動",
     "design_taste": "ゲル",
-    "color_variations": "ホワイト",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Asics%20Gel%20Resolution%20Paddle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics%20Gel%20Resolution%20Paddle/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics%20Gel%20Resolution%20Paddle",
+    "usapa_approved": true,
+    "weight_oz": "8.0",
+    "length_in": 16,
+    "width_in": 8,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel%20Resolution%20Paddle%20pickleball%20paddle"
   },
   {
     "id": "pdl_wilson_profile",
@@ -1457,13 +2501,22 @@
     "product_name": "Profile",
     "price": 13000,
     "paddle_shape": "標準",
-    "face_material": "コンポジット",
-    "core_material": "ポリマー",
+    "face_material": "Fiberglass",
+    "core_material": "Honeycomb Polymer",
     "core_thickness": 13,
     "target_demographic": "入門",
     "design_taste": "ウィルソン",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20Profile",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20Profile/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20Profile",
+    "weight_oz": "7.6",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Profile%20pickleball%20paddle",
+    "price_usd": 89.99,
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_vatic_pro_alchemy",
@@ -1471,13 +2524,23 @@
     "product_name": "Alchemy 16mm",
     "price": 24000,
     "paddle_shape": "長方形",
-    "face_material": "生カーボン",
-    "core_material": "ポリマー",
+    "face_material": "Raw Carbon Fiber (Toray T700)",
+    "core_material": "C7 Polymers Honeycomb + Foam Injected Walls",
     "core_thickness": 16,
     "target_demographic": "スピンと耐久性",
     "design_taste": "パープル",
-    "color_variations": "パープル",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "パープル"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vatic%20Pro%20Alchemy%2016mm",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vatic%20Pro%20Alchemy%2016mm/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vatic%20Pro%20Alchemy%2016mm",
+    "usapa_approved": true,
+    "weight_oz": "7.9-8.2",
+    "length_in": 16.2,
+    "width_in": 7.7,
+    "grip_circumference_in": 4.25,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vatic%20Pro%20Alchemy%2016mm%20pickleball%20paddle"
   },
   {
     "id": "pdl_ronbus_r2_pulsar",
@@ -1485,12 +2548,192 @@
     "product_name": "R2 Pulsar",
     "price": 27000,
     "paddle_shape": "標準",
-    "face_material": "カーボン",
-    "core_material": "ポリマー",
-    "core_thickness": 14,
+    "face_material": "Raw Carbon Fiber (Toray T700)",
+    "core_material": "Polypropylene Honeycomb",
+    "core_thickness": 16,
     "target_demographic": "スピードと操作性",
     "design_taste": "スタンダード",
-    "color_variations": "ブラック",
-    "amazon_url": "https://amazon.co.jp/dp/dummy"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Ronbus%20R2%20Pulsar",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Ronbus%20R2%20Pulsar/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Ronbus%20R2%20Pulsar",
+    "weight_oz": "7.8-8.2",
+    "length_in": 16,
+    "width_in": 8,
+    "grip_length_in": 5.5,
+    "grip_circumference_in": 4.125,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Ronbus%20R2%20Pulsar%20pickleball%20paddle"
+  },
+  {
+    "id": "pdl_bnb_loco",
+    "brand_name": "Bread & Butter",
+    "product_name": "Loco",
+    "face_material": "Raw Carbon Fiber (T700)",
+    "core_material": "Polypropylene Honeycomb (Foam Injected)",
+    "core_thickness": 16,
+    "weight_oz": "8.0-8.3",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "paddle_shape": "Elongated(長方形)",
+    "description": "2025年ベストハイブリッドパドル。コントロールとパワーの絶妙なバランス。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Bread%20%26%20Butter%20Loco%20pickleball%20paddle"
+  },
+  {
+    "id": "pdl_bnb_filth",
+    "brand_name": "Bread & Butter",
+    "product_name": "The Filth",
+    "face_material": "Raw Carbon Fiber",
+    "core_material": "Polypropylene Honeycomb",
+    "core_thickness": 14,
+    "weight_oz": "8.2-8.5",
+    "usapa_approved": true,
+    "paddle_shape": "Elongated(長方形)",
+    "description": "2025年パワー重視の予算向けベストパドル。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Bread%20%26%20Butter%20The%20Filth%20pickleball%20paddle"
+  },
+  {
+    "id": "pdl_honolulu_j2nf",
+    "brand_name": "Honolulu Pickleball Co",
+    "product_name": "Sword & Shield J2NF",
+    "face_material": "Raw Carbon Fiber",
+    "core_material": "Foam Core (Thermoformed)",
+    "core_thickness": 16,
+    "weight_oz": "8.0-8.3",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "paddle_shape": "Elongated(長方形)",
+    "description": "2025年最高評価のフォームパドル。パワー・スピン・コントロール全てにおいて高スコア。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Honolulu%20Pickleball%20Co%20Sword%20%26%20Shield%20J2NF%20pickleball%20paddle"
+  },
+  {
+    "id": "pdl_crbn_trufoam_genesis",
+    "brand_name": "CRBN",
+    "product_name": "TruFoam Genesis",
+    "face_material": "Raw Carbon Fiber (T700)",
+    "core_material": "TruFoam Core (Thermoformed)",
+    "core_thickness": 16,
+    "weight_oz": "8.0-8.3",
+    "length_in": 16.5,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "paddle_shape": "Elongated(長方形)",
+    "description": "CRBNの最新フォームコアパドル。エリートレベルのスピン・パワー・コントロール。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://crbnpickleball.com/products/trufoam-genesis",
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20TruFoam%20Genesis%20pickleball%20paddle",
+    "price_usd": 249.99,
+    "price_tier": "プレミアム"
+  },
+  {
+    "id": "pdl_selkirk_labs_007",
+    "brand_name": "Selkirk",
+    "product_name": "Labs Project 007",
+    "face_material": "Carbon Fiber (ProSpin+ NextGen)",
+    "core_material": "SuperCore Polymer Honeycomb + FlexFoam Perimeter",
+    "core_thickness": 16,
+    "weight_oz": "7.8-8.2",
+    "usapa_approved": true,
+    "paddle_shape": "Elongated(長方形)",
+    "description": "2025年Selkirkの最新ラボシリーズ。最高峰のスイートスポットとスピン性能。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "length_in": 16.4,
+    "width_in": 7.4,
+    "product_url": "https://www.selkirk.com/products/labs-project-007",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Labs%20Project%20007%20pickleball%20paddle",
+    "price_usd": 299.99,
+    "price_tier": "プレミアム"
+  },
+  {
+    "id": "pdl_selkirk_luxx_control",
+    "brand_name": "Selkirk",
+    "product_name": "LUXX Control Air Epic",
+    "face_material": "Carbon Fiber (ProSpin+)",
+    "core_material": "SuperCore Polymer + Air Dynamic Throat",
+    "core_thickness": 16,
+    "weight_oz": "7.7-8.2",
+    "usapa_approved": true,
+    "paddle_shape": "Elongated(長方形)",
+    "description": "2025年コントロール特化パドル。Air Dynamic Throatで空気抵抗を軽減。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "length_in": 16.5,
+    "width_in": 7.375,
+    "product_url": "https://www.selkirk.com/products/luxx-control-air-epic",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20LUXX%20Control%20Air%20Epic%20pickleball%20paddle",
+    "price_usd": 279.99,
+    "price_tier": "プレミアム"
+  },
+  {
+    "id": "pdl_electrum_elite",
+    "brand_name": "Electrum",
+    "product_name": "Model E Elite",
+    "face_material": "Raw Carbon Fiber",
+    "core_material": "Polymer Honeycomb (Foam Injected Perimeter)",
+    "core_thickness": 14,
+    "weight_oz": "7.9-8.2",
+    "length_in": 16,
+    "width_in": 8,
+    "usapa_approved": true,
+    "paddle_shape": "Standard(標準)",
+    "description": "2025年スピン特化パドル。フォーム注入ペリメータで安定性向上。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Electrum%20Model%20E%20Elite%20pickleball%20paddle"
+  },
+  {
+    "id": "pdl_sixzero_coral",
+    "brand_name": "Six Zero",
+    "product_name": "Coral",
+    "face_material": "Carbon Fiber (Japanese Toray)",
+    "core_material": "Honeycomb Polymer Core",
+    "core_thickness": 16,
+    "weight_oz": "8.0-8.2",
+    "length_in": 16.3,
+    "width_in": 7.5,
+    "usapa_approved": true,
+    "paddle_shape": "Hybrid(AeroCurve)",
+    "description": "初級〜中級者向けの寛容性の高いオールコートパドル。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Six%20Zero%20Coral%20pickleball%20paddle"
   }
 ]

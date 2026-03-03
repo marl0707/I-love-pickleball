@@ -49,13 +49,16 @@
   },
   {
     "id": "cert_jpa_instructor",
-    "name": "JPA公認指導者資格",
-    "issuing_body": "日本ピックルボール協会 (JPA)",
-    "description": "日本国内でピックルボールの指導を行うための公式資格。JPAの研修プログラム修了と実技審査を経て取得。",
+    "name": "JPA公認指導者資格（5段階制）",
+    "issuing_body": "一般社団法人日本ピックルボール協会 (JPA)",
+    "description": "日本国内でピックルボールの指導を行うための公式段階式資格。ディフューザー(2h/3,300円)から始まり、コーディネーター(4h/9,900円)を経て上位資格へ進む。国際大会派遣選考にも関連。",
     "target_audience": "日本国内でコーチ活動を行いたい方",
     "levels": [
-      "JPA公認インストラクター",
-      "JPA公認コーチ"
+      "ディフューザー（初心者向けルール説明・基本指導/2時間）",
+      "コーディネーター（PBの楽しさを伝える指導法/4時間）",
+      "スタートコーチ（初〜初中級者指導/コーディネーター取得後1年以上+筆記・実技試験）",
+      "コーチ（準備中）",
+      "マスタートレーナー（準備中）"
     ],
     "website_url": "https://japanpickleball.org/"
   },
@@ -91,5 +94,41 @@
       "Selkirk Certified Coach"
     ],
     "website_url": "https://www.selkirk.com/"
+  },
+  {
+    "id": "cert_pjf_ambassador",
+    "name": "PJF公認アンバサダー / RPO国際コーチ資格",
+    "issuing_body": "一般財団法人ピックルボール日本連盟 (PJF)",
+    "description": "PJFが提供する普及活動向けのアンバサダー資格（10,000円、2025年末まで半額5,000円）と、RPO(Racket Pro)と提携した国際コーチ資格(Lv1-3)。RPOコーチ実技試験はPJFチャンピオンシップス大会時に実施。",
+    "target_audience": "PBの普及や指導に興味がある方、プロ選手へのコーチングを目指す方",
+    "levels": [
+      "PJF公認アンバサダー（普及活動/10,000円）",
+      "RPO国際コーチ Level 1",
+      "RPO国際コーチ Level 2",
+      "RPO国際コーチ Level 3"
+    ],
+    "website_url": "https://pickleball-japan.org/"
+  },
+  {
+    "id": "cert_jpa_referee",
+    "name": "JPA公認審判員（レベル1）",
+    "issuing_body": "一般社団法人日本ピックルボール協会 (JPA)",
+    "description": "JPA主催・公認大会で審判活動を行うための公式資格。全国各地で講習会が定期的に開催されている。レフェリーレベル1は基本的な審判技術とルール運用を学ぶ。",
+    "target_audience": "審判活動に興味がある方（プレー経験推奨）",
+    "levels": [
+      "レフェリー レベル1"
+    ],
+    "website_url": "https://japanpickleball.org/"
+  },
+  {
+    "id": "cert_pjf_referee",
+    "name": "PJF公認レフェリー",
+    "issuing_body": "一般財団法人ピックルボール日本連盟 (PJF)",
+    "description": "PJF主催大会および提携大会で審判活動を行うための公式レフェリー資格。PJF個人会員登録が必要。",
+    "target_audience": "PJF大会での審判活動を目指す方",
+    "levels": [
+      "PJF公認レフェリー"
+    ],
+    "website_url": "https://pickleball-japan.org/"
   }
 ]

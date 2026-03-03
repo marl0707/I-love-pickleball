@@ -12,7 +12,15 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+X-40+Pickleballs",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+X-40+Pickleballs/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Pickleballs"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Pickleballs",
+    "weight_grams": 26,
+    "diameter_mm": 74,
+    "hole_count": 40,
+    "material": "ポリエチレン",
+    "bounce_height_cm": null,
+    "official_tournament": "US Open Pickleball Championships 公式球",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Outdoor%20Pickleballs%20pickleball"
   },
   {
     "id": "ball_dura_fast_40",
@@ -26,7 +34,13 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Dura+Fast+40+Pickleballs",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dura+Fast+40+Pickleballs/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura+Fast+40+Pickleballs"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura+Fast+40+Pickleballs",
+    "weight_grams": 26,
+    "hole_count": 40,
+    "material": "ポリエチレン(硬質)",
+    "official_tournament": "PPA Tour頻出使用球",
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Dura%20Fast%2040%20Outdoor%20pickleball"
   },
   {
     "id": "ball_joola_primo",
@@ -39,7 +53,10 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Primo+Pickleballs",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Primo+Pickleballs/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Primo+Pickleballs"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Primo+Pickleballs",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Primo%20Pickleballs%20pickleball"
   },
   {
     "id": "ball_onix_fuse_indoor",
@@ -53,7 +70,10 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Onix+Fuse+Indoor+Pickleballs",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Onix+Fuse+Indoor+Pickleballs/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix+Fuse+Indoor+Pickleballs"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix+Fuse+Indoor+Pickleballs",
+    "hole_count": 26,
+    "usapa_approved": false,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Fuse%20Indoor%20Pickleballs%20pickleball"
   },
   {
     "id": "ball_vulcan_v520",
@@ -67,67 +87,78 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan+V520+Pickleballs",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan+V520+Pickleballs/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+V520+Pickleballs"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+V520+Pickleballs",
+    "hole_count": 26,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20Control%20Indoor%20pickleball"
   },
   {
-    "category": "Pickleball Balls",
-    "description": "ピックルボールの公式試合や練習で使用される代表的なボールのデータです。屋内用（インドア）と屋外用（アウトドア）で穴の数や硬さが異なります。",
-    "items": [
-      {
-        "id": "franklin-x-40",
-        "brand": "Franklin",
-        "model": "X-40",
-        "type": "Outdoor",
-        "holes": 40,
-        "weight_grams": 26,
-        "features": [
-          "USAPA公認球",
-          "多くのメジャートーナメント（US Openなど）での公式球",
-          "耐久性と飛行の安定性に優れる",
-          "やや柔らかめの打感"
-        ],
-        "best_for": "屋外コートでの標準的なプレイ、初心者からプロまで",
-        "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+X-40+Pickleball",
-        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+X-40+Pickleball/",
-        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Pickleball"
-      },
-      {
-        "id": "dura-fast-40",
-        "brand": "Dura",
-        "model": "Fast 40",
-        "type": "Outdoor",
-        "holes": 40,
-        "weight_grams": 26,
-        "features": [
-          "USAPA公認球",
-          "PPAツアーなどのプロトーナメントで頻繁に使用される",
-          "硬めの素材でスピードが出やすい",
-          "X-40に比べると寒冷地での耐久性にやや難がある（割れやすい）"
-        ],
-        "best_for": "スピードと攻撃的なプレイを好む上級者・プロ",
-        "amazon_url": "https://www.amazon.co.jp/s?k=Dura+Fast+40+Pickleball",
-        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dura+Fast+40+Pickleball/",
-        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura+Fast+40+Pickleball"
-      },
-      {
-        "id": "vulcan-v520",
-        "brand": "Vulcan",
-        "model": "V520",
-        "type": "Indoor",
-        "holes": 26,
-        "weight_grams": 26,
-        "features": [
-          "USAPA公認球",
-          "インドア環境（体育館の床など）に最適化",
-          "スキッド（滑り）を軽減する表面加工",
-          "穴の数が少なく、風の影響を受けない屋内での正確なバウンスを実現"
-        ],
-        "best_for": "屋内の木製・合成床コートでのプレイ",
-        "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan+V520+Pickleball",
-        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan+V520+Pickleball/",
-        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+V520+Pickleball"
-      }
-    ]
+    "id": "franklin-x-40",
+    "brand_name": "Franklin",
+    "product_name": "X-40",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": [],
+    "weight_grams": 26,
+    "features": [
+      "USAPA公認球",
+      "多くのメジャートーナメント（US Openなど）での公式球",
+      "耐久性と飛行の安定性に優れる",
+      "やや柔らかめの打感"
+    ],
+    "best_for": "屋外コートでの標準的なプレイ、初心者からプロまで",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+X-40+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+X-40+Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+X-40+Pickleball",
+    "hole_count": 40,
+    "diameter_mm": 74,
+    "usapa_approved": true,
+    "official_tournament": "US Open Pickleball Championships 公式球",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20pickleball"
+  },
+  {
+    "id": "dura-fast-40",
+    "brand_name": "Dura",
+    "product_name": "Fast 40",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "アウトドア用(40穴)",
+    "color_variations": [],
+    "weight_grams": 26,
+    "features": [
+      "USAPA公認球",
+      "PPAツアーなどのプロトーナメントで頻繁に使用される",
+      "硬めの素材でスピードが出やすい",
+      "X-40に比べると寒冷地での耐久性にやや難がある（割れやすい）"
+    ],
+    "best_for": "スピードと攻撃的なプレイを好む上級者・プロ",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Dura+Fast+40+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dura+Fast+40+Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura+Fast+40+Pickleball",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Fast%2040%20pickleball"
+  },
+  {
+    "id": "vulcan-v520",
+    "brand_name": "Vulcan",
+    "product_name": "V520",
+    "grade": "公式大会使用球(USAP承認)",
+    "ball_type": "インドア用(26穴)",
+    "color_variations": [],
+    "weight_grams": 26,
+    "features": [
+      "USAPA公認球",
+      "インドア環境（体育館の床など）に最適化",
+      "スキッド（滑り）を軽減する表面加工",
+      "穴の数が少なく、風の影響を受けない屋内での正確なバウンスを実現"
+    ],
+    "best_for": "屋内の木製・合成床コートでのプレイ",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan+V520+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan+V520+Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan+V520+Pickleball",
+    "hole_count": 26,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20pickleball"
   },
   {
     "id": "ball_01",
@@ -135,7 +166,18 @@
     "product_name": "X-40 Outdoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー, オレンジ"
+    "color_variations": [
+      "ネオンイエロー",
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20X-40%20Outdoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20X-40%20Outdoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20X-40%20Outdoor",
+    "weight_grams": 26,
+    "hole_count": 40,
+    "usapa_approved": true,
+    "official_tournament": "US Open Pickleball Championships 公式球",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Outdoor%20pickleball"
   },
   {
     "id": "ball_02",
@@ -143,7 +185,16 @@
     "product_name": "X-26 Indoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "インドア用(26穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20X-26%20Indoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20X-26%20Indoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20X-26%20Indoor",
+    "weight_grams": 24,
+    "hole_count": 26,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-26%20Indoor%20pickleball"
   },
   {
     "id": "ball_03",
@@ -151,7 +202,16 @@
     "product_name": "X-40 Performance",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "オレンジ"
+    "color_variations": [
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20X-40%20Performance",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20X-40%20Performance/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20X-40%20Performance",
+    "weight_grams": 26,
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Performance%20pickleball"
   },
   {
     "id": "ball_04",
@@ -159,7 +219,17 @@
     "product_name": "Dura Fast 40",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー, ネオンオレンジ"
+    "color_variations": [
+      "ネオンイエロー",
+      "ネオンオレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Dura%20Dura%20Fast%2040",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dura%20Dura%20Fast%2040/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dura%20Dura%20Fast%2040",
+    "weight_grams": 26,
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Dura%20Fast%2040%20pickleball"
   },
   {
     "id": "ball_05",
@@ -167,7 +237,15 @@
     "product_name": "Fuse G2 Outdoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Onix%20Fuse%20G2%20Outdoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Onix%20Fuse%20G2%20Outdoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix%20Fuse%20G2%20Outdoor",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Fuse%20G2%20Outdoor%20pickleball"
   },
   {
     "id": "ball_06",
@@ -175,7 +253,15 @@
     "product_name": "Pure 2 Indoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "インドア用(26穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Onix%20Pure%202%20Indoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Onix%20Pure%202%20Indoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix%20Pure%202%20Indoor",
+    "hole_count": 26,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Pure%202%20Indoor%20pickleball"
   },
   {
     "id": "ball_07",
@@ -183,7 +269,14 @@
     "product_name": "CORE Pickleball Indoor",
     "grade": "準公式球",
     "ball_type": "インドア用(26穴)",
-    "color_variations": "オレンジ"
+    "color_variations": [
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CORE%20CORE%20Pickleball%20Indoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CORE%20CORE%20Pickleball%20Indoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CORE%20CORE%20Pickleball%20Indoor",
+    "hole_count": 26,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CORE%20CORE%20Pickleball%20Indoor%20pickleball"
   },
   {
     "id": "ball_08",
@@ -191,15 +284,14 @@
     "product_name": "CORE Pickleball Outdoor",
     "grade": "準公式球",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー"
-  },
-  {
-    "id": "ball_09",
-    "brand_name": "Vulcan",
-    "product_name": "V520 Control Indoor",
-    "grade": "公式大会使用球(USAP承認)",
-    "ball_type": "インドア用(26穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CORE%20CORE%20Pickleball%20Outdoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CORE%20CORE%20Pickleball%20Outdoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CORE%20CORE%20Pickleball%20Outdoor",
+    "hole_count": 40,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CORE%20CORE%20Pickleball%20Outdoor%20pickleball"
   },
   {
     "id": "ball_10",
@@ -207,15 +299,30 @@
     "product_name": "Radius Outdoor Ball",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Radius%20Outdoor%20Ball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Radius%20Outdoor%20Ball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Radius%20Outdoor%20Ball",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Radius%20Outdoor%20Ball%20pickleball"
   },
   {
     "id": "ball_11",
     "brand_name": "JOOLA",
     "product_name": "Junior Soft Ball",
     "grade": "練習用",
-    "ball_type": "インドア用(26穴)",
-    "color_variations": "ピンク, ブルー"
+    "ball_type": "ジュニア/練習用(ソフト)",
+    "color_variations": [
+      "ピンク",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Junior%20Soft%20Ball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Junior%20Soft%20Ball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Junior%20Soft%20Ball",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Junior%20Soft%20Ball%20pickleball"
   },
   {
     "id": "ball_12",
@@ -223,15 +330,32 @@
     "product_name": "Pro S1 Outdoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー, ホワイト"
+    "color_variations": [
+      "ネオンイエロー",
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Pro%20S1%20Outdoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Pro%20S1%20Outdoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Pro%20S1%20Outdoor",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Pro%20S1%20Outdoor%20pickleball"
   },
   {
     "id": "ball_13",
     "brand_name": "Gamma",
     "product_name": "Foam Quiet Ball",
     "grade": "練習用",
-    "ball_type": "インドア用(26穴)",
-    "color_variations": "イエロー, オレンジ"
+    "ball_type": "静音ボール(フォーム)",
+    "color_variations": [
+      "イエロー",
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Gamma%20Foam%20Quiet%20Ball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Gamma%20Foam%20Quiet%20Ball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma%20Foam%20Quiet%20Ball",
+    "features": "騒音制限コート向け静音フォームボール",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Foam%20Quiet%20Ball%20pickleball"
   },
   {
     "id": "ball_14",
@@ -239,15 +363,32 @@
     "product_name": "Penn 40 Outdoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20Penn%2040%20Outdoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20Penn%2040%20Outdoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Penn%2040%20Outdoor",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "official_tournament": "USA Pickleball認定ボール",
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Penn%2040%20Outdoor%20pickleball"
   },
   {
     "id": "ball_15",
     "brand_name": "Wilson",
     "product_name": "Tru 32 Pro",
     "grade": "準公式球",
-    "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ホワイト"
+    "ball_type": "ハイブリッド(32穴)",
+    "color_variations": [
+      "ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20Tru%2032%20Pro",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20Tru%2032%20Pro/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20Tru%2032%20Pro",
+    "hole_count": 32,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Tru%2032%20Pro%20pickleball"
   },
   {
     "id": "ball_16",
@@ -255,23 +396,45 @@
     "product_name": "Tour Ball",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Tour%20Ball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Tour%20Ball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Tour%20Ball",
+    "hole_count": 40,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Ball%20pickleball"
   },
   {
     "id": "ball_17",
     "brand_name": "Amazin' Aces",
     "product_name": "練習用6個入り",
     "grade": "練習用",
-    "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー, ネオンオレンジ, ネオンピンク"
+    "ball_type": "練習用(6個入り)",
+    "color_variations": [
+      "ネオンイエロー",
+      "ネオンオレンジ",
+      "ネオンピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A%20pickleball"
   },
   {
     "id": "ball_18",
     "brand_name": "Niupipo",
     "product_name": "Indoor Ball 12個入り",
     "grade": "練習用",
-    "ball_type": "インドア用(26穴)",
-    "color_variations": "ネオンイエロー"
+    "ball_type": "インドア用(26穴/練習用)",
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Niupipo%20Indoor%20Ball%2012%E5%80%8B%E5%85%A5%E3%82%8A",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Niupipo%20Indoor%20Ball%2012%E5%80%8B%E5%85%A5%E3%82%8A/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Niupipo%20Indoor%20Ball%2012%E5%80%8B%E5%85%A5%E3%82%8A",
+    "hole_count": 26,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Niupipo%20Indoor%20Ball%2012%E5%80%8B%E5%85%A5%E3%82%8A%20pickleball"
   },
   {
     "id": "ball_19",
@@ -279,7 +442,15 @@
     "product_name": "CRBN Pro Outdoor",
     "grade": "公式大会使用球(USAP承認)",
     "ball_type": "アウトドア用(40穴)",
-    "color_variations": "ネオンイエロー"
+    "color_variations": [
+      "ネオンイエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20CRBN%20Pro%20Outdoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20CRBN%20Pro%20Outdoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%20Pro%20Outdoor",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%20Pro%20Outdoor%20pickleball"
   },
   {
     "id": "ball_20",
@@ -287,6 +458,84 @@
     "product_name": "Ultra Soft Indoor",
     "grade": "練習用",
     "ball_type": "インドア用(26穴)",
-    "color_variations": "グリーン"
+    "color_variations": [
+      "グリーン"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Prokennex%20Ultra%20Soft%20Indoor",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Prokennex%20Ultra%20Soft%20Indoor/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prokennex%20Ultra%20Soft%20Indoor",
+    "hole_count": 26,
+    "features": "超ソフトタッチ",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Prokennex%20Ultra%20Soft%20Indoor%20pickleball"
+  },
+  {
+    "id": "ball_selkirk_pro_s1_gold",
+    "brand_name": "Selkirk",
+    "product_name": "Pro S1 Gold Outdoor",
+    "ball_type": "アウトドア用(40穴)",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "description": "Selkirk公式アウトドアボール。PPA Tour選定球。",
+    "color_variations": [
+      "Yellow"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Pro%20S1%20Gold%20Outdoor%20pickleball"
+  },
+  {
+    "id": "ball_wilson_tru32_indoor",
+    "brand_name": "Wilson",
+    "product_name": "TRU 32 Indoor",
+    "ball_type": "インドア用(32穴)",
+    "hole_count": 32,
+    "usapa_approved": true,
+    "description": "Wilson独自の32穴デザイン。インドアプレイ向け。",
+    "color_variations": [
+      "Yellow"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20TRU%2032%20Indoor%20pickleball"
+  },
+  {
+    "id": "ball_head_penn26_indoor",
+    "brand_name": "HEAD",
+    "product_name": "Penn 26 Indoor Pickleball",
+    "ball_type": "indoor",
+    "hole_count": 26,
+    "weight_oz": 0.81,
+    "diameter_in": 2.9,
+    "usapa_approved": true,
+    "description": "HEAD Penn 26ホールインドアボール。軽量0.81oz。柔らかめの打球感。",
+    "color_variations": [
+      "Yellow"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Penn%2026%20Indoor%20Pickleball%20pickleball"
+  },
+  {
+    "id": "ball_engage_tour",
+    "brand_name": "Engage",
+    "product_name": "Tour Outdoor Pickleball",
+    "ball_type": "outdoor",
+    "hole_count": 40,
+    "usapa_approved": true,
+    "description": "Engage公式トーナメントボール。一貫した飛行と耐久性。",
+    "color_variations": [
+      "Yellow"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Outdoor%20Pickleball%20pickleball"
   }
 ]

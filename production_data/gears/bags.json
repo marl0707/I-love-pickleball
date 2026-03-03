@@ -15,7 +15,20 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA+Tour+Elite+Pickleball+Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA+Tour+Elite+Pickleball+Bag/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Tour+Elite+Pickleball+Bag"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Tour+Elite+Pickleball+Bag",
+    "capacity_liters": 45,
+    "dimensions": "21.25\" x 11.75\" x 11\"",
+    "weight_lbs": 3,
+    "features": [
+      "デュアル断熱パドルコンパートメント（温度保護）",
+      "防水・拭き取り可能な内装ライニング",
+      "バックパック/ダッフル2WAYコンバーチブルデザイン",
+      "インテリアスナップ式シューズバッグ",
+      "隠し貴重品ポケット",
+      "格納式フェンスフック",
+      "機内持ち込みサイズ対応"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pro%20Pickleball%20Bag%20pickleball"
   },
   {
     "id": "bag_franklin_pro_series",
@@ -33,7 +46,8 @@
     ],
     "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+Pro+Series+Pickleball+Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+Pro+Series+Pickleball+Bag/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Pro+Series+Pickleball+Bag"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Pro+Series+Pickleball+Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Pro%20Series%20Pickleball%20Paddle%20Bag%20pickleball"
   },
   {
     "id": "bag_01",
@@ -45,7 +59,14 @@
     "has_shoe_pocket": true,
     "has_fence_hook": true,
     "has_thermal_pocket": true,
-    "color_variations": "ブラック, グレー"
+    "color_variations": [
+      "ブラック",
+      "グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Tour%20Elite%20Pro%20Bag",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Tour%20Elite%20Pro%20Bag/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Tour%20Elite%20Pro%20Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pro%20Bag%20pickleball"
   },
   {
     "id": "bag_02",
@@ -57,7 +78,14 @@
     "has_shoe_pocket": true,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック, ブルー"
+    "color_variations": [
+      "ブラック",
+      "ブルー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Core%20Series%20Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Core%20Series%20Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Core%20Series%20Backpack",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Core%20Series%20Backpack%20pickleball"
   },
   {
     "id": "bag_03",
@@ -69,7 +97,13 @@
     "has_shoe_pocket": true,
     "has_fence_hook": true,
     "has_thermal_pocket": true,
-    "color_variations": "ブラック"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Team%20Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Team%20Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Team%20Backpack",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Team%20Backpack%20pickleball"
   },
   {
     "id": "bag_04",
@@ -81,7 +115,14 @@
     "has_shoe_pocket": false,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック, ピンク"
+    "color_variations": [
+      "ブラック",
+      "ピンク"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20PB%20Sling%20Bag",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20PB%20Sling%20Bag/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20PB%20Sling%20Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20PB%20Sling%20Bag%20pickleball"
   },
   {
     "id": "bag_05",
@@ -93,7 +134,13 @@
     "has_shoe_pocket": true,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20Pro%20Team%20Duffle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20Pro%20Team%20Duffle/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20Pro%20Team%20Duffle",
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Pro%20Team%20Duffle%20pickleball"
   },
   {
     "id": "bag_06",
@@ -105,7 +152,14 @@
     "has_shoe_pocket": true,
     "has_fence_hook": true,
     "has_thermal_pocket": false,
-    "color_variations": "レッド, ブラック"
+    "color_variations": [
+      "レッド",
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Tour%20Bag",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Tour%20Bag/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Tour%20Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Bag%20pickleball"
   },
   {
     "id": "bag_07",
@@ -117,7 +171,14 @@
     "has_shoe_pocket": false,
     "has_fence_hook": false,
     "has_thermal_pocket": true,
-    "color_variations": "ティール, グレー"
+    "color_variations": [
+      "ティール",
+      "グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Vision%20II%20Deluxe%20Bag",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Vision%20II%20Deluxe%20Bag/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Vision%20II%20Deluxe%20Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Vision%20II%20Deluxe%20Bag%20pickleball"
   },
   {
     "id": "bag_08",
@@ -129,7 +190,13 @@
     "has_shoe_pocket": true,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック/イエロー"
+    "color_variations": [
+      "ブラック/イエロー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Paddletek%20Tour%20Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Paddletek%20Tour%20Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Tour%20Backpack",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Tour%20Backpack%20pickleball"
   },
   {
     "id": "bag_09",
@@ -141,7 +208,14 @@
     "has_shoe_pocket": true,
     "has_fence_hook": true,
     "has_thermal_pocket": false,
-    "color_variations": "ブルー, ブラック"
+    "color_variations": [
+      "ブルー",
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan%20Premium%20Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan%20Premium%20Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20Premium%20Backpack",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20Premium%20Backpack%20pickleball"
   },
   {
     "id": "bag_10",
@@ -153,7 +227,15 @@
     "has_shoe_pocket": false,
     "has_fence_hook": false,
     "has_thermal_pocket": true,
-    "color_variations": "ピンク, ミント, デニム"
+    "color_variations": [
+      "ピンク",
+      "ミント",
+      "デニム"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Nettie%20Court%20Tote",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nettie%20Court%20Tote/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nettie%20Court%20Tote",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nettie%20Court%20Tote%20pickleball"
   },
   {
     "id": "bag_11",
@@ -165,7 +247,14 @@
     "has_shoe_pocket": true,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック, ティール"
+    "color_variations": [
+      "ブラック",
+      "ティール"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon%20Court%20Duffle",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon%20Court%20Duffle/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon%20Court%20Duffle",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Court%20Duffle%20pickleball"
   },
   {
     "id": "bag_12",
@@ -177,7 +266,13 @@
     "has_shoe_pocket": false,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック/ホワイト"
+    "color_variations": [
+      "ブラック/ホワイト"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20Court%20Advantage%20Backpack",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20Court%20Advantage%20Backpack/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20Court%20Advantage%20Backpack",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Advantage%20Backpack%20pickleball"
   },
   {
     "id": "bag_13",
@@ -189,7 +284,13 @@
     "has_shoe_pocket": true,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "オレンジ/グレー"
+    "color_variations": [
+      "オレンジ/グレー"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20Radical%2012R%20Monstercombi",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20Radical%2012R%20Monstercombi/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Radical%2012R%20Monstercombi",
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Radical%2012R%20Monstercombi%20pickleball"
   },
   {
     "id": "bag_14",
@@ -201,7 +302,14 @@
     "has_shoe_pocket": false,
     "has_fence_hook": false,
     "has_thermal_pocket": false,
-    "color_variations": "ブラック, オレンジ"
+    "color_variations": [
+      "ブラック",
+      "オレンジ"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=Amazin'%20Aces%20Premium%20Sling",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Amazin'%20Aces%20Premium%20Sling/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Amazin'%20Aces%20Premium%20Sling",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20Premium%20Sling%20pickleball"
   },
   {
     "id": "bag_15",
@@ -213,6 +321,142 @@
     "has_shoe_pocket": true,
     "has_fence_hook": true,
     "has_thermal_pocket": true,
-    "color_variations": "ブラック"
+    "color_variations": [
+      "ブラック"
+    ],
+    "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Diamond%20Collection%20Bag",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Diamond%20Collection%20Bag/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Diamond%20Collection%20Bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Diamond%20Collection%20Bag%20pickleball"
+  },
+  {
+    "id": "bag_selkirk_team",
+    "brand_name": "Selkirk",
+    "product_name": "Core Line Team Bag",
+    "bag_type": "バックパック",
+    "paddle_count": 3,
+    "has_shoe_compartment": false,
+    "has_laptop_sleeve": true,
+    "has_fence_hook": true,
+    "material": "+V11 Max Polyfiber Performance",
+    "special_features": [
+      "Hard EVAトップ(スマホポケット)",
+      "フェンスクリップ",
+      "15インチPC収納",
+      "内部ジッパーポケット3個",
+      "メッシュ水筒ポケット"
+    ],
+    "description": "パドル3本+ノートPC+小物を収納できる中型バックパック。フェンスに掛けられるクリップ付き。",
+    "color_variations": [
+      "Black",
+      "White"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://www.selkirk.com/products/core-line-team-bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Core%20Line%20Team%20Bag%20pickleball"
+  },
+  {
+    "id": "bag_crbn_pro_team",
+    "brand_name": "CRBN",
+    "product_name": "Pro Team Backpack",
+    "bag_type": "バックパック",
+    "paddle_count": 3,
+    "has_shoe_compartment": true,
+    "has_laptop_sleeve": true,
+    "has_fence_hook": true,
+    "material": "500D Polyester + 防水ターポリン底面",
+    "dimensions": "21.5\"H x 12.5\"W x 8\"D",
+    "special_features": [
+      "サーマルライニング付パドル収納",
+      "断熱サイドポケット",
+      "YKKジッパー",
+      "デュアルコーティングメタルフェンスフック",
+      "エアメッシュパッド入りストラップ"
+    ],
+    "description": "2025年人気No.1。パドル3本+シューズ+ノートPC収納、断熱ポケット付きの最上位バックパック。",
+    "color_variations": [
+      "Black"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://crbnpickleball.com/products/pro-team-backpack",
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Pro%20Team%20Backpack%20pickleball"
+  },
+  {
+    "id": "bag_franklin_sling",
+    "brand_name": "Franklin",
+    "product_name": "Ben Johns Pickleball Sling Bag",
+    "bag_type": "スリングバッグ",
+    "paddle_count": 6,
+    "has_shoe_compartment": true,
+    "has_laptop_sleeve": false,
+    "has_fence_hook": true,
+    "special_features": [
+      "フェルトライニング付デバイスポケット",
+      "通気性シューズトンネル",
+      "パドル最大6本収納",
+      "X-40ボール収納スペース"
+    ],
+    "description": "Ben Johns監修スリングバッグ。パドル6本+シューズ+ボール収納。バックパック/スリング2WAY。",
+    "color_variations": [
+      "Black/Green"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://www.franklinsports.com/pickleball/bags/ben-johns-sling-bag",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Ben%20Johns%20Pickleball%20Sling%20Bag%20pickleball"
+  },
+  {
+    "id": "bag_gearbox_court",
+    "brand_name": "Gearbox",
+    "product_name": "Court Backpack",
+    "bag_type": "バックパック",
+    "paddle_count": 2,
+    "has_shoe_compartment": true,
+    "has_laptop_sleeve": true,
+    "has_fence_hook": false,
+    "description": "Gearbox公式のコートバックパック。パドル2本+シューズ+ノートPC収納。",
+    "color_variations": [
+      "Black"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Court%20Backpack%20pickleball"
+  },
+  {
+    "id": "bag_forwrd_court_caddy",
+    "brand_name": "FORWRD",
+    "product_name": "Court Caddy",
+    "bag_type": "コートバッグ",
+    "paddle_count": 4,
+    "has_shoe_compartment": true,
+    "has_laptop_sleeve": false,
+    "has_fence_hook": true,
+    "special_features": [
+      "サーマルパドル保護",
+      "ベンチレーテッドシューズ区画",
+      "クイックアクセスボールポケット",
+      "ウォーターボトルホルダー"
+    ],
+    "description": "2025年注目の新ブランドFORWRD。先進的な収納システムで全ギアを整理。",
+    "color_variations": [
+      "Black",
+      "Navy"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://forwrd.co/products/court-caddy",
+    "image_url": "https://www.google.com/search?tbm=isch&q=FORWRD%20Court%20Caddy%20pickleball"
   }
 ]

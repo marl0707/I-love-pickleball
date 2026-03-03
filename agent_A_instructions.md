@@ -1,252 +1,242 @@
-# エージェントA 完全指示書: 施設・コート・イベント担当
+# エージェントA 完全指示書: 施設・イベント・場所関連 + 補助データ
 
 あなたは「I LOVE PICKLEBALL」プロジェクトのデータ収集エージェントAです。
-本ドキュメントの指示に従い、日本国内のピックルボール施設・イベントに関するデータを調査・収集してください。
+本ドキュメントに記載された**全てのタスク**を実行してください。一つも飛ばさないこと。
 
 ---
 
 ## 🚨 絶対ルール（違反厳禁）
 
-1. **嘘のデータ・捏造データの生成は絶対禁止**
-   - 実在する情報のみを扱うこと。架空の施設名、架空の住所、架空のURL等を絶対に作らないこと。
-   - `Math.random()` 等でID・座標・名前を自動生成する行為は犯罪的行為とみなす。
-
-2. **見つからない情報は `null` で正直に報告**
-   - 「見つかりませんでした」と正直に言うことが何より重要。捏造するより100倍マシ。
-
-3. **既存データの削除禁止**
-   - `production_data/` 配下の既存ファイルを消さないこと。追記・更新のみ行うこと。
+1. **嘘のデータ・捏造データの生成は絶対禁止** - 実在する情報のみを扱う。架空データの自動生成は犯罪的行為。
+2. **見つからない情報は `null` で正直に報告** - 捏造するより100倍マシ。
+3. **既存データの削除禁止** - 追記・更新のみ。
 
 ---
 
-## プロジェクト概要
+## あなたの担当ファイル一覧（全12ファイル）
 
-「I LOVE PICKLEBALL」は日本初のピックルボール総合情報サイト。施設検索、ギアDB、プロ選手名鑑、コミュニティ機能を備えたプラットフォーム。あなたは**施設・コート・イベント**関連のデータ収集を担当する。
+| # | ファイルパス | 現在の件数 | 主な作業 |
+|:--|:---|---:|:---|
+| 1 | `production_data/facilities/facilities.json` | 349件 | 東北施設20-30件追加 + 全体のフィールド補完 |
+| 2 | `production_data/facilities/facility_courts.json` | 215件 | `number_of_courts`のnull補完 |
+| 3 | `production_data/facilities/facility_shops.json` | 213件 | レンタル料金・取扱ブランド補完 |
+| 4 | `production_data/facilities/facility_media.json` | 5件 | 主要施設のYouTube/Instagram URL追加（目標20件） |
+| 5 | `production_data/facilities/facility_comments.json` | 5件 | フィールド構造の正規化確認 |
+| 6 | `production_data/events/events.json` | 25件 | 日時/参加費/URL等の50%欠損を補完 |
+| 7 | `production_data/events/awards.json` | 2件 | アワード情報の拡充（目標5件） |
+| 8 | `production_data/supplementary/price_guide.json` | 1件 | 料金ガイドの拡充（目標5件） |
+| 9 | `production_data/supplementary/promotions_coupons.json` | 2件 | クーポン・キャンペーン情報の拡充 |
+| 10 | `production_data/supplementary/master_associations.json` | 2件 | 各地域のピックルボール協会情報の追加 |
+| 11 | `production_data/community/announcements.json` | 5件 | お知らせの`published_at`/`is_important`補完 |
+| 12 | `production_data/community/activity_logs.json` | 5件 | プレイログのフィールド構造確認・補完 |
 
 ---
 
-## 現状のデータ品質（あなたが解決すべき課題）
+## タスク1（最重要・大）: 東北地方の施設追加
 
-| 項目 | 現状 | 課題 |
-|:---|:---|:---|
-| 施設総数 | 349件 | ✅ 十分（ただし東北が2件のみ） |
-| **東北地方** | **2件のみ** | ❌ **致命的不足。6県の施設を20-30件追加が必要** |
-| イベント・大会 | 25件 | ⚠ 日時/参加費/エントリーURLが50%以上欠損 |
-| 施設メディア | 5件 | ⚠ 主要施設のYouTube/Instagram URLが不足 |
+**現状**: 東北6県が**2件のみ**。全国349件中の致命的不足。
 
----
-
-## タスク1（最重要）: 東北地方の施設追加
-
-### 対象地域
-青森県、岩手県、秋田県、宮城県、山形県、福島県
+### やること
+青森県・岩手県・秋田県・宮城県・山形県・福島県のピックルボール施設を調査し追加。
 
 ### 調査方法
-1. 各県について以下をWeb検索で調査：
-   - `「ピックルボール 宮城県」` `「ピックルボール 仙台」` 等で検索
-   - 各県のスポーツ施設予約サイト（公共施設）を確認
-   - Instagram `#ピックルボール #仙台` 等で活動場所を特定
-   - Google Maps で「ピックルボール」を検索
-2. 専用施設だけでなく、**体育館を間借りして定期的にピックルボールが行われている施設**も対象
+- `「ピックルボール ○○県」` `「ピックルボール ○○市」` でWeb検索
+- Google Maps「ピックルボール」検索
+- Instagram `#ピックルボール #仙台` 等
+- 各県スポーツ施設予約サイト
+- **体育館間借り施設も対象**
 
-### 出力フォーマット（1施設あたり）
-
-各施設を以下のJSON形式で記録し、`production_data/facilities/facilities.json` の配列に追加してください。
-
+### 出力フォーマット（全フィールド）
 ```json
 {
   "name": "施設名（正式名称）",
-  "prefecture": "県名（例: 宮城県）",
-  "city": "市区町村（例: 仙台市青葉区）",
+  "prefecture": "宮城県",
+  "city": "仙台市青葉区",
   "address": "〒000-0000 完全な住所",
   "latitude": 38.2682,
   "longitude": 140.8694,
   "google_maps_url": "https://maps.google.com/?q=緯度,経度",
-  "website_url": "公式サイトURL（なければnull）",
+  "website_url": "公式URL（なければnull）",
   "type_flag": 1,
-  "operator_type": "民間 or 自治体(公営) or 専門店",
+  "operator_type": "民間 / 自治体(公営) / 専門店",
   "is_premium": false,
   "hosts_tournaments": false,
   "tournament_types": null,
   "visitor_welcome": true,
   "has_school": false,
   "facility_amenities": {
-    "has_shower": 0,
-    "has_locker_room": 1,
-    "has_cafe": 0,
-    "has_kids_space": 0,
-    "has_parking": 1,
-    "parking_detail": "駐車場の詳細（X台、料金等）",
-    "has_wifi": 0,
-    "is_indoor": true,
+    "has_shower": 0, "has_locker_room": 1, "has_cafe": 0,
+    "has_kids_space": 0, "has_parking": 1,
+    "parking_detail": "駐車場の詳細",
+    "has_wifi": 0, "is_indoor": true,
     "paddle_rental": false,
-    "court_surface": "ウッド（木・体育館） or ハード or 人工芝 or 不明",
+    "court_surface": "ウッド（木・体育館） / ハード / 人工芝 / 不明",
     "visitor_welcome": true
   },
-  "hours_mon": "9:00-21:00（不明ならnull）",
-  "hours_tue": "9:00-21:00",
-  "hours_wed": "9:00-21:00",
-  "hours_thu": "9:00-21:00",
-  "hours_fri": "9:00-21:00",
-  "hours_sat": "9:00-21:00",
+  "hours_mon": "9:00-21:00", "hours_tue": "同上", "hours_wed": "同上",
+  "hours_thu": "同上", "hours_fri": "同上", "hours_sat": "9:00-21:00",
   "hours_sun": "9:00-17:00",
-  "hours_note": "補足（休館日等）",
-  "reservation_method": "Web予約 or 電話のみ or 予約不要",
-  "facility_courts": [
-    {
-      "court_type": "インドア or アウトドア",
-      "number_of_courts": 2,
-      "surface_type": "体育館床(木製) or ハードコート or 人工芝 等",
-      "line_visibility": "専用ラインのみ(見やすい) or 他競技混在(見にくい) or テープ貼り",
-      "net_type": "常設(埋め込み) or ポータブル(キャスター付) or ポータブル(キャスター無)",
-      "has_ac": 0,
-      "baseline_margin": "標準 or 広い or 狭い or null",
-      "lighting_type": "LED照明 or 屋内照明 or 照明なし or null"
-    }
-  ],
+  "hours_note": "休館日等",
+  "reservation_method": "Web予約 / 電話のみ / 予約不要",
+  "facility_courts": [{
+    "court_type": "インドア / アウトドア",
+    "number_of_courts": 2,
+    "surface_type": "体育館床(木製) / ハードコート / 人工芝",
+    "line_visibility": "専用ラインのみ(見やすい) / 他競技混在(見にくい) / テープ貼り",
+    "net_type": "常設(埋め込み) / ポータブル(キャスター付) / ポータブル(キャスター無)",
+    "has_ac": 0,
+    "baseline_margin": "標準 / 広い / 狭い / null",
+    "lighting_type": "LED照明 / 屋内照明 / 照明なし / null"
+  }],
   "facility_shops": {
-    "has_paddle_sales": 0,
-    "has_apparel_sales": 0,
-    "has_paddle_rental": 0,
-    "paddle_rental_fee": null,
+    "has_paddle_sales": 0, "has_apparel_sales": 0,
+    "has_paddle_rental": 0, "paddle_rental_fee": null,
     "handled_brands": null
   },
-  "price_info": {
-    "base_fee": "利用料金（例: 個人利用300円/2h）"
-  },
-  "access": "最寄り駅からのアクセス方法",
+  "price_info": { "base_fee": "利用料金" },
+  "access": "最寄り駅からのアクセス",
   "notes": "特記事項",
-  "directions_url": "https://www.google.com/maps/dir/?api=1&destination=エンコード済み住所",
-  "access_info": {
-    "guide": "アクセスの補足説明",
-    "directions_url": "上記と同じ"
-  },
-  "_region": "東北",
-  "_region_romaji": "tohoku"
+  "directions_url": "Google Maps経路URL",
+  "access_info": { "guide": "補足", "directions_url": "同上" },
+  "_region": "東北", "_region_romaji": "tohoku"
 }
 ```
-
-### latitude/longitude の取得方法
-- Google Maps で施設を検索し、URLに含まれる座標を使用
-- 住所がわかっている場合は Google Maps Geocoding で変換
-- **絶対に適当な数値を入れないこと**。わからなければ `null`
-
-### 目標件数
-- **最低20件、できれば30件**
-- 各県最低2-3件は確保したい
+**目標**: 最低20件、できれば30件。各県最低2-3件。
 
 ---
 
-## タスク2: イベント・大会データの補完
+## タスク2（中）: 施設コートデータの補完
 
-### 現状の問題
-`production_data/events/events.json` の既存25件のうち、以下が50%以上欠損:
-- `start_datetime` / `end_datetime`（開催日時）
-- `entry_fee`（参加費）
-- `entry_url`（エントリーURL）
-- `facility_id`（開催施設のインデックス）
-- `event_type`（分類）
-
-### やること
-既存の25件を1件ずつ確認し、不足情報をWeb検索で調査して補完する。
-
-### 出力フォーマット（eventsテーブル準拠）
-
-```json
-{
-  "id": "既存IDをそのまま維持",
-  "title": "大会・イベント名",
-  "event_type": "公式大会(JPA等) or 草大会 or 体験会 or オープンプレイ or 練習会 or レッスン",
-  "start_datetime": "2026-04-15T09:00:00",
-  "end_datetime": "2026-04-15T17:00:00",
-  "target_level_min": 1.0,
-  "target_level_max": 5.0,
-  "entry_fee": 3000,
-  "entry_url": "https://example.com/entry",
-  "facility_id": null,
-  "location": "開催場所のテキスト表記",
-  "description": "イベントの説明"
-}
-```
-
-### 情報源
-- JPA（日本ピックルボール協会）公式サイト
-- 各地域のピックルボール協会のSNS（Instagram, X）
-- 施設公式サイトのイベントカレンダー
+`production_data/facilities/facility_courts.json` (215件) について:
+- `number_of_courts` が `null` のレコードを特定し、施設公式サイトで調査して補完
+- `surface_type` が「不明」のレコードを調査して正確な値に更新
 
 ---
 
-## タスク3: 施設メディアの補完
+## タスク3（中）: 施設ショップデータの補完
 
-### やること
-`production_data/facilities/facilities.json` の主要施設（特に `is_premium: true` や専用コートを持つ施設）について：
-- 実在するYouTube紹介動画のURLを調査
-- 公式InstagramアカウントのURLを調査
+`production_data/facilities/facility_shops.json` (213件) について:
+- `handled_brands` が空のレコードで、パドル販売をしている施設の取扱ブランドを調査
+- `paddle_rental_fee` が `null` のレコードで、レンタルありの施設の料金を調査
 
-### 出力フォーマット（facility_mediaテーブル準拠）
+---
 
+## タスク4（中）: 施設メディア大幅追加
+
+`production_data/facilities/facility_media.json` (現在5件 → 目標25件以上)
+- `facilities.json` の主要施設（`is_premium: true` や専用コート施設）のYouTube紹介動画・公式Instagram URLを調査
 ```json
 {
-  "id": "media_施設名の略称_連番",
+  "id": "media_施設略称_連番",
   "target_type": "facility",
-  "target_id": "施設名（テキスト参照）",
-  "media_type": "youtube or instagram or image",
+  "target_id": "施設名",
+  "media_type": "youtube / instagram / image",
   "url": "実在するURL",
   "description": "メディアの説明"
 }
 ```
 
-`production_data/facilities/facility_media.json` に追記する。
+---
+
+## タスク5（中）: イベント・大会の情報補完
+
+`production_data/events/events.json` (25件) の50%欠損を補完:
+- `start_datetime` / `end_datetime` - 開催日時
+- `entry_fee` - 参加費（円）
+- `entry_url` - エントリーURL
+- `facility_id` - 開催施設インデックス
+- `event_type` - 公式大会(JPA等) / 草大会 / 体験会 / オープンプレイ / 練習会 / レッスン
+
+**情報源**: JPA公式サイト、各大会主催団体SNS、施設イベントカレンダー
 
 ---
 
-## 出力先まとめ
+## タスク6（小）: アワード情報の拡充
 
-| ファイル | 操作 |
-|:---|:---|
-| `production_data/facilities/facilities.json` | 東北施設を配列に**追加** |
-| `production_data/events/events.json` | 既存レコードの欠損フィールドを**補完** |
-| `production_data/facilities/facility_media.json` | メディア情報を配列に**追加** |
+`production_data/events/awards.json` (2件 → 目標5件)
+- ピックルボール業界のアワード・表彰（国内外）を調査して追加
+
+---
+
+## タスク7（小）: 料金ガイドの拡充
+
+`production_data/supplementary/price_guide.json` (1件 → 目標5件)
+- 地域別・施設タイプ別の料金相場ガイドを追加
+
+---
+
+## タスク8（小）: 協会情報の追加
+
+`production_data/supplementary/master_associations.json` (2件)
+- 各地域のピックルボール協会（JPA支部、都道府県協会）の情報を調査して追加
+
+---
+
+## タスク9（小）: お知らせデータの補完
+
+`production_data/community/announcements.json` (5件)
+- `published_at` (60%欠損) と `is_important` (60%欠損) を補完
+
+---
+
+## タスク10（小）: プレイログ構造確認
+
+`production_data/community/activity_logs.json` (5件)
+- DBスキーマ（`activity_logs`テーブル: user_id, facility_id, content, image_url, like_count）に合致しているか確認し、不足フィールドを補完
+
+---
+
+## タスク11（小）: クーポン情報の拡充
+
+`production_data/supplementary/promotions_coupons.json` (2件)
+- 現在利用可能なピックルボール関連のクーポン・キャンペーン情報を調査
 
 ---
 
 ## 作業完了時の報告フォーマット
 
-作業が完了したら、以下の形式で報告してください：
-
 ```
 ## エージェントA 作業完了報告
 
-### 東北施設追加
+### タスク1: 東北施設追加
+- 追加件数: X件（青森X/岩手X/秋田X/宮城X/山形X/福島X）
+
+### タスク2: コートデータ補完
+- number_of_courts補完: X件 / null件数
+- surface_type更新: X件
+
+### タスク3: ショップデータ補完
+- handled_brands補完: X件
+- paddle_rental_fee補完: X件
+
+### タスク4: 施設メディア追加
+- 追加件数: X件（YouTube X件、Instagram X件）
+
+### タスク5: イベント補完
+- 補完件数: X件 / 25件
+
+### タスク6: アワード拡充
 - 追加件数: X件
-- 県別内訳: 青森X件、岩手X件、秋田X件、宮城X件、山形X件、福島X件
-- 見つからなかった県: （あれば記載）
 
-### イベント補完
-- 補完件数: X件 / 25件中
-- 補完できなかった件数: X件（理由: ...）
+### タスク7: 料金ガイド拡充
+- 追加件数: X件
 
-### 施設メディア追加
+### タスク8: 協会情報追加
+- 追加件数: X件
+
+### タスク9: お知らせ補完
+- published_at補完: X件, is_important補完: X件
+
+### タスク10: プレイログ確認
+- 構造修正: X件
+
+### タスク11: クーポン拡充
 - 追加件数: X件
 
 ### 品質セルフチェック
-- [ ] 全施設のlatitude/longitudeは実在する座標か？（Google Mapsで確認済みか？）
+- [ ] 全施設のlatitude/longitudeは実在する座標か？
 - [ ] 全URLは実在しアクセス可能か？
 - [ ] 捏造データは一切含まれていないか？
-- [ ] 既存データを削除・上書きしていないか？
+- [ ] 既存データを削除していないか？
+- [ ] 営業時間は公式サイトから正確に転記したか？
 ```
-
----
-
-## 補足: データ品質基準（コンテンツガイドライン準拠）
-
-### 施設データで特に重要なフィールド
-1. **`visitor_welcome`** - 非会員・ドロップインが歓迎されるか → 初心者の参加ハードルに直結
-2. **`paddle_rental`** - パドルレンタルの有無 → 初心者が手ぶらで行けるかの生命線
-3. **`court_surface`** - サーフェス（床材）→ ボールの弾みに影響する重要情報
-4. **`has_ac`** - 空調の有無（インドアの場合）→ 快適性の重要指標
-
-### 営業時間の記載ルール
-- 公式サイトから正確に転記
-- 不明な場合は `null` にし、`hours_note` に「要確認」と記載
-- **推測で時間を書かないこと**

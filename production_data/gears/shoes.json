@@ -12,7 +12,12 @@
     "court_type": "オールコート",
     "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+Jet+Mach+3",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+Jet+Mach+3/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+Jet+Mach+3"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+Jet+Mach+3",
+    "outsole": "Michelin Performance Rubber",
+    "midsole": "Matryx+",
+    "weight_grams": 380,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Jet%20Mach%203%20All%20Court%20pickleball",
+    "price_usd": 159
   },
   {
     "id": "shoe_skechers_viper_court",
@@ -27,7 +32,14 @@
     "court_type": "オールコート",
     "amazon_url": "https://www.amazon.co.jp/s?k=Skechers+Viper+Court",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers+Viper+Court/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court",
+    "outsole": "Goodyear® Gold Compound Rubber",
+    "insole": "Arch Fit® (Podiatrist-certified, APMA Seal)",
+    "midsole": "ULTRA FLIGHT® Cushioning",
+    "fit": "Relaxed Fit®",
+    "weight_grams": 375,
+    "price_usd": 109.95,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Pro%20pickleball"
   },
   {
     "id": "shoe_k_swiss_express_light",
@@ -42,7 +54,15 @@
     "court_type": "オールコート",
     "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss+Express+Light+Pickleball",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss+Express+Light+Pickleball/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball",
+    "outsole": "Aosta 7.0 High-Density Rubber (Herringbone Tread)",
+    "dragguard": true,
+    "midsole": "K-EVA Cushioning",
+    "insole": "Ortholite Liner",
+    "stability": "Thermal Plastic Plantar Support Chassis (180° protection)",
+    "price_usd": 110,
+    "weight_grams": 340,
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Express%20Light%20Pickleball%20pickleball"
   },
   {
     "id": "shoe_asics_gel_resolution_9",
@@ -58,70 +78,36 @@
     "court_type": "オールコート",
     "amazon_url": "https://www.amazon.co.jp/s?k=Asics+GEL-RESOLUTION+9",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics+GEL-RESOLUTION+9/",
-    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics+GEL-RESOLUTION+9"
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics+GEL-RESOLUTION+9",
+    "midsole": "FF BLAST PLUS Cushioning",
+    "outsole": "AHAR+ Rubber",
+    "gel": "GEL® Technology",
+    "weight_grams": 420,
+    "product_url": "https://www.asics.com/us/en-us/gel-resolution-9/p/1041A330.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20GEL-RESOLUTION%209%20pickleball",
+    "price_usd": 119.95
   },
   {
-    "category": "Pickleball Shoes",
-    "description": "ピックルボール特有の前後左右への激しい動きに対応する設計の専用シューズデータです。",
-    "items": [
-      {
-        "id": "skechers-viper-court-pro",
-        "brand": "Skechers",
-        "model": "Viper Court Pro",
-        "key_technologies": [
-          "Goodyear®ラバーアウトソール",
-          "Arch Fit®インソール"
-        ],
-        "features": [
-          "抜群のグリップ力と耐久性",
-          "ピックルボール専用のトレッドパターン",
-          "長時間のプレイでも疲れにくいアーチサポート",
-          "多くのプロ選手（Tyson McGuffinなど）が愛用"
-        ],
-        "best_for": "頻繁にプレイする競技者、足の負担を軽減したいプレイヤー",
-        "amazon_url": "https://www.amazon.co.jp/s?k=Skechers+Viper+Court+Pro+Pickleball",
-        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers+Viper+Court+Pro+Pickleball/",
-        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers+Viper+Court+Pro+Pickleball"
-      },
-      {
-        "id": "k-swiss-express-light-pickleball",
-        "brand": "K-Swiss",
-        "model": "Express Light Pickleball",
-        "key_technologies": [
-          "Aösta 7.0高密度ラバー",
-          "DragGuard"
-        ],
-        "features": [
-          "ピックルボール専用シューズのパイオニア的存在",
-          "軽量で俊敏な動きをサポート",
-          "つま先部分の耐久性を高めるDragGuardテクノロジー",
-          "通気性に優れたアッパーメッシュ"
-        ],
-        "best_for": "軽量性と動きやすさを重視するプレイヤー",
-        "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss+Express+Light+Pickleball",
-        "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss+Express+Light+Pickleball/",
-        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss+Express+Light+Pickleball"
-      },
-      {
-        "id": "babolat-sfx3",
-        "brand": "Babolat",
-        "model": "SFX3",
-        "key_technologies": [
-          "Michelin パフォーマンスアウトソール",
-          "Kompressor システム"
-        ],
-        "features": [
-          "元々はテニスシューズだが、ピックルボールプレイヤーにも非常に人気",
-          "幅広設計で快適なフィット感",
-          "ミシュラン製ラバーによる最高レベルの耐久性とグリップ力",
-          "かかと部分の優れた衝撃吸収性"
-        ],
-        "best_for": "幅広の足のプレイヤー、クッション性を重視するプレイヤー",
-        "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+SFX3+Pickleball",
-        "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+SFX3+Pickleball/",
-        "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+SFX3+Pickleball"
-      }
-    ]
+    "id": "babolat-sfx3",
+    "brand_name": "Babolat",
+    "product_name": "SFX3",
+    "price": null,
+    "size_range": null,
+    "color_variations": [],
+    "court_type": "オールコート",
+    "key_technologies": [
+      "Michelin パフォーマンスアウトソール",
+      "Kompressor システム"
+    ],
+    "features": "SFX Fit System",
+    "best_for": "幅広の足のプレイヤー、クッション性を重視するプレイヤー",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat+SFX3+Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat+SFX3+Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat+SFX3+Pickleball",
+    "outsole": "Michelin Outdoor Compound",
+    "midsole": "EVA + Ortholite X40",
+    "weight_grams": 370,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20SFX3%20pickleball"
   },
   {
     "id": "shoe_01",
@@ -129,8 +115,22 @@
     "product_name": "Express Light 3",
     "price": 14000,
     "size_range": "22.5cm - 30.0cm",
-    "color_variations": "ホワイト/ネイビー, ブラック",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ネイビー",
+      "ブラック"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss%20Express%20Light%203",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss%20Express%20Light%203/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss%20Express%20Light%203",
+    "outsole": "Aosta 7.0 High-Density Rubber (Herringbone)",
+    "midsole": "K-EVA Cushioning",
+    "insole": "Ortholite Liner",
+    "stability": "Thermal Plastic Plantar Support",
+    "dragguard": true,
+    "weight_grams": 340,
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Express%20Light%203%20pickleball",
+    "price_usd": 104.95
   },
   {
     "id": "shoe_02",
@@ -138,8 +138,19 @@
     "product_name": "Speedex",
     "price": 16000,
     "size_range": "23.0cm - 29.5cm",
-    "color_variations": "ホワイト/ブルー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss%20Speedex",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss%20Speedex/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss%20Speedex",
+    "outsole": "Aosta 7.0 Rubber",
+    "midsole": "K-EVA Cushioning",
+    "dragguard": true,
+    "weight_grams": 366,
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Speedex%20pickleball",
+    "price_usd": 89.95
   },
   {
     "id": "shoe_03",
@@ -147,8 +158,20 @@
     "product_name": "Volley Zone",
     "price": 11000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "ホワイト/ネイビー/レッド",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ネイビー/レッド"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20Volley%20Zone",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20Volley%20Zone/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20Volley%20Zone",
+    "outsole": "Evergrind Rubber (Herringbone + Pivot Areas)",
+    "midsole": "Energized EVA Cushioning",
+    "insole": "Removable Molded EVA Sockliner",
+    "stability": "TPU Midfoot Stabilizer + Molded Forefoot Cage",
+    "weight_grams": 391,
+    "price_usd": 110,
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Volley%20Zone%20pickleball"
   },
   {
     "id": "shoe_04",
@@ -156,17 +179,19 @@
     "product_name": "Double Bounce 3",
     "price": 12000,
     "size_range": "23.0cm - 28.5cm",
-    "color_variations": "ホワイト, グレー",
-    "court_type": "オールコート"
-  },
-  {
-    "id": "shoe_05",
-    "brand_name": "Skechers",
-    "product_name": "Viper Court Pro",
-    "price": 15000,
-    "size_range": "22.0cm - 30.0cm",
-    "color_variations": "ブラック/ライム, グレー/ブルー",
-    "court_type": "インドア専用(ガムソール)"
+    "color_variations": [
+      "ホワイト",
+      "グレー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20Double%20Bounce%203",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20Double%20Bounce%203/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20Double%20Bounce%203",
+    "outsole": "Evergrind Rubber",
+    "midsole": "EVA Cushioning",
+    "weight_grams": 360,
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Double%20Bounce%203%20pickleball",
+    "price_usd": 69.99
   },
   {
     "id": "shoe_06",
@@ -174,8 +199,19 @@
     "product_name": "Viper Court Luxe",
     "price": 18000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "ホワイト/ゴールド",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ゴールド"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Skechers%20Viper%20Court%20Luxe",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers%20Viper%20Court%20Luxe/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers%20Viper%20Court%20Luxe",
+    "outsole": "Goodyear® Gold Compound Rubber",
+    "midsole": "ULTRA GO® Foam",
+    "insole": "Arch Fit® (Podiatrist-certified)",
+    "weight_grams": 320,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Luxe%20pickleball",
+    "price_usd": 99.99
   },
   {
     "id": "shoe_07",
@@ -183,8 +219,21 @@
     "product_name": "Gel-Renma",
     "price": 13000,
     "size_range": "22.5cm - 30.0cm",
-    "color_variations": "ホワイト/ピーコート, ブラック/シルバー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ピーコート",
+      "ブラック/シルバー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Asics%20Gel-Renma",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics%20Gel-Renma/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics%20Gel-Renma",
+    "outsole": "AHAR Rubber",
+    "midsole": "EVA",
+    "gel": "GEL® Technology",
+    "weight_grams": 350,
+    "product_url": "https://www.asics.com/us/en-us/gel-renma/p/1041A373.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Renma%20pickleball",
+    "price_usd": 79.95
   },
   {
     "id": "shoe_08",
@@ -192,8 +241,20 @@
     "product_name": "Gel-Dedicate 9",
     "price": 11000,
     "size_range": "22.0cm - 29.5cm",
-    "color_variations": "ホワイト, ブラック",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト",
+      "ブラック"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Asics%20Gel-Dedicate%209",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics%20Gel-Dedicate%209/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics%20Gel-Dedicate%209",
+    "outsole": "AHAR+ Rubber",
+    "midsole": "EVA",
+    "gel": "GEL® Technology (Rear)",
+    "weight_grams": 340,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Dedicate%209%20pickleball",
+    "price_usd": 69.95
   },
   {
     "id": "shoe_09",
@@ -201,8 +262,22 @@
     "product_name": "Gel-Resolution 10",
     "price": 22000,
     "size_range": "23.0cm - 30.0cm",
-    "color_variations": "ホワイト/ブルー, ブラック/イエロー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ブルー",
+      "ブラック/イエロー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Asics%20Gel-Resolution%2010",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Asics%20Gel-Resolution%2010/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Asics%20Gel-Resolution%2010",
+    "outsole": "AHAR+ Rubber (Herringbone)",
+    "midsole": "FF BLAST PLUS Cushioning",
+    "gel": "GEL® Technology",
+    "stability": "DYNAWRAP Counter + Heel Clutching System",
+    "weight_grams": 410,
+    "product_url": "https://www.asics.com/us/en-us/gel-resolution-10/p/1041A502.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Resolution%2010%20pickleball",
+    "price_usd": 139.95
   },
   {
     "id": "shoe_10",
@@ -210,8 +285,18 @@
     "product_name": "Pulsion Pickleball",
     "price": 14000,
     "size_range": "22.5cm - 28.5cm",
-    "color_variations": "ホワイト/レッド",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/レッド"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20Pulsion%20Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20Pulsion%20Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20Pulsion%20Pickleball",
+    "outsole": "Michelin Performance Rubber",
+    "midsole": "EVA Cushioning",
+    "weight_grams": 355,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Pulsion%20Pickleball%20pickleball",
+    "price_usd": 89
   },
   {
     "id": "shoe_11",
@@ -219,8 +304,20 @@
     "product_name": "Jet Tere AC",
     "price": 19000,
     "size_range": "23.0cm - 29.0cm",
-    "color_variations": "ホワイト, ブルー/イエロー",
-    "court_type": "アウトドア専用"
+    "color_variations": [
+      "ホワイト",
+      "ブルー/イエロー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20Jet%20Tere%20AC",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20Jet%20Tere%20AC/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20Jet%20Tere%20AC",
+    "outsole": "Michelin XM Outsole Compound",
+    "midsole": "Ortholite® X40 + EVA",
+    "features": "Matryx® upper (Kevlar + Polyamide weave)",
+    "weight_grams": 365,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Jet%20Tere%20AC%20pickleball",
+    "price_usd": 149
   },
   {
     "id": "shoe_12",
@@ -228,8 +325,20 @@
     "product_name": "Fresh Foam X Lav v2",
     "price": 20000,
     "size_range": "22.0cm - 30.0cm",
-    "color_variations": "ホワイト, ネイビー, ブラック",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト",
+      "ネイビー",
+      "ブラック"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=New%20Balance%20Fresh%20Foam%20X%20Lav%20v2",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/New%20Balance%20Fresh%20Foam%20X%20Lav%20v2/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=New%20Balance%20Fresh%20Foam%20X%20Lav%20v2",
+    "outsole": "Non-Marking Rubber (Herringbone)",
+    "midsole": "Fresh Foam X Cushioning",
+    "weight_grams": 380,
+    "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20Fresh%20Foam%20X%20Lav%20v2%20pickleball",
+    "price_usd": 139.99
   },
   {
     "id": "shoe_13",
@@ -237,8 +346,19 @@
     "product_name": "FuelCell 996v5.5",
     "price": 22000,
     "size_range": "23.0cm - 30.5cm",
-    "color_variations": "ホワイト/ブルー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=New%20Balance%20FuelCell%20996v5.5",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/New%20Balance%20FuelCell%20996v5.5/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=New%20Balance%20FuelCell%20996v5.5",
+    "outsole": "Ndurance Rubber",
+    "midsole": "FuelCell Cushioning",
+    "stability": "TPU Midfoot Shank",
+    "weight_grams": 360,
+    "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20FuelCell%20996v5.5%20pickleball",
+    "price_usd": 134.99
   },
   {
     "id": "shoe_14",
@@ -246,8 +366,21 @@
     "product_name": "Court Air Zoom Vapor Pro 2",
     "price": 21000,
     "size_range": "22.0cm - 31.0cm",
-    "color_variations": "ブラック/ホワイト, レッド",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ブラック/ホワイト",
+      "レッド"
+    ],
+    "court_type": "オールコート（ハードコート設計）",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20Court%20Air%20Zoom%20Vapor%20Pro%202",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20Court%20Air%20Zoom%20Vapor%20Pro%202/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20Court%20Air%20Zoom%20Vapor%20Pro%202",
+    "outsole": "High-Wear Rubber (Herringbone)",
+    "midsole": "Zoom Air (Forefoot)",
+    "features": "Flyknit Upper + Dynamic Fit System",
+    "weight_grams": 340,
+    "product_url": "https://www.nike.com/t/court-air-zoom-vapor-pro-2-mens-tennis-shoes/DR6191",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Air%20Zoom%20Vapor%20Pro%202%20pickleball",
+    "price_usd": 120
   },
   {
     "id": "shoe_15",
@@ -255,8 +388,19 @@
     "product_name": "Court Lite 4",
     "price": 12000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "ホワイト/ブラック",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ブラック"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20Court%20Lite%204",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20Court%20Lite%204/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20Court%20Lite%204",
+    "outsole": "Non-Marking Rubber (Modified Herringbone)",
+    "midsole": "Phylon™ Foam",
+    "weight_grams": 310,
+    "product_url": "https://www.nike.com/t/court-lite-4-mens-tennis-shoes/FD6574",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Lite%204%20pickleball",
+    "price_usd": 65
   },
   {
     "id": "shoe_16",
@@ -264,8 +408,21 @@
     "product_name": "SoleMatch Control 2",
     "price": 19000,
     "size_range": "22.5cm - 30.5cm",
-    "color_variations": "ホワイト, ブラック/ゴールド",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト",
+      "ブラック/ゴールド"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20SoleMatch%20Control%202",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20SoleMatch%20Control%202/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20SoleMatch%20Control%202",
+    "outsole": "Adiwear Rubber (Herringbone)",
+    "midsole": "ADITUFF + EVA",
+    "stability": "TORSION® System",
+    "weight_grams": 400,
+    "product_url": "https://www.adidas.com/us/solematch-control-2-tennis-shoes/IF0438.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20SoleMatch%20Control%202%20pickleball",
+    "price_usd": 139
   },
   {
     "id": "shoe_17",
@@ -273,8 +430,20 @@
     "product_name": "Barricade 16",
     "price": 24000,
     "size_range": "23.0cm - 30.0cm",
-    "color_variations": "クリスタルホワイト",
-    "court_type": "アウトドア専用"
+    "color_variations": [
+      "クリスタルホワイト"
+    ],
+    "court_type": "オールコート（高耐久）",
+    "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20Barricade%2016",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20Barricade%2016/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20Barricade%2016",
+    "outsole": "Adiwear Rubber",
+    "midsole": "BOUNCE Cushioning",
+    "stability": "ADITUFF toe protection",
+    "weight_grams": 419,
+    "product_url": "https://www.adidas.com/us/barricade-16-tennis-shoes/ID1548.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20Barricade%2016%20pickleball",
+    "price_usd": 159
   },
   {
     "id": "shoe_18",
@@ -282,8 +451,20 @@
     "product_name": "Sprint Pro 3.5",
     "price": 17000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "ダークレッド/ブルー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ダークレッド/ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20Sprint%20Pro%203.5",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20Sprint%20Pro%203.5/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Sprint%20Pro%203.5",
+    "outsole": "Hybrasion+ Rubber",
+    "midsole": "TORXFRAME™ Midfoot Support",
+    "features": "TRI-NRG Technology",
+    "weight_grams": 360,
+    "product_url": "https://www.head.com/en_US/sprint-pro-35-tennis-shoes.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Sprint%20Pro%203.5%20pickleball",
+    "price_usd": 139.95
   },
   {
     "id": "shoe_19",
@@ -291,8 +472,21 @@
     "product_name": "Rush Pro 4.0",
     "price": 18000,
     "size_range": "22.5cm - 29.5cm",
-    "color_variations": "ブラック/ホワイト, グリーン",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ブラック/ホワイト",
+      "グリーン"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20Rush%20Pro%204.0",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20Rush%20Pro%204.0/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20Rush%20Pro%204.0",
+    "outsole": "Duralast® Rubber",
+    "midsole": "ProTorque Chassis 2.0",
+    "features": "Endofit™ Internal Bootie",
+    "weight_grams": 370,
+    "product_url": "https://www.wilson.com/en-us/product/rush-pro-4-0-wrs332040",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Rush%20Pro%204.0%20pickleball",
+    "price_usd": 139
   },
   {
     "id": "shoe_20",
@@ -300,8 +494,21 @@
     "product_name": "Power Cushion Fusionrev 5",
     "price": 15000,
     "size_range": "22.0cm - 28.5cm",
-    "color_variations": "ホワイト/オレンジ, ブルー",
-    "court_type": "インドア専用(ガムソール)"
+    "color_variations": [
+      "ホワイト/オレンジ",
+      "ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Yonex%20Power%20Cushion%20Fusionrev%205",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Yonex%20Power%20Cushion%20Fusionrev%205/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Yonex%20Power%20Cushion%20Fusionrev%205",
+    "outsole": "Rubber (Radial Blade)",
+    "midsole": "POWER CUSHION™ + POWER CUSHION+™",
+    "features": "3-Layer Power Cushion Insole",
+    "weight_grams": 310,
+    "product_url": "https://www.yonex.com/power-cushion-fusionrev5",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20Power%20Cushion%20Fusionrev%205%20pickleball",
+    "price_usd": 119
   },
   {
     "id": "shoe_21",
@@ -309,8 +516,18 @@
     "product_name": "Power Cushion Sonicage 3",
     "price": 14000,
     "size_range": "22.0cm - 28.5cm",
-    "color_variations": "ブラック/ライム",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ブラック/ライム"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Yonex%20Power%20Cushion%20Sonicage%203",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Yonex%20Power%20Cushion%20Sonicage%203/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Yonex%20Power%20Cushion%20Sonicage%203",
+    "outsole": "Rubber (Non-Marking)",
+    "midsole": "POWER CUSHION™",
+    "weight_grams": 295,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20Power%20Cushion%20Sonicage%203%20pickleball",
+    "price_usd": 99
   },
   {
     "id": "shoe_22",
@@ -318,8 +535,17 @@
     "product_name": "Mirage 600 II",
     "price": 16000,
     "size_range": "23.0cm - 29.0cm",
-    "color_variations": "ホワイト/オレンジ",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/オレンジ"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Lotto%20Mirage%20600%20II",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lotto%20Mirage%20600%20II/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lotto%20Mirage%20600%20II",
+    "outsole": "Rubber (Herringbone)",
+    "midsole": "EVA Cushioning",
+    "weight_grams": 365,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lotto%20Mirage%20600%20II%20pickleball"
   },
   {
     "id": "shoe_23",
@@ -327,8 +553,18 @@
     "product_name": "Wave Exceed Light 3 AC",
     "price": 17000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "ネオンイエロー/ブラック",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ネオンイエロー/ブラック"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Mizuno%20Wave%20Exceed%20Light%203%20AC",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Mizuno%20Wave%20Exceed%20Light%203%20AC/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Mizuno%20Wave%20Exceed%20Light%203%20AC",
+    "outsole": "X10 Rubber",
+    "midsole": "Mizuno ENERZY Cushioning",
+    "stability": "Mizuno Wave Plate",
+    "weight_grams": 305,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Wave%20Exceed%20Light%203%20AC%20pickleball"
   },
   {
     "id": "shoe_24",
@@ -336,8 +572,17 @@
     "product_name": "Break Shot 5 AC",
     "price": 11000,
     "size_range": "22.0cm - 28.5cm",
-    "color_variations": "ホワイト/グリーン",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/グリーン"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Mizuno%20Break%20Shot%205%20AC",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Mizuno%20Break%20Shot%205%20AC/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Mizuno%20Break%20Shot%205%20AC",
+    "outsole": "Rubber (Non-Marking)",
+    "midsole": "EVA",
+    "weight_grams": 310,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Break%20Shot%205%20AC%20pickleball"
   },
   {
     "id": "shoe_25",
@@ -345,8 +590,17 @@
     "product_name": "Speed Blushield",
     "price": 18000,
     "size_range": "23.0cm - 29.0cm",
-    "color_variations": "ホワイト/ブルー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ブルー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Diadora%20Speed%20Blushield",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Diadora%20Speed%20Blushield/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Diadora%20Speed%20Blushield",
+    "outsole": "Rubber (Blushield Technology)",
+    "midsole": "EVA + Duratech 5000",
+    "weight_grams": 385,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadora%20Speed%20Blushield%20pickleball"
   },
   {
     "id": "shoe_26",
@@ -354,8 +608,16 @@
     "product_name": "PR Court Ace",
     "price": 12000,
     "size_range": "22.5cm - 28.5cm",
-    "color_variations": "ホワイト/ピンク",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ピンク"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Prince%20PR%20Court%20Ace",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Prince%20PR%20Court%20Ace/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prince%20PR%20Court%20Ace",
+    "outsole": "Rubber (Non-Marking)",
+    "weight_grams": 340,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20PR%20Court%20Ace%20pickleball"
   },
   {
     "id": "shoe_27",
@@ -363,8 +625,19 @@
     "product_name": "Axilus 3 Energized",
     "price": 14000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "ホワイト/ネイビー",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ホワイト/ネイビー"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20Axilus%203%20Energized",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20Axilus%203%20Energized/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20Axilus%203%20Energized",
+    "outsole": "Evergrind Rubber",
+    "midsole": "Energized Rubber Cushioning",
+    "stability": "TPU Midfoot Shank",
+    "weight_grams": 425,
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Axilus%203%20Energized%20pickleball",
+    "price_usd": 119
   },
   {
     "id": "shoe_28",
@@ -372,8 +645,18 @@
     "product_name": "Viper Court Casual",
     "price": 10000,
     "size_range": "22.5cm - 29.0cm",
-    "color_variations": "イエロー, ピンク",
-    "court_type": "レジャー用"
+    "color_variations": [
+      "イエロー",
+      "ピンク"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Skechers%20Viper%20Court%20Casual",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers%20Viper%20Court%20Casual/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers%20Viper%20Court%20Casual",
+    "outsole": "Goodyear® Rubber",
+    "midsole": "ULTRA GO® Foam",
+    "weight_grams": 300,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Casual%20pickleball"
   },
   {
     "id": "shoe_29",
@@ -381,8 +664,18 @@
     "product_name": "Stycon Pickleball",
     "price": 15000,
     "size_range": "23.0cm - 30.0cm",
-    "color_variations": "ブラック/ホワイト",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ブラック/ホワイト"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20Stycon%20Pickleball",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20Stycon%20Pickleball/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20Stycon%20Pickleball",
+    "outsole": "Adiwear Rubber (Laceless)",
+    "midsole": "BOUNCE Cushioning",
+    "features": "Laceless Design",
+    "weight_grams": 380,
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20Stycon%20Pickleball%20pickleball"
   },
   {
     "id": "shoe_30",
@@ -390,7 +683,166 @@
     "product_name": "HOVR Court Ace",
     "price": 16000,
     "size_range": "23.5cm - 30.0cm",
-    "color_variations": "ブラック/レッド",
-    "court_type": "オールコート"
+    "color_variations": [
+      "ブラック/レッド"
+    ],
+    "court_type": "オールコート",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Under%20Armour%20HOVR%20Court%20Ace",
+    "rakuten_url": "https://search.rakuten.co.jp/search/mall/Under%20Armour%20HOVR%20Court%20Ace/",
+    "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Under%20Armour%20HOVR%20Court%20Ace",
+    "outsole": "Rubber (Herringbone)",
+    "midsole": "UA HOVR™ Cushioning",
+    "weight_grams": 360,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Under%20Armour%20HOVR%20Court%20Ace%20pickleball"
+  },
+  {
+    "id": "shoe_tyrol_drive_v",
+    "brand_name": "Tyrol",
+    "product_name": "Drive-V",
+    "outsole": "Vibram® Rubber (ピックルボール専用設計)",
+    "midsole": "EVA Cushioning",
+    "insole": "Removable (カスタムオルソティック対応)",
+    "stability": "Curved Heel Stabilizer + Torsion Control Shank",
+    "court_type": "オールコート",
+    "description": "ピックルボール専用設計。Vibram®ソールで抜群のグリップ。広い深いトゥボックスで足指保護。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "weight_grams": 370,
+    "product_url": "https://tyrolpickleball.com/products/drive-v",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Tyrol%20Drive-V%20pickleball"
+  },
+  {
+    "id": "shoe_acacia_tyler",
+    "brand_name": "Acacia",
+    "product_name": "Tyler Signature Edition Pro",
+    "outsole": "Rubber (Non-Marking)",
+    "midsole": "Honeycomb Memory Foam",
+    "stability": "Heel Control Stability (HCS)",
+    "court_type": "オールコート",
+    "description": "チャンピオンTyler Loong監修。Acaciaで最も軽量かつ敏敏なモデル。ProFlexアッパー搭載。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "weight_grams": 330,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Acacia%20Tyler%20Signature%20Edition%20Pro%20pickleball"
+  },
+  {
+    "id": "shoe_diadem_court_burst",
+    "brand_name": "Diadem",
+    "product_name": "Court Burst",
+    "outsole": "Non-Marking Rubber",
+    "midsole": "Responsive Cushioning",
+    "court_type": "オールコート",
+    "description": "2025年トップ推奨。軽量＋強力サポートの融合。レスポンシブクッションで快適性抜群。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "weight_grams": 350,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Court%20Burst%20pickleball"
+  },
+  {
+    "id": "shoe_selkirk_courtstrike",
+    "brand_name": "Selkirk",
+    "product_name": "CourtStrike Pro",
+    "outsole": "Grippy Rubber (多方向トラクション)",
+    "midsole": "Flexible Support Cushioning",
+    "court_type": "オールコート",
+    "description": "ピックルボール専用設計。多方向グリップ・柔軟サポート。",
+    "color_variations": [],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "weight_grams": 360,
+    "product_url": "https://www.selkirk.com/products/courtstrike-pro",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20CourtStrike%20Pro%20pickleball",
+    "price_usd": 149.99
+  },
+  {
+    "id": "shoe_head_motion_pro",
+    "brand_name": "HEAD",
+    "product_name": "Motion Pro Pickleball Shoe",
+    "court_type": "オールコート",
+    "outsole": "Hybrasion+ 360°パターン",
+    "midsole": "DynaFoam EVA",
+    "weight_grams": 413,
+    "stability_features": [
+      "TPUヒールカウンター",
+      "3D Anti-Torsion Shank",
+      "ロックダウンレーシングストラップ",
+      "補強トーキャップ"
+    ],
+    "description": "HEAD Motion Pro。DynaFoam EVAミッドソールでクッション性抜群。Hybrasion+ 360°アウトソールで全方向グリップ。",
+    "color_variations": [
+      "White/Blue",
+      "Black/Orange"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://www.head.com/en_US/motion-pro-shoe.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Motion%20Pro%20Pickleball%20Shoe%20pickleball",
+    "price_usd": 129.95
+  },
+  {
+    "id": "shoe_mizuno_wave_enforce2",
+    "brand_name": "Mizuno",
+    "product_name": "Wave Enforce Tour 2",
+    "court_type": "オールコート",
+    "outsole": "XG Rubber",
+    "midsole": "Mizuno Wave + Mizuno Enerzy",
+    "weight_grams": 413,
+    "stability_features": [
+      "Mizuno Wave プレート",
+      "D-Flex Groove",
+      "TPUシャンク"
+    ],
+    "description": "Mizuno Wave テクノロジー搭載。安定性とクッション性を両立するコートシューズ。",
+    "color_variations": [
+      "White/Black",
+      "Navy"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://www.mizuno.com/us/wave-enforce-tour-2-ac.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Wave%20Enforce%20Tour%202%20pickleball",
+    "price_usd": 129.95
+  },
+  {
+    "id": "shoe_nb_fuelcell_996v6",
+    "brand_name": "New Balance",
+    "product_name": "FuelCell 996v6",
+    "court_type": "オールコート",
+    "outsole": "NDurance Rubber (ヘリンボーンパターン)",
+    "midsole": "FuelCell Foam",
+    "weight_grams": 352,
+    "stability_features": [
+      "TPU Shank (大型)",
+      "PUサポートチップ",
+      "耐久トーガード",
+      "ラテラルスタビリティ強化"
+    ],
+    "description": "New Balance FuelCell搭載。推進力のあるFuelCellフォームと、NDuranceラバーで高い耐久性。8mmヒールドロップ。",
+    "color_variations": [
+      "White",
+      "Black/Red"
+    ],
+    "amazon_url": null,
+    "rakuten_url": null,
+    "yahoo_url": null,
+    "price": null,
+    "product_url": "https://www.newbalance.com/pd/fuelcell-996v6/MCH996V6-D.html",
+    "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20FuelCell%20996v6%20pickleball",
+    "price_usd": 134.99
   }
 ]

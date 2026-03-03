@@ -16,5 +16,287 @@
     "name": "パワー重視",
     "category": "gear_attribute",
     "color_code": "#F44336"
+  },
+  {
+    "id": "tag_level_intermediate",
+    "name": "中級者向け",
+    "category": "target_level",
+    "color_code": "#2196F3"
+  },
+  {
+    "id": "tag_level_advanced",
+    "name": "上級者向け",
+    "category": "target_level",
+    "color_code": "#F44336"
+  },
+  {
+    "id": "tag_level_all",
+    "name": "全レベル対応",
+    "category": "target_level",
+    "color_code": "#9C27B0"
+  },
+  {
+    "id": "tag_location_indoor",
+    "name": "インドア",
+    "category": "location_type",
+    "color_code": "#795548"
+  },
+  {
+    "id": "tag_location_outdoor",
+    "name": "アウトドア",
+    "category": "location_type",
+    "color_code": "#4CAF50"
+  },
+  {
+    "id": "tag_gear_control",
+    "name": "コントロール重視",
+    "category": "gear_attribute",
+    "color_code": "#2196F3"
+  },
+  {
+    "id": "tag_gear_spin",
+    "name": "スピン重視",
+    "category": "gear_attribute",
+    "color_code": "#FF9800"
+  },
+  {
+    "id": "tag_gear_lightweight",
+    "name": "軽量",
+    "category": "gear_attribute",
+    "color_code": "#00BCD4"
+  },
+  {
+    "id": "tag_gear_cospa",
+    "name": "コスパ最強",
+    "category": "gear_attribute",
+    "color_code": "#8BC34A"
+  },
+  {
+    "id": "tag_gear_quiet",
+    "name": "静音",
+    "category": "gear_attribute",
+    "color_code": "#607D8B"
+  },
+  {
+    "id": "tag_target_senior",
+    "name": "シニア向け",
+    "category": "target_demographic",
+    "color_code": "#FF5722"
+  },
+  {
+    "id": "tag_target_women",
+    "name": "女性向け",
+    "category": "target_demographic",
+    "color_code": "#E91E63"
+  },
+  {
+    "id": "tag_target_junior",
+    "name": "ジュニア向け",
+    "category": "target_demographic",
+    "color_code": "#03A9F4"
+  },
+  {
+    "id": "tag_target_family",
+    "name": "ファミリー向け",
+    "category": "target_demographic",
+    "color_code": "#CDDC39"
+  },
+  {
+    "id": "tag_skill_serve",
+    "name": "サーブ",
+    "category": "skill_focus",
+    "color_code": "#FF5722"
+  },
+  {
+    "id": "tag_skill_drop",
+    "name": "ドロップショット",
+    "category": "skill_focus",
+    "color_code": "#009688"
+  },
+  {
+    "id": "tag_skill_drive",
+    "name": "ドライブ",
+    "category": "skill_focus",
+    "color_code": "#F44336"
+  },
+  {
+    "id": "tag_skill_volley",
+    "name": "ボレー",
+    "category": "skill_focus",
+    "color_code": "#3F51B5"
+  },
+  {
+    "id": "tag_skill_erne",
+    "name": "アーネ",
+    "category": "skill_focus",
+    "color_code": "#FF9800"
+  },
+  {
+    "id": "tag_skill_atp",
+    "name": "ATP(Around The Post)",
+    "category": "skill_focus",
+    "color_code": "#E91E63"
+  },
+  {
+    "id": "tag_content_review",
+    "name": "レビュー",
+    "category": "content_type",
+    "color_code": "#673AB7"
+  },
+  {
+    "id": "tag_content_tutorial",
+    "name": "チュートリアル",
+    "category": "content_type",
+    "color_code": "#00BCD4"
+  },
+  {
+    "id": "tag_content_comparison",
+    "name": "比較",
+    "category": "content_type",
+    "color_code": "#FF9800"
+  },
+  {
+    "id": "tag_content_rules",
+    "name": "ルール解説",
+    "category": "content_type",
+    "color_code": "#9E9E9E"
+  },
+  {
+    "id": "tag_content_tournament",
+    "name": "大会情報",
+    "category": "content_type",
+    "color_code": "#FFC107"
+  },
+  {
+    "id": "tag_skill_stacking",
+    "name": "スタッキング",
+    "category": "skill_focus",
+    "color_code": "#9C27B0"
+  },
+  {
+    "id": "tag_skill_poaching",
+    "name": "ポーチング",
+    "category": "skill_focus",
+    "color_code": "#E91E63"
+  },
+  {
+    "id": "tag_skill_formation",
+    "name": "フォーメーション",
+    "category": "skill_focus",
+    "color_code": "#673AB7"
+  },
+  {
+    "id": "tag_skill_solo_drill",
+    "name": "ソロ練習",
+    "category": "skill_focus",
+    "color_code": "#795548"
+  },
+  {
+    "id": "tag_skill_mental",
+    "name": "メンタル",
+    "category": "skill_focus",
+    "color_code": "#607D8B"
+  },
+  {
+    "id": "tag_skill_footwork",
+    "name": "フットワーク",
+    "category": "skill_focus",
+    "color_code": "#00BCD4"
+  },
+  {
+    "id": "tag_content_manners",
+    "name": "マナー・エチケット",
+    "category": "content_type",
+    "color_code": "#CDDC39"
+  },
+  {
+    "id": "tag_content_news",
+    "name": "最新ニュース",
+    "category": "content_type",
+    "color_code": "#FF5722"
+  },
+  {
+    "id": "tag_content_injury",
+    "name": "怪我予防",
+    "category": "content_type",
+    "color_code": "#F44336"
+  },
+  {
+    "id": "tag_gear_quiet_paddle",
+    "name": "静音パドル",
+    "category": "gear_attribute",
+    "color_code": "#9E9E9E"
+  },
+  {
+    "id": "tag_gear_thermoformed",
+    "name": "サーモフォーム",
+    "category": "gear_attribute",
+    "color_code": "#3F51B5"
+  },
+  {
+    "id": "tag_raw_carbon",
+    "name": "Raw Carbon面",
+    "category": "パドル技術",
+    "description": "Raw Carbon Fiber面のパドル。高スピン性能。"
+  },
+  {
+    "id": "tag_foam_edge",
+    "name": "フォーム注入エッジ",
+    "category": "パドル技術",
+    "description": "エッジにフォームを注入してスイートスポットを拡大する技術。"
+  },
+  {
+    "id": "tag_elongated",
+    "name": "エロンゲーテッド",
+    "category": "パドル形状",
+    "description": "縦長形状のパドル。リーチと回転が向上。"
+  },
+  {
+    "id": "tag_hybrid_shape",
+    "name": "ハイブリッドシェイプ",
+    "category": "パドル形状",
+    "description": "エロンゲーテッドとスタンダードの中間形状。"
+  },
+  {
+    "id": "tag_wide_body",
+    "name": "ワイドボディ",
+    "category": "パドル形状",
+    "description": "幅広形状でスイートスポットが大きいパドル。"
+  },
+  {
+    "id": "tag_midweight",
+    "name": "ミッドウェイト",
+    "category": "重量帯",
+    "description": "7.6-8.2ozの標準重量パドル。"
+  },
+  {
+    "id": "tag_heavyweight",
+    "name": "ヘビーウェイト",
+    "category": "重量帯",
+    "description": "8.3oz以上の重量級パドル。パワー重視。"
+  },
+  {
+    "id": "tag_usapa_approved",
+    "name": "USAPA公認",
+    "category": "認定",
+    "description": "USA Pickleball協会公認のギア。公式大会で使用可能。"
+  },
+  {
+    "id": "tag_all_court",
+    "name": "オールコート",
+    "category": "シューズ特性",
+    "description": "全コートサーフェス対応のシューズ。"
+  },
+  {
+    "id": "tag_breathable",
+    "name": "通気性",
+    "category": "アパレル特性",
+    "description": "通気性に優れたアパレル。"
+  },
+  {
+    "id": "tag_uv_protection",
+    "name": "UVプロテクション",
+    "category": "アパレル特性",
+    "description": "UPF防御機能付きのアパレル。"
   }
 ]

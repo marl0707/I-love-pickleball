@@ -5,7 +5,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Micah Parsons, CJ Stroud, Myles Garrett, Scottie Scheffler, Lil Wayne",
-    "description": "スポーツ界やエンタメ界のトップスターが多数共同オーナーに名を連ねる、MLPの中でもひときわ注目を集めるチーム。"
+    "description": "スポーツ界やエンタメ界のトップスターが多数共同オーナーに名を連ねる、MLPの中でもひときわ注目を集めるチーム。",
+    "roster_2025": [
+      "Christian Alshon",
+      "Mary Brascia",
+      "Lee Whitwell",
+      "Noe Khlif",
+      "Michael Loyd",
+      "Helena Jansen"
+    ]
   },
   {
     "id": "mlp_dc_pickleball_team",
@@ -13,7 +21,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Eva Longoria, Mesut Özil, Kate Upton, Justin Verlander",
-    "description": "ハリウッド女優や世界的サッカー選手、MLBのスター投手がオーナーを務めることで話題となったチーム。"
+    "description": "ハリウッド女優や世界的サッカー選手、MLBのスター投手がオーナーを務めることで話題となったチーム。",
+    "roster_2025": [
+      "Dekel Bar",
+      "Jackie Kawamoto",
+      "Rachel Rohrabacher",
+      "Riley Newman",
+      "Hannah Blatt",
+      "Pat Smith"
+    ]
   },
   {
     "id": "mlp_orlando_squeeze",
@@ -21,15 +37,31 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Ryan Fitzpatrick",
-    "description": "オーランドを拠点とするチーム。強豪選手を揃え、熱狂的なファンベースを持つ。"
+    "description": "オーランドを拠点とするチーム。強豪選手を揃え、熱狂的なファンベースを持つ。",
+    "roster_2025": [
+      "Dylan Frazier",
+      "Lacy Schneemann",
+      "Federico Staksrud",
+      "Samantha Parker",
+      "Tom Evans",
+      "Alli Phillips"
+    ]
   },
   {
-    "id": "mlp_az_drive",
-    "team_name": "AZ Drive",
+    "id": "mlp_phoenix_flames",
+    "team_name": "Phoenix Flames",
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Larry Fitzgerald, Devin Booker, Dierks Bentley",
-    "description": "アリゾナのスポーツ界を代表するレジェンドが共同オーナーとして支える強力なフランチャイズ。"
+    "description": "アリゾナのスポーツ界を代表するレジェンドが共同オーナーとして支える強力なフランチャイズ。旧称 AZ Drive。",
+    "roster_2025": [
+      "Susannah Barr",
+      "Travis Rettenmaier",
+      "Pablo Tellez",
+      "Jack Sock",
+      "Alex Walker",
+      "Pesa Teoni"
+    ]
   },
   {
     "id": "mlp_new_york_hustlers",
@@ -37,7 +69,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Gary Vaynerchuk (Gary Vee)",
-    "description": "起業家Gary Veeが率いるNYベースのチーム。マーケティングとSNSプロモーションで独自のブランディングを展開。"
+    "description": "起業家Gary Veeが率いるNYベースのチーム。マーケティングとSNSプロモーションで独自のブランディングを展開。",
+    "roster_2025": [
+      "Zane Ford",
+      "Donald Young",
+      "Helena Spiridis",
+      "Dominique Schaefer",
+      "Juan Benitez",
+      "Danna Funaro"
+    ]
   },
   {
     "id": "mlp_la_mad_drops",
@@ -45,7 +85,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Drew Brees",
-    "description": "元NFL伝説的QBドリュー・ブリーズがオーナーを務めるLAのチーム。攻撃的な選手構成で知られる。"
+    "description": "元NFL伝説的QBドリュー・ブリーズがオーナーを務めるLAのチーム。攻撃的な選手構成で知られる。",
+    "roster_2025": [
+      "Hunter Johnson",
+      "Jade Kawamoto",
+      "Catherine Parenteau",
+      "Quang Duong",
+      "Thomas Wilson",
+      "Angie Walker"
+    ]
   },
   {
     "id": "mlp_utah_black_diamonds",
@@ -53,7 +101,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Brené Brown",
-    "description": "ユタ州を拠点とし、ベストセラー著者・研究者がオーナー。独特のチーム文化で知られる。"
+    "description": "ユタ州を拠点とし、ベストセラー著者・研究者がオーナー。独特のチーム文化で知られる。",
+    "roster_2025": [
+      "Rachel Rohrabacher",
+      "Tyler Loong",
+      "Callan Dawson",
+      "Mehvish Safdar",
+      "Genie Erokhina",
+      "Olivia McMillan"
+    ]
   },
   {
     "id": "mlp_chicago_slice",
@@ -61,39 +117,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Anheuser-Busch",
-    "description": "シカゴの深皿ピザにちなんだ名前。ビールメーカーがスポンサーとなり、エンタメ性豊かなチーム運営。"
-  },
-  {
-    "id": "mlp_bay_area_breakers",
-    "team_name": "Bay Area Breakers",
-    "league": "Major League Pickleball (MLP)",
-    "level": "Premier Level",
-    "notable_owners": "Tom Brady",
-    "description": "NFL GOAT トム・ブレイディがオーナー参画し、世界的な注目を集めたベイエリアのチーム。"
-  },
-  {
-    "id": "mlp_atlanta_bouncers",
-    "team_name": "Atlanta Bouncers",
-    "league": "Major League Pickleball (MLP)",
-    "level": "Premier Level",
-    "notable_owners": "Dude Perfect, Canelo Álvarez",
-    "description": "世界的ボクサー カネロ・アルバレスとYouTuber集団デュード・パーフェクトがオーナーのアトランタチーム。"
-  },
-  {
-    "id": "mlp_miami_pickleball_club",
-    "team_name": "Miami Pickleball Club",
-    "league": "Major League Pickleball (MLP)",
-    "level": "Premier Level",
-    "notable_owners": "LeBron James, Kevin Love, Draymond Green",
-    "description": "NBAのスーパースター・レブロン・ジェームズやドレイモンド・グリーンらがオーナー。マイアミの華やかさを体現。"
-  },
-  {
-    "id": "mlp_seattle_pioneers",
-    "team_name": "Seattle Pioneers",
-    "league": "Major League Pickleball (MLP)",
-    "level": "Premier Level",
-    "notable_owners": "Russell Wilson, Ciara",
-    "description": "NFLスターのラッセル・ウィルソンと歌手シアラがオーナーを務めるシアトルベースのチーム。"
+    "description": "シカゴの深皿ピザにちなんだ名前。ビールメーカーがスポンサーとなり、エンタメ性豊かなチーム運営。",
+    "roster_2025": [
+      "James Ignatowich",
+      "Vivienne David",
+      "Max Freeman",
+      "Callie Smith",
+      "Pierina Imparato",
+      "Carlos Di Laura"
+    ]
   },
   {
     "id": "mlp_carolina_pickleball_club",
@@ -101,7 +133,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Michael Phelps",
-    "description": "五輪史上最多金メダリスト・マイケル・フェルプスがオーナー。スポーツの頂点を知る者が率いるチーム。"
+    "description": "五輪史上最多金メダリスト・マイケル・フェルプスがオーナー。ベン・ジョンズ兄弟が所属する最強チーム。",
+    "roster_2025": [
+      "Kaitlyn Christian",
+      "Ben Johns",
+      "Collin Johns",
+      "Tamaryn Emmrich",
+      "Liz Truluck",
+      "Brandon French"
+    ]
   },
   {
     "id": "mlp_columbus_sliders",
@@ -109,7 +149,15 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Mario Lopez",
-    "description": "俳優マリオ・ロペスがオーナーを務めるオハイオ州コロンバスのチーム。コミュニティとの結びつきが強い。"
+    "description": "俳優マリオ・ロペスがオーナーを務めるオハイオ州コロンバスのチーム。コミュニティとの結びつきが強い。",
+    "roster_2025": [
+      "Andrei Daescu",
+      "CJ Klinger",
+      "Parris Todd",
+      "Lea Jansen",
+      "Marcela Hones",
+      "Roscoe Bellamy"
+    ]
   },
   {
     "id": "mlp_st_louis_shock",
@@ -117,14 +165,94 @@
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
     "notable_owners": "Patrick Mahomes",
-    "description": "現役NFL MVP パトリック・マホームズが共同オーナー。カンザスシティとセントルイスのピックルボール文化を牽引。"
+    "description": "現役NFL MVP パトリック・マホームズが共同オーナー。カンザスシティとセントルイスのピックルボール文化を牽引。",
+    "roster_2025": [
+      "Sarah Ansboury",
+      "Jay Garnett",
+      "Dekel Bar",
+      "Kate Fahey",
+      "Erik Lange",
+      "Felicity Di Laura"
+    ]
   },
   {
-    "id": "mlp_okc_punishers",
-    "team_name": "OKC Punishers",
+    "id": "mlp_atlanta_bouncers",
+    "team_name": "Atlanta Bouncers",
     "league": "Major League Pickleball (MLP)",
     "level": "Premier Level",
-    "notable_owners": "Kevin Durant",
-    "description": "NBAスーパースター・ケビン・デュラントが支援するオクラホマシティのチーム。"
+    "notable_owners": "Dude Perfect, Canelo Álvarez",
+    "description": "世界的ボクサー カネロ・アルバレスとYouTuber集団デュード・パーフェクトがオーナーのアトランタチーム。",
+    "roster_2025": [
+      "Todd Fought",
+      "Vivian Glozman",
+      "Jaume Martinez Vich",
+      "Victoria Di Muzio",
+      "Sam Querrey",
+      "Rachel Rettger"
+    ]
+  },
+  {
+    "id": "mlp_miami_pickleball_club",
+    "team_name": "Miami Pickleball Club",
+    "league": "Major League Pickleball (MLP)",
+    "level": "Premier Level",
+    "notable_owners": "LeBron James, Kevin Love, Draymond Green",
+    "description": "NBAのスーパースター・レブロン・ジェームズやドレイモンド・グリーンらがオーナー。マイアミの華やかさを体現。",
+    "roster_2025": [
+      "Eric Oncins",
+      "Milan Rane",
+      "Mya Bui",
+      "Jay Devilliers",
+      "Ava Ignatowich",
+      "Yuta Funemizu"
+    ]
+  },
+  {
+    "id": "mlp_nj_5s",
+    "team_name": "New Jersey 5s",
+    "league": "Major League Pickleball (MLP)",
+    "level": "Premier Level",
+    "notable_owners": null,
+    "description": "アンナ・リー・ウォーターズとゼイン・ナブラティルが所属する注目チーム。",
+    "roster_2025": [
+      "Will Howells",
+      "Zane Navratil",
+      "Anna Leigh Waters",
+      "Genie Bouchard",
+      "Christa Gecheva",
+      "Craig Johnson"
+    ]
+  },
+  {
+    "id": "mlp_dallas_flash",
+    "team_name": "Dallas Flash",
+    "league": "Major League Pickleball (MLP)",
+    "level": "Premier Level",
+    "notable_owners": null,
+    "description": "JW ジョンソンファミリーが所属するダラスベースのチーム。",
+    "roster_2025": [
+      "Hurricane Tyra Black",
+      "Jorja Johnson",
+      "JW Johnson",
+      "Augustus Ge",
+      "Tatiana Ruhl",
+      "D.J. Young"
+    ]
+  },
+  {
+    "id": "mlp_socal_hard_eights",
+    "team_name": "SoCal Hard Eights",
+    "league": "Major League Pickleball (MLP)",
+    "level": "Premier Level",
+    "notable_owners": null,
+    "description": "南カリフォルニアを拠点とし、国際色豊かなロースターが特徴のチーム。",
+    "roster_2025": [
+      "Judit Castillo",
+      "Etta Wright",
+      "Yana Newell",
+      "Ivan Jakovljevic",
+      "Blaine Hovenier",
+      "Ryan Fu"
+    ]
   }
 ]

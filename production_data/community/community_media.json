@@ -1,23 +1,160 @@
 [
   {
-    "id": "c_media_001",
-    "target_type": "community",
-    "target_id": "community_osaka_links",
-    "media_type": "instagram",
-    "url": "https://www.instagram.com/p/Dummy_Links_BeginnerClass/"
+    "id": "media_pb_japan_tv",
+    "type": "YouTubeチャンネル",
+    "title": "ピックルボールジャパンTV (Pickleball Japan TV)",
+    "description": "2025 MVP・MLP選手の船水雄太が運営する日本語チャンネル。世界最高峰MLPの環境、試合動画、プレー分析が充実。元ソフトテニス日本代表ならではの技術解説も。",
+    "language": "日本語",
+    "target_level": "全レベル",
+    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3TV+%E8%88%B9%E6%B0%B4%E9%9B%84%E5%A4%AA",
+    "related_player_ids": [
+      "player_yuta_funemizu"
+    ]
   },
   {
-    "id": "c_media_002",
-    "target_type": "community",
-    "target_id": "community_fukuoka_infinity",
-    "media_type": "youtube",
-    "url": "https://www.youtube.com/watch?v=Dummy_Infinity_Fukuoka"
+    "id": "media_pb_one",
+    "type": "YouTubeチャンネル / Webメディア",
+    "title": "ピックルボールワン (Pickleball One / pickle-one.com)",
+    "description": "日本唯一のピックルボール専門総合メディア。基本技術の解説、ギア情報、ルール改正情報、「PICKLEBALL ONE RADIO」ポッドキャストシリーズなど。初心者から中級者に特におすすめ。",
+    "language": "日本語",
+    "target_level": "初心者〜中級者",
+    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%AF%E3%83%B3+pickleball+one",
+    "related_player_ids": []
   },
   {
-    "id": "c_media_003",
-    "target_type": "community",
-    "target_id": "community_tokyo_shinjuku",
-    "media_type": "instagram",
-    "url": "https://www.instagram.com/p/Dummy_Shinjuku_Practice/"
+    "id": "media_seishun_pickle",
+    "type": "YouTubeチャンネル",
+    "title": "青春ピックルちゃんねる",
+    "description": "ピックルボール愛好家グループが運営する日本語チャンネル。初心者向けに週1回ペースで更新。プレイの楽しさを伝えるカジュアルなコンテンツが特徴。",
+    "language": "日本語",
+    "target_level": "初心者",
+    "media_url": "https://www.youtube.com/results?search_query=%E9%9D%92%E6%98%A5%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_honjo_pb",
+    "type": "YouTubeチャンネル",
+    "title": "ピックルボールの紹介 (by Honjo)",
+    "description": "「ピックルボールの教科書」を目指す日本語チャンネル。ルールや基本的な打ち方を丁寧に解説。2024年からスタートした新興チャンネル。",
+    "language": "日本語",
+    "target_level": "初心者",
+    "media_url": "https://www.youtube.com/results?search_query=Honjo+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E7%B4%B9%E4%BB%8B",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_tbs_pb_times",
+    "type": "テレビ/YouTube",
+    "title": "TBS SPORTS ピックルボールタイムズ",
+    "description": "TBSが運営するピックルボールニュース番組。PJFチャンピオンシップスの中継や、プロ選手の育成プロジェクト紹介など、日本の大手テレビ局による本格的なPB報道。",
+    "language": "日本語",
+    "target_level": "全レベル",
+    "media_url": "https://www.youtube.com/results?search_query=TBS+SPORTS+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_primetime_pb",
+    "type": "YouTubeチャンネル",
+    "title": "PrimeTime Pickleball",
+    "description": "IPTPA認定コーチのNicole Havlicekが運営する英語圏最大級のPB教育チャンネル。コートポジショニング、フットワーク、スマートストラテジーの解説が人気。",
+    "language": "英語",
+    "target_level": "中級者〜上級者",
+    "media_url": "https://www.youtube.com/@PrimeTimePickleball",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_briones_pb",
+    "type": "YouTubeチャンネル",
+    "title": "Briones Pickleball (Jordan Briones)",
+    "description": "プロ選手との共演も多い英語の人気教育チャンネル。メカニクスの詳細分解とレーティングレベル別のスキル解説が特徴。",
+    "language": "英語",
+    "target_level": "中級者",
+    "media_url": "https://www.youtube.com/results?search_query=Briones+Pickleball+Jordan",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_that_pb_guy",
+    "type": "YouTubeチャンネル",
+    "title": "That Pickleball Guy (Kyle Koszuta)",
+    "description": "試合の分解解説と、一般プレイヤーのゲーム分析で人気。メカニクスと戦略の両面をカバー。分かりやすくてエンターテーメント性も高い。",
+    "language": "英語",
+    "target_level": "初心者〜中級者",
+    "media_url": "https://www.youtube.com/results?search_query=That+Pickleball+Guy+Kyle",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_third_shot_sports",
+    "type": "YouTubeチャンネル",
+    "title": "Third Shot Sports (Mark Renneson)",
+    "description": "PCI(Pickleball Coaching International)代表のMark Rennesonが運営。論理的なプレイの「なぜ？」を深掘りする教育チャンネル。コーチ育成にも貢献。",
+    "language": "英語",
+    "target_level": "全レベル",
+    "media_url": "https://www.youtube.com/@ThirdShotSports",
+    "related_player_ids": [
+      "coach-mark-renneson"
+    ]
+  },
+  {
+    "id": "media_tyson_mcguffin_yt",
+    "type": "YouTubeチャンネル",
+    "title": "Tyson McGuffin YouTube",
+    "description": "PPAツアートッププロのタイソン・マクガフィンが運営する公式チャンネル。プロ視点のドリル解説、試合分析、トレーニングルーティンを公開。",
+    "language": "英語",
+    "target_level": "上級者",
+    "media_url": "https://www.youtube.com/@TysonMcGuffin",
+    "related_player_ids": [
+      "pro_tyson_mcguffin"
+    ]
+  },
+  {
+    "id": "media_zane_navratil_yt",
+    "type": "YouTubeチャンネル / Podcast",
+    "title": "Zane Navratil / Picklepod",
+    "description": "PPAシングルスの鬼・Zane Navratilのチャンネル。シングルス戦術、チェンジアップショット、トッププレイヤーとのインタビュー動画が充実。Picklepodポッドキャストも。",
+    "language": "英語",
+    "target_level": "中級者〜上級者",
+    "media_url": "https://www.youtube.com/@ZaneNavratil",
+    "related_player_ids": [
+      "pro_zane_navratil"
+    ]
+  },
+  {
+    "id": "media_tanner_pb",
+    "type": "YouTubeチャンネル",
+    "title": "Tanner Pickleball",
+    "description": "短くて要点を押さえたティップスが人気の英語チャンネル。プロレベルのゲーム分解、マインドセット、よくあるミスの修正法を解説。",
+    "language": "英語",
+    "target_level": "中級者",
+    "media_url": "https://www.youtube.com/results?search_query=Tanner+Pickleball",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_better_pb",
+    "type": "YouTubeチャンネル",
+    "title": "Better Pickleball",
+    "description": "50歳以上のプレイヤーに特化した英語チャンネル。初心者向けティップス、よくあるミスの回避法、「Pickleball Therapy」ライブ配信シリーズが人気。",
+    "language": "英語",
+    "target_level": "初心者（シニア向け）",
+    "media_url": "https://www.youtube.com/results?search_query=Better+Pickleball",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_pb_studio",
+    "type": "YouTubeチャンネル",
+    "title": "The Pickleball Studio",
+    "description": "テクニック分解、ギアレビュー、戦略解説の三本柱で高品質なコンテンツを配信する英語チャンネル。初心者から上級者まで幅広くカバー。",
+    "language": "英語",
+    "target_level": "全レベル",
+    "media_url": "https://www.youtube.com/results?search_query=The+Pickleball+Studio",
+    "related_player_ids": []
+  },
+  {
+    "id": "media_picklesmith",
+    "type": "YouTubeチャンネル",
+    "title": "Picklesmith",
+    "description": "概念の説明が非常に上手な英語教育チャンネル。動画が段階的に構成されており、基礎から応用へと自然にステップアップできる設計。",
+    "language": "英語",
+    "target_level": "初心者〜中級者",
+    "media_url": "https://www.youtube.com/results?search_query=Picklesmith+pickleball",
+    "related_player_ids": []
   }
 ]

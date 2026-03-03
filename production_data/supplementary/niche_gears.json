@@ -5,7 +5,9 @@
     "name": "Pickleball Lead Tape (鉛テープ)",
     "description": "パドルのエッジに貼ることで重量を加え、スウィートスポットを拡大し、パワーと安定性を向上させる競技者必須のアイテム。",
     "usage_tips": "3時と9時の位置→スウィートスポット横拡大、12時の位置→ヘッドヘビーでパワーアップ。",
-    "price_range": "1,000円〜2,000円"
+    "price_range": "1,000円〜2,000円",
+    "specific_features": "パドルのエッジに貼ることで重量を加え、スウィートスポットを拡大し、パワーと安定性を向上させる競技者必須のアイテム。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Pickleball%20Lead%20Tape%20(%E9%89%9B%E3%83%86%E3%83%BC%E3%83%97)%20pickleball"
   },
   {
     "id": "item_overgrip",
@@ -13,7 +15,9 @@
     "name": "各種オーバーグリップ",
     "description": "汗を吸収しパドルの滑りを防ぐために元グリップの上に巻くテープ。ドライタイプとウェットタイプがある。",
     "usage_tips": "夏場や手汗の多い人はドライタイプ（トーナグリップ等）、冬場はウェットタイプが推奨。",
-    "price_range": "3本入り 1,200円前後"
+    "price_range": "3本入り 1,200円前後",
+    "specific_features": "汗を吸収しパドルの滑りを防ぐために元グリップの上に巻くテープ。ドライタイプとウェットタイプがある。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20%E5%90%84%E7%A8%AE%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%20pickleball"
   },
   {
     "id": "item_edge_guard_tape",
@@ -21,7 +25,9 @@
     "name": "Edge Guard Tape (エッジガードテープ)",
     "description": "コートの床にパドルの縁が擦れて削れるのを防ぐ保護テープ。",
     "usage_tips": "高価なパドルは購入直後に貼るプロが多い。デザイン性のあるものを選ぶとカスタマイズにもなる。",
-    "price_range": "1,500円〜2,500円"
+    "price_range": "1,500円〜2,500円",
+    "specific_features": "コートの床にパドルの縁が擦れて削れるのを防ぐ保護テープ。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Edge%20Guard%20Tape%20(%E3%82%A8%E3%83%83%E3%82%B8%E3%82%AC%E3%83%BC%E3%83%89%E3%83%86%E3%83%BC%E3%83%97)%20pickleball"
   },
   {
     "id": "item_grip_enhancer",
@@ -29,7 +35,9 @@
     "name": "Grip Enhancer Spray / Powder (グリップ強化スプレー・パウダー)",
     "description": "手のひらに塗布しグリップ力を強化する。ロジン系パウダーやスプレータイプがある。",
     "usage_tips": "手汗がひどい場合はオーバーグリップと併用が効果的。大会ではルール確認要。",
-    "price_range": "800円〜1,500円"
+    "price_range": "800円〜1,500円",
+    "specific_features": "手のひらに塗布しグリップ力を強化する。ロジン系パウダーやスプレータイプがある。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Grip%20Enhancer%20Spray%20%2F%20Powder%20(%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%BC%B7%E5%8C%96%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC%E3%83%BB%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC)%20pickleball"
   },
   {
     "id": "item_vibration_dampener",
@@ -37,7 +45,9 @@
     "name": "Vibration Dampener (振動止め/ダンパー)",
     "description": "パドルのスロート部分に取り付け振動を吸収する小さなアクセサリー。テニス肘の予防にも効果的。",
     "usage_tips": "テニスの振動止めがそのまま使える場合がある。不快な振動を感じたら導入を検討。",
-    "price_range": "500円〜1,000円"
+    "price_range": "500円〜1,000円",
+    "specific_features": "パドルのスロート部分に取り付け振動を吸収する小さなアクセサリー。テニス肘の予防にも効果的。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Vibration%20Dampener%20(%E6%8C%AF%E5%8B%95%E6%AD%A2%E3%82%81%2F%E3%83%80%E3%83%B3%E3%83%91%E3%83%BC)%20pickleball"
   },
   {
     "id": "item_ball_machine",
@@ -45,7 +55,9 @@
     "name": "Pickleball Ball Machine (ボールマシン)",
     "description": "自動でボールを発射する練習用マシン。スピード・角度・スピンを調整可能。一人での反復練習に最適。",
     "usage_tips": "サードショットドロップやリターンの練習に特に効果的。Tutor, Lobster等のブランドが定番。",
-    "price_range": "80,000円〜300,000円"
+    "price_range": "80,000円〜300,000円",
+    "specific_features": "自動でボールを発射する練習用マシン。スピード・角度・スピンを調整可能。一人での反復練習に最適。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Pickleball%20Ball%20Machine%20(%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%B3)%20pickleball"
   },
   {
     "id": "item_rebounder",
@@ -53,7 +65,9 @@
     "name": "Rebounder / Practice Wall (リバウンダー)",
     "description": "打ったボールが跳ね返ってくる練習用ネット/ボード。自宅やコート脇での自主練習に使用。",
     "usage_tips": "角度を調整してディンクやドライブの反復練習が可能。Rukketブランドが人気。",
-    "price_range": "10,000円〜20,000円"
+    "price_range": "10,000円〜20,000円",
+    "specific_features": "打ったボールが跳ね返ってくる練習用ネット/ボード。自宅やコート脇での自主練習に使用。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Rebounder%20%2F%20Practice%20Wall%20(%E3%83%AA%E3%83%90%E3%82%A6%E3%83%B3%E3%83%80%E3%83%BC)%20pickleball"
   },
   {
     "id": "item_portable_net",
@@ -61,7 +75,9 @@
     "name": "Portable Net System (ポータブルネット)",
     "description": "体育館や公園にピックルボールコートを設置するための持ち運び可能なネットシステム。",
     "usage_tips": "USAP公式サイズ（高さ36インチ/サイドは34インチ）を確認。JOOLA, Onixブランドが定番。",
-    "price_range": "15,000円〜30,000円"
+    "price_range": "15,000円〜30,000円",
+    "specific_features": "体育館や公園にピックルボールコートを設置するための持ち運び可能なネットシステム。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Portable%20Net%20System%20(%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88)%20pickleball"
   },
   {
     "id": "item_court_tape",
@@ -69,7 +85,9 @@
     "name": "Court Line Tape (コートラインテープ)",
     "description": "テニスコートや体育館の床にピックルボールのラインを引くための幅広粘着テープ。",
     "usage_tips": "跡が残りにくい養生テープ系がおすすめ。1コート分で約80m必要。色はブルーかグリーンが主流。",
-    "price_range": "1,500円〜3,000円/ロール"
+    "price_range": "1,500円〜3,000円/ロール",
+    "specific_features": "テニスコートや体育館の床にピックルボールのラインを引くための幅広粘着テープ。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Court%20Line%20Tape%20(%E3%82%B3%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%97)%20pickleball"
   },
   {
     "id": "item_target_training",
@@ -77,7 +95,9 @@
     "name": "Target Training Cones / Markers (ターゲットマーカー)",
     "description": "キッチン内の特定のスポットに置いてドロップやディンクの精度を高めるための目印。",
     "usage_tips": "フラットコーン型が足を引っ掛けにくく安全。4色セットで使い分けると効果的。",
-    "price_range": "1,000円〜2,000円/セット"
+    "price_range": "1,000円〜2,000円/セット",
+    "specific_features": "キッチン内の特定のスポットに置いてドロップやディンクの精度を高めるための目印。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Target%20Training%20Cones%20%2F%20Markers%20(%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC)%20pickleball"
   },
   {
     "id": "item_spin_trainer",
@@ -85,7 +105,9 @@
     "name": "Spin Trainer / Spin Paddle (スピン練習用パドル)",
     "description": "フェイスに特殊加工を施した練習専用パドル。スピンのかけ方の感覚を身に着けるためのトレーニングツール。",
     "usage_tips": "通常パドルと交互に使い、スピンの感覚を強化する。試合では使用不可。",
-    "price_range": "5,000円〜8,000円"
+    "price_range": "5,000円〜8,000円",
+    "specific_features": "フェイスに特殊加工を施した練習専用パドル。スピンのかけ方の感覚を身に着けるためのトレーニングツール。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Spin%20Trainer%20%2F%20Spin%20Paddle%20(%E3%82%B9%E3%83%94%E3%83%B3%E7%B7%B4%E7%BF%92%E7%94%A8%E3%83%91%E3%83%89%E3%83%AB)%20pickleball"
   },
   {
     "id": "item_caddy_hopper",
@@ -93,7 +115,9 @@
     "name": "Ball Caddy / Ball Hopper (ボールカート)",
     "description": "練習時に大量のボールを収納し持ち運ぶためのカート。腰をかがめずにボールを拾えるタイプもある。",
     "usage_tips": "ドリル練習やレッスン時のコーチには必須。80球以上収容できるモデルが実用的。",
-    "price_range": "5,000円〜12,000円"
+    "price_range": "5,000円〜12,000円",
+    "specific_features": "練習時に大量のボールを収納し持ち運ぶためのカート。腰をかがめずにボールを拾えるタイプもある。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Ball%20Caddy%20%2F%20Ball%20Hopper%20(%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%88)%20pickleball"
   },
   {
     "id": "item_paddle_eraser",
@@ -101,7 +125,9 @@
     "name": "Paddle Face Eraser / Cleaner (パドルフェイスクリーナー)",
     "description": "パドルの打面についたボール跡や汚れを落とす専用イレイサー。スピン性能の維持に重要。",
     "usage_tips": "カーボンフェイスのパドルは定期的にクリーニングしないとスピン性能が低下する。3〜5回使用ごと。",
-    "price_range": "800円〜1,500円"
+    "price_range": "800円〜1,500円",
+    "specific_features": "パドルの打面についたボール跡や汚れを落とす専用イレイサー。スピン性能の維持に重要。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Paddle%20Face%20Eraser%20%2F%20Cleaner%20(%E3%83%91%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BC)%20pickleball"
   },
   {
     "id": "item_weighted_training_paddle",
@@ -109,7 +135,9 @@
     "name": "Weighted Training Paddle (ウェイトトレーニングパドル)",
     "description": "通常より重い練習用パドル。スイングスピードと筋力を鍛えるための素振り・ドリル練習用。",
     "usage_tips": "通常パドル（7.5oz）の1.5〜2倍の重さ（11〜14oz）で素振りを行い、筋力アップ。",
-    "price_range": "6,000円〜10,000円"
+    "price_range": "6,000円〜10,000円",
+    "specific_features": "通常より重い練習用パドル。スイングスピードと筋力を鍛えるための素振り・ドリル練習用。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Weighted%20Training%20Paddle%20(%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%91%E3%83%89%E3%83%AB)%20pickleball"
   },
   {
     "id": "item_scorekeeping_band",
@@ -117,6 +145,204 @@
     "name": "Score Keeping Wristband / Bracelet (スコアキーピングバンド)",
     "description": "手首に装着し、スコアをスライダーで管理する便利なバンド。レクリエーションプレイで大人気。",
     "usage_tips": "サイドアウトスコアリングの3つの数字（自分の得点、相手の得点、サーバー番号）を簡単に追跡。",
-    "price_range": "500円〜1,500円"
+    "price_range": "500円〜1,500円",
+    "specific_features": "手首に装着し、スコアをスライダーで管理する便利なバンド。レクリエーションプレイで大人気。",
+    "image_url": "https://www.google.com/search?tbm=isch&q=%20Score%20Keeping%20Wristband%20%2F%20Bracelet%20(%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%AD%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89)%20pickleball"
+  },
+  {
+    "id": "niche_titan_one_machine",
+    "category": "ボールマシン",
+    "name": "Titan ONE Ball Machine",
+    "brand": "Titan",
+    "description": "アプリ制御のボールマシン。プリロードドリル付き。カスタムドリル作成可能。",
+    "features": [
+      "アプリ制御",
+      "プリロードドリル",
+      "カスタムドリル作成",
+      "可変球速・スピン"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Titan%20Titan%20ONE%20Ball%20Machine%20pickleball"
+  },
+  {
+    "id": "niche_erne_machine",
+    "category": "ボールマシン",
+    "name": "Erne Pickleball Machine",
+    "brand": "Erne",
+    "description": "最大150球収容の高性能ボールマシン。スマートフォンアプリでドリルプログラミング。",
+    "features": [
+      "150球収容",
+      "スマホアプリ制御",
+      "可変球速",
+      "水平オシレーション"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Erne%20Erne%20Pickleball%20Machine%20pickleball"
+  },
+  {
+    "id": "niche_potenza_smartx",
+    "category": "スマートパドル",
+    "name": "Potenza SMARTx COREx4",
+    "brand": "Potenza",
+    "description": "内蔵センサーでスイング速度・パワー・スピンを計測。モバイルアプリ連携。",
+    "features": [
+      "内蔵センサー",
+      "スイング分析",
+      "スピン計測",
+      "モバイルアプリ連携"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Potenza%20Potenza%20SMARTx%20COREx4%20pickleball"
+  },
+  {
+    "id": "niche_pb_vision_ai",
+    "category": "AI分析ツール",
+    "name": "PB Vision",
+    "brand": "PB Vision",
+    "description": "AI搭載の試合分析ツール。映像からショット軌道・コート移動・サーブ効果を分析。",
+    "features": [
+      "AI映像分析",
+      "ショット軌道追跡",
+      "コート移動分析",
+      "サーブ/リターン効果"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=PB%20Vision%20PB%20Vision%20pickleball"
+  },
+  {
+    "id": "niche_lightning_loop",
+    "category": "トレーニングウェイト",
+    "name": "Lightning Loop",
+    "brand": "Lightning Loop",
+    "description": "パドル装着型ウェイト。野球のウェイテッドドーナツと同様の概念。",
+    "features": [
+      "パドル装着型",
+      "重量調整可能",
+      "スイング筋力強化"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lightning%20Loop%20Lightning%20Loop%20pickleball"
+  },
+  {
+    "id": "niche_swingit_rebounder",
+    "category": "リバウンダー",
+    "name": "SWINGIT Practice Rebounder Net",
+    "brand": "SWINGIT",
+    "description": "2-in-1リバウンダー。リバウンダーとミニネットに変換可能。角度調整可能。",
+    "features": [
+      "2-in-1変換",
+      "角度調整",
+      "ポータブル",
+      "ディンク・ボレー練習"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=SWINGIT%20SWINGIT%20Practice%20Rebounder%20Net%20pickleball"
+  },
+  {
+    "id": "machine_erne",
+    "category": "ボールマシン",
+    "name": "Erne Ball Machine",
+    "brand": "Erne",
+    "description": "「ピックルボール界のテスラ」と称される高性能マシン。25種のプリセットドリル、28箇所のコート位置設定、スマホアプリ連携。隠しヨーク機構でボール射出位置を予測困難にする独自技術搭載。",
+    "features": [
+      "最高時速60マイル",
+      "ボール容量150球",
+      "バッテリー6〜8時間",
+      "アプリ操作/25種ドリル",
+      "約$1,799〜$1,899"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Erne%20Erne%20Ball%20Machine%20pickleball"
+  },
+  {
+    "id": "machine_titan_one",
+    "category": "ボールマシン",
+    "name": "Titan One / Titan ACE",
+    "brand": "Titan",
+    "description": "最高時速75マイルの強力モーターとアクティブブレーキングシステム搭載。オールインワンホッパー設計でパドル・ボール収納可能。無料Titan Drillsアプリで12種プリセット+カスタムドリル作成。内部オシレーション機能でランダムプレイ再現。",
+    "features": [
+      "最高時速75マイル",
+      "12種プリセットドリル",
+      "アプリ連携カスタムドリル",
+      "内部オシレーション",
+      "約$2,299"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Titan%20Titan%20One%20%2F%20Titan%20ACE%20pickleball"
+  },
+  {
+    "id": "machine_pb_tutor",
+    "category": "ボールマシン",
+    "name": "Pickleball Tutor Plus Ultra / Mini",
+    "brand": "Sports Tutor",
+    "description": "信頼性と耐久性で定評のあるボールマシン。Plus Ultraはフル機能モデル、Miniは$1,000以下の携帯性重視軽量モデル。オシレーション機能付き/非搭載モデルを選択可能。リモートコントロールオプション有り。",
+    "features": [
+      "最高時速60マイル",
+      "ボール容量125球",
+      "バッテリー込み約13kg",
+      "2〜10秒間隔調整",
+      "Mini: $1,000以下"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Sports%20Tutor%20Pickleball%20Tutor%20Plus%20Ultra%20%2F%20Mini%20pickleball"
+  },
+  {
+    "id": "machine_simon_x",
+    "category": "ボールマシン",
+    "name": "Simon X",
+    "brand": "Simon",
+    "description": "ミリタリーグレード耐久性の革新的マシン。トライホイールシステムで高さ調整容易。ステルスオシレーション機能で予測不能なボール配給。スーパーランプ搭載でドロップ/ロブ/ボレーの多彩な練習が可能。",
+    "features": [
+      "最高時速70マイル",
+      "トップスピン/アンダースピン",
+      "バッテリー10〜12時間",
+      "メインホッパー120球+追加60球",
+      "ピッチ/スローホイール生涯保証"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Simon%20Simon%20X%20pickleball"
+  },
+  {
+    "id": "niche_paddle_cover",
+    "category": "パドルカバー",
+    "name": "パドルプロテクションカバー",
+    "brand": "各種",
+    "description": "パドル面を傷から保護するネオプレン/EVA製カバー。持ち運び時の必需品。",
+    "features": [
+      "ネオプレン/EVA素材",
+      "パドル面保護",
+      "ジッパー/マジックテープ"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=%E5%90%84%E7%A8%AE%20%E3%83%91%E3%83%89%E3%83%AB%E3%83%97%E3%83%AD%E3%83%86%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%90%E3%83%BC%20pickleball"
+  },
+  {
+    "id": "niche_ball_hopper",
+    "category": "ボールホッパー",
+    "name": "ピックルボール ボールホッパー",
+    "brand": "Tourna / Gamma",
+    "description": "ボールの収集・保管用ホッパー。練習時のボール拾いを効率化。40-80球収容。",
+    "features": [
+      "40-80球収容",
+      "折りたたみ式",
+      "ホイール付きモデルあり"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Tourna%20%2F%20Gamma%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%9B%E3%83%83%E3%83%91%E3%83%BC%20pickleball"
+  },
+  {
+    "id": "niche_court_squeegee",
+    "category": "コートスキージー",
+    "name": "コートスキージー(水切り)",
+    "brand": "各種",
+    "description": "雨後のコート水切り用スキージー。コートの乾燥を早め、プレイを速く再開。",
+    "features": [
+      "幅広ブレード",
+      "軽量アルミフレーム",
+      "伸縮ハンドル"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=%E5%90%84%E7%A8%AE%20%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B8%E3%83%BC(%E6%B0%B4%E5%88%87%E3%82%8A)%20pickleball"
+  },
+  {
+    "id": "niche_paddle_weight_kit",
+    "category": "ウェイトカスタマイズ",
+    "name": "パドルウェイトカスタマイズキット",
+    "brand": "Selkirk / CRBN",
+    "description": "タングステンテープ+鉛テープ+バランスポイント測定ツール一式。パドルの重量・バランスを自分好みに調整。",
+    "features": [
+      "タングステンテープ",
+      "鉛テープ",
+      "バランス測定",
+      "カットガイド"
+    ],
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20%2F%20CRBN%20%E3%83%91%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%82%AD%E3%83%83%E3%83%88%20pickleball"
   }
 ]

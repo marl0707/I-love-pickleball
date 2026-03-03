@@ -10,7 +10,12 @@
     ],
     "teaching_style": "バイオメカニクスに基づいたスイング指導と、高度な戦術を論理的に解説するスタイル。",
     "target_level": "上級者・競技者向け",
-    "media_url": "https://www.youtube.com/results?search_query=Morgan+Evans+Pickleball+Coach"
+    "location": "アメリカ合衆国",
+    "certifications": [
+      "PCI認定コーチ"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=Morgan+Evans+Pickleball+Coach",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Morgan%20Evans%20pickleball%20coach"
   },
   {
     "id": "coach-tyson-mcguffin",
@@ -22,7 +27,10 @@
     ],
     "teaching_style": "圧倒的な熱量で生徒を引っ張るスタイル。攻撃的なドライブとメンタルの強さを育てる。",
     "target_level": "中級者〜上級者向け",
-    "media_url": "https://www.youtube.com/@TysonMcGuffin"
+    "location": "アメリカ合衆国 / ワシントン州",
+    "certifications": [],
+    "media_url": "https://www.youtube.com/@TysonMcGuffin",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Tyson%20McGuffin%20pickleball%20coach"
   },
   {
     "id": "coach-mark-renneson",
@@ -35,7 +43,12 @@
     ],
     "teaching_style": "「なぜそのショットを打つのか？」という論理的な説明が分かりやすい。",
     "target_level": "初心者〜中級者および指導者向け",
-    "media_url": "https://www.youtube.com/@ThirdShotSports"
+    "location": "カナダ / オンタリオ州",
+    "certifications": [
+      "PCI創設者・代表"
+    ],
+    "media_url": "https://www.youtube.com/@ThirdShotSports",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Mark%20Renneson%20pickleball%20coach"
   },
   {
     "id": "coach-simone-jardim",
@@ -48,7 +61,12 @@
     ],
     "teaching_style": "テニスの経験を活かし、フットワーク・ポジショニング・戦術を体系的に教える。女性プレイヤーのロールモデル。",
     "target_level": "全レベル対応",
-    "media_url": "https://www.youtube.com/results?search_query=Simone+Jardim+pickleball+coaching"
+    "location": "アメリカ合衆国 / フロリダ州",
+    "certifications": [
+      "ピックルボール殿堂入り"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=Simone+Jardim+pickleball+coaching",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Simone%20Jardim%20pickleball%20coach"
   },
   {
     "id": "coach-joey-graziano",
@@ -60,7 +78,10 @@
     ],
     "teaching_style": "YouTube動画で初心者にも分かりやすく技術を解説。ストラテジー解説が特に人気。",
     "target_level": "初心者〜中級者向け",
-    "media_url": "https://www.youtube.com/@PrimeTimePickleball"
+    "location": "アメリカ合衆国",
+    "certifications": [],
+    "media_url": "https://www.youtube.com/@PrimeTimePickleball",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Joey%20Graziano%20pickleball%20coach"
   },
   {
     "id": "coach-will-east",
@@ -72,7 +93,10 @@
     ],
     "teaching_style": "科学的アプローチとデータ分析に基づいた指導。効率的な練習法を提案する。",
     "target_level": "中級者向け",
-    "media_url": "https://www.youtube.com/results?search_query=Will+East+Pickleball+Doctor"
+    "location": "アメリカ合衆国",
+    "certifications": [],
+    "media_url": "https://www.youtube.com/results?search_query=Will+East+Pickleball+Doctor",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Will%20East%20pickleball%20coach"
   },
   {
     "id": "coach-dayne-gingrich",
@@ -85,7 +109,12 @@
     ],
     "teaching_style": "技術だけでなく「メンタルの強さ」を重視。ポイント間の思考プロセスや切り替え方法を教える。",
     "target_level": "全レベル（特に試合で緊張するプレイヤー向け）",
-    "media_url": "https://www.youtube.com/results?search_query=Dayne+Gingrich+pickleball+mindset"
+    "location": "アメリカ合衆国 / カリフォルニア州",
+    "certifications": [
+      "メンタルパフォーマンスコーチ"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=Dayne+Gingrich+pickleball+mindset",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Dayne%20Gingrich%20pickleball%20coach"
   },
   {
     "id": "coach-zane-navratil",
@@ -97,7 +126,10 @@
     ],
     "teaching_style": "シングルスの戦い方を専門に解説。「スピードアップのタイミング」「コート上のスペース管理」に定評。",
     "target_level": "中級者〜上級者向け",
-    "media_url": "https://www.youtube.com/@ZaneNavratil"
+    "location": "アメリカ合衆国 / ウィスコンシン州",
+    "certifications": [],
+    "media_url": "https://www.youtube.com/@ZaneNavratil",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Zane%20Navratil%20pickleball%20coach"
   },
   {
     "id": "coach-daniel-de-la-rosa",
@@ -109,7 +141,10 @@
     ],
     "teaching_style": "スピンを活かした多彩なショットバリエーションを教える。実戦的なドリルが充実。",
     "target_level": "中級者〜上級者向け",
-    "media_url": "https://www.youtube.com/results?search_query=Daniel+De+La+Rosa+pickleball"
+    "location": "アメリカ合衆国",
+    "certifications": [],
+    "media_url": "https://www.youtube.com/results?search_query=Daniel+De+La+Rosa+pickleball",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Daniel%20De%20La%20Rosa%20pickleball%20coach"
   },
   {
     "id": "coach-sarah-ansboury",
@@ -121,7 +156,12 @@
     ],
     "teaching_style": "ダブルスでの「コミュニケーション」「ポジショニング」を体系的に教える。チームプレイを重視。",
     "target_level": "初心者〜中級者向け",
-    "media_url": "https://www.youtube.com/results?search_query=Sarah+Ansboury+pickleball"
+    "location": "アメリカ合衆国 / オハイオ州",
+    "certifications": [
+      "PPR認定マスタープロフェッショナル"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=Sarah+Ansboury+pickleball",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=Sarah%20Ansboury%20pickleball%20coach"
   },
   {
     "id": "coach-kato-san",
@@ -134,7 +174,12 @@
     ],
     "teaching_style": "「誰でもすぐ楽しめる」を信条に、日本語で分かりやすく基本から教える。高齢者向け指導にも経験豊富。",
     "target_level": "初心者向け（日本語対応）",
-    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%82%B3%E3%83%BC%E3%83%81+%E6%97%A5%E6%9C%AC"
+    "location": "日本 / 関東エリア（東京・千葉・神奈川）",
+    "certifications": [
+      "JPA公認コーチ"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%82%B3%E3%83%BC%E3%83%81+%E6%97%A5%E6%9C%AC",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E5%8A%A0%E8%97%A4%20%E6%B5%A9%EF%BC%88Kato%20Hiroshi%EF%BC%89%20pickleball%20coach"
   },
   {
     "id": "coach-watanabe-coach",
@@ -147,6 +192,49 @@
     ],
     "teaching_style": "テニス経験者が陥りがちな「テニス癖」の矯正と、ピックルボール特有のソフトゲームへの移行を得意とする。",
     "target_level": "テニス経験者・中級者向け（日本語対応）",
-    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3+%E5%90%8D%E5%8F%A4%E5%B1%8B"
+    "location": "日本 / 中部エリア（名古屋・東海）",
+    "certifications": [
+      "JPA認定指導者"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3+%E5%90%8D%E5%8F%A4%E5%B1%8B",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E6%B8%A1%E8%BE%BA%20%E5%81%A5%E4%B8%80%EF%BC%88Watanabe%20Kenichi%EF%BC%89%20pickleball%20coach"
+  },
+  {
+    "id": "coach-kyoto-tc-head",
+    "name": "京都PBトレーニングセンター ヘッドコーチ",
+    "specialty": "関西初の専用屋内施設でのレベル別グループレッスン・個人指導",
+    "achievements": [
+      "PJF公認コーチ / RPO国際コーチ Level 1取得",
+      "京都ピックルボールトレーニングセンター（2025年3月オープン）のヘッドコーチ就任",
+      "関西地区のPB普及リーダー"
+    ],
+    "teaching_style": "専用屋内コートの利点を活かした天候に左右されない定期レッスン。初心者体験会から上級者マッチプレーまでレベル別に対応。",
+    "target_level": "初心者〜上級者（日本語対応）",
+    "location": "日本 / 京都府京都市伏見区（京都PBトレーニングセンター）",
+    "certifications": [
+      "PJF公認コーチ",
+      "RPO国際コーチ Level 1"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=%E4%BA%AC%E9%83%BD+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E4%BA%AC%E9%83%BDPB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E3%83%98%E3%83%83%E3%83%89%E3%82%B3%E3%83%BC%E3%83%81%20pickleball%20coach"
+  },
+  {
+    "id": "coach-ariake-pb-academy",
+    "name": "有明ピックルボールアカデミー コーチ",
+    "specialty": "大会出場を目指す競技者のための戦術的トレーニング",
+    "achievements": [
+      "JPA公認コーディネーター / スタートコーチ",
+      "東京都の有明地区を拠点にPBアカデミーを運営",
+      "APP JAPAN大会への選手輩出実績あり"
+    ],
+    "teaching_style": "試合映像を使ったポジショニング・ショットセレクションの分析指導。DUPR 3.5→4.5へのレベルアップをサポート。週2回の定期練習会も主催。",
+    "target_level": "中級者〜上級者（日本語対応）",
+    "location": "日本 / 東京都江東区（有明エリア）",
+    "certifications": [
+      "JPAコーディネーター",
+      "JPAスタートコーチ"
+    ],
+    "media_url": "https://www.youtube.com/results?search_query=%E6%9C%89%E6%98%8E+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB+%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC",
+    "photo_url": "https://www.google.com/search?tbm=isch&q=%E6%9C%89%E6%98%8E%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%20%E3%82%B3%E3%83%BC%E3%83%81%20pickleball%20coach"
   }
 ]

@@ -62,7 +62,12 @@
     "estimated_level": "中級者",
     "dupr_score": 3.45,
     "play_style": "ダブルス中心",
-    "is_profile_public": true
+    "is_profile_public": true,
+    "gender": null,
+    "avatar_url": null,
+    "is_ambassador": false,
+    "created_at": null,
+    "my_paddle_id": null
   },
   {
     "id": "user_demo_002",
@@ -71,7 +76,12 @@
     "estimated_level": "初心者",
     "dupr_score": null,
     "play_style": "両方",
-    "is_profile_public": true
+    "is_profile_public": true,
+    "gender": null,
+    "avatar_url": null,
+    "is_ambassador": false,
+    "created_at": null,
+    "my_paddle_id": null
   },
   {
     "id": "usr_gen_1",
@@ -81,7 +91,11 @@
     "dupr_score": 3.75,
     "estimated_level": "中級者",
     "play_style": "攻撃的ドライブ",
-    "my_paddle_id": "pdl_crbn_1x_16"
+    "my_paddle_id": "pdl_crbn_1x_16",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_2",
@@ -91,7 +105,11 @@
     "dupr_score": 4.12,
     "estimated_level": "上級者",
     "play_style": "オールラウンド",
-    "my_paddle_id": "pdl_joola_perseus_3"
+    "my_paddle_id": "pdl_joola_perseus_3",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_3",
@@ -101,7 +119,11 @@
     "dupr_score": 2.5,
     "estimated_level": "初心者",
     "play_style": "体験中",
-    "my_paddle_id": "pdl_amazin_aces"
+    "my_paddle_id": "pdl_amazin_aces",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_4",
@@ -111,7 +133,11 @@
     "dupr_score": 3.4,
     "estimated_level": "中級者",
     "play_style": "堅実ディンク",
-    "my_paddle_id": "pdl_selkirk_vanguard_control"
+    "my_paddle_id": "pdl_selkirk_vanguard_control",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_5",
@@ -121,7 +147,11 @@
     "dupr_score": 3.8,
     "estimated_level": "中上級者",
     "play_style": "プレイスメント",
-    "my_paddle_id": "pdl_sixzero_dbd_16"
+    "my_paddle_id": "pdl_sixzero_dbd_16",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_6",
@@ -131,7 +161,11 @@
     "dupr_score": 4.56,
     "estimated_level": "最上級者(シニアプロ層)",
     "play_style": "鉄壁のブロック",
-    "my_paddle_id": "pdl_gearbox_pro_control"
+    "my_paddle_id": "pdl_gearbox_pro_control",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_7",
@@ -141,7 +175,11 @@
     "dupr_score": 3.1,
     "estimated_level": "初中級者",
     "play_style": "テニス打ち",
-    "my_paddle_id": "pdl_vatic_pro_prism_flash"
+    "my_paddle_id": "pdl_vatic_pro_prism_flash",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_8",
@@ -151,7 +189,11 @@
     "dupr_score": 5.12,
     "estimated_level": "国内トッププロ",
     "play_style": "超攻撃型スピン",
-    "my_paddle_id": "pdl_crbn_magnum"
+    "my_paddle_id": "pdl_crbn_magnum",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_9",
@@ -161,7 +203,11 @@
     "dupr_score": 2.8,
     "estimated_level": "初心者",
     "play_style": "ロブ中心",
-    "my_paddle_id": "pdl_vulcan_v520_control"
+    "my_paddle_id": "pdl_vulcan_v520_control",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_10",
@@ -171,7 +217,11 @@
     "dupr_score": 4.88,
     "estimated_level": "上級競技者",
     "play_style": "アーネ・ATP多用",
-    "my_paddle_id": "pdl_engage_pursuit_pro_ex"
+    "my_paddle_id": "pdl_engage_pursuit_pro_ex",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_11",
@@ -181,7 +231,11 @@
     "dupr_score": 3.55,
     "estimated_level": "中級者",
     "play_style": "コントロール重視",
-    "my_paddle_id": "pdl_sixzero_ruby"
+    "my_paddle_id": "pdl_sixzero_ruby",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_12",
@@ -191,7 +245,11 @@
     "dupr_score": 4.2,
     "estimated_level": "上級者",
     "play_style": "高速ボレー戦",
-    "my_paddle_id": "pdl_joola_scorpeus_3"
+    "my_paddle_id": "pdl_joola_scorpeus_3",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_13",
@@ -201,7 +259,11 @@
     "dupr_score": 3.2,
     "estimated_level": "初中級者",
     "play_style": "安定ディンク",
-    "my_paddle_id": "pdl_selkirk_halo_max"
+    "my_paddle_id": "pdl_selkirk_halo_max",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_14",
@@ -211,7 +273,11 @@
     "dupr_score": 3.9,
     "estimated_level": "中上級者",
     "play_style": "ハードヒット",
-    "my_paddle_id": "pdl_volair_mach1_forza"
+    "my_paddle_id": "pdl_volair_mach1_forza",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_15",
@@ -221,7 +287,11 @@
     "dupr_score": 4.1,
     "estimated_level": "上級競技者",
     "play_style": "巧みなプレイスメント",
-    "my_paddle_id": "pdl_paddletek_tsunami"
+    "my_paddle_id": "pdl_paddletek_tsunami",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_16",
@@ -231,7 +301,11 @@
     "dupr_score": 2.4,
     "estimated_level": "完全初心者",
     "play_style": "体験中",
-    "my_paddle_id": "pdl_amazin_aces"
+    "my_paddle_id": "pdl_amazin_aces",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_17",
@@ -241,7 +315,11 @@
     "dupr_score": 3.6,
     "estimated_level": "中級者",
     "play_style": "ロブとドロップ",
-    "my_paddle_id": "pdl_prince_spectrum_pro"
+    "my_paddle_id": "pdl_prince_spectrum_pro",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_18",
@@ -251,7 +329,11 @@
     "dupr_score": 4.75,
     "estimated_level": "国内トッププロ",
     "play_style": "オールラウンド",
-    "my_paddle_id": "pdl_electrum_model_e"
+    "my_paddle_id": "pdl_electrum_model_e",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_19",
@@ -261,7 +343,11 @@
     "dupr_score": 3,
     "estimated_level": "初級者",
     "play_style": "基礎練習中",
-    "my_paddle_id": "pdl_franklin_ben_johns"
+    "my_paddle_id": "pdl_franklin_ben_johns",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_20",
@@ -271,7 +357,11 @@
     "dupr_score": 2.9,
     "estimated_level": "初級者",
     "play_style": "エンジョイ",
-    "my_paddle_id": "pdl_gamma_never_stop"
+    "my_paddle_id": "pdl_gamma_never_stop",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_21",
@@ -281,7 +371,11 @@
     "dupr_score": 4.4,
     "estimated_level": "上級者",
     "play_style": "スピードスター",
-    "my_paddle_id": "pdl_proxr_titan"
+    "my_paddle_id": "pdl_proxr_titan",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_22",
@@ -291,7 +385,11 @@
     "dupr_score": 3.85,
     "estimated_level": "中上級者",
     "play_style": "スピン特化",
-    "my_paddle_id": "pdl_crbn_magnum"
+    "my_paddle_id": "pdl_crbn_magnum",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_23",
@@ -301,7 +399,11 @@
     "dupr_score": 2.7,
     "estimated_level": "初心者",
     "play_style": "パワー重視（ミス多め）",
-    "my_paddle_id": "pdl_juciao_pro"
+    "my_paddle_id": "pdl_juciao_pro",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_24",
@@ -311,7 +413,11 @@
     "dupr_score": 3.5,
     "estimated_level": "中級者",
     "play_style": "サードショットドロップ重視",
-    "my_paddle_id": "pdl_ronbus_r1_nova"
+    "my_paddle_id": "pdl_ronbus_r1_nova",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_25",
@@ -321,7 +427,11 @@
     "dupr_score": 4.05,
     "estimated_level": "上級者",
     "play_style": "ダブルス特化・前衛",
-    "my_paddle_id": "pdl_engage_omega"
+    "my_paddle_id": "pdl_engage_omega",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_26",
@@ -331,7 +441,11 @@
     "dupr_score": 3.1,
     "estimated_level": "初中級",
     "play_style": "レクリエーション",
-    "my_paddle_id": "pdl_niupipo_explorer"
+    "my_paddle_id": "pdl_niupipo_explorer",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_27",
@@ -341,7 +455,11 @@
     "dupr_score": 2.6,
     "estimated_level": "初心者",
     "play_style": "スクール通い",
-    "my_paddle_id": "pdl_vinsguir_carbon"
+    "my_paddle_id": "pdl_vinsguir_carbon",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_28",
@@ -351,7 +469,11 @@
     "dupr_score": 4.5,
     "estimated_level": "上級競技者",
     "play_style": "アグレッシブ",
-    "my_paddle_id": "pdl_joola_gen3_alpha"
+    "my_paddle_id": "pdl_joola_gen3_alpha",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_29",
@@ -361,7 +483,11 @@
     "dupr_score": 3.3,
     "estimated_level": "初中級者",
     "play_style": "ディンクラリー好き",
-    "my_paddle_id": "pdl_franklin_christina"
+    "my_paddle_id": "pdl_franklin_christina",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_30",
@@ -371,7 +497,11 @@
     "dupr_score": 3.75,
     "estimated_level": "中上級者",
     "play_style": "カウンターパンチャー",
-    "my_paddle_id": "pdl_diadem_icon"
+    "my_paddle_id": "pdl_diadem_icon",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_31",
@@ -381,7 +511,11 @@
     "dupr_score": 3.25,
     "estimated_level": "初中級者",
     "play_style": "夫婦で参加",
-    "my_paddle_id": "pdl_head_radical_pro"
+    "my_paddle_id": "pdl_head_radical_pro",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_32",
@@ -391,7 +525,11 @@
     "dupr_score": 3.9,
     "estimated_level": "上級シニア",
     "play_style": "芸術的なロブ",
-    "my_paddle_id": "pdl_paddletek_bantam_exl"
+    "my_paddle_id": "pdl_paddletek_bantam_exl",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_33",
@@ -401,7 +539,11 @@
     "dupr_score": 4.9,
     "estimated_level": "セミプロ",
     "play_style": "全米大会出場者",
-    "my_paddle_id": "pdl_gearbox_pro_power"
+    "my_paddle_id": "pdl_gearbox_pro_power",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_34",
@@ -411,7 +553,11 @@
     "dupr_score": 4.25,
     "estimated_level": "上級者",
     "play_style": "ドライブ多用",
-    "my_paddle_id": "pdl_sixzero_infinity"
+    "my_paddle_id": "pdl_sixzero_infinity",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_35",
@@ -421,7 +567,11 @@
     "dupr_score": 3.65,
     "estimated_level": "中級者",
     "play_style": "安定感重視",
-    "my_paddle_id": "pdl_vulcan_v900"
+    "my_paddle_id": "pdl_vulcan_v900",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_36",
@@ -431,7 +581,11 @@
     "dupr_score": 3.15,
     "estimated_level": "初中級",
     "play_style": "体育会系パワー",
-    "my_paddle_id": "pdl_macgregor_classic"
+    "my_paddle_id": "pdl_macgregor_classic",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_37",
@@ -441,7 +595,11 @@
     "dupr_score": 3.8,
     "estimated_level": "中上級シニア",
     "play_style": "技のデパート",
-    "my_paddle_id": "pdl_prokennex_blackace"
+    "my_paddle_id": "pdl_prokennex_blackace",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_38",
@@ -451,7 +609,11 @@
     "dupr_score": 2.85,
     "estimated_level": "初心者",
     "play_style": "楽しく運動",
-    "my_paddle_id": "pdl_hudef_hd6"
+    "my_paddle_id": "pdl_hudef_hd6",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_39",
@@ -461,7 +623,11 @@
     "dupr_score": 4.15,
     "estimated_level": "上級者",
     "play_style": "ネットプレー得意",
-    "my_paddle_id": "pdl_crbn_zero"
+    "my_paddle_id": "pdl_crbn_zero",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_40",
@@ -471,7 +637,11 @@
     "dupr_score": 3.45,
     "estimated_level": "中級者",
     "play_style": "正確なプレイスメント",
-    "my_paddle_id": "pdl_selkirk_s2"
+    "my_paddle_id": "pdl_selkirk_s2",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_41",
@@ -481,7 +651,11 @@
     "dupr_score": 5.05,
     "estimated_level": "国内トッププロ",
     "play_style": "規格外のスピード",
-    "my_paddle_id": "pdl_gruvn_mula"
+    "my_paddle_id": "pdl_gruvn_mula",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_42",
@@ -491,7 +665,11 @@
     "dupr_score": 3.35,
     "estimated_level": "初中級者",
     "play_style": "健康維持",
-    "my_paddle_id": "pdl_babolat_rngd_touch"
+    "my_paddle_id": "pdl_babolat_rngd_touch",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_43",
@@ -501,7 +679,11 @@
     "dupr_score": 4.6,
     "estimated_level": "競技者",
     "play_style": "アグレッシブなパッシング",
-    "my_paddle_id": "pdl_pickleball_apes"
+    "my_paddle_id": "pdl_pickleball_apes",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_44",
@@ -511,7 +693,11 @@
     "dupr_score": 3.95,
     "estimated_level": "上級者",
     "play_style": "俊敏な反射神経",
-    "my_paddle_id": "pdl_electrum_pro_ii"
+    "my_paddle_id": "pdl_electrum_pro_ii",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_45",
@@ -521,7 +707,11 @@
     "dupr_score": 3.1,
     "estimated_level": "初中級",
     "play_style": "ミスの少ないディフェンス",
-    "my_paddle_id": "pdl_wilson_echo"
+    "my_paddle_id": "pdl_wilson_echo",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_46",
@@ -531,7 +721,11 @@
     "dupr_score": 2.5,
     "estimated_level": "初心者",
     "play_style": "公園で家族と",
-    "my_paddle_id": "pdl_bigdill_original"
+    "my_paddle_id": "pdl_bigdill_original",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_47",
@@ -541,7 +735,11 @@
     "dupr_score": 4.8,
     "estimated_level": "競技コーチ",
     "play_style": "戦術指導型",
-    "my_paddle_id": "pdl_proxr_zane"
+    "my_paddle_id": "pdl_proxr_zane",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_48",
@@ -551,7 +749,11 @@
     "dupr_score": 2.95,
     "estimated_level": "初級者",
     "play_style": "パワーでねじ伏せる",
-    "my_paddle_id": "pdl_friday_challenger"
+    "my_paddle_id": "pdl_friday_challenger",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_49",
@@ -561,7 +763,11 @@
     "dupr_score": 4.3,
     "estimated_level": "上級シニア代表",
     "play_style": "完璧なサードドロップ",
-    "my_paddle_id": "pdl_sixzero_bd_16"
+    "my_paddle_id": "pdl_sixzero_bd_16",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   },
   {
     "id": "usr_gen_50",
@@ -571,6 +777,10 @@
     "dupr_score": 3.6,
     "estimated_level": "中級者",
     "play_style": "ブロックとリセット",
-    "my_paddle_id": "pdl_joola_senator"
+    "my_paddle_id": "pdl_joola_senator",
+    "avatar_url": null,
+    "is_profile_public": null,
+    "is_ambassador": false,
+    "created_at": null
   }
 ]

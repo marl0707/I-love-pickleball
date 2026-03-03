@@ -27,16 +27,20 @@
     "created_at": "2026-03-03T11:20:00Z"
   },
   {
-    "id": "log_001",
+    "id": "activity_log_004",
+    "user_id": "user_mock_020",
     "facility_id": "facility_tokyotower",
     "content": "今日は東京タワーの屋上でピックルボール！景色が最高すぎてテンション上がりました🏓✨ ナイターも涼しくて快適！",
+    "image_url": null,
     "like_count": 24,
     "created_at": "2026-03-01T18:30:00Z"
   },
   {
-    "id": "log_002",
+    "id": "activity_log_005",
+    "user_id": "user_mock_025",
     "facility_id": "facility_viptop",
     "content": "東陽町のVIPインドアで初打ち。冷房完備って素晴らしい…！夏場はここ一択かもしれないです。床のグリップも良好。",
+    "image_url": null,
     "like_count": 15,
     "created_at": "2026-02-28T14:15:00Z"
   }

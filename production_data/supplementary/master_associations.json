@@ -1,12 +1,12 @@
 [
   {
     "id": "assoc_jpa",
-    "name": "Japan Pickleball Association (JPA)",
+    "name": "一般社団法人日本ピックルボール協会（JPA）",
     "acronym": "JPA",
     "country": "Japan",
-    "description": "日本国内のピックルボール普及と競技力向上を目的とする代表的な団体。全日本選手権の主催や、指導者・レフェリーの育成・公認を行っている。",
+    "description": "2015年4月設立。日本国内のピックルボール普及と競技力向上を目的とする代表的な団体。全日本選手権の主催や、指導者・レフェリーの育成・公認を行っている。全国に加盟・協力団体を持つ。",
     "website_url": "https://japanpickleball.org/",
-    "is_hq_facility_id": "facility_ariake_tennis_forest"
+    "is_hq_facility_id": null
   },
   {
     "id": "assoc_usap",
@@ -15,6 +15,71 @@
     "country": "USA",
     "description": "アメリカにおけるピックルボールの国内競技統括団体。ルール改定や用具認証の中心的な役割を担い、世界各国で基準として採用される『USAP認定』を発行している。",
     "website_url": "https://usapickleball.org/",
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_pjf",
+    "name": "一般財団法人ピックルボール日本連盟（PJF）",
+    "acronym": "PJF",
+    "country": "Japan",
+    "description": "2024年設立。日本国内での定期的な国際大会の開催、国内ピックルボールプレーヤーの育成、全国のピックルボール団体の設立支援と奨励をミッションとしている。都道府県支部制度を展開中。",
+    "website_url": "https://pickleball-japan.org/",
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_hyogo",
+    "name": "兵庫県ピックルボール協会 / 神戸ピックルボール協会（KPA）",
+    "acronym": "KPA",
+    "country": "Japan",
+    "region": "関西",
+    "description": "兵庫県・神戸市を拠点としたピックルボール協会。PJF兵庫支部としても活動。地域でのピックルボール普及とイベント開催に注力。",
+    "website_url": null,
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_nagasaki",
+    "name": "長崎ピースピックルボール協会",
+    "acronym": null,
+    "country": "Japan",
+    "region": "九州",
+    "description": "PJF長崎支部として活動。長崎県内でのピックルボール普及活動を行っている。",
+    "website_url": null,
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_ifp",
+    "name": "International Federation of Pickleball (IFP)",
+    "acronym": "IFP",
+    "country": "International",
+    "description": "ピックルボールの国際統括団体。世界各国のピックルボール協会を束ね、国際大会のルール策定や世界ランキングの管理を行う。",
+    "website_url": "https://www.ifpickleball.org/",
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_upaa",
+    "name": "United Pickleball Association of America (UPA-A)",
+    "acronym": "UPA-A",
+    "country": "USA",
+    "description": "2024年設立。PPAツアーとMLPを統括するプロ競技管轄団体。独自のパドル認証基準（PEF、スピンレート制限）を設け、USA Pickleball（アマチュア管轄）とは別の組織として運営。2026年からパドルにNFCチップ搭載を義務化。",
+    "website_url": null,
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_ppa",
+    "name": "PPA Tour (Professional Pickleball Association Tour)",
+    "acronym": "PPA",
+    "country": "USA",
+    "description": "世界最大のプロピックルボールツアー。年間を通じて全米各地で開催されるトーナメントから成り、シングルス・ダブルス・混合ダブルスの3種目。UPA-Aの管轄下。賞金総額は数百万ドル規模。",
+    "website_url": "https://www.ppatour.com/",
+    "is_hq_facility_id": null
+  },
+  {
+    "id": "assoc_mlp",
+    "name": "Major League Pickleball (MLP)",
+    "acronym": "MLP",
+    "country": "USA",
+    "description": "チーム対抗形式のプロピックルボールリーグ。24チームが参戦し、各チームにはNBA/NFL/MLBのオーナーやセレブが出資。DUPRレーティングに基づくドラフト制度を採用。船水雄太（Miami Pickleball Club）など日本人選手も参加。",
+    "website_url": "https://www.majorleaguepickleball.net/",
     "is_hq_facility_id": null
   }
 ]

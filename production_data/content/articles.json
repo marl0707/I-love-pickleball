@@ -1,423 +1,597 @@
 [
   {
-    "id": "article_pb_101",
-    "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
-    "category": "初心者ガイド",
-    "target_audience": "初心者",
-    "content_summary": "ピックルボールの基本的なルール（ツーバウンスルール、ノンボレーゾーン、独特なスコアの数え方）を図解入りで分かりやすく解説する入門記事。",
-    "status": "published",
-    "related_gear_ids": [],
-    "related_facility_ids": []
-  },
-  {
-    "id": "article_paddle_core_thickness",
-    "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
-    "category": "ギアレビュー",
-    "target_audience": "中級者",
-    "content_summary": "パドル選びで最も迷うポイントである「コア厚」。14mmの弾きとパワー、16mmのコントロールと衝撃吸収性の違いをプロのインプレッションを交えて解説。",
-    "status": "published",
-    "related_gear_ids": [
-      "paddle_joola_perseus",
-      "paddle_franklin_fs_tour"
-    ],
-    "related_facility_ids": []
-  },
-  {
-    "id": "article_strategy_third_shot_drop",
-    "title": "DUPR 3.5の壁を越える！「サードショット・ドロップ」成功率を劇的に上げる5つのコツ",
-    "category": "戦術・ドリル",
-    "target_audience": "中級者",
-    "content_summary": "試合をコントロールするために必須の「サードショットドロップ」。ネットの頂点を狙うのではなく、キッチンに落とすための軌道イメージやグリップの握りを解説。",
-    "status": "published",
-    "related_gear_ids": [],
-    "related_facility_ids": []
-  },
-  {
-    "id": "article_local_kanto_night",
-    "title": "【東京/関東版】仕事帰りに寄れる！ナイター設備・レンタル完備のピックルボールコート10選",
-    "category": "ローカル情報",
-    "target_audience": "全員",
-    "content_summary": "平日夜に手ぶらで通える東京都内・近郊のピックルボール施設を厳選して紹介。パドルレンタルやシャワーの有無、アクセス情報をまとめた保存版記事。",
-    "status": "published",
-    "related_gear_ids": [],
-    "related_facility_ids": [
-      "facility_tokyotower",
-      "facility_viptop",
-      "facility_pacific_pickle"
-    ]
-  },
-  {
-    "id": "article_news_ppa_mlp",
-    "title": "PPAとMLPって何が違うの？世界のピックルボールプロリーグ基礎知識と視聴方法",
-    "category": "ニュース・プロ動向",
-    "target_audience": "観戦・ファン",
-    "content_summary": "アメリカを中心に爆発的な人気を誇るプロリーグ「PPAツアー」と「メジャーリーグピックルボール(MLP)」のフォーマットの違い、注目選手、日本からの視聴方法を解説。",
-    "status": "published",
-    "related_gear_ids": [],
-    "related_facility_ids": []
-  },
-  {
-    "id": "art_beginner_rule_score",
-    "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
-    "target_audience": "初心者",
-    "content_summary": "ピックルボール最大の特徴である「サイドアウト制」によるスコアの数え方（自分-相手-サーバー番号 の3つの数字のコール）や、ノンボレーゾーン（キッチン）のルールをわかりやすく解説します。11点先取で2点差をつける基本ルールから、ダブルスとシングルスの違いまで網羅。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=ピックルボール+得点+数え方",
-    "key_takeaways": [
-      "スコアはサーブ権を持っている時のみ入る（サイドアウト制）",
-      "最初のスコアコールは「0-0-2」から始まる",
-      "キッチン（ネット際）ではノーバウンドでボレーを打ってはいけない"
-    ]
-  },
-  {
-    "id": "art_beginner_tennis_transition",
-    "title": "テニス経験者必見！ピックルボール転向時に活きる技術と捨てるべきクセ",
-    "target_audience": "初心者（テニスなど他ラケットスポーツ経験者）",
-    "content_summary": "テニス経験者がピックルボールを始める際、テニスの大きなテイクバックは不要なため、スイングをコンパクトにする必要があります。また、ボレーもステップインしすぎるとフットフォルトになるため、スクエアに構えてパンチするコツや、強打に頼らずディンクやドロップで忍耐強く繋ぐ戦略の重要性を説きます。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=テニス経験者+ピックルボール+コツ",
-    "key_takeaways": [
-      "テイクバックを小さくし、コンパクトなスイングを心がける",
-      "キッチンラインでのボレーはステップインしすぎない",
-      "強打よりも「ディンク」や「サードショットドロップ」の忍耐力が勝負を決める"
-    ]
-  },
-  {
-    "id": "art_beginner_first_paddle",
-    "title": "【2026年最新】初心者に絶対おすすめのスターターパドルと選び方",
-    "target_audience": "初心者",
-    "content_summary": "初心者が最初に買うべきパドルは、操作性の高い軽量〜中量級（210g〜240g）で、スイートスポットが広いワイドボディタイプ、厚さ16mmのものが無難です。JOOLA EssentialsやONIX Z5 Graphiteなどの代表的な初心者向けモデルと、Amazon等での賢い買い方を紹介します。",
-    "related_amazon_search": "https://www.amazon.co.jp/s?k=ピックルボール+パドル+初心者",
-    "key_takeaways": [
-      "初心者には軽量でコントロールしやすいグラファイト（カーボン）素材がおすすめ",
-      "ミスを減らすため、厚さ16mmでスイートスポットの広いモデルを選ぶ",
-      "最初は高価なハイエンドモデルではなく、バランスの良いエントリーモデルから始める"
-    ],
-    "related_gear_ids": [
-      "paddle_joola_essentials",
-      "paddle_onix_z5"
-    ]
-  },
-  {
-    "id": "art_gear_core_thickness",
-    "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
-    "target_audience": "中級者",
-    "content_summary": "14mmパドルは操作性が高く「ポップ感（弾き）」がありパワーが出やすい分、コントロールが難しく上級者向けです。一方、16mmパドルは衝撃吸収に優れ、スイートスポットが広くソフトな打感のため、ディンクなどのコントロールを重視するプレイヤーや初心者から中級者に最適です。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=pickleball+paddle+14mm+vs+16mm",
-    "key_takeaways": [
-      "14mm：パワーとスピード重視、上級者向け",
-      "16mm：コントロールと安定性重視、初〜中級者向け",
-      "最初はコントロールしやすい16mmから始めるのがおすすめ"
-    ],
-    "related_gear_ids": [
-      "paddle_crbn_1x_14",
-      "paddle_joola_perseus_16"
-    ]
-  },
-  {
-    "id": "art_gear_carbon_fiber_t700",
-    "title": "「Raw Carbon Fiber (T700)」って何？最新パドル素材のトレンドと選び方",
-    "target_audience": "中級者〜上級者",
-    "content_summary": "T700はカーボンの等級の一つで、高い引張強度（耐久性）を誇ります。パドル表面に使用されることで、摩擦によるスピンの向上、スイートスポットの拡大、心地よい打感とパワーのバランスを実現します。競技志向のプレイヤーには必須のテクノロジーとなっています。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=Raw+Carbon+Fiber+T700+pickleball+paddle",
-    "key_takeaways": [
-      "T700は耐久性と強度に優れた高品質なカーボン素材",
-      "表面のザラザラしたテクスチャが強烈なスピンを生み出す",
-      "スイートスポットが広く、パワーとコントロールを両立する"
-    ],
-    "related_gear_ids": [
-      "paddle_crbn_1x_14",
-      "paddle_sixzero_dbd_16"
-    ]
-  },
-  {
-    "id": "art_gear_indoor_vs_outdoor_balls",
-    "title": "インドア用(26穴)・アウトドア用(40穴)ボールの違いを徹底検証",
-    "target_audience": "全員",
-    "content_summary": "ピックルボールのボールは環境に合わせて2種類あります。インドア用は26穴で柔らかく軽量なため、コントロールしやすくラリーが長続きします。アウトドア用は40穴で硬く重いため、風の影響を受けにくくスピーディーな展開になります。屋外でインドア球を使うと風で全く飛ばないので注意が必要です。",
-    "related_amazon_search": "https://www.amazon.co.jp/s?k=ピックルボール+アウトドア用+40穴",
-    "key_takeaways": [
-      "インドア用（26穴）：軽くて柔らかい、ラリー志向、風に弱い",
-      "アウトドア用（40穴）：重くて硬い、スピード志向、風に強い",
-      "プレイする施設に合わせて必ずボールを使い分けること"
-    ],
-    "related_gear_ids": [
-      "ball_franklin_x40",
-      "ball_vulcan_v520"
-    ]
-  },
-  {
-    "id": "art_strategy_third_shot_drop",
-    "title": "ピックルボールの神髄「サードショット・ドロップ」を安定させる3つのコツ",
-    "target_audience": "中級者",
-    "content_summary": "サードショットドロップは、サーバー側が不利な陣形をリセットし、ネット前へ前進するための最も重要なショットです。パドルを優しく握り、下から上へ押し上げるように打ち、ボールの軌道の頂点が自陣からネットの間にくるようにコントロールするのがポイント。相手のボールが最高点から落ちてくるタイミングを狙うと打ちやすくなります。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=サードショットドロップ+コツ+ピックルボール",
-    "key_takeaways": [
-      "パドルは強く握らず、ボールをキャッチして運ぶイメージ",
-      "ボールの軌道の頂点を自陣側に作り、相手のキッチンに落とす",
-      "打ったらすぐにネット（キッチンライン）へ前進する"
-    ]
-  },
-  {
-    "id": "art_drill_wall_dink",
-    "title": "1日15分で劇的変化！自宅でできる「ディンク壁打ちドリル」完全ガイド",
-    "target_audience": "初心者〜上級者",
-    "content_summary": "ディンクの精度を上げるには反復練習が不可欠です。室内用の静かなボールを使えば、自宅の壁でも練習可能です。フォア・バックの交互打ち、スピードアップからのリセットなど、壁打ち（Wall Drill）は1試合よりもはるかに多くの球数を打てるため、最強の自主練方法となります。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=pickleball+wall+drill",
-    "key_takeaways": [
-      "壁打ち15分は、1試合分のショット数に匹敵する",
-      "ネットの少し上を狙って、パドル面を一定に保つ練習をする",
-      "柔らかい練習用ボールを使えば自宅でも実施可能"
-    ]
-  },
-  {
-    "id": "art_strategy_stacking",
-    "title": "ダブルスの勝率を上げる陣形「スタッキング」の基本とローテーション",
-    "target_audience": "中級者〜上級者",
-    "content_summary": "スタッキングとは、ダブルスでペアの得意なサイド（例：フォアハンドが強い選手を中央に配置する）を維持し続けるための陣形戦術です。特に右利きと左利きのペアで絶大な威力を発揮します。サーブやリターンの後に配置を入れ替えるため、最初はスコア（偶数・奇数）に応じた立ち位置のルール「アンワインド・ザ・スタック」を覚える必要があります。",
-    "related_youtube_url": "https://www.youtube.com/results?search_query=pickleball+stacking+strategy",
-    "key_takeaways": [
-      "スタッキングは得意なショット（フォア）を常に中央に集めるための戦術",
-      "右利き×左利きペアでは必須の陣形",
-      "ペア間の明確なサイン（ハンドシグナル等）とコミュニケーションが鍵"
-    ]
-  },
-  {
     "id": "art_01",
     "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
     "category": "初心者ガイド",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "ピックルボールの基本的なルール（ツーバウンスルール、ノンボレーゾーン、独特なスコアの数え方）を図解入りで分かりやすく解説する入門記事。サイドアウト制によるスコアのコール方法（0-0-2から始まる）やダブルスとシングルスの違いまで網羅。",
+    "status": "published",
+    "related_gear_ids": [
+      "ball_franklin_x40",
+      "ball_onix_fuse_indoor"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_02",
     "title": "テニス・卓球・バドミントン経験者別！ピックルボール転向時に活きる技術と捨てるべきクセ",
     "category": "初心者ガイド",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "テニス経験者がピックルボールを始める際、テイクバックをコンパクトにする必要性やキッチンライン付近でのステップイン注意点、ディンクやドロップで忍耐強く繋ぐ戦略の重要性を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_03",
     "title": "【2026年最新】予算1万円で揃う！初心者に絶対おすすめのスターターパドル5選",
     "category": "ギアレビュー",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "初心者が最初に買うべきパドルの選び方（軽量〜中量級・ワイドボディ・16mm厚）とJOOLA EssentialsやONIX Z5 Graphiteなどのおすすめモデルを紹介。",
+    "status": "published",
+    "related_gear_ids": [
+      "pdl_onyx_z5",
+      "pdl_joola_solaire"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_04",
     "title": "服装はどうすればいい？初めてのピックルボールで失敗しないウェア選びとマナー",
     "category": "初心者ガイド",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "初めてのピックルボールに適した服装・シューズの選び方と、コート上でのマナーや暗黙ルールを解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_05",
     "title": "どこでできるの？「オープンプレイ（個人参加）」で知っておきたい暗黙のルールと挨拶",
     "category": "初心者ガイド",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "オープンプレイ形式で初めて参加する際のルールやエチケット、挨拶の仕方を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_06",
     "title": "初心者が絶対にやってはいけない「キッチン（ノンボレーゾーン）」での反則3選",
     "category": "初心者ガイド",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "キッチンルールの基本と初心者がよく犯す3つの反則（キッチン内ボレー、モメンタム違反、ラインタッチ）を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_07",
     "title": "ピックルボールは何歳から何歳まで楽しめる？シニア世代の新しい趣味としての魅力",
     "category": "初心者ガイド",
     "target_audience": "全員",
-    "status": "published"
+    "content_summary": "シニア世代にピックルボールが最適な理由と、健康効果・コミュニティ形成の魅力を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_08",
     "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
     "category": "ギアレビュー",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "14mmパドルのパワーと弾き、16mmパドルのコントロールと衝撃吸収性の違いをプロのインプレッションを交えて解説。",
+    "status": "published",
+    "related_gear_ids": [
+      "paddle_crbn_1x_14",
+      "paddle_joola_perseus_16"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns"
+    ]
   },
   {
     "id": "art_09",
     "title": "「Raw Carbon Fiber (T700)」って何？最新パドル素材のトレンドと選び方",
     "category": "ギアレビュー",
-    "target_audience": "中級者",
-    "status": "published"
+    "target_audience": "中級者〜上級者",
+    "content_summary": "T700カーボン素材のパドル表面技術とスピン性能・スイートスポット拡大効果を解説。",
+    "status": "published",
+    "related_gear_ids": [
+      "paddle_crbn_1x_14",
+      "paddle_sixzero_dbd_16"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_10",
     "title": "屋内と屋外でボールは変えるべき？インドア用(26穴)・アウトドア用(40穴)の違いを検証",
     "category": "ギアレビュー",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "インドア用（26穴・軽い）とアウトドア用（40穴・重い）のボールの特性と使い分けを解説。",
+    "status": "published",
+    "related_gear_ids": [
+      "ball_franklin_x40",
+      "ball_onix_fuse_indoor",
+      "ball_vulcan_v520"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_11",
     "title": "テニスシューズじゃダメ？ピックルボール専用シューズを履くべき3つの理由",
     "category": "ギアレビュー",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "ピックルボール専用シューズの特徴（横方向のサポート、コートグリップ、軽量性）とおすすめモデルを紹介。",
+    "status": "published",
+    "related_gear_ids": [
+      "shoe_skechers_viper_court",
+      "shoe_k_swiss_express_light",
+      "shoe_babolat_jet_mach_3",
+      "shoe_asics_gel_resolution_9"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_12",
     "title": "【レディース向け】可愛くて動きやすい！最新プリーツスコート（ボールポケット付き）特集",
     "category": "ギアレビュー",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "レディース向けスポーツウェアのおすすめアイテムとコーディネート提案。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_anna_leigh_waters",
+      "pro_catherine_parenteau"
+    ]
   },
   {
     "id": "art_13",
     "title": "【メンズ向け】汗をかいても快適！プロも愛用する高機能・速乾スポーツウェアブランド5選",
     "category": "ギアレビュー",
     "target_audience": "全員",
-    "status": "published"
+    "content_summary": "プロ選手が愛用するスポーツウェアブランドの紹介と機能性比較。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns",
+      "pro_tyson_mcguffin"
+    ]
   },
   {
     "id": "art_14",
     "title": "グリップテープの選び方（ドライ vs ウェット）と正しい巻き方講座",
     "category": "ギアレビュー",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "ドライタイプとウェットタイプのオーバーグリップの特徴と巻き替え方法を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_15",
     "title": "DUPR 3.5の壁を越える！「サードショット・ドロップ」成功率を劇的に上げる5つのコツ",
     "category": "戦術・ドリル",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "サードショットドロップの基本テクニック（パドルの握り方、軌道イメージ、タイミング）と5つの実践的コツを解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns"
+    ]
   },
   {
     "id": "art_16",
     "title": "ディンク戦で焦ってミスしてない？忍耐力と配球を鍛える「壁打ち」ドリル集",
     "category": "戦術・ドリル",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "ディンクの精度を上げるための壁打ちドリルの方法とバリエーションを紹介。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_17",
     "title": "前衛でのファイヤーファイトを制す！ブロックボレーの基本姿勢とラケットワーク",
     "category": "戦術・ドリル",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "ネット前での高速ボレー戦（ファイヤーファイト）に勝つためのブロック技術と反射神経トレーニング。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_riley_newman"
+    ]
   },
   {
     "id": "art_18",
     "title": "シングルスとダブルス、戦術はこんなに違う！勝つためのポジショニング",
     "category": "戦術・ドリル",
     "target_audience": "上級者",
-    "status": "published"
+    "content_summary": "シングルスとダブルスのポジショニング・戦術の違いを体系的に解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_zane_navratil"
+    ]
   },
   {
     "id": "art_19",
     "title": "「スタッキング（陣形）」って何？メリットと正しいスコアの数え方を徹底解説",
     "category": "戦術・ドリル",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "ダブルスのスタッキング陣形の仕組み、メリット、スコアに応じた立ち位置ルールを解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_20",
     "title": "風が強い日の戦い方！アウトドアコートで勝つためのロブとドライブの使い分け",
     "category": "戦術・ドリル",
     "target_audience": "上級者",
-    "status": "published"
+    "content_summary": "風の影響を受けやすいアウトドアコートでの戦術（風上・風下でのロブとドライブの使い分け）を解説。",
+    "status": "published",
+    "related_gear_ids": [
+      "ball_franklin_x40"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_21",
     "title": "【東京/関東版】仕事帰りに寄れる！ナイター設備・レンタル完備のピックルボールコート10選",
     "category": "ローカル情報",
     "target_audience": "全員",
-    "status": "published"
+    "content_summary": "平日夜に手ぶらで通える東京都内・近郊のピックルボール施設を厳選して紹介。パドルレンタルやシャワーの有無、アクセス情報をまとめた保存版記事。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_22",
     "title": "雨の日でも安心！冷暖房完備・インドアで快適にプレーできるプレミアム施設特集",
     "category": "ローカル情報",
     "target_audience": "全員",
-    "status": "published"
+    "content_summary": "屋内でプレーできるプレミアム施設を厳選紹介。冷暖房完備やシャワー付きなどの快適さを重視。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_23",
     "title": "ひとりでも大丈夫！一人参加OKな練習会・体験会の見つけ方",
     "category": "ローカル情報",
     "target_audience": "初心者",
-    "status": "published"
+    "content_summary": "一人でも参加できるオープンプレイや体験会の探し方と参加のコツを紹介。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_24",
     "title": "伝説のプレーヤー、ベン・ジョンズの強さの秘密と「最新使用パドル」を徹底解剖！",
     "category": "ニュース・プロ動向",
     "target_audience": "観戦・ファン",
-    "status": "published"
+    "content_summary": "世界No.1プレイヤー ベン・ジョンズのプレースタイル分析と使用パドル（JOOLA Perseus）の解説。",
+    "status": "published",
+    "related_gear_ids": [
+      "paddle_joola_perseus_16"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns"
+    ]
   },
   {
     "id": "art_25",
     "title": "女王アンナ・リー・ウォーターズの圧倒的な攻撃力と戦術を分析",
     "category": "ニュース・プロ動向",
     "target_audience": "上級者",
-    "status": "published"
+    "content_summary": "女子世界No.1 アンナ・リー・ウォーターズの超攻撃的プレースタイルとツーハンドバックハンドの技術分析。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_anna_leigh_waters"
+    ]
   },
   {
     "id": "art_26",
     "title": "PPAとMLPって何が違うの？世界のピックルボールプロリーグ基礎知識と視聴方法",
     "category": "ニュース・プロ動向",
     "target_audience": "観戦・ファン",
-    "status": "published"
+    "content_summary": "PPAツアーとMLP（メジャーリーグ・ピックルボール）のフォーマットの違い、注目選手、日本からの視聴方法を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns",
+      "pro_anna_leigh_waters"
+    ]
   },
   {
     "id": "art_27",
     "title": "ピックルボールプロの賞金事情と、急成長するスポーツビジネスの裏側",
     "category": "ニュース・プロ動向",
     "target_audience": "全員",
-    "status": "published"
+    "content_summary": "プロピックルボールの賞金体系とスポーツビジネスとしての市場動向を解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_28",
     "title": "今注目の日本人トッププレーヤー名鑑！国内大会を牽引するスター選手たち",
     "category": "ニュース・プロ動向",
     "target_audience": "観戦・ファン",
-    "status": "published"
+    "content_summary": "日本国内で活躍するトッププレーヤーのプロフィールと実績を紹介。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "player_miyu_hazawa",
+      "player_naoya_nishimura"
+    ]
   },
   {
     "id": "art_29",
     "title": "次の流行はこれ！2026年のピックルボールギア「トレンド予測と新テクノロジー」",
     "category": "ニュース・プロ動向",
     "target_audience": "上級者",
-    "status": "published"
+    "content_summary": "2026年のパドル技術トレンド（サーモフォーム、T700カーボン等）と注目の新製品を予測。",
+    "status": "published",
+    "related_gear_ids": [
+      "paddle_joola_perseus_16",
+      "paddle_crbn_1x_14",
+      "paddle_selkirk_vanguard_16"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
     "id": "art_30",
     "title": "コートの「サーフェス（床材）」でボールの弾みはどう変わる？体育館からデコターフまで徹底解説",
     "category": "ローカル情報",
     "target_audience": "中級者",
-    "status": "published"
+    "content_summary": "コートのサーフェス種類（体育館の木製床、屋外のデコターフ等）によるボールの弾みや足への影響を解説。",
+    "status": "published",
+    "related_gear_ids": [
+      "ball_franklin_x40",
+      "ball_onix_fuse_indoor"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
-    "id": "article_101_01",
-    "title": "【図解】5分でわかる！ピックルボールのルールとスコアの数え方完全ガイド",
+    "id": "art_31",
+    "title": "【速報】PBCoRテスト基準導入！2025年7月から使用禁止になるパドル一覧と影響まとめ",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "USA Pickleballが新たに導入したPBCoR（パドル/ボール反発係数）テスト基準により、パドルのトランポリンエフェクトを制限。2025年7月1日より、JOOLA Perseus Mod TA-15 14mm/16mm、Gearbox Pro Power Elongated、ProKennex Black Ace Ovation/Pro/XFが公式大会で使用禁止に。UPA-Aも独自のPEF基準（≤0.385）とスピンレート制限（≤2100RPM）を導入し、2026年からはパドルにNFCチップ搭載を義務化する予定。",
+    "status": "published",
+    "related_gear_ids": [
+      "paddle_joola_perseus_16"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns",
+      "pro_anna_bright"
+    ]
+  },
+  {
+    "id": "art_32",
+    "title": "【歴史的合意】JPA・PJF統合へ！2032年ブリスベン五輪を見据えた日本ピックルボール界の大統合",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "2026年1月9日、一般社団法人日本ピックルボール協会（JPA）とピックルボール日本連盟（PJF）が単一統括団体への統合に基本合意。目的は2032年ブリスベンオリンピックの正式種目化を見据えたNF（国内統一団体）の確立。合同タスクフォースによる移行プロセスが開始され、アジアのリーダー国として新IFへの正式加盟を目指す。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "player_yuta_funemizu",
+      "player_mayu_ito"
+    ]
+  },
+  {
+    "id": "art_33",
+    "title": "【完全解説】2026年版ピックルボール新ルール変更点まとめ（サーブ厳格化・ネットポスト・ダブルヒット改定）",
+    "category": "ルール解説",
+    "target_audience": "全レベル",
+    "content_summary": "2026年ルール改定の全変更点を網羅: (1)サーブの上方弧を明確にする厳格化, (2)ネットポストに当たっても打者の得点になる新ルール, (3)非意図的ダブルヒットの許容拡大, (4)ラリースコアリングのフリーズルール廃止, (5)ポケット内の予備ボール可視化によるフォルト, (6)1vs2継続ルール導入, (7)アウトコール即座化の厳格基準。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_34",
+    "title": "2025-2026プロ選手スポンサー移籍ラッシュ！各選手の最新パドル・契約一覧",
+    "category": "プロシーン",
+    "target_audience": "中級者",
+    "content_summary": "2025年末から2026年初頭にかけて発生した大規模なスポンサー移籍を完全まとめ: JW Johnson & Jorja JohnsonがFranklin離脱(TBA), Riley NewmanがProXR→Paddletek, Dekel BarがJOOLA→11SIX24, Dylan FrazierがSelkirk→Volair, Matt WrightがONIX→Warping Point, Thomas WilsonがCRBN離脱, Vivienne Davidが引退。パドル業界の勢力図が大きく変動。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_jw_johnson",
+      "pro_jorja_johnson",
+      "pro_riley_newman",
+      "pro_dekel_bar",
+      "pro_dylan_frazier",
+      "pro_matt_wright",
+      "pro_vivienne_david"
+    ]
+  },
+  {
+    "id": "art_35",
+    "title": "【日本初】JPA公式ランキング制度が2026年始動！船水雄太がMVP、澤木啓がU18賞受賞",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "JPAが日本国内初のピックルボール公式ランキング制度を2026年1月5日より本格スタート。年齢・性別別のランキング区分で全国の選手の競技力を公平に評価。2025年PICKLEBALL AWARDS JAPANでは船水雄太がMVP、澤木啓がフューチャープレーヤー賞(U18)を受賞。ランキングは国際大会派遣選考・全日本選手権出場資格と直結する重要制度に。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "player_yuta_funemizu",
+      "player_kei_sawaki"
+    ]
+  },
+  {
+    "id": "art_36",
+    "title": "【2025-2026年 施設オープンラッシュ】東京タワー・ルスツ・銀座…日本のピックルボール専用施設が続々誕生！",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "2025年〜2026年に続々とオープンするPB専用施設を完全網羅: 東京タワーPBコート(2025.7/2面常設)、ルスツリゾート(2025.7/8面専用コート)、京都PBトレーニングセンター(2025.3/関西初屋内専用)、DIADEM PB KOBE(2025.7/日本最大級)、PICKLEBALL ONE GINZA新橋(2025.11/インドア+最大級ショップ+カフェ)、Pickleball Base大阪(2026.4/国際基準6面西日本最大)、Sansan PBコート池袋(2026.7/屋内3面+屋外4面+ジム)。The Picklrが5年で日本20施設計画も。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_37",
+    "title": "Round1スポッチャでピックルボール！全国18店舗以上で手ぶらプレイ可能に",
+    "category": "ローカル情報",
+    "target_audience": "初心者",
+    "content_summary": "Round1のスポッチャ施設でピックルボールが急速に導入拡大中。仙台泉店、福島店、金沢店、新潟店、朝霞店、ららぽーと新三郷店、板橋店、ダイバーシティ東京プラザ店、川崎大師店、中川1号線店、春日井店、高槻店、堺駅前店、千日前店、熊本店、小倉店、博多半道橋店、鹿児島宇宿店など18店舗以上で利用可能。パドルやボールのレンタル付きで初心者でも手ぶらで体験OK。導入店舗はさらに拡大予定。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_38",
+    "title": "【データで見る】日本のピックルボール市場 2025年：競技人口4.5万人、1年で5倍成長の衝撃",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "日本のピックルボール市場が爆発的に成長。2025年3月時点で競技人口は約4.5万人に達し、わずか1年で約5倍の成長を記録。日経トレンディ「2025年ヒット予測ベスト30」14位にランクイン。JPA/PJF統合による組織基盤強化、Round1やThe Picklrなど施設の急拡大、テレビ報道の増加（TBSピックルボールタイムズ等）が成長の三大要因。2032年ブリスベン五輪の正式種目化を見据えた国際標準化も進行中。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_39",
+    "title": "【完全版】2026年 日本国内ピックルボール大会カレンダー（JPA/PJF）",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "2026年の主要国内PB大会を完全網羅: 1月=全農エネルギー福岡OP, 2月=JPA犬山T6/APP JAPAN SKECHERS Open 2026(三重/1000名/賞金200万円/石黒賢エキシビション), 3月=JPAハードオフ新潟, 4月=えひめOP, 5月=鹿児島OP, 6月=PJF山口ジャパンOP, 7月=APP JAPAN KINTO Open(宇都宮)。PJF UTRツアーや学生大会も年間を通じて開催。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "player_yuta_funemizu",
+      "player_kenta_miyoshi"
+    ]
+  },
+  {
+    "id": "art_40",
+    "title": "【保存版】ピックルボール前後の正しいウォームアップ＆ストレッチ完全ガイド（怪我予防）",
+    "category": "初心者ガイド",
+    "target_audience": "全レベル",
+    "content_summary": "プレイ前の動的ウォームアップ(10-15分)とプレイ後の静的ストレッチの完全ガイド。(1)心拍上げ(軽いジョグ/サイドシャッフル/ハイニー/バットキック), (2)動的ストレッチ(アームサークル/レッグスウィング/ウォーキングランジwithツイスト/アンクルサークル/背骨ツイスト/インチワーム), (3)筋力強化(カーフレイズ/プランク/ラテラルバンドウォーク/シングルレッグバランス), (4)プレイ後ストレッチ(ハムストリング/腰/肩/手首)。シニア向けの特別配慮も解説。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_41",
+    "title": "【初心者必読】ピックルボールのマナー＆エチケット完全ガイド（暗黙のルールも解説）",
     "category": "初心者ガイド",
     "target_audience": "初心者",
-    "content": "ピックルボールの基本的なルール（ツーバウンスルール、ノンボレーゾーン/キッチンでの反則）から、少し複雑なダブルスのスコアの数え方（サーバー番号を含む3つの数字のコール方法）までを図解入りで解説します。",
-    "related_gear_ids": "ball_franklin_x40, ball_onix_fuse_indoor",
+    "content_summary": "PBコートで必ず守るべきマナーと暗黙のルールを完全網羅: (1)試合前後の挨拶・パドルタップ (2)相手の良いショットを称賛・ミスで喜ばない (3)ボールの渡し方(手で投げ/山なりパドル打ち) (4)スコアコールの明確化 (5)セルフジャッジは相手有利に (6)ネットイン・ボディショット時の謝罪 (7)「ボールオン！」コール (8)ラリー中のコート横断禁止 (9)求められるまでアドバイスしない (10)初心者への配慮(強打・ロブ自重)。",
     "status": "published",
-    "published_at": "2026-03-01T10:00:00Z"
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
-    "id": "article_gear_01",
-    "title": "パワフルに打ちたい？それともコントロール？「コア厚（14mm vs 16mm）」の徹底比較",
-    "category": "ギアレビュー",
-    "target_audience": "中級者",
-    "content": "パドル選びの最大の悩みである「コアの厚さ」について解説します。反発力が強くパワーの出る14mmと、球持ちが良くディンクやドロップのコントロールに優れる16mmのそれぞれのメリット・デメリットを比較し、プレースタイルに合わせた選び方を提案します。",
-    "related_gear_ids": "paddle_joola_perseus_14, paddle_joola_perseus_16",
+    "id": "art_42",
+    "title": "【一人でも上達】ピックルボール壁打ち＆ソロドリル完全ガイド（自宅で練習）",
+    "category": "上達テクニック",
+    "target_audience": "全レベル",
+    "content_summary": "パートナーなしで上達するためのソロ練習メニュー完全版: (1)壁打ちディンク(5-7ft/50球連続) (2)壁打ちボレー速射(ノーバウンド100球) (3)壁打ちサードショットドロップ (4)壁打ちスピンマスター(トップ/バック/サイド) (5)壁打ちトランジションリセット (6)シャドースウィング＆フットワーク (7)サーブ反復 (8)ターゲット練習 (9)アジリティラダー/Tドリル (10)パドルジャグリング。練習環境セットアップ方法や進捗トラッキングのコツも解説。",
     "status": "published",
-    "published_at": "2026-03-02T12:00:00Z"
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   },
   {
-    "id": "article_tactic_01",
-    "title": "DUPR 3.5の壁を越える！「サードショット・ドロップ」成功率を劇的に上げる5つのコツ",
-    "category": "戦術・ドリル",
-    "target_audience": "中級者",
-    "content": "初心者から中級者(DUPR 3.5付近)に上がるための最大の難関である「サードショット・ドロップ」。手首を使わずに肩の支点で打つこと、頂点から落ちる軌道を意識することなど、成功率を上げる5つのドリルを紹介します。",
-    "related_player_ids": "pro_ben_johns",
+    "id": "art_43",
+    "title": "【上級者必見】ダブルス戦略完全ガイド：スタッキング・ポーチング・サインプレー",
+    "category": "上達テクニック",
+    "target_audience": "中級者〜上級者",
+    "content_summary": "ダブルス試合を勝ち切るための上級戦術を完全解説: (1)スタッキング(フルvsハーフ/サーブ側vsリターン側/左右利きペアの活用) (2)ポーチング(事前計画型vsチャンス型/ポーチ&ピック/タイミング) (3)サインプレー(開手=スイッチ/拳=ステイ/確認合図) (4)フォーメーション(サイドバイサイドvsアップアンドバック/ミラーリング) (5)サードショット戦略(ドロップvsドライブのミックス) (6)スピードアップ戦術(ネット下/オフスピード/シフト)。",
     "status": "published",
-    "published_at": "2026-03-03T09:00:00Z"
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_44",
+    "title": "サードショット完全攻略：ドロップ vs ドライブ、いつどちらを使うか？",
+    "category": "上達テクニック",
+    "target_audience": "中級者〜上級者",
+    "content_summary": "試合の鍵を握るサードショットの選択判断を徹底解説: (1)サードショットドロップ(NVZへのソフトショットでネットに出る/low-to-highスウィング/deep drop vs short drop) (2)サードショットドライブ(相手に時間を与えず攻める/フラット-トップスピン/リターンが浅い時に有効) (3)判断基準(相手のポジション/リターンの深さ/自分の位置/スコア状況) (4)ハイブリッド戦術(ドライブ&ドロップのミックスで予測不能に/ターゲット・ザ・ムーバー) (5)トランジションの成功法(スプリットステップ/レディポジション)。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_45",
+    "title": "【メンタルトレーニング】試合で勝つための心理戦略：ミス後のリセット法と集中力維持",
+    "category": "上達テクニック",
+    "target_audience": "全レベル",
+    "content_summary": "試合中のメンタル管理と心理的回復力を鍛える完全ガイド: (1)リセットルーティン(深呼吸/パドルタップ/キューワード「next point」) (2)感情コントロール(ポーカーフェイス/ネガティブセルフトークの書き換え) (3)ビジュアライゼーション(試合前に成功プレイを脳内リハーサル) (4)成長マインドセット(ミス=「プロットツイスト」/小さな進歩を祝う) (5)プレゲームルーティン(ストレッチ/呼吸/ルーティンショット) (6)プレッシャー下の判断力(スローダウン/意図的な呼吸)。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_46",
+    "title": "【2025年版】ピックルボールアプリ＆テクノロジー完全ガイド（DUPR/Pickleplay/SwingVision）",
+    "category": "最新ニュース",
+    "target_audience": "全レベル",
+    "content_summary": "2025年のPBテクノロジー最前線: (1)DUPR(2.0-8.0レーティング/USA Pickleball独占採用/Reliability Score導入/DUPR Replay年間サマリー) (2)Pickleplay(15万人超/APP提携/コート検索/イベント管理) (3)SwingVision(AI自動ショット追跡/詳細統計) (4)PickleRank(Elo式ランキング) (5)CourtsApp(AI予約最適化/2026年全国展開) (6)Side Out(Apple Watchスコアキーパー) (7)スマートパドル(リアルタイムスウィング分析/スピン/速度計測) (8)VR/ARトレーニング(没入型スキル開発)。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
+  },
+  {
+    "id": "art_47",
+    "title": "【試合で勝つ食事術】ピックルボール栄養・水分補給・リカバリー完全ガイド",
+    "category": "上達テクニック",
+    "target_audience": "全レベル",
+    "content_summary": "パフォーマンス最大化のための栄養戦略: (1)プレゲーム食事(2-4h前: 鶏肉+キヌア/パスタ、60-90分前: バナナ+ギリシャヨーグルト/ターキーラップ、30分前: バナナ/プレッツェル) (2)水分補給(2-3h前に500ml/15-20分毎に120-240ml/電解質タブレット/尿の色でモニタリング) (3)試合中栄養(60分超でカーボ30-60g/h/バナナ/エネルギージェル) (4)リカバリー食(30-90分以内にカーボ:プロテイン=3:1/チョコレートミルク/プロテインスムージー) (5)抗炎症フード(ベリー/ターメリック/タートチェリージュース) (6)睡眠7-9h確保。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   }
 ]

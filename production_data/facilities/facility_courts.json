@@ -31,14 +31,15 @@
   {
     "court_type": "アウトドア",
     "number_of_courts": 2,
-    "surface_type": "屋外ハードコート",
+    "surface_type": "アウトドアハードコート（ナイター照明完備）",
     "line_visibility": "専用ラインのみ(見やすい)",
     "net_type": "常設(埋め込み)",
     "has_ac": 0,
     "baseline_margin": null,
     "lighting_type": "LED照明完備（ナイター営業対応）",
     "_facility_name": "Pacific Pickle Club",
-    "_facility_index": 2
+    "_facility_index": 2,
+    "_survey_notes": "東京都江東区有明。livedoor URBAN SPORTS PARK内。屋外ハードコート2面。ナイター照明完備。パドル+ボールレンタル800円。"
   },
   {
     "court_name": "Oneコート",
@@ -53,7 +54,8 @@
     "lighting_type": "室内LED照明",
     "usage": "ゲーム利用中心",
     "_facility_name": "PICKLEBALL ONE GINZA SHIMBASHI",
-    "_facility_index": 3
+    "_facility_index": 3,
+    "_survey_notes": "東京都千代田区。Oneコート（フルコート）+Funコート（3/4サイズ）=合計2面。"
   },
   {
     "court_name": "Funコート",
@@ -68,10 +70,11 @@
     "lighting_type": "室内LED照明",
     "usage": "練習・ドリル中心",
     "_facility_name": "PICKLEBALL ONE GINZA SHIMBASHI",
-    "_facility_index": 3
+    "_facility_index": 3,
+    "_survey_notes": "東京都千代田区。Oneコート（フルコート）+Funコート（3/4サイズ）=合計2面。"
   },
   {
-    "court_type": "アウトドア",
+    "court_type": "インドア",
     "number_of_courts": 4,
     "surface_type": "屋外ハードコート",
     "line_visibility": "専用ラインのみ(見やすい)",
@@ -80,7 +83,8 @@
     "baseline_margin": null,
     "lighting_type": "照明なし（日没まで利用可能）",
     "_facility_name": "WELL PICKLE CLUB",
-    "_facility_index": 4
+    "_facility_index": 4,
+    "_survey_notes": "東京都葛飾区。2025年春グランドオープン。公式規格PBコート4面。パドル+ボールセットレンタル500円。"
   },
   {
     "court_type": "インドア",
@@ -92,7 +96,8 @@
     "baseline_margin": null,
     "lighting_type": null,
     "_facility_name": "Sansanピックルボールコート池袋",
-    "_facility_index": 5
+    "_facility_index": 5,
+    "_survey_notes": "豊島区。2026年7月開業。インドア3面+アウトドア4面=計7面。ジムスペース併設。ピックルボールワン運営パートナー。Sansan株式会社運営。"
   },
   {
     "court_type": "アウトドア",
@@ -104,7 +109,8 @@
     "baseline_margin": null,
     "lighting_type": null,
     "_facility_name": "Sansanピックルボールコート池袋",
-    "_facility_index": 5
+    "_facility_index": 5,
+    "_survey_notes": "豊島区。2026年7月開業。インドア3面+アウトドア4面=計7面。ジムスペース併設。ピックルボールワン運営パートナー。Sansan株式会社運営。"
   },
   {
     "court_type": "インドア",
@@ -115,18 +121,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東京体育館",
-    "_facility_index": 6
+    "_facility_index": 6,
+    "_survey_notes": "東京都渋谷区。フィットネスエリアスタジオでPB本科スクール開催。入門~初中級/シニア。1期6回6,600円/都度1,650円。ティップネス運営。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
+    "number_of_courts": 4,
     "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "港区スポーツセンター",
-    "_facility_index": 7
+    "_facility_index": 7,
+    "_survey_notes": "サブアリーナに4面。木製コート。ラインテープは利用者が自分で設置。"
   },
   {
     "court_type": "インドア",
@@ -137,7 +145,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "新宿区立新宿スポーツセンター",
-    "_facility_index": 8
+    "_facility_index": 8,
+    "_survey_notes": "東京都新宿区。区立スポーツセンターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -148,7 +157,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "新宿コズミックスポーツセンター",
-    "_facility_index": 9
+    "_facility_index": 9,
+    "_survey_notes": "東京都新宿区。コズミックSCでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -159,7 +169,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "北区内 各スポーツセンター（滝野川・赤羽・桐ヶ丘等）",
-    "_facility_index": 10
+    "_facility_index": 10,
+    "_survey_notes": "東京都北区。複数スポーツセンターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -170,18 +181,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "世田谷区立北烏山地区体育室",
-    "_facility_index": 11
+    "_facility_index": 11,
+    "_survey_notes": "東京都世田谷区。地区体育室でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
+    "number_of_courts": 3,
     "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "世田谷区総合運動場体育館",
-    "_facility_index": 12
+    "_facility_index": 12,
+    "_survey_notes": "バドミントンコートを転用して3面。世田谷区民を中心に利用。"
   },
   {
     "court_type": "インドア",
@@ -196,51 +209,55 @@
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 2,
+    "surface_type": "屋外ハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ヒルトン東京",
-    "_facility_index": 14
+    "_facility_index": 14,
+    "_survey_notes": "5Fフィットネスセンター屋外2面。平日60分5,000-8,000円(宿泊客)/6,000-10,000円(ビジター)。ラケットレンタル800円。プロコーチレッスンあり。"
   },
   {
     "court_type": "アウトドア",
     "number_of_courts": 10,
-    "surface_type": "レイコールド（全米オープン採用サーフェス）",
+    "surface_type": "アウトドアハードコート（夜間照明完備）",
     "line_visibility": "専用ラインのみ(見やすい)",
     "net_type": "ポータブル(可動式)",
     "has_ac": 0,
     "baseline_margin": null,
     "lighting_type": "照明完備",
     "_facility_name": "KPI PARK",
-    "_facility_index": 15
+    "_facility_index": 15,
+    "_survey_notes": "横浜市。国内最大級のPB施設。10面。夜間照明完備。9ブランドパドル取扱。ショップ併設。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 2,
+    "surface_type": "インドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "GODAIセンター南",
-    "_facility_index": 16
+    "_facility_index": 16,
+    "_survey_notes": "PBコート1面(85%サイズ)+練習用1面。2025年新設クラス。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "surface_type": "インドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "GODAI横浜",
-    "_facility_index": 17
+    "_facility_index": 17,
+    "_survey_notes": "テニススクール内。PB体験会を定期開催。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -273,40 +290,43 @@
     "_facility_index": 20
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 2,
+    "surface_type": "インドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "D-tennis古淵駅前校",
-    "_facility_index": 21
+    "_facility_index": 21,
+    "_survey_notes": "相模原市南区。インドアPBコート2面。2026年2月開講。体験レッスン1,000円(税込)。テニス会員は500円。定員10名。パドル無料貸出。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ラウンドワンスタジアム川崎大師店",
-    "_facility_index": 22
+    "_facility_index": 22,
+    "_survey_notes": "神奈川県川崎市。スポッチャ内PB1面。パドル・ボール無料レンタル。スポッチャ利用料でプレイ可。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 2,
+    "surface_type": "アウトドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "レイムテニスセンター",
-    "_facility_index": 23
+    "_facility_index": 23,
+    "_survey_notes": "常設PBコート2面（テラス）。テニスハードコート転用時は最大10面可。レイムPBクラブは会員制。コートレンタルなし。埼玉県川口市。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -314,18 +334,20 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ピックルボールアカデミー",
-    "_facility_index": 24
+    "_facility_index": 24,
+    "_survey_notes": "さいたま市の公共施設(与野体育館、東大宮CC等)を利用した間借り活動。専用コートは持たない。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "アウトドア",
+    "number_of_courts": 2,
+    "surface_type": "屋外ハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "コナミスポーツ テニススクール大初心宮",
-    "_facility_index": 25
+    "_facility_index": 25,
+    "_survey_notes": "さいたま市大宮区。DOMショッピングセンター屋上。PB2面。2024年8月導入。レンタル1h 5,500円。"
   },
   {
     "court_type": "インドア",
@@ -347,7 +369,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "さいたま市浦和西体育館",
-    "_facility_index": 27
+    "_facility_index": 27,
+    "_survey_notes": "埼玉県さいたま市。浦和西体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -358,62 +381,68 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "戸塚スポーツセンター",
-    "_facility_index": 28
+    "_facility_index": 28,
+    "_survey_notes": "埼玉県川口市。スポーツセンターでPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ラウンドワンスタジアム朝霞店",
-    "_facility_index": 29
+    "_facility_index": 29,
+    "_survey_notes": "埼玉県朝霞市。スポッチャ内PB1面。パドル・ボール無料レンタル。スポッチャ利用料でプレイ可。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ラウンドワンスタジアムららぽーと新三郷店",
-    "_facility_index": 30
+    "_facility_index": 30,
+    "_survey_notes": "埼玉県三郷市。スポッチャ内PB1面。パドル・ボール無料レンタル。スポッチャ利用料でプレイ可。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
-    "surface_type": "体育館床(木製)",
+    "number_of_courts": 2,
+    "surface_type": "ハードコート(テニスコート転用)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "吉田記念テニス研修センター(TTC)",
-    "_facility_index": 31
+    "_facility_index": 31,
+    "_survey_notes": "テニス用ハードコートをPB用に転用。通常2-4面利用可能。施設全体は14-15面のテニスコート保有。千葉県柏市。"
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "surface_type": "ハードコート（テニスコート兼用）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "スポーツコミュニティー市川浦安店",
-    "_facility_index": 32
+    "_facility_index": 32,
+    "_survey_notes": "テニス兼用コート(Aコート/Bコート/Cコート)をPBに使用。初心者向け無料体験あり。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
-    "surface_type": "体育館床(木製)",
+    "number_of_courts": 3,
+    "surface_type": "インドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "アルドールテニスステージ千葉NT校",
-    "_facility_index": 33
+    "_facility_index": 33,
+    "_survey_notes": "千葉県印西市。千葉NT中央駅徒歩1分。インドアハードコート3面。冷暖房完備。PB体験会・練習会を毎週定期開催。無料レンタルパドルあり。未経験者歓迎。"
   },
   {
     "court_type": "インドア",
@@ -424,7 +453,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "千葉市立弁天小学校体育館",
-    "_facility_index": 34
+    "_facility_index": 34,
+    "_survey_notes": "千葉県千葉市。小学校体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -435,32 +465,35 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "磯辺スポーツセンター体育館",
-    "_facility_index": 35
+    "_facility_index": 35,
+    "_survey_notes": "千葉県千葉市。スポーツセンター体育館でPB活動。面数不明。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 1,
+    "surface_type": "アウトドアコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "アドベンチャーズアイランド小谷流沢ロッジ",
-    "_facility_index": 36
+    "_facility_index": 36,
+    "_survey_notes": "千葉県八街市。国際規格PB専用コート16面。日本最大級の規模。1面60分8,800円。2025年6月24日提供開始。パドル・ボール込。じゃらん予約可。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 4,
+    "surface_type": "DecoTurf（米国製高品質サーフェス）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "IMPACT TSUKUBA PICKLEBALL CLUB",
-    "_facility_index": 37
+    "_facility_index": 37,
+    "_survey_notes": "茨城県つくば市。つくば初のPB専用アウトドア施設。4面。DecoTurfサーフェス。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -468,40 +501,44 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ゴールドジム土浦茨城",
-    "_facility_index": 38
+    "_facility_index": 38,
+    "_survey_notes": "茨城県土浦市。ジム施設内でPB利用可能。面数不明。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ジョイフルアスレティッククラブ",
-    "_facility_index": 39
+    "_facility_index": 39,
+    "_survey_notes": "土浦店。バドコートサイズ。メンバーは無料利用可。"
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "surface_type": "人工芝（フットサルコート転用）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "フットサルサンフィート",
-    "_facility_index": 40
+    "_facility_index": 40,
+    "_survey_notes": "茨城県水戸市。フットサル専用レンタルピッチ。PB情報は未確認のため要注意。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 1,
+    "surface_type": "アウトドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ピックルボールコート P-REX",
-    "_facility_index": 41
+    "_facility_index": 41,
+    "_survey_notes": "2021年オープン。屋外PB専用コート1面。栃木県。"
   },
   {
     "court_type": "インドア",
@@ -512,73 +549,80 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "日環アリーナ栃木",
-    "_facility_index": 42
+    "_facility_index": 42,
+    "_survey_notes": "栃木市。メインアリーナ(バスケ4面分)・サブアリーナ(バスケ2面分)。PB教室開催(火曜定員32名/水木定員16名)。常設PBコートなし、多目的スペース転用。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 2,
+    "surface_type": "アウトドアハードコート（PBライン引き済）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "台の原公園テニスコート",
-    "_facility_index": 43
+    "_facility_index": 43,
+    "_survey_notes": "栃木県鹿沼市。ハードコート3面中2面にPBライン引き済。移動式ネット完備。ナイター照明あり。パドル4本550円でレンタル可（サトウグリーンTC）。LaBOLAオンライン予約制。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
-    "surface_type": "体育館床(木製)",
+    "number_of_courts": 3,
+    "surface_type": "インドア専用コート（冷暖房完備）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "前橋ピックルボールセンター",
-    "_facility_index": 44
+    "_facility_index": 44,
+    "_survey_notes": "群馬県高崎市。専用PBコート3面。冷暖房完備。パドル・ボールレンタル550円。スポレッシュ高崎/ゴールドジム前橋の会員は追加料金なし。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
+    "number_of_courts": 1,
     "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "SOHOストリンガー ピックルボール練習場",
-    "_facility_index": 45
+    "_facility_index": 45,
+    "_survey_notes": "群馬県。ピックルボール練習場1面。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
-    "surface_type": "体育館床(木製)",
+    "number_of_courts": 1,
+    "surface_type": "スタジオ床面",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "ティップネス太田",
-    "_facility_index": 46
+    "_facility_index": 46,
+    "_survey_notes": "群馬県太田市。スタジオ利用でPBコート1面。"
   },
   {
-    "court_type": "アウトドア",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "PICA PICKLE（PICA Fujiyama内）",
-    "_facility_index": 47
+    "_facility_index": 47,
+    "_survey_notes": "インドアコート1面。山梨県富士河口湖町。PICA Fujiyama内。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 3,
+    "surface_type": "インドアハードコート（テニスコート転用）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "エストテニスクラブ甲府",
-    "_facility_index": 48
+    "_facility_index": 48,
+    "_survey_notes": "山梨県甲府市。インドアハードコート3面をPBに転用。ポータブルネット+ラインテープ設置。屋外オムニ6面+屋内ハード3面保有。PB体験会開催実績あり。"
   },
   {
     "court_type": "アウトドア",
@@ -589,7 +633,8 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "お泊りきくや",
-    "_facility_index": 49
+    "_facility_index": 49,
+    "_survey_notes": "宿泊施設内でPB体験可能。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -600,7 +645,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "TOCCHY PICKLEBALL FREAKS",
-    "_facility_index": 50
+    "_facility_index": 50,
+    "_survey_notes": "栃木県矢板市。地域PBクラブ。各体育館で活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -611,7 +657,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "セントラルスポーツ・ピックルボールクラブ",
-    "_facility_index": 51
+    "_facility_index": 51,
+    "_survey_notes": "栃木県宇都宮市。セントラルスポーツ施設内でPBクラブ活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -622,51 +669,56 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "宇都宮市清原体育館",
-    "_facility_index": 52
+    "_facility_index": 52,
+    "_survey_notes": "栃木県宇都宮市。清原体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
+    "number_of_courts": 6,
     "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "Pickleball Base Osaka",
-    "_facility_index": 75
+    "_facility_index": 75,
+    "_survey_notes": "大阪府堺市。ホテルアゴーラリージェンシー大阪堺内。2026年4月1日開業。国際基準コート6面。西日本最大級。五つ星ホテル内施設。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
+    "number_of_courts": 4,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "南港中央庭球場",
-    "_facility_index": 76
+    "_facility_index": 76,
+    "_survey_notes": "大阪市住之江区。PBコート4面。2025年春にコート拡充計画あり。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 5,
+    "surface_type": "インドアコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "江坂テニスセンター",
-    "_facility_index": 77
+    "_facility_index": 77,
+    "_survey_notes": "大阪府吹田市。屋外PBコート2面+インドア練習用1面+インドアPBコート4面=計7面。関西最大級のPB施設。テニスコートも多数。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
+    "number_of_courts": 3,
     "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "住之江スポーツセンター",
-    "_facility_index": 78
+    "_facility_index": 78,
+    "_survey_notes": "大阪市住之江区。インドア木製コート3面。"
   },
   {
     "court_type": "インドア",
@@ -677,7 +729,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東淀川体育館",
-    "_facility_index": 79
+    "_facility_index": 79,
+    "_survey_notes": "大阪市東淀川区。体育館でのPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -688,7 +741,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "大阪狭山市総合体育館サブアリーナ",
-    "_facility_index": 80
+    "_facility_index": 80,
+    "_survey_notes": "大阪狭山市。サブアリーナでPB利用。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -699,7 +753,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "河内長野市立市民総合体育館",
-    "_facility_index": 81
+    "_facility_index": 81,
+    "_survey_notes": "大阪府河内長野市。市民総合体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -710,7 +765,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東大阪市立ウィルチェアスポーツコート",
-    "_facility_index": 82
+    "_facility_index": 82,
+    "_survey_notes": "大阪府東大阪市。ウィルチェアスポーツコートでPB利用。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -721,7 +777,8 @@
     "lighting_type": "屋内照明",
     "net_type": "ポータブル等",
     "_facility_name": "京都ピックルボールトレーニングセンター",
-    "_facility_index": 83
+    "_facility_index": 83,
+    "_survey_notes": "京都市。2025年3月オープン。関西初のPB専用屋内施設。インドアコート2面推定。専門コーチ在籍。"
   },
   {
     "court_type": "インドア",
@@ -732,7 +789,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "右京地域体育館（右京区役所4F）",
-    "_facility_index": 84
+    "_facility_index": 84,
+    "_survey_notes": "京都市右京区。区役所4F体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -743,7 +801,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "伏見区醍醐地域体育館",
-    "_facility_index": 85
+    "_facility_index": 85,
+    "_survey_notes": "京都市伏見区。地域体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -754,7 +813,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "島津アリーナ京都",
-    "_facility_index": 86
+    "_facility_index": 86,
+    "_survey_notes": "京都市。常設PBコートなし。イベント時には第1競技場10面+第2競技場4面=計14面を設営可能。「ピックルボール京都オープン2024」が開催された実績あり。"
   },
   {
     "court_type": "インドア",
@@ -776,7 +836,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東垂水公民館・垂水体育館",
-    "_facility_index": 88
+    "_facility_index": 88,
+    "_survey_notes": "兵庫県神戸市垂水区。公民館/体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -787,7 +848,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東灘体育館",
-    "_facility_index": 89
+    "_facility_index": 89,
+    "_survey_notes": "兵庫県神戸市東灘区。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -798,7 +860,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "北神戸田園スポーツ公園体育館",
-    "_facility_index": 90
+    "_facility_index": 90,
+    "_survey_notes": "兵庫県神戸市北区。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -809,7 +872,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "皇子が丘公園体育館",
-    "_facility_index": 91
+    "_facility_index": 91,
+    "_survey_notes": "滋賀県大津市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -820,7 +884,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "石山市民体育館",
-    "_facility_index": 92
+    "_facility_index": 92,
+    "_survey_notes": "滋賀県大津市。市民体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -831,7 +896,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "奈良市勤労者総合福祉センター（サン・アクティブなら）",
-    "_facility_index": 93
+    "_facility_index": 93,
+    "_survey_notes": "奈良市。多目的体育室でPB利用可。面数はイベント設営次第。"
   },
   {
     "court_type": "インドア",
@@ -842,7 +908,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "奈良市西部公民館",
-    "_facility_index": 94
+    "_facility_index": 94,
+    "_survey_notes": "奈良県奈良市。西部公民館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -853,7 +920,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "曽我川緑地体育館",
-    "_facility_index": 95
+    "_facility_index": 95,
+    "_survey_notes": "奈良県橿原市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -864,7 +932,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "広陵町西体育館・北体育館",
-    "_facility_index": 96
+    "_facility_index": 96,
+    "_survey_notes": "奈良県広陵町。体育館2か所でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -875,18 +944,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "紀の川市民体育館メインアリーナ",
-    "_facility_index": 97
+    "_facility_index": 97,
+    "_survey_notes": "和歌山県紀の川市。メインアリーナでPB利用。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 1,
+    "surface_type": "ハードコート(ハーフコート)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ITC京都西",
-    "_facility_index": 98
+    "_facility_index": 98,
+    "_survey_notes": "京都市。ハードコートハーフコートでPBプレイ。2025年6月PBコート正式オープン。予約制。体験会ではパドル提供。"
   },
   {
     "court_type": "インドア",
@@ -923,26 +994,28 @@
     "_facility_index": 104
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 2,
+    "surface_type": "インドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "テニスラウンジ名西",
-    "_facility_index": 121
+    "_facility_index": 121,
+    "_survey_notes": "名古屋市西区枇杷島。PBコート2面。レンタルコート・イベント開催あり。名鉄東枇杷島駅最寄。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 2,
+    "surface_type": "ハードコート（テニスコート1面転用→PB2面）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ウェルネススクエア新栄",
-    "_facility_index": 122
+    "_facility_index": 122,
+    "_survey_notes": "名古屋市中区。テニスハードコート1面をPB2面に転用。鶴舞駅徒歩8分。パドル・ボール・ネット貸出あり。"
   },
   {
     "court_type": "インドア",
@@ -953,7 +1026,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "名古屋市稲永スポーツセンター",
-    "_facility_index": 123
+    "_facility_index": 123,
+    "_survey_notes": "名古屋市港区。体育館にPB専用コートライン引き済。バドコート転用も可能。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -964,7 +1038,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "枇杷島スポーツセンター（名西ピックルズ拠点）",
-    "_facility_index": 124
+    "_facility_index": 124,
+    "_survey_notes": "名古屋市西区。名西ピックルズの活動拠点。体育館でPBプレイ。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -975,7 +1050,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "西尾市総合体育館",
-    "_facility_index": 125
+    "_facility_index": 125,
+    "_survey_notes": "愛知県西尾市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -986,7 +1062,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "岡崎市体育館",
-    "_facility_index": 126
+    "_facility_index": 126,
+    "_survey_notes": "愛知県岡崎市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -997,7 +1074,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "一宮総合体育館",
-    "_facility_index": 127
+    "_facility_index": 127,
+    "_survey_notes": "愛知県一宮市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1008,7 +1086,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "尾張旭市総合体育館",
-    "_facility_index": 128
+    "_facility_index": 128,
+    "_survey_notes": "愛知県尾張旭市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1019,7 +1098,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "豊橋市飯村地区体育館",
-    "_facility_index": 129
+    "_facility_index": 129,
+    "_survey_notes": "愛知県豊橋市。地区体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1030,7 +1110,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "ティップネス浜松葵東店",
-    "_facility_index": 130
+    "_facility_index": 130,
+    "_survey_notes": "静岡県浜松市。フィットネスクラブ内でPBプログラム提供。面数不明。"
   },
   {
     "court_type": "アウトドア",
@@ -1050,7 +1131,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "堀之内体育館（菊川ピックルズ拠点）",
-    "_facility_index": 132
+    "_facility_index": 132,
+    "_survey_notes": "静岡県菊川市。菊川ピックルズが水曜19-21:30/日曜18-21に利用。参加費200-300円。パドル貸出100円。50名超のメンバー。"
   },
   {
     "court_type": "インドア",
@@ -1061,7 +1143,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "小山臨海公園マリンホール",
-    "_facility_index": 133
+    "_facility_index": 133,
+    "_survey_notes": "栃木県小山市。体育館でPB活動。面数はイベント設営次第。"
   },
   {
     "court_type": "インドア",
@@ -1072,7 +1155,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "岐阜メモリアルセンター",
-    "_facility_index": 134
+    "_facility_index": 134,
+    "_survey_notes": "岐阜市。PB専用コートなし。で愛ドーム(第1体育館)にバド12面利用可。PBコートとして転用可能。"
   },
   {
     "court_type": "インドア",
@@ -1083,7 +1167,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "OKBぎふ清流アリーナ",
-    "_facility_index": 135
+    "_facility_index": 135,
+    "_survey_notes": "岐阜県岐阜市。アリーナでPB活動。面数はイベント設営次第。"
   },
   {
     "court_type": "インドア",
@@ -1094,7 +1179,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "大垣市総合体育館 第二体育館",
-    "_facility_index": 136
+    "_facility_index": 136,
+    "_survey_notes": "岐阜県大垣市。第二体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1105,7 +1191,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "プリニーの総合体育館",
-    "_facility_index": 137
+    "_facility_index": 137,
+    "_survey_notes": "岐阜県池田町。総合体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1116,7 +1203,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "多治見市総合体育館",
-    "_facility_index": 138
+    "_facility_index": 138,
+    "_survey_notes": "岐阜県多治見市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1143,7 +1231,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "新潟市東総合スポーツセンター",
-    "_facility_index": 141
+    "_facility_index": 141,
+    "_survey_notes": "新潟市。2026年3月末まで天井改修工事で休場中。PB専用情報なし。バスケ2面/バレー3面/バド12面の広さ。"
   },
   {
     "court_type": "インドア",
@@ -1154,18 +1243,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "亀田総合体育館（新潟PBクラブMerrily拠点）",
-    "_facility_index": 142
+    "_facility_index": 142,
+    "_survey_notes": "新潟市。新潟PBクラブMerrilyの活動拠点。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "アウトドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ロッテアライリゾート",
-    "_facility_index": 143
+    "_facility_index": 143,
+    "_survey_notes": "新潟県妙高市。リゾート施設内PBコート1面。レンタル機材完備。"
   },
   {
     "court_type": "インドア",
@@ -1185,29 +1276,32 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "高岡市民体育館",
-    "_facility_index": 145
+    "_facility_index": 145,
+    "_survey_notes": "富山県高岡市。市民体育館でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 2,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ピックルビート",
-    "_facility_index": 146
+    "_facility_index": 146,
+    "_survey_notes": "石川県小松市。常設屋内PB専用コート2面推定。初回体験無料。参加費800円。パドル・ボール無料貸出。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 2,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ラケットパーク金沢野々市",
-    "_facility_index": 147
+    "_facility_index": 147,
+    "_survey_notes": "石川県野々市市。インドアテニスコート2面。PBレンタルコート1面1h 3,520円(会員2,200円)。ラケットショップでPB用品も販売。"
   },
   {
     "court_type": "インドア",
@@ -1218,29 +1312,32 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "日硝ハイウエーアリーナ",
-    "_facility_index": 148
+    "_facility_index": 148,
+    "_survey_notes": "三重県津市。屋内総合スポーツ施設。PB国際大会の開催実績あり。面数はイベント時可変。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "アウトドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ネムリゾート ピックルボールコート",
-    "_facility_index": 149
+    "_facility_index": 149,
+    "_survey_notes": "三重県志摩市。2026年4月18日リニューアルオープンで新設。1面1時間1,100円(大人)/550円(小学生)。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "アウトドア",
+    "number_of_courts": 2,
+    "surface_type": "USAP公認ハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "東急リゾートタウン蓼科",
-    "_facility_index": 150
+    "_facility_index": 150,
+    "_survey_notes": "長野県茅野市。甲信越エリア初のUSAP公認コート。2面。1面1時間2,500円(税込)。パドル・ボール貸出込。冬季積雪時休業。"
   },
   {
     "court_type": "インドア",
@@ -1251,7 +1348,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "安茂里体育館",
-    "_facility_index": 151
+    "_facility_index": 151,
+    "_survey_notes": "長野県長野市安茂里。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1262,10 +1360,11 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "安曇野市三郷文化公園体育館",
-    "_facility_index": 152
+    "_facility_index": 152,
+    "_survey_notes": "長野県安曇野市。文化公園体育館でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -1273,7 +1372,8 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "NAKAGAWA CANAL DOORS",
-    "_facility_index": 153
+    "_facility_index": 153,
+    "_survey_notes": "名古屋市中川区。2026年6月18日開業予定。ホテル・レストラン併設の複合施設内にPBコートとビーチバレーコート。"
   },
   {
     "court_type": "インドア",
@@ -1284,7 +1384,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "福井市体育館",
-    "_facility_index": 154
+    "_facility_index": 154,
+    "_survey_notes": "福井県福井市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1295,7 +1396,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "富山東部体育館",
-    "_facility_index": 155
+    "_facility_index": 155,
+    "_survey_notes": "富山県富山市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1306,7 +1408,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "ふれあい松東体育館",
-    "_facility_index": 156
+    "_facility_index": 156,
+    "_survey_notes": "石川県小松市。ピックルビート小松の月2回練習会場のひとつ。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1317,7 +1420,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "福井市南体育館",
-    "_facility_index": 157
+    "_facility_index": 157,
+    "_survey_notes": "福井県福井市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1328,7 +1432,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "福井市東体育館",
-    "_facility_index": 158
+    "_facility_index": 158,
+    "_survey_notes": "福井県福井市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1337,7 +1442,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "安茂里体育館",
-    "_facility_index": 159
+    "_facility_index": 159,
+    "_survey_notes": "長野県長野市安茂里。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1389,15 +1495,16 @@
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
-    "surface_type": "屋内デコターフ",
+    "number_of_courts": 6,
+    "surface_type": "インドアコート（フットサルコート転用）",
     "line_visibility": "インドアテニスコート兼用",
     "net_type": "ピックルボール用ネット無料貸出",
     "has_ac": 1,
     "baseline_margin": null,
     "lighting_type": "ナイター・屋内照明完備",
     "_facility_name": "PLACE OF SPORTS NEO",
-    "_facility_index": 179
+    "_facility_index": 179,
+    "_survey_notes": "札幌市。最適6面/最大8面。フットサルコートを転用。イベント時6面利用可。"
   },
   {
     "court_type": "インドア",
@@ -1408,10 +1515,11 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "TOPインドアステージ札幌森林公園",
-    "_facility_index": 180
+    "_facility_index": 180,
+    "_survey_notes": "札幌市。道内最大級のインドアコート。テニススクール内でPB体験会開催実績あり。床暖房完備。参加費2,000円。面数はイベント時のみ確定。"
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -1419,10 +1527,11 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ライジングテニスクラブ北野",
-    "_facility_index": 181
+    "_facility_index": 181,
+    "_survey_notes": "札幌市清田区。PB専用コートあり（面数不明）。テニスインドア2面。PBフィジカルレッスン開催。レンタル用具あり。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -1430,10 +1539,11 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "セントラルフィットネスクラブ山鼻",
-    "_facility_index": 182
+    "_facility_index": 182,
+    "_survey_notes": "札幌市。セントラルスポーツ会員+一般参加可能な「ピックルボールタイム」を開催。面数不明。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -1441,7 +1551,8 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "スポーツクラブNAS Vit Park 札幌",
-    "_facility_index": 183
+    "_facility_index": 183,
+    "_survey_notes": "札幌市。NASフィットネスクラブ内でPBプログラム提供。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1452,7 +1563,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "札幌北区体育館",
-    "_facility_index": 184
+    "_facility_index": 184,
+    "_survey_notes": "札幌市北区。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1463,7 +1575,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "NHPC（苗穂・本町地区センター）",
-    "_facility_index": 185
+    "_facility_index": 185,
+    "_survey_notes": "札幌市中央区。地区センターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1474,7 +1587,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "札幌ピックルズ（複数拠点）",
-    "_facility_index": 186
+    "_facility_index": 186,
+    "_survey_notes": "北海道札幌市。複数施設でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1485,18 +1599,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "仙台ピックルボール機構（複数拠点）",
-    "_facility_index": 187
+    "_facility_index": 187,
+    "_survey_notes": "宮城県仙台市。複数施設でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ピックルボール仙台ぐれもん",
-    "_facility_index": 188
+    "_facility_index": 188,
+    "_survey_notes": "仙台市内の三本松市民センター、泉海洋センター、泉体育館等で活動。火or木曜。参加費500円。18時フリーコート/19-21時体験練習会。"
   },
   {
     "court_type": "インドア",
@@ -1519,18 +1635,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "ピックルボールふくしま（福島市各施設）",
-    "_facility_index": 190
+    "_facility_index": 190,
+    "_survey_notes": "福島県福島市。各公共施設でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
+    "court_type": "インドア",
     "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "南相馬ピックルボールアカデミー",
-    "_facility_index": 191
+    "_facility_index": 191,
+    "_survey_notes": "福島県南相馬市小高区。小高体育センター等の公共施設を利用して活動。"
   },
   {
     "court_type": "インドア",
@@ -1541,7 +1659,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "いわき市立総合体育館",
-    "_facility_index": 192
+    "_facility_index": 192,
+    "_survey_notes": "福島県いわき市。総合体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1552,7 +1671,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "秋桜アリーナ（浪江町地域スポーツセンター）",
-    "_facility_index": 193
+    "_facility_index": 193,
+    "_survey_notes": "福島県浪江町。地域スポーツセンターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1563,7 +1683,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "由利本荘総合防災公園ナイスアリーナ",
-    "_facility_index": 194
+    "_facility_index": 194,
+    "_survey_notes": "秋田県由利本荘市。ナイスアリーナでPB活動。面数不明。"
+  },
+  {
+    "court_type": "インドア",
+    "number_of_courts": 2,
+    "surface_type": "体育館床（ヘリンボーンパターン）",
+    "line_visibility": "他競技混在(見にくい)",
+    "net_type": "ポータブル等",
+    "has_ac": 0,
+    "lighting_type": "屋内照明",
+    "_facility_name": "indoor sports park SUNBOW",
+    "_facility_index": 195,
+    "_survey_notes": "秋田県大仙市。PB専用インドアコート。冷暖房完備。Franklinブランド取扱。JPA認定コーディネーター在籍。個人レッスン可。予約制。"
   },
   {
     "court_type": "インドア",
@@ -1572,20 +1705,10 @@
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
-    "lighting_type": "屋内照明",
-    "_facility_name": "indoor sports park SUNBOW",
-    "_facility_index": 195
-  },
-  {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
-    "line_visibility": "他競技混在(見にくい)",
-    "net_type": "ポータブル等",
-    "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "秋田ピックルボールクラブ",
-    "_facility_index": 196
+    "_facility_index": 196,
+    "_survey_notes": "秋田市内の複数市民サービスセンター(センタース/なんぴあ/ウェスター/いーぱる/キタスカ)一や文化創造館で週2-3回活動。"
   },
   {
     "court_type": "インドア",
@@ -1596,7 +1719,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "ピックルボールやまがた",
-    "_facility_index": 197
+    "_facility_index": 197,
+    "_survey_notes": "山形県。各施設でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1607,18 +1731,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "もりおかピクルズ",
-    "_facility_index": 198
+    "_facility_index": 198,
+    "_survey_notes": "岩手県盛岡市。地域PBクラブ。各施設で活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ラウンドワンスタジアム福島店",
-    "_facility_index": 199
+    "_facility_index": 199,
+    "_survey_notes": "福島県福島市。スポッチャ内PB1面。パドル・ボール無料レンタル。"
   },
   {
     "court_type": "インドア",
@@ -1629,7 +1755,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "青森市総合体育館",
-    "_facility_index": 200
+    "_facility_index": 200,
+    "_survey_notes": "青森県青森市。総合体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1640,18 +1767,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "リバティテニスクラブ (Liberty Tennis Club)",
-    "_facility_index": 201
+    "_facility_index": 201,
+    "_survey_notes": "テニスクラブ内でPB活動可能。面数不明。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
-    "surface_type": "体育館床(木製)",
+    "number_of_courts": 4,
+    "surface_type": "ソフトコート(Cコート)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "ピヴォーレ福岡 (Pivole FUKUOKA)",
-    "_facility_index": 209
+    "_facility_index": 209,
+    "_survey_notes": "福岡市。九州初インドアPBコート。2025年6月完成。ソフトコート最大4面。"
   },
   {
     "court_type": "アウトドア",
@@ -1665,7 +1794,7 @@
     "_facility_index": 210
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -1739,7 +1868,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "根体育館（佐賀ピックルボールクラブ拠点）",
-    "_facility_index": 217
+    "_facility_index": 217,
+    "_survey_notes": "佐賀県。佐賀PBクラブの活動拠点。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1750,7 +1880,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "多久市体育センター・北多久社会体育館",
-    "_facility_index": 218
+    "_facility_index": 218,
+    "_survey_notes": "佐賀県多久市。体育センター/社会体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1761,18 +1892,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "佐賀勤労者体育センター",
-    "_facility_index": 219
+    "_facility_index": 219,
+    "_survey_notes": "佐賀県佐賀市。勤労者体育センターでPB活動。面数不明。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "number_of_courts": 5,
+    "surface_type": "アウトドアハードコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "長崎スタジアムシティ ピックルボールコート",
-    "_facility_index": 220
+    "_facility_index": 220,
+    "_survey_notes": "長崎市。HAPPINESS ARENA隣接クラブハウス屋上5面。2025年7月オープン。平日500円/土日祝800円/1h。パドル・ボールレンタル完備。"
   },
   {
     "court_type": "インドア",
@@ -1783,7 +1916,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "長崎市民体育館",
-    "_facility_index": 221
+    "_facility_index": 221,
+    "_survey_notes": "長崎県長崎市。市民体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1794,7 +1928,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東公園コミュニティ体育館",
-    "_facility_index": 222
+    "_facility_index": 222,
+    "_survey_notes": "長崎県長崎市。コミュニティ体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1805,29 +1940,32 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "佐世保市体育文化館",
-    "_facility_index": 223
+    "_facility_index": 223,
+    "_survey_notes": "長崎県佐世保市。体育文化館でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "インドア",
+    "number_of_courts": 1,
+    "surface_type": "バドミントンコート改装",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ピックルボールくまもと",
-    "_facility_index": 224
+    "_facility_index": 224,
+    "_survey_notes": "宇城市。元バドコート改装の屋内PB専用1面。500円/h。パドル・ボール多数備え付け。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "アウトドア",
+    "number_of_courts": 2,
+    "surface_type": "PB専用サーフェス（東亜道路工業施工・COSMOSカラー）",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "COSMOS【熊本県フットボールセンター】",
-    "_facility_index": 225
+    "_facility_index": 225,
+    "_survey_notes": "熊本県上益城郡嘉島町。2025年10月完成。PB専用コート2面。COSMOSロゴカラーの特別色調仕上げ。2025年11月3日に体験イベント開催。"
   },
   {
     "court_type": "インドア",
@@ -1904,7 +2042,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "宮崎市住吉スポーツクラブ",
-    "_facility_index": 232
+    "_facility_index": 232,
+    "_survey_notes": "宮崎県宮崎市。スポーツクラブでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1915,10 +2054,11 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "鹿児島市民体育館",
-    "_facility_index": 233
+    "_facility_index": 233,
+    "_survey_notes": "鹿児島県鹿児島市。市民体育館でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -1926,7 +2066,8 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "サングリーンテニススクール",
-    "_facility_index": 234
+    "_facility_index": 234,
+    "_survey_notes": "鹿児島市。PBレンタルコート提供。スクール生20分550円。テニス/バド/卓球/フットサル等も提供。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1937,7 +2078,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "沖縄県総合運動公園体育館メインアリーナ",
-    "_facility_index": 235
+    "_facility_index": 235,
+    "_survey_notes": "沖縄県沖縄市。メインアリーナでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1948,7 +2090,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "宜野湾市体育館",
-    "_facility_index": 236
+    "_facility_index": 236,
+    "_survey_notes": "沖縄県宜野湾市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1959,7 +2102,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "東風平体育館",
-    "_facility_index": 237
+    "_facility_index": 237,
+    "_survey_notes": "沖縄県八重瀬町。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1970,7 +2114,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "浦添市民体育館",
-    "_facility_index": 238
+    "_facility_index": 238,
+    "_survey_notes": "沖縄県浦添市。市民体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -1981,21 +2126,23 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "21世紀の森体育館",
-    "_facility_index": 239
+    "_facility_index": 239,
+    "_survey_notes": "沖縄県名護市。体育館でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ラウンドワンスタジアム城山店",
-    "_facility_index": 240
+    "_facility_index": 240,
+    "_survey_notes": "鹿児島県鹿児島市。スポッチャ内PB1面。パドル・ボール無料レンタル。"
   },
   {
-    "court_type": "不明",
+    "court_type": "アウトドア",
     "number_of_courts": null,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
@@ -2003,7 +2150,8 @@
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "NBテニスガーデン",
-    "_facility_index": 249
+    "_facility_index": 249,
+    "_survey_notes": "広島県。PBレンタルコート提供あり。具体的面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2014,7 +2162,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "五日市公民館",
-    "_facility_index": 250
+    "_facility_index": 250,
+    "_survey_notes": "広島県広島市佐伯区。公民館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2025,7 +2174,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "呉市内公共施設",
-    "_facility_index": 251
+    "_facility_index": 251,
+    "_survey_notes": "広島県呉市。公共施設でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2036,7 +2186,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "倉敷体育館",
-    "_facility_index": 252
+    "_facility_index": 252,
+    "_survey_notes": "岡山県倉敷市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2047,7 +2198,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "倉敷運動公園ウエイトリフティング場",
-    "_facility_index": 253
+    "_facility_index": 253,
+    "_survey_notes": "岡山県倉敷市。PB活動場所。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2058,7 +2210,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "水島体育館",
-    "_facility_index": 254
+    "_facility_index": 254,
+    "_survey_notes": "岡山県倉敷市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2069,7 +2222,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "玉島の森",
-    "_facility_index": 255
+    "_facility_index": 255,
+    "_survey_notes": "岡山県倉敷市。施設内でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2080,7 +2234,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "山口ピックルボールクラブ（YPC）拠点各施設",
-    "_facility_index": 256
+    "_facility_index": 256,
+    "_survey_notes": "山口県。YPCが複数施設で活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2091,7 +2246,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "新南陽体育センター",
-    "_facility_index": 257
+    "_facility_index": 257,
+    "_survey_notes": "山口県周南市。体育センターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2102,7 +2258,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "美東小学校体育館",
-    "_facility_index": 258
+    "_facility_index": 258,
+    "_survey_notes": "山口県美祢市。小学校体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2113,18 +2270,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "須恵健康公園体育館",
-    "_facility_index": 259
+    "_facility_index": 259,
+    "_survey_notes": "福岡県須恵町。健康公園体育館でPB活動。面数不明。"
   },
   {
     "court_type": "アウトドア",
-    "number_of_courts": null,
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "ふくいテニスクラブ",
-    "_facility_index": 260
+    "_facility_index": 260,
+    "_survey_notes": "福井県福井市。テニスクラブ内PBコート1面。"
   },
   {
     "court_type": "インドア",
@@ -2135,7 +2294,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "玉湯体育館（松江PB同好会拠点）",
-    "_facility_index": 261
+    "_facility_index": 261,
+    "_survey_notes": "島根県松江市。松江PB同好会の活動拠点。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2146,7 +2306,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "島根県立はつらつ体育館",
-    "_facility_index": 262
+    "_facility_index": 262,
+    "_survey_notes": "島根県松江市。県立体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2157,7 +2318,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "安来市立飯梨小学校体育館",
-    "_facility_index": 263
+    "_facility_index": 263,
+    "_survey_notes": "島根県安来市。小学校体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2168,7 +2330,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "鳥取市民体育館",
-    "_facility_index": 264
+    "_facility_index": 264,
+    "_survey_notes": "鳥取県鳥取市。市民体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2179,7 +2342,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "米子市内体育館",
-    "_facility_index": 265
+    "_facility_index": 265,
+    "_survey_notes": "鳥取県米子市。市内体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2190,7 +2354,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "牟礼中央公園運動センター体育館",
-    "_facility_index": 266
+    "_facility_index": 266,
+    "_survey_notes": "香川県高松市。運動センター体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2201,29 +2366,32 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "高松市仏生山公園体育館",
-    "_facility_index": 267
+    "_facility_index": 267,
+    "_survey_notes": "香川県高松市。バドコート6面転用でPB可。NPO法人カマタマーレがPB体験会・交流大会を定期開催。貸出ラケットあり。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "自遊空間 丸亀川西店",
-    "_facility_index": 268
+    "_facility_index": 268,
+    "_survey_notes": "香川県丸亀市。専用屋内コート1面。パドル・ボールレンタルあり。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "瀬戸内リゾート ベッセルおおち",
-    "_facility_index": 269
+    "_facility_index": 269,
+    "_survey_notes": "香川県東かがわ市。屋内プレイ可。レンタルセット(ラケット4本+ボール+ラインマーカー)1,000円/50分。1面。"
   },
   {
     "court_type": "インドア",
@@ -2234,18 +2402,20 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "高松市香南体育館",
-    "_facility_index": 270
+    "_facility_index": 270,
+    "_survey_notes": "香川県高松市。体育館でPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "ハードコートまたは人工芝",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "NFL末広体育館",
-    "_facility_index": 271
+    "_facility_index": 271,
+    "_survey_notes": "徳島県徳島市。PBコート1h 1,650円。スクール(小学生/中高生/大人)・ゲームサークルあり。パドル等貸出あり。1面。"
   },
   {
     "court_type": "インドア",
@@ -2256,29 +2426,32 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "羽ノ浦スポーツセンター",
-    "_facility_index": 272
+    "_facility_index": 272,
+    "_survey_notes": "徳島県阿南市。スポーツセンターでPB活動。面数不明。"
   },
   {
-    "court_type": "不明",
-    "number_of_courts": null,
-    "surface_type": "ハードコートまたは人工芝",
+    "court_type": "アウトドア",
+    "number_of_courts": 2,
+    "surface_type": "ニッケ・カーペットコート",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": null,
     "_facility_name": "テニスアリーナガーデン住吉",
-    "_facility_index": 273
+    "_facility_index": 273,
+    "_survey_notes": "徳島県徳島市。住吉Aコートに2面分。インドアテニススクール内。PBスクール開講中。"
   },
   {
     "court_type": "インドア",
-    "number_of_courts": null,
+    "number_of_courts": 4,
     "surface_type": "体育館床(木製)",
     "line_visibility": "他競技混在(見にくい)",
     "net_type": "ポータブル等",
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "愛媛県総合運動公園体育館",
-    "_facility_index": 274
+    "_facility_index": 274,
+    "_survey_notes": "愛媛県松前町。メインアリーナ1/3面でPB4面/補助体育館1/2面でPB3面。イベント時は8面設営可能。PB利用目的として明記された体育館。練習会・大会の開催実績あり。"
   },
   {
     "court_type": "インドア",
@@ -2289,7 +2462,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "今治中央体育館",
-    "_facility_index": 275
+    "_facility_index": 275,
+    "_survey_notes": "愛媛県今治市。体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2300,7 +2474,8 @@
     "has_ac": 0,
     "lighting_type": "屋内照明",
     "_facility_name": "高知市東部体育センター",
-    "_facility_index": 276
+    "_facility_index": 276,
+    "_survey_notes": "高知県高知市。体育センターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2309,7 +2484,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "ふくいテニスクラブ",
-    "_facility_index": 277
+    "_facility_index": 277,
+    "_survey_notes": "福井県福井市。テニスクラブ内PBコート1面。"
   },
   {
     "court_type": "インドア",
@@ -2318,7 +2494,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "新南陽体育センター",
-    "_facility_index": 278
+    "_facility_index": 278,
+    "_survey_notes": "山口県周南市。体育センターでPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2327,7 +2504,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "美東小学校体育館",
-    "_facility_index": 279
+    "_facility_index": 279,
+    "_survey_notes": "山口県美祢市。小学校体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",
@@ -2336,7 +2514,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "須恵健康公園体育館",
-    "_facility_index": 280
+    "_facility_index": 280,
+    "_survey_notes": "福岡県須恵町。健康公園体育館でPB活動。面数不明。"
   },
   {
     "court_type": "インドア",

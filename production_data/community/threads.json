@@ -1,53 +1,92 @@
 [
   {
     "id": "thread_recruit_kanto_01",
-    "author": "Pickle_Novice",
-    "date": "2026-03-01T10:00:00Z",
-    "category": "メンバー募集",
+    "category": "partner_search",
+    "author_id": "user_pickle_novice",
     "title": "【東京・千葉】週末に練習できる初心者メンバー募集！",
     "content": "最近テニスからピックルボールに転向しました！週末に台東区や市川市周辺の体育館を借りて練習するメンバーを募集しています（現在3人）。20代〜40代で楽しくやりたいです。",
-    "responses": 2,
-    "status": "募集中"
+    "status": "open",
+    "created_at": "2026-03-01T10:00:00Z"
   },
   {
     "id": "thread_gear_giveaway_01",
-    "author": "Gear_Junkie",
-    "date": "2026-03-02T15:30:00Z",
-    "category": "ギア譲渡・交換",
+    "category": "gear_qa",
+    "author_id": "user_gear_junkie",
     "title": "Joola Perseus 16mm をお譲りします（または14mmと交換）",
     "content": "1ヶ月ほど使用しましたが、少しパワーが抑えめのパドルに移行したいためお譲り先を探しています。16mmですがかなり飛びます。状態は良好です。直接手渡しか、CRBN 1Xの14mmとの交換も歓迎です！",
-    "responses": 5,
-    "status": "交渉中"
+    "status": "open",
+    "created_at": "2026-03-02T15:30:00Z"
   },
   {
     "id": "thread_qna_court_reservation",
-    "author": "Shonan_Player",
-    "date": "2026-03-03T09:15:00Z",
-    "category": "質問・相談",
+    "category": "facility_match",
+    "author_id": "user_shonan_player",
     "title": "神奈川県のコート予約について（抽選突破のコツ）",
     "content": "最近、横浜や川崎の体育館でピックルボールのコートを取ろうとしても抽選でほぼ外れてしまいます。KPI PARKなどは少し高いので公営を狙っているのですが、何か予約のコツなどありますでしょうか？",
-    "responses": 3,
-    "status": "受付中"
+    "status": "open",
+    "created_at": "2026-03-03T09:15:00Z"
   },
   {
     "id": "thread_001",
     "category": "rule_qa",
+    "author_id": "user_demo_beginner",
     "title": "NVZ（キッチン）ラインを踏んでボレーしてしまった場合",
     "content": "初心者です。勢い余ってボレーを打った後にキッチンラインを踏んでしまったのですが、これはフォルトになりますか？",
     "status": "closed",
-    "responses": [
-      {
-        "user_id": "user_demo_001",
-        "content": "はい、フォルトになります。打つ瞬間だけでなく、打ったあとの惰性（モメンタム）でラインに触れたりキッチン内に入ったりした場合もフォルトです。"
-      }
-    ]
+    "created_at": "2026-03-01T08:00:00Z"
   },
   {
     "id": "thread_002",
     "category": "partner_search",
+    "author_id": "user_demo_002",
     "title": "【土日】都内（有明・東陽町）で固定ペア募集！",
     "content": "DUPR3.5前後の30代男性です。ダブルスの固定ペアを探しています。まずは一度練習で合わせてみませんか？",
     "status": "open",
-    "responses": []
+    "created_at": "2026-03-02T10:00:00Z"
+  },
+  {
+    "id": "thread_pbcor_discussion",
+    "category": "rule_qa",
+    "author_id": "user_tournament_player",
+    "title": "【議論】PBCoRパドル規制について - 公平性 vs イノベーションの抑制？",
+    "content": "2025.7からJOOLA PerseusやGearbox Pro Powerが使用禁止になりますが、皆さんどう思いますか？パドル技術のイノベーションを抑制しすぎでは？でも安全性とフェアネスは大切だと思います。",
+    "status": "open",
+    "created_at": "2026-03-03T12:00:00Z"
+  },
+  {
+    "id": "thread_rally_scoring_opinion",
+    "category": "rule_qa",
+    "author_id": "user_strategy_lover",
+    "title": "ラリースコアリングとフリーズルール廃止、賛成？反対？",
+    "content": "2026年からフリーズルールが廃止されるそうですが、ラリースコアリング自体の導入についてどう思いますか？試合がテンポよくなって良い反面、サイドアウトの戦略性が失われるという意見もありますね。",
+    "status": "open",
+    "created_at": "2026-03-03T14:30:00Z"
+  },
+  {
+    "id": "thread_tennis_court_conversion",
+    "category": "facility_match",
+    "author_id": "user_tennis_convert",
+    "title": "テニスコートをピックルボールに転用する際の注意点",
+    "content": "テニスクラブでピックルボールを始めたいのですが、テニスコート1面からPBコート何面取れますか？仮設ラインの引き方やネットの高さ調整について経験がある方、教えてください！",
+    "status": "open",
+    "created_at": "2026-03-03T16:00:00Z"
+  },
+  {
+    "id": "thread_brisbane_2032",
+    "category": "rule_qa",
+    "author_id": "user_olympic_dreamer",
+    "title": "2032ブリスベン五輪でピックルボールは正式種目になるか？",
+    "content": "JPA/PJFが統合して2032年ブリスベン五輪を目指すというニュースを見ました。テニスや卓球との違いをIOCにどうアピールするのか、日本から五輪選手は出せるのか、皆さんの意見を聞きたいです！",
+    "status": "open",
+    "created_at": "2026-03-03T18:00:00Z"
+  },
+  {
+    "id": "thread_beginner_paddle_budget",
+    "category": "gear_qa",
+    "author_id": "user_new_to_pb",
+    "title": "【初心者】予算1〜2万円でおすすめのパドルは？",
+    "content": "テニス経験ありの初心者です。最初のパドルを買おうと思っていますが、種類が多すぎて迷います。予算1〜2万円で初心者に向いているパドルのおすすめがあれば教えてください。16mmと14mmの違いも知りたいです。",
+    "status": "open",
+    "created_at": "2026-03-03T20:00:00Z"
   }
 ]
