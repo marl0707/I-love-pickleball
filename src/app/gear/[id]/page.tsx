@@ -129,13 +129,13 @@ export default async function GearDetailPage({ params }: PageProps) {
                         {/* スペック表 */}
                         <section className="mb-16">
                             <h2 className="text-xl font-bold text-gray-900 border-b border-gray-200 pb-3 mb-6">基本スペック</h2>
-                            <div className="bg-white border text-sm border-gray-200 rounded-lg overflow-hidden">
+                            <div className="responsive-table bg-white border text-sm border-gray-200 rounded-lg overflow-hidden">
                                 <table className="w-full text-left">
                                     <tbody className="divide-y divide-gray-200">
                                         {specs.map((spec, index) => (
                                             <tr key={index} className="hover:bg-gray-50 transition-colors">
-                                                <th className="px-6 py-4 font-medium text-gray-600 w-1/3 bg-gray-50/50">{spec.label}</th>
-                                                <td className="px-6 py-4 text-gray-800 font-bold">{spec.value}</td>
+                                                <th className="px-6 py-4 font-medium text-gray-600 w-1/3 bg-gray-50/50" data-label="項目">{spec.label}</th>
+                                                <td className="px-6 py-4 text-gray-800 font-bold" data-label="スペック">{spec.value}</td>
                                             </tr>
                                         ))}
                                     </tbody>

@@ -197,7 +197,7 @@ export default async function FacilityDetailPage({ params }: PageProps) {
                         {/* 営業時間テーブル */}
                         <section>
                             <h2 className="text-xl font-bold text-gray-900 border-b border-gray-200 pb-3 mb-6">営業時間</h2>
-                            <div className="bg-white border text-sm border-gray-200 rounded-lg overflow-hidden">
+                            <div className="responsive-table bg-white border text-sm border-gray-200 rounded-lg overflow-hidden">
                                 <table className="w-full text-left">
                                     <tbody className="divide-y divide-gray-200">
                                         {[
@@ -210,8 +210,8 @@ export default async function FacilityDetailPage({ params }: PageProps) {
                                             { d: '日/祝日', t: facility.hoursSun },
                                         ].map(row => (
                                             <tr key={row.d} className="hover:bg-gray-50 transition-colors">
-                                                <th className="px-6 py-4 font-medium text-gray-600 w-1/3 bg-gray-50/50">{row.d}</th>
-                                                <td className="px-6 py-4 text-gray-800 font-bold">{row.t || '定休日 / 情報なし'}</td>
+                                                <th className="px-6 py-4 font-medium text-gray-600 w-1/3 bg-gray-50/50" data-label="曜日">{row.d}</th>
+                                                <td className="px-6 py-4 text-gray-800 font-bold" data-label="営業時間">{row.t || '定休日 / 情報なし'}</td>
                                             </tr>
                                         ))}
                                     </tbody>

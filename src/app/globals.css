@@ -73,19 +73,113 @@ a {
 ::-webkit-scrollbar {
   width: 4px;
 }
+
 ::-webkit-scrollbar-track {
   background: #FAFAFA;
 }
+
 ::-webkit-scrollbar-thumb {
   background: #999;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: #666;
 }
+
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
 .hide-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+/* ============================================================
+   レスポンシブテーブル — モバイルではカード型レイアウトに変換
+   ============================================================ */
+@media (max-width: 768px) {
+  .responsive-table table {
+    display: block;
+  }
+
+  .responsive-table thead {
+    display: none;
+  }
+
+  .responsive-table tbody {
+    display: block;
+  }
+
+  .responsive-table tr {
+    display: block;
+    margin-bottom: 0.75rem;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background: #fff;
+  }
+
+  .responsive-table td,
+  .responsive-table th {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0.4rem 0;
+    border: none;
+    text-align: right;
+    width: 100% !important;
+    background: transparent !important;
+  }
+
+  .responsive-table td::before,
+  .responsive-table th::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: #6b7280;
+    text-align: left;
+    flex-shrink: 0;
+    margin-right: 1rem;
+    font-size: 0.8rem;
+  }
+
+  /* prose 内テーブルのレスポンシブ対応 */
+  .prose table {
+    display: block;
+  }
+
+  .prose thead {
+    display: none;
+  }
+
+  .prose tbody {
+    display: block;
+  }
+
+  .prose tr {
+    display: block;
+    margin-bottom: 0.75rem;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background: #fff;
+  }
+
+  .prose td,
+  .prose th {
+    display: block;
+    padding: 0.25rem 0;
+    border: none;
+    text-align: left;
+  }
+
+  .prose td::before,
+  .prose th::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: #6b7280;
+    display: block;
+    font-size: 0.75rem;
+    margin-bottom: 0.15rem;
+  }
 }
