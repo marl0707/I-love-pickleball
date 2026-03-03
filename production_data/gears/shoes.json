@@ -17,7 +17,8 @@
     "midsole": "Matryx+",
     "weight_grams": 380,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Jet%20Mach%203%20All%20Court%20pickleball",
-    "price_usd": 159
+    "price_usd": 110,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_skechers_viper_court",
@@ -38,8 +39,9 @@
     "midsole": "ULTRA FLIGHT® Cushioning",
     "fit": "Relaxed Fit®",
     "weight_grams": 375,
-    "price_usd": 109.95,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Pro%20pickleball"
+    "price_usd": 93.33,
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Pro%20pickleball",
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_k_swiss_express_light",
@@ -60,9 +62,10 @@
     "midsole": "K-EVA Cushioning",
     "insole": "Ortholite Liner",
     "stability": "Thermal Plastic Plantar Support Chassis (180° protection)",
-    "price_usd": 110,
+    "price_usd": 85.33,
     "weight_grams": 340,
-    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Express%20Light%20Pickleball%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Express%20Light%20Pickleball%20pickleball",
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_asics_gel_resolution_9",
@@ -85,7 +88,8 @@
     "weight_grams": 420,
     "product_url": "https://www.asics.com/us/en-us/gel-resolution-9/p/1041A330.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20GEL-RESOLUTION%209%20pickleball",
-    "price_usd": 119.95
+    "price_usd": 117.33,
+    "price_tier": "プレミアム"
   },
   {
     "id": "babolat-sfx3",
@@ -107,7 +111,9 @@
     "outsole": "Michelin Outdoor Compound",
     "midsole": "EVA + Ortholite X40",
     "weight_grams": 370,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20SFX3%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20SFX3%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_01",
@@ -130,7 +136,8 @@
     "dragguard": true,
     "weight_grams": 340,
     "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Express%20Light%203%20pickleball",
-    "price_usd": 104.95
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_02",
@@ -150,7 +157,8 @@
     "dragguard": true,
     "weight_grams": 366,
     "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Speedex%20pickleball",
-    "price_usd": 89.95
+    "price_usd": 106.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_03",
@@ -170,8 +178,9 @@
     "insole": "Removable Molded EVA Sockliner",
     "stability": "TPU Midfoot Stabilizer + Molded Forefoot Cage",
     "weight_grams": 391,
-    "price_usd": 110,
-    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Volley%20Zone%20pickleball"
+    "price_usd": 73.33,
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Volley%20Zone%20pickleball",
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_04",
@@ -191,7 +200,8 @@
     "midsole": "EVA Cushioning",
     "weight_grams": 360,
     "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Double%20Bounce%203%20pickleball",
-    "price_usd": 69.99
+    "price_usd": 80,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_06",
@@ -211,7 +221,8 @@
     "insole": "Arch Fit® (Podiatrist-certified)",
     "weight_grams": 320,
     "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Luxe%20pickleball",
-    "price_usd": 99.99
+    "price_usd": 120,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_07",
@@ -233,7 +244,8 @@
     "weight_grams": 350,
     "product_url": "https://www.asics.com/us/en-us/gel-renma/p/1041A373.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Renma%20pickleball",
-    "price_usd": 79.95
+    "price_usd": 86.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_08",
@@ -254,7 +266,8 @@
     "gel": "GEL® Technology (Rear)",
     "weight_grams": 340,
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Dedicate%209%20pickleball",
-    "price_usd": 69.95
+    "price_usd": 73.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_09",
@@ -277,7 +290,8 @@
     "weight_grams": 410,
     "product_url": "https://www.asics.com/us/en-us/gel-resolution-10/p/1041A502.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Resolution%2010%20pickleball",
-    "price_usd": 139.95
+    "price_usd": 146.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_10",
@@ -296,7 +310,8 @@
     "midsole": "EVA Cushioning",
     "weight_grams": 355,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Pulsion%20Pickleball%20pickleball",
-    "price_usd": 89
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_11",
@@ -317,7 +332,8 @@
     "features": "Matryx® upper (Kevlar + Polyamide weave)",
     "weight_grams": 365,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Jet%20Tere%20AC%20pickleball",
-    "price_usd": 149
+    "price_usd": 126.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_12",
@@ -338,7 +354,8 @@
     "midsole": "Fresh Foam X Cushioning",
     "weight_grams": 380,
     "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20Fresh%20Foam%20X%20Lav%20v2%20pickleball",
-    "price_usd": 139.99
+    "price_usd": 133.33,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_13",
@@ -358,7 +375,8 @@
     "stability": "TPU Midfoot Shank",
     "weight_grams": 360,
     "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20FuelCell%20996v5.5%20pickleball",
-    "price_usd": 134.99
+    "price_usd": 146.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_14",
@@ -380,7 +398,8 @@
     "weight_grams": 340,
     "product_url": "https://www.nike.com/t/court-air-zoom-vapor-pro-2-mens-tennis-shoes/DR6191",
     "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Air%20Zoom%20Vapor%20Pro%202%20pickleball",
-    "price_usd": 120
+    "price_usd": 140,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_15",
@@ -400,7 +419,8 @@
     "weight_grams": 310,
     "product_url": "https://www.nike.com/t/court-lite-4-mens-tennis-shoes/FD6574",
     "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Lite%204%20pickleball",
-    "price_usd": 65
+    "price_usd": 80,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_16",
@@ -422,7 +442,8 @@
     "weight_grams": 400,
     "product_url": "https://www.adidas.com/us/solematch-control-2-tennis-shoes/IF0438.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20SoleMatch%20Control%202%20pickleball",
-    "price_usd": 139
+    "price_usd": 126.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_17",
@@ -443,7 +464,8 @@
     "weight_grams": 419,
     "product_url": "https://www.adidas.com/us/barricade-16-tennis-shoes/ID1548.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20Barricade%2016%20pickleball",
-    "price_usd": 159
+    "price_usd": 160,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_18",
@@ -464,7 +486,8 @@
     "weight_grams": 360,
     "product_url": "https://www.head.com/en_US/sprint-pro-35-tennis-shoes.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Sprint%20Pro%203.5%20pickleball",
-    "price_usd": 139.95
+    "price_usd": 113.33,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_19",
@@ -486,7 +509,8 @@
     "weight_grams": 370,
     "product_url": "https://www.wilson.com/en-us/product/rush-pro-4-0-wrs332040",
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Rush%20Pro%204.0%20pickleball",
-    "price_usd": 139
+    "price_usd": 120,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_20",
@@ -508,7 +532,8 @@
     "weight_grams": 310,
     "product_url": "https://www.yonex.com/power-cushion-fusionrev5",
     "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20Power%20Cushion%20Fusionrev%205%20pickleball",
-    "price_usd": 119
+    "price_usd": 100,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_21",
@@ -527,7 +552,8 @@
     "midsole": "POWER CUSHION™",
     "weight_grams": 295,
     "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20Power%20Cushion%20Sonicage%203%20pickleball",
-    "price_usd": 99
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_22",
@@ -545,7 +571,9 @@
     "outsole": "Rubber (Herringbone)",
     "midsole": "EVA Cushioning",
     "weight_grams": 365,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lotto%20Mirage%20600%20II%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lotto%20Mirage%20600%20II%20pickleball",
+    "price_usd": 106.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_23",
@@ -564,7 +592,9 @@
     "midsole": "Mizuno ENERZY Cushioning",
     "stability": "Mizuno Wave Plate",
     "weight_grams": 305,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Wave%20Exceed%20Light%203%20AC%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Wave%20Exceed%20Light%203%20AC%20pickleball",
+    "price_usd": 113.33,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_24",
@@ -582,7 +612,9 @@
     "outsole": "Rubber (Non-Marking)",
     "midsole": "EVA",
     "weight_grams": 310,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Break%20Shot%205%20AC%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Break%20Shot%205%20AC%20pickleball",
+    "price_usd": 73.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_25",
@@ -600,7 +632,9 @@
     "outsole": "Rubber (Blushield Technology)",
     "midsole": "EVA + Duratech 5000",
     "weight_grams": 385,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Diadora%20Speed%20Blushield%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadora%20Speed%20Blushield%20pickleball",
+    "price_usd": 120,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_26",
@@ -617,7 +651,9 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prince%20PR%20Court%20Ace",
     "outsole": "Rubber (Non-Marking)",
     "weight_grams": 340,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20PR%20Court%20Ace%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20PR%20Court%20Ace%20pickleball",
+    "price_usd": 80,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_27",
@@ -637,7 +673,8 @@
     "stability": "TPU Midfoot Shank",
     "weight_grams": 425,
     "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Axilus%203%20Energized%20pickleball",
-    "price_usd": 119
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_28",
@@ -656,7 +693,9 @@
     "outsole": "Goodyear® Rubber",
     "midsole": "ULTRA GO® Foam",
     "weight_grams": 300,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Casual%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Casual%20pickleball",
+    "price_usd": 66.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "shoe_29",
@@ -675,7 +714,9 @@
     "midsole": "BOUNCE Cushioning",
     "features": "Laceless Design",
     "weight_grams": 380,
-    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20Stycon%20Pickleball%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20Stycon%20Pickleball%20pickleball",
+    "price_usd": 100,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_30",
@@ -693,7 +734,9 @@
     "outsole": "Rubber (Herringbone)",
     "midsole": "UA HOVR™ Cushioning",
     "weight_grams": 360,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Under%20Armour%20HOVR%20Court%20Ace%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Under%20Armour%20HOVR%20Court%20Ace%20pickleball",
+    "price_usd": 106.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "shoe_tyrol_drive_v",
@@ -712,7 +755,9 @@
     "price": null,
     "weight_grams": 370,
     "product_url": "https://tyrolpickleball.com/products/drive-v",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Tyrol%20Drive-V%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Tyrol%20Drive-V%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_acacia_tyler",
@@ -729,7 +774,9 @@
     "yahoo_url": null,
     "price": null,
     "weight_grams": 330,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Acacia%20Tyler%20Signature%20Edition%20Pro%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Acacia%20Tyler%20Signature%20Edition%20Pro%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_diadem_court_burst",
@@ -745,7 +792,9 @@
     "yahoo_url": null,
     "price": null,
     "weight_grams": 350,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Court%20Burst%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Court%20Burst%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_selkirk_courtstrike",
@@ -763,7 +812,8 @@
     "weight_grams": 360,
     "product_url": "https://www.selkirk.com/products/courtstrike-pro",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20CourtStrike%20Pro%20pickleball",
-    "price_usd": 149.99
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_head_motion_pro",
@@ -790,7 +840,8 @@
     "price": null,
     "product_url": "https://www.head.com/en_US/motion-pro-shoe.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Motion%20Pro%20Pickleball%20Shoe%20pickleball",
-    "price_usd": 129.95
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_mizuno_wave_enforce2",
@@ -816,7 +867,8 @@
     "price": null,
     "product_url": "https://www.mizuno.com/us/wave-enforce-tour-2-ac.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20Wave%20Enforce%20Tour%202%20pickleball",
-    "price_usd": 129.95
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "shoe_nb_fuelcell_996v6",
@@ -843,6 +895,7 @@
     "price": null,
     "product_url": "https://www.newbalance.com/pd/fuelcell-996v6/MCH996V6-D.html",
     "image_url": "https://www.google.com/search?tbm=isch&q=New%20Balance%20FuelCell%20996v6%20pickleball",
-    "price_usd": 134.99
+    "price_usd": null,
+    "price_tier": "不明"
   }
 ]

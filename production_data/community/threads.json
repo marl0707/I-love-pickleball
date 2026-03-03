@@ -88,5 +88,50 @@
     "content": "テニス経験ありの初心者です。最初のパドルを買おうと思っていますが、種類が多すぎて迷います。予算1〜2万円で初心者に向いているパドルのおすすめがあれば教えてください。16mmと14mmの違いも知りたいです。",
     "status": "open",
     "created_at": "2026-03-03T20:00:00Z"
+  },
+  {
+    "id": "thread_pbcor_debate",
+    "category": "gear_qa",
+    "author_id": "user_tournament_player",
+    "title": "【PBCoR規制】禁止パドルリスト更新。皆さんのパドル大丈夫ですか？",
+    "content": "2025年のPBCoR規制でJOOLA GenシリーズやSelkirk Powerが禁止に。自分の愛用パドルが使えなくなった方、代替は何にしましたか？CRBN TruFoamやSelkirk Labs 007はセーフみたいですが実際どうですか？",
+    "status": "open",
+    "created_at": "2026-03-04T08:00:00Z"
+  },
+  {
+    "id": "thread_doubles_partner_osaka",
+    "category": "partner_search",
+    "author_id": "user_osaka_pb_club",
+    "title": "【大阪・兵庫】ダブルスパートナー募集（DUPR 3.5以上）",
+    "content": "大阪市内で毎週火・木の夜に練習しています。4月の関西大会に向けてダブルスパートナーを探しています。DUPR 3.5以上の方、一度練習してみませんか？場所は主に舞洲や鶴見緑地です。",
+    "status": "open",
+    "created_at": "2026-03-04T10:30:00Z"
+  },
+  {
+    "id": "thread_rally_scoring_debate",
+    "category": "gear_qa",
+    "author_id": "user_rule_nerd",
+    "title": "ラリースコアリング導入、賛成？反対？",
+    "content": "2025年ルールでラウンドロビンにラリースコアリングが暫定導入されました。テレビ放映向きだし試合時間短縮にもなりますが、「サーブ権の価値が下がる」「戦略性が減る」という意見も。皆さんはどう思いますか？",
+    "status": "open",
+    "created_at": "2026-03-04T12:00:00Z"
+  },
+  {
+    "id": "thread_senior_knee_care",
+    "category": "gear_qa",
+    "author_id": "user_senior_60",
+    "title": "【50代以上】膝の負担を減らすプレースタイルとギア選び",
+    "content": "60歳でPBを始めて2年。最近膝が痛くなってきました。膝サポーター、インソール、シューズ（クッション重視）でおすすめがあれば教えてください。プレースタイルも「走りすぎない」コツがあれば知りたいです。",
+    "status": "open",
+    "created_at": "2026-03-04T14:15:00Z"
+  },
+  {
+    "id": "thread_shoe_comparison",
+    "category": "gear_qa",
+    "author_id": "user_shoe_maniac",
+    "title": "PBシューズ比較：Skechers Viper Court vs K-Swiss Express vs Babolat Jet",
+    "content": "3足目のPBシューズを購入予定です。Skechers Viper Court Pro、K-Swiss Express Light PB、Babolat Jet Tere PBの3つで迷っています。実際に使っている方、横方向のサポート、クッション、耐久性のバランスを教えてください！",
+    "status": "open",
+    "created_at": "2026-03-04T16:00:00Z"
   }
 ]

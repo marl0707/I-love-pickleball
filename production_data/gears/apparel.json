@@ -18,7 +18,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon+Pace+Rival+Skirt",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon+Pace+Rival+Skirt/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon+Pace+Rival+Skirt",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Pace%20Rival%20Mid-Rise%20Skirt%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Pace%20Rival%20Mid-Rise%20Skirt%20pickleball",
+    "price_usd": 56.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "apparel_nike_court_dri_fit",
@@ -39,7 +41,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=NikeCourt+Dri-FIT+Advantage",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/NikeCourt+Dri-FIT+Advantage/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=NikeCourt+Dri-FIT+Advantage",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20NikeCourt%20Dri-FIT%20Advantage%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20NikeCourt%20Dri-FIT%20Advantage%20pickleball",
+    "price_usd": 40.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "apparel_fila_heritage_polo",
@@ -59,7 +63,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=FILA+Heritage+Polo",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA+Heritage+Polo/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA+Heritage+Polo",
-    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Heritage%20Short%20Sleeve%20Polo%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Heritage%20Short%20Sleeve%20Polo%20pickleball",
+    "price_usd": 50.6,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "gear_apparel_001",
@@ -77,7 +83,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20Heritage%20Pickleball%20Polo",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20Heritage%20Pickleball%20Polo/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20Heritage%20Pickleball%20Polo",
-    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Heritage%20Pickleball%20Polo%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20Heritage%20Pickleball%20Polo%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "gear_apparel_002",
@@ -95,7 +103,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Skechers%20Viper%20Court%20Skort",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Skechers%20Viper%20Court%20Skort/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Skechers%20Viper%20Court%20Skort",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Skort%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Skort%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "gear_bag_001",
@@ -113,7 +123,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Tour%20Elite%20Pickleball%20Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Tour%20Elite%20Pickleball%20Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Tour%20Elite%20Pickleball%20Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pickleball%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pickleball%20Bag%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "ap_01",
@@ -134,7 +146,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20UV%20pickleball",
+    "price_usd": 100,
+    "price_tier": "プレミアム"
   },
   {
     "id": "ap_02",
@@ -155,7 +169,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84%20pickleball",
+    "price_usd": 66.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_03",
@@ -176,7 +192,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Dri-FIT%20%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%AD%20pickleball",
+    "price_usd": 53.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_04",
@@ -197,7 +215,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20%E3%82%B3%E3%83%BC%E3%83%88Dri-FIT%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball",
+    "price_usd": 80,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_05",
@@ -217,7 +237,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20HEAT.RDY%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball",
+    "price_usd": 60,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_06",
@@ -237,7 +259,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9",
-    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=adidas%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%86%E3%83%8B%E3%82%B9%E3%83%89%E3%83%AC%E3%82%B9%20pickleball",
+    "price_usd": 73.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_07",
@@ -256,7 +280,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84T%E3%82%B7%E3%83%A3%E3%83%84%20pickleball",
+    "price_usd": 33.33,
+    "price_tier": "エントリー"
   },
   {
     "id": "ap_08",
@@ -276,7 +302,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE",
-    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=FILA%20%E3%83%97%E3%83%AA%E3%83%BC%E3%83%84%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88DELUXE%20pickleball",
+    "price_usd": 60,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_09",
@@ -298,7 +326,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Under%20Armour%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%842.0%20pickleball",
+    "price_usd": 30,
+    "price_tier": "エントリー"
   },
   {
     "id": "ap_10",
@@ -319,7 +349,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Jofit%20%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball",
+    "price_usd": 86.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_11",
@@ -339,7 +371,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lucky%20In%20Love%20%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball",
+    "price_usd": 73.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_12",
@@ -359,7 +393,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
-    "image_url": "https://www.google.com/search?tbm=isch&q=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=EleVen%20by%20Venus%20Williams%20%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%20pickleball",
+    "price_usd": 60,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_13",
@@ -379,7 +415,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88%20pickleball",
+    "price_usd": 80,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_14",
@@ -398,7 +436,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD",
-    "image_url": "https://www.google.com/search?tbm=isch&q=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=PROKENNEX%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%83%9D%E3%83%AD%20pickleball",
+    "price_usd": 40,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_15",
@@ -419,7 +459,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Dink%20I%20Love%20Pickleball%20Tee",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Dink%20I%20Love%20Pickleball%20Tee/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Dink%20I%20Love%20Pickleball%20Tee",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Dink%20I%20Love%20Pickleball%20Tee%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Dink%20I%20Love%20Pickleball%20Tee%20pickleball",
+    "price_usd": 26.67,
+    "price_tier": "エントリー"
   },
   {
     "id": "ap_16",
@@ -440,7 +482,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Athleta%20%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88%20pickleball",
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_17",
@@ -461,7 +505,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vuori%20%E3%82%AF%E3%83%AA%E3%83%9E%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%84%20pickleball",
+    "price_usd": 60,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_18",
@@ -481,7 +527,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20%E3%82%AF%E3%83%A9%E3%83%9622%20%E3%83%86%E3%83%83%E3%82%AFT%E3%82%B7%E3%83%A3%E3%83%84%20pickleball",
+    "price_usd": 36.67,
+    "price_tier": "エントリー"
   },
   {
     "id": "ap_19",
@@ -501,7 +549,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Sofibella%20UV%20%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%20pickleball",
+    "price_usd": 53.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_20",
@@ -523,7 +573,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Uniqlo%20%E3%83%89%E3%83%A9%E3%82%A4EX%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball",
+    "price_usd": 19.93,
+    "price_tier": "エントリー"
   },
   {
     "id": "ap_21",
@@ -545,7 +597,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Uniqlo%20%E3%82%A8%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0UV%E3%82%AB%E3%83%83%E3%83%88%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%91%E3%83%BC%E3%82%AB%20pickleball",
+    "price_usd": 26.6,
+    "price_tier": "エントリー"
   },
   {
     "id": "ap_22",
@@ -564,7 +618,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20%E3%83%98%E3%83%AA%E3%83%86%E3%83%BC%E3%82%B8%20%E3%83%9D%E3%83%AD%E3%82%B7%E3%83%A3%E3%83%84%20pickleball",
+    "price_usd": 46.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_23",
@@ -584,7 +640,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Play%20%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%91%E3%83%B3%E3%83%84%20pickleball",
+    "price_usd": 40,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_24",
@@ -605,7 +663,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Yonex%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%84%20pickleball",
+    "price_usd": 50,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "ap_25",
@@ -624,7 +684,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Mizuno%20%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%83%84%20pickleball",
+    "price_usd": 33.33,
+    "price_tier": "エントリー"
   },
   {
     "id": "apparel_joola_propel_crew",
@@ -646,7 +708,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Propel%20Crewneck%20Shirt%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Propel%20Crewneck%20Shirt%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_selkirk_perf_shorts",
@@ -672,7 +736,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%209%22%20Performance%20Shorts%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%209%22%20Performance%20Shorts%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_selkirk_dress",
@@ -693,7 +759,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Pickleball%20Dress%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Pickleball%20Dress%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_lulu_pace_breaker",
@@ -716,7 +784,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Pace%20Breaker%20Lined%20Short%207%22%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Pace%20Breaker%20Lined%20Short%207%22%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_lulu_metal_vent",
@@ -738,7 +808,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Metal%20Vent%20Tech%20Short-Sleeve%20Shirt%202.0%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Metal%20Vent%20Tech%20Short-Sleeve%20Shirt%202.0%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_nike_pb_tee",
@@ -759,7 +831,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Dri-FIT%20Pickleball%20T-Shirt%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Dri-FIT%20Pickleball%20T-Shirt%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_pb5star_polo",
@@ -777,7 +851,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=PB5star%20Performance%20Polo%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=PB5star%20Performance%20Polo%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_vuori_polo",
@@ -800,7 +876,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Vuori%20Knit%20Twill%20Polo%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vuori%20Knit%20Twill%20Polo%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_selkirk_pleated_skirt",
@@ -824,7 +902,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%20Pleated%20Pickleball%20Skirt%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%20Pleated%20Pickleball%20Skirt%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_lucky_love_skirt",
@@ -842,7 +922,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lucky%20in%20Love%20Pickleball%20Pleated%20Skort%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lucky%20in%20Love%20Pickleball%20Pleated%20Skort%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_junk_headband",
@@ -863,7 +945,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Junk%20Brands%20Big%20Bang%20Lite%20Headband%20(Pickle%20Party)%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Junk%20Brands%20Big%20Bang%20Lite%20Headband%20(Pickle%20Party)%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_nike_swoosh_headband",
@@ -885,7 +969,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Swoosh%20Headband%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Swoosh%20Headband%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_selkirk_visor",
@@ -907,7 +993,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Visor%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Visor%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "apparel_joola_shorts",
@@ -929,6 +1017,8 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Performance%20Shorts%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Performance%20Shorts%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   }
 ]

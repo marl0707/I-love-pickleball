@@ -28,7 +28,9 @@
       "格納式フェンスフック",
       "機内持ち込みサイズ対応"
     ],
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pro%20Pickleball%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pro%20Pickleball%20Bag%20pickleball",
+    "price_usd": 132,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_franklin_pro_series",
@@ -47,7 +49,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Franklin+Pro+Series+Pickleball+Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin+Pro+Series+Pickleball+Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin+Pro+Series+Pickleball+Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Pro%20Series%20Pickleball%20Paddle%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Pro%20Series%20Pickleball%20Paddle%20Bag%20pickleball",
+    "price_usd": 73.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "bag_01",
@@ -66,7 +70,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Tour%20Elite%20Pro%20Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Tour%20Elite%20Pro%20Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Tour%20Elite%20Pro%20Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pro%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Tour%20Elite%20Pro%20Bag%20pickleball",
+    "price_usd": 166.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_02",
@@ -85,7 +91,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Core%20Series%20Backpack",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Core%20Series%20Backpack/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Core%20Series%20Backpack",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Core%20Series%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Core%20Series%20Backpack%20pickleball",
+    "price_usd": 100,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_03",
@@ -103,7 +111,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Selkirk%20Team%20Backpack",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Selkirk%20Team%20Backpack/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Team%20Backpack",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Team%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Team%20Backpack%20pickleball",
+    "price_usd": 146.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_04",
@@ -122,7 +132,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Franklin%20PB%20Sling%20Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Franklin%20PB%20Sling%20Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20PB%20Sling%20Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20PB%20Sling%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20PB%20Sling%20Bag%20pickleball",
+    "price_usd": 33.33,
+    "price_tier": "エントリー"
   },
   {
     "id": "bag_05",
@@ -140,7 +152,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=CRBN%20Pro%20Team%20Duffle",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/CRBN%20Pro%20Team%20Duffle/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20Pro%20Team%20Duffle",
-    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Pro%20Team%20Duffle%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Pro%20Team%20Duffle%20pickleball",
+    "price_usd": 120,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_06",
@@ -159,7 +173,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Engage%20Tour%20Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Engage%20Tour%20Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Tour%20Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Bag%20pickleball",
+    "price_usd": 133.33,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_07",
@@ -178,7 +194,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=JOOLA%20Vision%20II%20Deluxe%20Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/JOOLA%20Vision%20II%20Deluxe%20Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Vision%20II%20Deluxe%20Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Vision%20II%20Deluxe%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Vision%20II%20Deluxe%20Bag%20pickleball",
+    "price_usd": 80,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "bag_08",
@@ -196,7 +214,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Paddletek%20Tour%20Backpack",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Paddletek%20Tour%20Backpack/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Tour%20Backpack",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Tour%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Tour%20Backpack%20pickleball",
+    "price_usd": 106.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_09",
@@ -215,7 +235,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Vulcan%20Premium%20Backpack",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Vulcan%20Premium%20Backpack/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20Premium%20Backpack",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20Premium%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20Premium%20Backpack%20pickleball",
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "bag_10",
@@ -235,7 +257,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Nettie%20Court%20Tote",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nettie%20Court%20Tote/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nettie%20Court%20Tote",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nettie%20Court%20Tote%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nettie%20Court%20Tote%20pickleball",
+    "price_usd": 53.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "bag_11",
@@ -254,7 +278,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Lululemon%20Court%20Duffle",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Lululemon%20Court%20Duffle/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Lululemon%20Court%20Duffle",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Court%20Duffle%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Lululemon%20Court%20Duffle%20pickleball",
+    "price_usd": 146.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_12",
@@ -272,7 +298,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Nike%20Court%20Advantage%20Backpack",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Nike%20Court%20Advantage%20Backpack/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Nike%20Court%20Advantage%20Backpack",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Advantage%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Court%20Advantage%20Backpack%20pickleball",
+    "price_usd": 66.67,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "bag_13",
@@ -290,7 +318,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=HEAD%20Radical%2012R%20Monstercombi",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/HEAD%20Radical%2012R%20Monstercombi/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Radical%2012R%20Monstercombi",
-    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Radical%2012R%20Monstercombi%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Radical%2012R%20Monstercombi%20pickleball",
+    "price_usd": 93.33,
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "bag_14",
@@ -309,7 +339,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=Amazin'%20Aces%20Premium%20Sling",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/Amazin'%20Aces%20Premium%20Sling/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Amazin'%20Aces%20Premium%20Sling",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20Premium%20Sling%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20Premium%20Sling%20pickleball",
+    "price_usd": 26.67,
+    "price_tier": "エントリー"
   },
   {
     "id": "bag_15",
@@ -327,7 +359,9 @@
     "amazon_url": "https://www.amazon.co.jp/s?k=SixZero%20Diamond%20Collection%20Bag",
     "rakuten_url": "https://search.rakuten.co.jp/search/mall/SixZero%20Diamond%20Collection%20Bag/",
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Diamond%20Collection%20Bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Diamond%20Collection%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Diamond%20Collection%20Bag%20pickleball",
+    "price_usd": 126.67,
+    "price_tier": "プレミアム"
   },
   {
     "id": "bag_selkirk_team",
@@ -356,7 +390,9 @@
     "yahoo_url": null,
     "price": null,
     "product_url": "https://www.selkirk.com/products/core-line-team-bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Core%20Line%20Team%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Core%20Line%20Team%20Bag%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "bag_crbn_pro_team",
@@ -385,7 +421,9 @@
     "yahoo_url": null,
     "price": null,
     "product_url": "https://crbnpickleball.com/products/pro-team-backpack",
-    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Pro%20Team%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Pro%20Team%20Backpack%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "bag_franklin_sling",
@@ -411,7 +449,9 @@
     "yahoo_url": null,
     "price": null,
     "product_url": "https://www.franklinsports.com/pickleball/bags/ben-johns-sling-bag",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Ben%20Johns%20Pickleball%20Sling%20Bag%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Ben%20Johns%20Pickleball%20Sling%20Bag%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "bag_gearbox_court",
@@ -430,7 +470,9 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Court%20Backpack%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Court%20Backpack%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   },
   {
     "id": "bag_forwrd_court_caddy",
@@ -457,6 +499,8 @@
     "yahoo_url": null,
     "price": null,
     "product_url": "https://forwrd.co/products/court-caddy",
-    "image_url": "https://www.google.com/search?tbm=isch&q=FORWRD%20Court%20Caddy%20pickleball"
+    "image_url": "https://www.google.com/search?tbm=isch&q=FORWRD%20Court%20Caddy%20pickleball",
+    "price_usd": null,
+    "price_tier": "不明"
   }
 ]
