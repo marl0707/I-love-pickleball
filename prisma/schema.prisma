@@ -21,12 +21,21 @@ model User {
   nickname        String?
   isProfilePublic Boolean  @default(true) @map("is_profile_public")
   profileImageUrl String?  @map("profile_image_url")
+  stripeCustomerId String? @map("stripe_customer_id")
   createdAt       DateTime @default(now()) @map("created_at")
   updatedAt       DateTime @updatedAt @map("updated_at")
 
   // リレーション
-  facilityReviews FacilityReview[]
-  gearReviews     GearReview[]
+  facilityReviews   FacilityReview[]
+  gearReviews       GearReview[]
+  advertisements    Advertisement[]
+  adBids            AdBid[]
+  bookmarks         Bookmark[]
+  communityPosts    CommunityPost[]
+  communityComments CommunityComment[]
+  eventParticipations EventParticipant[]
+  drillBookmarks      DrillBookmark[]
+  organizedEvents     Event[]            @relation("EventOrganizer")
 
   @@map("users")
 }
@@ -304,3 +313,192 @@ model Article {
 
   @@map("articles")
 }
+
+// ============================================
+// カテゴリ5: お気に入り・ブックマーク (Bookmarks)
+// ============================================
+
+model Bookmark {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  itemType  String   @map("item_type") // 'facility', 'article', 'gear', 'player'
+  itemId    String   @map("item_id")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, itemType, itemId])
+  @@map("bookmarks")
+}
+
+// ============================================
+// カテゴリ6: コミュニティ・掲示板 (Community)
+// ============================================
+
+model CommunityCategory {
+  id          String   @id @default(uuid())
+  slug        String   @unique
+  name        String
+  description String?
+  sortOrder   Int      @default(0) @map("sort_order")
+  posts       CommunityPost[]
+
+  @@map("community_categories")
+}
+
+model CommunityPost {
+  id          String   @id @default(uuid())
+  categoryId  String   @map("category_id")
+  userId      String   @map("user_id")
+  title       String
+  content     String
+  viewCount   Int      @default(0) @map("view_count")
+  likeCount   Int      @default(0) @map("like_count")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  category CommunityCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  user     User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  comments CommunityComment[]
+
+  @@map("community_posts")
+}
+
+model CommunityComment {
+  id        String   @id @default(uuid())
+  postId    String   @map("post_id")
+  userId    String   @map("user_id")
+  content   String
+  likeCount Int      @default(0) @map("like_count")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  post CommunityPost @relation(fields: [postId], references: [id], onDelete: Cascade)
+  user User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("community_comments")
+}
+
+// ============================================
+// 広告機能・送客権入札 (Advertisements & Bidding)
+// ============================================
+
+model Advertisement {
+  id                   String              @id @default(uuid())
+  userId               String              @map("user_id")
+  stripeSubscriptionId String?             @map("stripe_subscription_id")
+  slotType             String              @map("slot_type") // e.g., 'header', 'sidebar', 'infeed'
+  imageUrl             String              @map("image_url")
+  targetUrl            String              @map("target_url")
+  status               AdvertisementStatus @default(PENDING)
+  startsAt             DateTime?           @map("starts_at")
+  expiresAt            DateTime?           @map("expires_at")
+  createdAt            DateTime            @default(now()) @map("created_at")
+  updatedAt            DateTime            @updatedAt @map("updated_at")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("advertisements")
+}
+
+enum AdvertisementStatus {
+  PENDING
+  ACTIVE
+  PAUSED
+  EXPIRED
+}
+
+model AdBid {
+  id             String      @id @default(uuid())
+  category       String // 入札対象カテゴリ (ALL, Facility, Gear 等)
+  bidderId       String      @map("bidder_id")
+  bidAmount      Int         @map("bid_amount")
+  imageUrl       String      @map("image_url")
+  targetUrl      String      @map("target_url")
+  advertiserName String      @map("advertiser_name")
+  stripeSubscriptionId String? @map("stripe_subscription_id")
+  status         AdBidStatus @default(ACTIVE)
+  createdAt      DateTime    @default(now()) @map("created_at")
+  updatedAt      DateTime    @updatedAt @map("updated_at")
+
+  bidderUser User @relation(fields: [bidderId], references: [id], onDelete: Cascade)
+
+  @@index([category, bidAmount(sort: Desc)])
+  @@map("ad_bids")
+}
+
+enum AdBidStatus {
+  ACTIVE
+  OUTBID
+  CANCELED
+}
+
+// ============================================
+// Events & Drills
+// ============================================
+
+model Event {
+  id          String   @id @default(uuid())
+  title       String
+  description String?  @db.Text
+  date        DateTime
+  location    String?
+  organizerId String   @map("organizer_id")
+  maxCapacity Int?     @map("max_capacity")
+  fee         Int?
+  imageUrl    String?  @map("image_url")
+  externalLink String? @map("external_link") // 外部の参加申し込みURL
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  organizer    User               @relation("EventOrganizer", fields: [organizerId], references: [id])
+  participants EventParticipant[]
+
+  @@map("events")
+}
+
+model EventParticipant {
+  id        String   @id @default(uuid())
+  eventId   String   @map("event_id")
+  userId    String   @map("user_id")
+  status    String   @default("JOINED") // JOINED, CANCELLED
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  event Event @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([eventId, userId])
+  @@map("event_participants")
+}
+
+model Drill {
+  id          String   @id @default(uuid())
+  title       String
+  description String   @db.Text
+  difficulty  String? // Beginner, Intermediate, Advanced
+  minPlayers  Int?     @map("min_players")
+  durationMin Int?     @map("duration_min")
+  videoUrl    String?  @map("video_url")
+  imageUrl    String?  @map("image_url")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  bookmarks DrillBookmark[]
+
+  @@map("drills")
+}
+
+model DrillBookmark {
+  id        String   @id @default(uuid())
+  drillId   String   @map("drill_id")
+  userId    String   @map("user_id")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  drill Drill @relation(fields: [drillId], references: [id], onDelete: Cascade)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([drillId, userId])
+  @@map("drill_bookmarks")
+}
+
