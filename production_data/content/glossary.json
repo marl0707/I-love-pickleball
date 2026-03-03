@@ -649,5 +649,61 @@
     "term_ja": "スマートパドル",
     "category": "テクノロジー",
     "description": "センサーを内蔵した次世代パドル。スイングスピード・インパクトポイント・スピン量をリアルタイム計測し、スマホアプリにデータを送信。2025-2026年に本格普及が予測される新テクノロジー。テニスのBabolat Play等の系譜を引く。"
+  },
+  {
+    "id": "term_stacking",
+    "term_en": "Stacking",
+    "term_ja": "スタッキング",
+    "category": "戦術",
+    "description": "ダブルスの上級フォーメーション戦術。両パートナーがサーブ/リターン前に同じサイドからスタートし、インプレー後に素早く得意ポジションへ移動する。左利き＋右利きペアでフォアハンドをミドルに集中させる場合に特に有効。"
+  },
+  {
+    "id": "term_shadow_shift",
+    "term_en": "Shadow Shift",
+    "term_ja": "シャドーシフト",
+    "category": "戦術",
+    "description": "スタッキングの高度な変形。サーブ時に非サーブ側のプレイヤーがサーバーの背後に「影」のように立ち、最後の瞬間まで移動方向を隠すことで相手を欺く戦術。"
+  },
+  {
+    "id": "term_poach",
+    "term_en": "Poach",
+    "term_ja": "ポーチ（インターセプト）",
+    "category": "戦術",
+    "description": "パートナーのサイドのボールを素早く横移動してインターセプトし、相手が予期しないアングルに打ち込む攻撃的なダブルス戦術。テニスのポーチと同じ概念。"
+  },
+  {
+    "id": "term_hand_signals",
+    "term_en": "Hand Signals",
+    "term_ja": "ハンドシグナル",
+    "category": "戦術",
+    "description": "NVZ前のプレイヤーが背中の後ろで手のサインを出し、パートナーと戦術を暗号化して共有する方法。指のパターンでポーチの有無やスタッキングの意図を伝える。PPA/MLPプロレベルでは標準的。"
+  },
+  {
+    "id": "term_ball_on",
+    "term_en": "Ball On",
+    "term_ja": "ボールオン",
+    "category": "エチケット",
+    "description": "隣のコートからボールが転がり込んできた時に、安全確保のため即座に大声でコールする掛け声。プレーは即停止し、ボール除去後に再開する。"
+  },
+  {
+    "id": "term_ppl_europe",
+    "term_en": "Pickleball Premier League Europe",
+    "term_ja": "ピックルボール・プレミアリーグ・ヨーロッパ",
+    "category": "リーグ・大会",
+    "description": "2025年にデビューした欧州初のプロピックルボールリーグ。ヨーロッパ各国のトップ選手がチーム制で競い合うプロフェッショナルプラットフォーム。"
+  },
+  {
+    "id": "term_ppa_tour_asia",
+    "term_en": "PPA Tour Asia",
+    "term_ja": "PPAツアー・アジア",
+    "category": "リーグ・大会",
+    "description": "2025年7月に開始されたアジア版PPAツアー。アジア地域でのピックルボールのプロ化と競技レベル向上を目的とする。United Pickleball Association Asiaと連携。"
+  },
+  {
+    "id": "term_epf",
+    "term_en": "European Pickleball Federation",
+    "term_ja": "欧州ピックルボール連盟 (EPF)",
+    "category": "組織",
+    "description": "2025年に設立された欧州のピックルボール統括組織。同年にバルセロナで初の欧州ピックルボール選手権を開催（30カ国参加）。欧州スポーツ評議会からも正式承認を受けた。"
   }
 ]

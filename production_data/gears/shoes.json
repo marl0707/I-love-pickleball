@@ -18,7 +18,8 @@
     "weight_grams": 380,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20Jet%20Mach%203%20All%20Court%20pickleball",
     "price_usd": 110,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "product_url": "https://www.babolat.com/jet-mach-3-all-court"
   },
   {
     "id": "shoe_skechers_viper_court",
@@ -41,7 +42,8 @@
     "weight_grams": 375,
     "price_usd": 93.33,
     "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Pro%20pickleball",
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "product_url": "https://www.skechers.com/men/shoes/viper-court-pro/232942_BKW.html"
   },
   {
     "id": "shoe_k_swiss_express_light",
@@ -65,7 +67,8 @@
     "price_usd": 85.33,
     "weight_grams": 340,
     "image_url": "https://www.google.com/search?tbm=isch&q=K-Swiss%20Express%20Light%20Pickleball%20pickleball",
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "product_url": "https://www.kswiss.com/express-light-pickleball"
   },
   {
     "id": "shoe_asics_gel_resolution_9",

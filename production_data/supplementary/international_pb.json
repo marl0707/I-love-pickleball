@@ -1,0 +1,175 @@
+[
+    {
+        "id": "intl_001",
+        "region": "アジア",
+        "country": "中国",
+        "country_en": "China",
+        "monthly_players_millions": 60,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "月間プレイヤー6,000万人以上",
+            "5年以内に1億人プレイヤー＆1万面コート目標",
+            "ラケットスポーツの伝統が強い土壌"
+        ],
+        "growth_rate": "急成長",
+        "professional_leagues": [],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_002",
+        "region": "アジア",
+        "country": "インド",
+        "country_en": "India",
+        "monthly_players_millions": 178,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "人口の31%以上がピックルボールを経験",
+            "月間プレイヤー数1億7,800万人（調査対象12地域で最多）",
+            "急速にコート数が増加中"
+        ],
+        "growth_rate": "急成長",
+        "professional_leagues": [],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_003",
+        "region": "アジア",
+        "country": "ベトナム",
+        "country_en": "Vietnam",
+        "monthly_players_millions": null,
+        "awareness_percent": 88,
+        "key_facts_ja": [
+            "認知度88%で調査地域トップクラス",
+            "37%以上がプレー経験あり",
+            "認知度152%上昇（前年比）"
+        ],
+        "growth_rate": "急成長",
+        "professional_leagues": [],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_004",
+        "region": "アジア",
+        "country": "マレーシア",
+        "country_en": "Malaysia",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "認知度132%上昇（前年比）でアジア第2位の伸び率",
+            "バドミントン・テニス人口の移行が加速"
+        ],
+        "growth_rate": "急成長",
+        "professional_leagues": [],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_005",
+        "region": "アジア",
+        "country": "日本",
+        "country_en": "Japan",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "日本ピックルボール協会(JPA)が活動",
+            "全国の体育館・テニスコートで導入が進む",
+            "シニア層を中心に急速に普及",
+            "京都・福岡・東京・大阪に専用コート増加中"
+        ],
+        "growth_rate": "成長中",
+        "professional_leagues": [],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_006",
+        "region": "アジア",
+        "country": "シンガポール",
+        "country_en": "Singapore",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "United Pickleball Association Asia (UPAA)本部所在地",
+            "YouGovとの共同調査でアジア12地域のデータ収集",
+            "都市型のインドアコートが充実"
+        ],
+        "growth_rate": "成長中",
+        "professional_leagues": [
+            "PPA Tour Asia（2025年7月開始）"
+        ],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_007",
+        "region": "ヨーロッパ",
+        "country": "スペイン",
+        "country_en": "Spain",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "プレイヤー2万人以上",
+            "人気がバスケットボールに匹敵するレベルに",
+            "2025年にバルセロナで初の欧州ピックルボール選手権開催（30カ国参加）"
+        ],
+        "growth_rate": "急成長",
+        "professional_leagues": [
+            "Pickleball Premier League (PPL) Europe"
+        ],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_008",
+        "region": "ヨーロッパ",
+        "country": "イギリス",
+        "country_en": "United Kingdom",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "2024年にプレイヤー数65%増加",
+            "専用施設の建設プロジェクトが進行中",
+            "学校体育への導入が拡大"
+        ],
+        "growth_rate": "急成長",
+        "professional_leagues": [],
+        "source_year": 2025
+    },
+    {
+        "id": "intl_009",
+        "region": "ヨーロッパ",
+        "country": "イタリア",
+        "country_en": "Italy",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "2026年に競技サーキットを拡大予定",
+            "テニス文化からの移行が始まっている"
+        ],
+        "growth_rate": "成長中",
+        "professional_leagues": [],
+        "source_year": 2026
+    },
+    {
+        "id": "intl_010",
+        "region": "グローバル",
+        "country": "全世界統計",
+        "country_en": "Global",
+        "monthly_players_millions": null,
+        "awareness_percent": null,
+        "key_facts_ja": [
+            "世界のPB市場規模：2025年で18億ドル、2034年までに91億ドル予測",
+            "60カ国以上に連盟が設立",
+            "2032年オリンピック種目候補として活動中",
+            "アジア全体：推定19億人が認知、8.12億人がプレー経験、2.82億人が月次プレイヤー",
+            "欧州PBマーケット：2029年までに4億ドル以上拡大予測",
+            "MLP Asia: 2026年開始予定",
+            "EMEA向け新プロサーキット: 2026年開始予定"
+        ],
+        "growth_rate": "爆発的成長",
+        "professional_leagues": [
+            "PPA Tour",
+            "MLP (Major League Pickleball)",
+            "PPA Tour Asia",
+            "PPL Europe",
+            "EMEA Circuit (2026)"
+        ],
+        "source_year": 2025
+    }
+]

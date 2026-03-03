@@ -1,0 +1,204 @@
+[
+    {
+        "id": "tactic_001",
+        "category": "フォーメーション",
+        "title_ja": "スタッキング",
+        "title_en": "Stacking",
+        "difficulty": "上級",
+        "description_ja": "両パートナーがサーブ/リターン前に同じサイドからスタートし、ボールがインプレーになった後に素早く移動して得意なポジションに付く戦術。左利き/右利きのペアで特に効果的。",
+        "key_points": [
+            "利き手のフォアハンドをミドルに集中配置できる",
+            "相手の予測を狂わせる効果がある",
+            "スムーズな移動とクリアなコミュニケーションが必須",
+            "フィジカル的に消耗しやすいため体力管理も重要"
+        ],
+        "when_to_use": [
+            "左利き＋右利きペア",
+            "パワープレイヤーを特定サイドに配置したい時",
+            "相手のバックハンドを攻めたい時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+stacking+strategy+doubles",
+        "image_url": null
+    },
+    {
+        "id": "tactic_002",
+        "category": "フォーメーション",
+        "title_ja": "シャドーシフト",
+        "title_en": "Shadow Shift",
+        "difficulty": "上級",
+        "description_ja": "サーブ時に非サーブ側のプレイヤーがサーバーの後ろに「影」のように立つ高度なスタッキング変形。サーブ後の最終移動を遅らせることで相手に不確実性を与える。",
+        "key_points": [
+            "サーブチームのプレッシャーを軽減",
+            "最後の瞬間まで移動方向を隠せる",
+            "フォアハンドをミドルに効果的に配置"
+        ],
+        "when_to_use": [
+            "相手にターゲットにされている選手がいる時",
+            "フォアハンドミドル戦略を強化したい時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+shadow+shift+stacking",
+        "image_url": null
+    },
+    {
+        "id": "tactic_003",
+        "category": "ポジショニング",
+        "title_ja": "3rdショットドロップ戦略",
+        "title_en": "3rd Shot Drop Strategy",
+        "difficulty": "中級",
+        "description_ja": "サーブ側の3rdショット(サーブ→リターン→3rdショット)でソフトなドロップショットをキッチン付近に落とし、ネットに詰める時間を作る最重要戦術。",
+        "key_points": [
+            "ネット前に出るための「橋渡し」ショット",
+            "弧を描く軌道でNVZラインぎりぎりに落とす",
+            "相手をアタック不能な低いボールで返させる",
+            "失敗するとカウンターアタックを受ける"
+        ],
+        "when_to_use": [
+            "サーブ後にネット前に出たい時",
+            "相手がベースラインにいる時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+3rd+shot+drop+tutorial",
+        "image_url": null
+    },
+    {
+        "id": "tactic_004",
+        "category": "ポジショニング",
+        "title_ja": "3rdショットドライブ戦略",
+        "title_en": "3rd Shot Drive Strategy",
+        "difficulty": "中級",
+        "description_ja": "ドロップの代わりに3rdショットを強力にドライブ（フラットに速く打つ）する攻撃的戦術。相手にプレッシャーを与え、弱いボールを引き出す。",
+        "key_points": [
+            "相手のリアクションタイムを奪う",
+            "パワープレイヤーのフォアハンド側から打つと効果的",
+            "パートナーは5thショットドロップの準備をしておく",
+            "風上で特に有効"
+        ],
+        "when_to_use": [
+            "パワーのあるプレイヤーがいる時",
+            "相手のボレーが不安定な時",
+            "風上からプレーする時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+3rd+shot+drive+strategy",
+        "image_url": null
+    },
+    {
+        "id": "tactic_005",
+        "category": "ネットプレー",
+        "title_ja": "ディンクラリー戦略",
+        "title_en": "Dink Rally Strategy",
+        "difficulty": "中級",
+        "description_ja": "NVZライン付近でソフトなディンクを交換し、相手のミスを誘うパチエンスゲーム。クロスディンクは安全、ストレートディンクは攻撃的。",
+        "key_points": [
+            "クロスディンク：ネットが最も低い中央を越えるため安全",
+            "ストレートディンク：フェイントとして使用、相手を崩す",
+            "相手を立ち上がらせて「アタッカブルボール」を誘発",
+            "極端に忍耐力が必要"
+        ],
+        "when_to_use": [
+            "ネット前でのラリー時",
+            "相手にバンギング（強打）させたくない時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+dink+rally+strategy",
+        "image_url": null
+    },
+    {
+        "id": "tactic_006",
+        "category": "コミュニケーション",
+        "title_ja": "ハンドシグナル",
+        "title_en": "Hand Signals",
+        "difficulty": "上級",
+        "description_ja": "NVZ前のプレイヤーが背中の後ろで手のサインを使い、パートナーと戦術を暗号化して共有。スタッキングの意図やポーチのタイミングを伝える。",
+        "key_points": [
+            "指を開く/閉じる/パーでサインを変える",
+            "フェイクスタックで相手を混乱させることも可能",
+            "PPA/MLPプロレベルでは標準的戦術",
+            "パートナーとの事前練習が必須"
+        ],
+        "when_to_use": [
+            "上級ダブルスプレー全般",
+            "ポーチを仕掛けたい時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+hand+signals+doubles",
+        "image_url": null
+    },
+    {
+        "id": "tactic_007",
+        "category": "ポジショニング",
+        "title_ja": "ポーチ（インターセプト）",
+        "title_en": "Poach (Intercept)",
+        "difficulty": "中級",
+        "description_ja": "パートナーのサイドのボールを素早く横移動してインターセプトし、相手が予期しないアングルに打ち込む攻撃的戦術。",
+        "key_points": [
+            "相手のクロスコートリターンを予測して動く",
+            "パートナーは空いたスペースをカバー",
+            "ハンドシグナルで事前共有すると効果的",
+            "成功率が低いと逆に穴を作る"
+        ],
+        "when_to_use": [
+            "相手のクロスショットが読める時",
+            "攻撃的な展開を作りたい時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+poaching+doubles+strategy",
+        "image_url": null
+    },
+    {
+        "id": "tactic_008",
+        "category": "戦略",
+        "title_ja": "ミドルボール戦略",
+        "title_en": "Middle Ball Strategy",
+        "difficulty": "初級",
+        "description_ja": "2人の相手の間（ミドル）を狙うことで、どちらが打つか迷わせる基本戦略。特にストレスの多い場面で効果的。",
+        "key_points": [
+            "相手のコミュニケーションミスを誘発",
+            "フォアハンド側のプレイヤーが取るのが基本（知っていても迷う）",
+            "ポイントの60%以上がミドルのミスから生まれるとも言われる"
+        ],
+        "when_to_use": [
+            "得点が欲しい場面",
+            "相手のコミュニケーションが悪い時",
+            "タイブレーク時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+middle+ball+strategy",
+        "image_url": null
+    },
+    {
+        "id": "tactic_009",
+        "category": "戦略",
+        "title_ja": "ロブ（頭上ショット）戦略",
+        "title_en": "Lob Strategy",
+        "difficulty": "中級",
+        "description_ja": "相手がNVZラインに密着している時、高いアーク（弧）でボールを相手の頭上を越えベースライン付近に落とす戦術。ディンクラリーの変化球として使う。",
+        "key_points": [
+            "相手をベースラインまで下げさせる",
+            "ディンクの中に混ぜると効果倍増",
+            "風下で使うと飛びすぎてアウトになりやすい",
+            "オフェンシブロブ（攻め）とディフェンシブロブ（凌ぎ）がある"
+        ],
+        "when_to_use": [
+            "相手がネット前に張り付いている時",
+            "相手の後方移動が遅い時"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+lob+strategy+when+to+use",
+        "image_url": null
+    },
+    {
+        "id": "tactic_010",
+        "category": "フォーメーション",
+        "title_ja": "状況別スタッキング",
+        "title_en": "Situational Stacking",
+        "difficulty": "上級",
+        "description_ja": "スコアや相手の弱点に応じてスタッキングの有無を試合中に切り替える柔軟な戦術。例：相手のバックハンドが弱い場合にそちら側にサーブ/リターンを集中。",
+        "key_points": [
+            "試合中の観察力が鍵",
+            "パターンが読まれないよう定期的に変更",
+            "環境（風向き・日差し）も考慮",
+            "パートナーとの「ステイ」コールで臨機応変に対応"
+        ],
+        "when_to_use": [
+            "相手の弱点が明確な時",
+            "スコアがタイトな場面",
+            "試合後半の戦略変更"
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+situational+stacking+advanced",
+        "image_url": null
+    }
+]

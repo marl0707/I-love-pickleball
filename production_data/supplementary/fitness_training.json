@@ -1,0 +1,270 @@
+[
+    {
+        "id": "fit_001",
+        "category": "ウォームアップ",
+        "title_ja": "プレー前ダイナミックウォームアップ",
+        "title_en": "Pre-Play Dynamic Warmup",
+        "duration_minutes": 8,
+        "description_ja": "ピックルボール前の5〜10分のダイナミックウォームアップ。筋肉と関節を活性化し、怪我を予防しパフォーマンスを高める。",
+        "exercises": [
+            {
+                "name": "軽いジョグ/サイドシャッフル",
+                "reps": "2〜3分",
+                "target": "心拍数上昇・全身"
+            },
+            {
+                "name": "レッグスイング（前後・左右）",
+                "reps": "各方向10回",
+                "target": "股関節の可動域"
+            },
+            {
+                "name": "アームサークル（前後）",
+                "reps": "各方向10回",
+                "target": "肩関節"
+            },
+            {
+                "name": "ウォーキングランジ＋トルソツイスト",
+                "reps": "各脚5回",
+                "target": "股関節・体幹回旋"
+            },
+            {
+                "name": "ボディウェイトスクワット",
+                "reps": "10回",
+                "target": "大腿四頭筋・臀筋"
+            },
+            {
+                "name": "ハイニー＆バットキック",
+                "reps": "各20歩",
+                "target": "脚部の活性化・敏捷性"
+            },
+            {
+                "name": "インチワーム",
+                "reps": "5回",
+                "target": "ハムストリング・肩・体幹"
+            }
+        ],
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+dynamic+warmup+routine"
+    },
+    {
+        "id": "fit_002",
+        "category": "下半身トレーニング",
+        "title_ja": "下半身パワー＆スタビリティ",
+        "title_en": "Lower Body Power and Stability",
+        "duration_minutes": 25,
+        "description_ja": "素早い横移動・ステップ・低い姿勢維持に必要な下半身の筋力と安定性を鍛えるトレーニング。",
+        "exercises": [
+            {
+                "name": "ゴブレットスクワット",
+                "reps": "3セット×12回",
+                "target": "大腿四頭筋・臀筋・ハムストリング"
+            },
+            {
+                "name": "ラテラルランジ",
+                "reps": "3セット×各脚10回",
+                "target": "内転筋・臀筋・バランス"
+            },
+            {
+                "name": "シングルレッグRDL",
+                "reps": "3セット×各脚8回",
+                "target": "ハムストリング・臀筋・片足バランス"
+            },
+            {
+                "name": "カーフレイズ",
+                "reps": "3セット×15回",
+                "target": "ふくらはぎ・プッシュオフ"
+            },
+            {
+                "name": "ブルガリアンスプリットスクワット",
+                "reps": "3セット×各脚8回",
+                "target": "大腿四頭筋・臀筋・股関節安定性"
+            }
+        ],
+        "frequency": "週2〜3回",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+lower+body+workout"
+    },
+    {
+        "id": "fit_003",
+        "category": "上半身トレーニング",
+        "title_ja": "上半身ストローク強化",
+        "title_en": "Upper Body Stroke Power",
+        "duration_minutes": 20,
+        "description_ja": "ボレー・サーブ・ドライブに必要な上半身の筋力と肩の安定性を高めるトレーニング。",
+        "exercises": [
+            {
+                "name": "プッシュアップ",
+                "reps": "3セット×15回",
+                "target": "胸筋・三角筋・三頭筋"
+            },
+            {
+                "name": "ダンベルショルダープレス",
+                "reps": "3セット×10回",
+                "target": "三角筋・三頭筋"
+            },
+            {
+                "name": "ダンベルロウ",
+                "reps": "3セット×各腕10回",
+                "target": "広背筋・上背筋・姿勢改善"
+            },
+            {
+                "name": "プルアップ（補助付き）",
+                "reps": "3セット×6〜8回",
+                "target": "背筋・二頭筋・握力"
+            },
+            {
+                "name": "リストカール",
+                "reps": "3セット×15回",
+                "target": "前腕・グリップ力"
+            }
+        ],
+        "frequency": "週2回",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+upper+body+strength+training"
+    },
+    {
+        "id": "fit_004",
+        "category": "コアトレーニング",
+        "title_ja": "コア＆回旋パワー",
+        "title_en": "Core and Rotational Power",
+        "duration_minutes": 15,
+        "description_ja": "ショットの安定性・パワー・バランスに直結する体幹および回旋力を強化するトレーニング。",
+        "exercises": [
+            {
+                "name": "フロントプランク",
+                "reps": "3セット×30〜60秒",
+                "target": "体幹全体のアイソメトリック強化"
+            },
+            {
+                "name": "サイドプランク",
+                "reps": "3セット×各側30秒",
+                "target": "腹斜筋・股関節安定性"
+            },
+            {
+                "name": "ロシアンツイスト（メディシンボール）",
+                "reps": "3セット×各側15回",
+                "target": "回旋パワー"
+            },
+            {
+                "name": "メディシンボール回旋スロー",
+                "reps": "3セット×各側8回",
+                "target": "ストローク模擬の爆発的回旋"
+            },
+            {
+                "name": "パロフプレス",
+                "reps": "3セット×各側10回",
+                "target": "アンチローテーション・腹斜筋"
+            }
+        ],
+        "frequency": "週3回",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+core+rotational+training"
+    },
+    {
+        "id": "fit_005",
+        "category": "アジリティ",
+        "title_ja": "アジリティ＆フットワークドリル",
+        "title_en": "Agility and Footwork Drills",
+        "duration_minutes": 15,
+        "description_ja": "コート上での素早い方向転換、横移動、反応速度を高めるドリル。",
+        "exercises": [
+            {
+                "name": "ラテラルシャッフル",
+                "reps": "3セット×各方向30秒",
+                "target": "横移動スピード"
+            },
+            {
+                "name": "コーンドリル（四角形）",
+                "reps": "3セット",
+                "target": "多方向の方向転換"
+            },
+            {
+                "name": "スピードラダードリル",
+                "reps": "3セット×各パターン",
+                "target": "足さばき・コーディネーション"
+            },
+            {
+                "name": "リアクティブシャッフル（パートナー指示）",
+                "reps": "3セット×30秒",
+                "target": "反応速度・判断力"
+            },
+            {
+                "name": "ジャンプスクワット",
+                "reps": "3セット×10回",
+                "target": "爆発的パワー"
+            }
+        ],
+        "frequency": "週2〜3回",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+agility+footwork+drills"
+    },
+    {
+        "id": "fit_006",
+        "category": "持久力",
+        "title_ja": "心肺機能トレーニング",
+        "title_en": "Cardiovascular Conditioning",
+        "duration_minutes": 20,
+        "description_ja": "長時間のラリーやトーナメントでの体力維持に必要な心肺機能を高めるトレーニング。",
+        "exercises": [
+            {
+                "name": "縄跳び",
+                "reps": "3セット×2分",
+                "target": "心肺機能・コーディネーション"
+            },
+            {
+                "name": "30/30スプリント（30秒ダッシュ+30秒回復）",
+                "reps": "10ラウンド",
+                "target": "無酸素持久力"
+            },
+            {
+                "name": "バーピージャンプ",
+                "reps": "3セット×8回",
+                "target": "全身持久力・爆発力"
+            },
+            {
+                "name": "トレッドミルインターバル（1分スプリント+1分ウォーク）",
+                "reps": "10ラウンド",
+                "target": "心肺持久力"
+            }
+        ],
+        "frequency": "週2〜3回",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+cardiovascular+conditioning+workout"
+    },
+    {
+        "id": "fit_007",
+        "category": "クールダウン",
+        "title_ja": "プレー後のストレッチ＆リカバリー",
+        "title_en": "Post-Play Stretching and Recovery",
+        "duration_minutes": 10,
+        "description_ja": "プレー後の静的ストレッチとリカバリーで筋肉の回復を促し、次回のパフォーマンス低下を防ぐ。",
+        "exercises": [
+            {
+                "name": "ハムストリングストレッチ",
+                "reps": "各脚30秒",
+                "target": "ハムストリング"
+            },
+            {
+                "name": "クアッドストレッチ",
+                "reps": "各脚30秒",
+                "target": "大腿四頭筋"
+            },
+            {
+                "name": "ショルダークロスアームストレッチ",
+                "reps": "各腕30秒",
+                "target": "三角筋後部"
+            },
+            {
+                "name": "チャイルドポーズ",
+                "reps": "60秒",
+                "target": "背筋・腰部"
+            },
+            {
+                "name": "ピジョンストレッチ",
+                "reps": "各脚30秒",
+                "target": "臀筋・股関節"
+            },
+            {
+                "name": "フォームローリング（オプション）",
+                "reps": "各部位1分",
+                "target": "筋膜リリース"
+            }
+        ],
+        "frequency": "毎回プレー後",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+cool+down+stretching+routine"
+    }
+]

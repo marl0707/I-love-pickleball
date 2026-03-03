@@ -903,7 +903,7 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%20Pleated%20Pickleball%20Skirt%20pickleball",
-    "price_usd": null,
+    "price_usd": 64.99,
     "price_tier": "不明",
     "product_url": "https://www.selkirk.com/products/womens-essential-pleated-skirt"
   },
@@ -972,7 +972,7 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Swoosh%20Headband%20pickleball",
-    "price_usd": null,
+    "price_usd": 12,
     "price_tier": "不明",
     "product_url": "https://www.nike.com/t/swoosh-headband-tg8Z9W"
   },
@@ -997,7 +997,7 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Visor%20pickleball",
-    "price_usd": null,
+    "price_usd": 29.99,
     "price_tier": "不明",
     "product_url": "https://www.selkirk.com/products/performance-visor"
   },
@@ -1022,7 +1022,7 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Performance%20Shorts%20pickleball",
-    "price_usd": null,
+    "price_usd": 39.95,
     "price_tier": "不明",
     "product_url": "https://www.joola.com/collections/apparel"
   }

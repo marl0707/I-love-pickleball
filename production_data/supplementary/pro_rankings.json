@@ -1,0 +1,182 @@
+{
+  "season": "2025",
+  "last_updated": "2025-12-31",
+  "mens_singles": [
+    {
+      "rank": 1,
+      "name": "Federico Staksrud",
+      "country": "アルゼンチン",
+      "dupr": 6.8
+    },
+    {
+      "rank": 2,
+      "name": "Christian Alshon",
+      "country": "アメリカ",
+      "dupr": 6.7
+    },
+    {
+      "rank": 3,
+      "name": "Hunter Johnson",
+      "country": "アメリカ",
+      "dupr": 6.6
+    },
+    {
+      "rank": 4,
+      "name": "Ben Johns",
+      "country": "アメリカ",
+      "dupr": 6.9
+    },
+    {
+      "rank": 5,
+      "name": "Connor Garnett",
+      "country": "アメリカ",
+      "dupr": 6.5
+    },
+    {
+      "rank": 6,
+      "name": "Jaume Martinez Vich",
+      "country": "スペイン",
+      "dupr": 6.4
+    },
+    {
+      "rank": 7,
+      "name": "JW Johnson",
+      "country": "アメリカ",
+      "dupr": 6.5
+    },
+    {
+      "rank": 8,
+      "name": "Jack Sock",
+      "country": "アメリカ",
+      "dupr": 6.3
+    },
+    {
+      "rank": 9,
+      "name": "Tyson McGuffin",
+      "country": "アメリカ",
+      "dupr": 6.4
+    },
+    {
+      "rank": 10,
+      "name": "Andrei Daescu",
+      "country": "ルーマニア",
+      "dupr": 6.3
+    }
+  ],
+  "womens_singles": [
+    {
+      "rank": 1,
+      "name": "Anna Leigh Waters",
+      "country": "アメリカ",
+      "dupr": 6.5
+    },
+    {
+      "rank": 2,
+      "name": "Kate Fahey",
+      "country": "アメリカ",
+      "dupr": 6.2
+    },
+    {
+      "rank": 3,
+      "name": "Kaitlyn Christian",
+      "country": "アメリカ",
+      "dupr": 6.1
+    },
+    {
+      "rank": 4,
+      "name": "Parris Todd",
+      "country": "アメリカ",
+      "dupr": 6.1
+    },
+    {
+      "rank": 5,
+      "name": "Brooke Buckner",
+      "country": "アメリカ",
+      "dupr": 6
+    },
+    {
+      "rank": 6,
+      "name": "Lea Jansen",
+      "country": "アメリカ",
+      "dupr": 6
+    },
+    {
+      "rank": 7,
+      "name": "Genie Bouchard",
+      "country": "カナダ",
+      "dupr": 5.9
+    },
+    {
+      "rank": 8,
+      "name": "Catherine Parenteau",
+      "country": "カナダ",
+      "dupr": 6
+    },
+    {
+      "rank": 9,
+      "name": "Jorja Johnson",
+      "country": "アメリカ",
+      "dupr": 5.9
+    },
+    {
+      "rank": 10,
+      "name": "Anna Bright",
+      "country": "アメリカ",
+      "dupr": 6
+    }
+  ],
+  "mens_doubles": [
+    {
+      "rank": 1,
+      "name": "Ben Johns",
+      "country": "アメリカ"
+    },
+    {
+      "rank": 2,
+      "name": "Hayden Patriquin",
+      "country": "カナダ"
+    },
+    {
+      "rank": 3,
+      "name": "Andrei Daescu",
+      "country": "ルーマニア"
+    },
+    {
+      "rank": 4,
+      "name": "Gabe Tardio",
+      "country": "アメリカ"
+    },
+    {
+      "rank": 5,
+      "name": "Christian Alshon",
+      "country": "アメリカ"
+    }
+  ],
+  "womens_doubles": [
+    {
+      "rank": 1,
+      "name": "Anna Leigh Waters",
+      "country": "アメリカ"
+    },
+    {
+      "rank": 2,
+      "name": "Anna Bright",
+      "country": "アメリカ"
+    },
+    {
+      "rank": 3,
+      "name": "Tyra Black",
+      "country": "アメリカ"
+    },
+    {
+      "rank": 4,
+      "name": "Catherine Parenteau",
+      "country": "カナダ"
+    },
+    {
+      "rank": 5,
+      "name": "Jorja Johnson",
+      "country": "アメリカ"
+    }
+  ]
+}
