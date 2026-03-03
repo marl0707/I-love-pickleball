@@ -1,0 +1,112 @@
+[
+    {
+        "id": "mistake_001",
+        "rank": 1,
+        "category": "ポジショニング",
+        "title_ja": "「ノーマンズランド」に留まる",
+        "title_en": "Staying in No Man's Land",
+        "description_ja": "ベースラインとキッチンラインの間（トランジションゾーン）に立ち止まること。足元にボールが来やすく、非常に打ちにくい。必ずキッチンラインまで詰めるかベースラインに下がるかの二択を意識する。",
+        "fix_ja": "3rdショットドロップを打った後、すぐにスプリットステップしてキッチンラインまで前進する習慣をつける。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+no+mans+land+mistake"
+    },
+    {
+        "id": "mistake_002",
+        "rank": 2,
+        "category": "テクニック",
+        "title_ja": "力任せに打ちすぎる",
+        "title_en": "Overhitting the Ball",
+        "description_ja": "とにかく強く打とうとしてアウトになる、または相手に簡単にブロックされる初心者の典型ミス。PBはパワーよりもプレースメント（配球）とコントロールが重要。",
+        "fix_ja": "「ソフトハンド」を意識し、パドルを軽く握ってリラックスした状態で正確にボールを導く。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+overhitting+control+tips"
+    },
+    {
+        "id": "mistake_003",
+        "rank": 3,
+        "category": "テクニック",
+        "title_ja": "グリップが間違っている",
+        "title_en": "Improper Paddle Grip",
+        "description_ja": "パドルを掌全体で強く握りすぎたり、変なグリップで持つことでコントロールとパワーの両方が失われる。コンチネンタルグリップ（握手グリップ）が汎用性が高くおすすめ。",
+        "fix_ja": "パドルの柄に「握手」するように手を置き、親指と人差し指でVの字を作る。握る力は3〜4割程度が最適。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+proper+grip+continental"
+    },
+    {
+        "id": "mistake_004",
+        "rank": 4,
+        "category": "ルール",
+        "title_ja": "キッチン（NVZ）の理解不足",
+        "title_en": "Misunderstanding the Kitchen Rules",
+        "description_ja": "ノンボレーゾーンの中で空中のボールを打ってしまう、またはモメンタム（勢い）でNVZに入ってしまうフォルト。逆にキッチンを怖がりすぎて使いこなせないケースも。",
+        "fix_ja": "NVZ内ではバウンド後のみ打てるルールを体で覚える。ディンクの際はNVZラインぎりぎりに立ちつつ、ラインを踏まない感覚を繰り返し練習。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+kitchen+rules+explained"
+    },
+    {
+        "id": "mistake_005",
+        "rank": 5,
+        "category": "ポジショニング",
+        "title_ja": "ネットに詰めない",
+        "title_en": "Not Getting to the Kitchen Line",
+        "description_ja": "ベースラインに居座り続けて攻撃的なポジションを取れない。ダブルスで最も有利な位置はNVZライン。そこに立つことでボレー・ディンク・プレッシャーを支配できる。",
+        "fix_ja": "リターン側は打ったら即ネット前に詰める。サーブ側は3rdショットドロップ→スプリットステップ→前進のルーティンを反復。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+get+to+the+kitchen+line"
+    },
+    {
+        "id": "mistake_006",
+        "rank": 6,
+        "category": "テクニック",
+        "title_ja": "フットワークの軽視",
+        "title_en": "Neglecting Footwork",
+        "description_ja": "手（腕）だけでボールを追おうとし、体全体で移動しない。膝を曲げず棒立ちのまま横に手を伸ばすと正確なショットが打てない。",
+        "fix_ja": "常に膝を軽く曲げ、つま先（ボールオブフット）で立つ。ボールに対して腕ではなく体を動かす意識を持つ。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+footwork+basics+beginners"
+    },
+    {
+        "id": "mistake_007",
+        "rank": 7,
+        "category": "戦略",
+        "title_ja": "3rdショットドロップを練習しない",
+        "title_en": "Neglecting the Third Shot Drop",
+        "description_ja": "サーブ側の3rdショットをただドライブするだけで、ドロップショットの技術を磨かない。ネットに出る手段がなくなり、常にディフェンス側になる。",
+        "fix_ja": "NVZ付近にソフトなドロップを落とす練習を毎日5分以上行う。パドルフェイスをやや上向きにし、下からすくうようにスイング。",
+        "level": "初中級",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+third+shot+drop+practice"
+    },
+    {
+        "id": "mistake_008",
+        "rank": 8,
+        "category": "コミュニケーション",
+        "title_ja": "ダブルスでの声かけ不足",
+        "title_en": "Lack of Communication in Doubles",
+        "description_ja": "パートナーとの「マイン（自分が取る）」「ユアーズ（あなたが取って）」の声かけがなく、ミドルのボールをお見合いしたり衝突する。",
+        "fix_ja": "ミドルのボールは必ず「マイン！」または「ユアーズ！」と声を出す。事前に「フォアハンド側が取る」等のルールを決めておく。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+doubles+communication+tips"
+    },
+    {
+        "id": "mistake_009",
+        "rank": 9,
+        "category": "装備",
+        "title_ja": "シューズ選びの間違い",
+        "title_en": "Wearing the Wrong Shoes",
+        "description_ja": "ランニングシューズでプレーすると横移動での足首捻挫リスク大。PB/テニス用のコートシューズは横方向のサポートが強化されている。",
+        "fix_ja": "ピックルボール専用またはテニス用のコートシューズを使用。靴底がノンマーキングであることも室内コートでは重要。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+shoes+vs+running+shoes"
+    },
+    {
+        "id": "mistake_010",
+        "rank": 10,
+        "category": "テクニック",
+        "title_ja": "レディポジションに戻らない",
+        "title_en": "Not Returning to Ready Position",
+        "description_ja": "ショットを打った後にパドルを下げてしまい、次のボールに反応できない。パドルは常に胸の高さで構え、打ったら即座にレディポジションに戻る。",
+        "fix_ja": "ショット後は「パドルアップ！」と自分に言い聞かせ、胸元でパドルを構える習慣をつける。",
+        "level": "初心者",
+        "youtube_search_url": "https://www.youtube.com/results?search_query=pickleball+ready+position+paddle+up"
+    }
+]

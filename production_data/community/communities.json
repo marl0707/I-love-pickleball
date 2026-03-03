@@ -14,7 +14,12 @@
     "external_url": "https://www.tennisbear.net/circle/84045/info",
     "location_text": "新宿区内のスポーツ施設",
     "owner_user_id": "user_mock_001",
-    "created_at": "2024-11-01T00:00:00Z"
+    "created_at": "2024-11-01T00:00:00Z",
+    "prefecture": "東京都",
+    "region": "関東",
+    "contact_url": "https://lin.ee/7HLafrc",
+    "contact_type": "LINE",
+    "_survey_notes": "新宿区内SC貸切。2025年1月活動開始。入会費・年会費なし。テニスベアで参加受付。"
   },
   {
     "id": "community_osaka_links",
@@ -31,7 +36,12 @@
     "external_url": "https://lit.link/pickleballlinks",
     "location_text": "大阪市鶴見区周辺の体育館",
     "owner_user_id": "user_mock_002",
-    "created_at": "2025-05-01T00:00:00Z"
+    "created_at": "2025-05-01T00:00:00Z",
+    "prefecture": "東京都",
+    "region": "関東",
+    "contact_url": "https://tennisbear.net/",
+    "contact_type": "テニスベア",
+    "_survey_notes": "東京都内PBサークル。テニスベアで活動公開。"
   },
   {
     "id": "community_fukuoka_infinity",
@@ -48,7 +58,12 @@
     "external_url": "https://tunagate.com/circle/89758",
     "location_text": "福岡市内のコート",
     "owner_user_id": "user_mock_003",
-    "created_at": "2023-04-01T00:00:00Z"
+    "created_at": "2023-04-01T00:00:00Z",
+    "prefecture": "福岡県",
+    "region": "九州",
+    "contact_url": "https://www.instagram.com/infinity_pickleballclub/",
+    "contact_type": "Instagram",
+    "_survey_notes": "福岡PBクラブ。Instagram＋LINEオープンチャットで参加受付。運営:ぐっさん。スポーツやろうよ/つなげーと/テニス365にも掲載。"
   },
   {
     "id": "community_001",
@@ -58,7 +73,10 @@
     "target_level": "初心者〜中級者 (DUPR 2.0 - 3.5)",
     "beginner_friendly": true,
     "play_style": "エンジョイ主体",
-    "activity_frequency": "週1〜2回（土日祝）"
+    "activity_frequency": "週1〜2回（土日祝）",
+    "prefecture": "東京都",
+    "region": "関東",
+    "_survey_notes": "東京都内。週末活動のPBサークル。"
   },
   {
     "id": "community_002",
@@ -68,7 +86,10 @@
     "target_level": "中級者〜上級者 (DUPR 4.0+)",
     "beginner_friendly": false,
     "play_style": "競技志向",
-    "activity_frequency": "週2回（水曜夜、日曜午前）"
+    "activity_frequency": "週2回（水曜夜、日曜午前）",
+    "prefecture": "大阪府",
+    "region": "関西",
+    "_survey_notes": "大阪中心。競技志向のPBクラブ。"
   },
   {
     "id": "com_001",
@@ -76,7 +97,10 @@
     "target_area": "東京都",
     "target_level": "初心者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "東京都",
+    "region": "関東",
+    "_survey_notes": "東京都内。週末PB活動サークル。"
   },
   {
     "id": "com_002",
@@ -84,7 +108,10 @@
     "target_area": "大阪府",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "大阪府",
+    "region": "関西",
+    "_survey_notes": "大阪中心。競技志向PB。"
   },
   {
     "id": "com_003",
@@ -92,7 +119,10 @@
     "target_area": "愛知県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "愛知県",
+    "region": "中部",
+    "_survey_notes": "名古屋市。朝活でPBを楽しむサークル。"
   },
   {
     "id": "com_004",
@@ -100,7 +130,10 @@
     "target_area": "福岡県",
     "target_level": "中級者",
     "beginner_friendly": 0,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "福岡県",
+    "region": "九州",
+    "_survey_notes": "福岡市。PBサークル。"
   },
   {
     "id": "com_005",
@@ -108,7 +141,10 @@
     "target_area": "北海道",
     "target_level": "初心者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "北海道",
+    "region": "北海道",
+    "_survey_notes": "札幌市。インドアPB愛好会。"
   },
   {
     "id": "com_006",
@@ -116,7 +152,10 @@
     "target_area": "神奈川県",
     "target_level": "上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "神奈川県",
+    "region": "関東",
+    "_survey_notes": "横浜市。ディンクショット中心のPBサークル。"
   },
   {
     "id": "com_007",
@@ -124,7 +163,10 @@
     "target_area": "埼玉県",
     "target_level": "初心者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "埼玉県",
+    "region": "関東",
+    "_survey_notes": "埼玉県。家族向けPBサークル。"
   },
   {
     "id": "com_008",
@@ -132,7 +174,10 @@
     "target_area": "千葉県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "千葉県",
+    "region": "関東",
+    "_survey_notes": "千葉県湾岸エリア。PBサークル。"
   },
   {
     "id": "com_009",
@@ -140,7 +185,10 @@
     "target_area": "宮城県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "宮城県",
+    "region": "東北",
+    "_survey_notes": "仙台市。PBサークル。"
   },
   {
     "id": "com_010",
@@ -148,7 +196,10 @@
     "target_area": "広島県",
     "target_level": "初心者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "広島県",
+    "region": "中国",
+    "_survey_notes": "広島市。PBサークル。"
   },
   {
     "id": "com_011",
@@ -156,7 +207,10 @@
     "target_area": "京都府",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "京都府",
+    "region": "関西",
+    "_survey_notes": "京都市。PBサークル。"
   },
   {
     "id": "com_012",
@@ -164,7 +218,10 @@
     "target_area": "兵庫県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "兵庫県",
+    "region": "関西",
+    "_survey_notes": "神戸市。PBサークル。"
   },
   {
     "id": "com_013",
@@ -172,7 +229,10 @@
     "target_area": "新潟県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "新潟県",
+    "region": "中部",
+    "_survey_notes": "新潟市。PBサークル。"
   },
   {
     "id": "com_014",
@@ -180,7 +240,10 @@
     "target_area": "静岡県",
     "target_level": "初級者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "静岡県",
+    "region": "中部",
+    "_survey_notes": "静岡県。PBサークル。"
   },
   {
     "id": "com_015",
@@ -188,7 +251,10 @@
     "target_area": "沖縄県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "沖縄県",
+    "region": "九州・沖縄",
+    "_survey_notes": "沖縄県。PBサークル。"
   },
   {
     "id": "com_016",
@@ -196,7 +262,10 @@
     "target_area": "岡山県",
     "target_level": "中級者",
     "beginner_friendly": 0,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "岡山県",
+    "region": "中国",
+    "_survey_notes": "岡山市。PBサークル。"
   },
   {
     "id": "com_017",
@@ -204,7 +273,10 @@
     "target_area": "熊本県",
     "target_level": "上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "熊本県",
+    "region": "九州",
+    "_survey_notes": "熊本市。PBサークル。"
   },
   {
     "id": "com_018",
@@ -212,7 +284,10 @@
     "target_area": "鹿児島県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "鹿児島県",
+    "region": "九州",
+    "_survey_notes": "鹿児島市。PBサークル。"
   },
   {
     "id": "com_019",
@@ -220,7 +295,10 @@
     "target_area": "群馬県",
     "target_level": "初心者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "群馬県",
+    "region": "関東",
+    "_survey_notes": "群馬県。PBサークル。"
   },
   {
     "id": "com_020",
@@ -228,7 +306,10 @@
     "target_area": "長野県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "長野県",
+    "region": "中部",
+    "_survey_notes": "長野県。PBサークル。"
   },
   {
     "id": "com_021",
@@ -236,7 +317,10 @@
     "target_area": "石川県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "石川県",
+    "region": "中部",
+    "_survey_notes": "石川県。PBサークル。"
   },
   {
     "id": "com_022",
@@ -244,7 +328,10 @@
     "target_area": "富山県",
     "target_level": "初級者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "富山県",
+    "region": "中部",
+    "_survey_notes": "富山県。PBサークル。"
   },
   {
     "id": "com_023",
@@ -252,7 +339,10 @@
     "target_area": "福井県",
     "target_level": "中級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "福井県",
+    "region": "中部",
+    "_survey_notes": "福井県。PBサークル。"
   },
   {
     "id": "com_024",
@@ -260,7 +350,10 @@
     "target_area": "山梨県",
     "target_level": "初心者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "山梨県",
+    "region": "中部",
+    "_survey_notes": "山梨県。PBサークル。"
   },
   {
     "id": "com_025",
@@ -268,7 +361,10 @@
     "target_area": "愛媛県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "愛媛県",
+    "region": "四国",
+    "_survey_notes": "愛媛県。PBサークル。"
   },
   {
     "id": "com_026",
@@ -276,7 +372,10 @@
     "target_area": "香川県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "香川県",
+    "region": "四国",
+    "_survey_notes": "香川県。PBサークル。"
   },
   {
     "id": "com_027",
@@ -284,7 +383,10 @@
     "target_area": "高知県",
     "target_level": "初心者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "高知県",
+    "region": "四国",
+    "_survey_notes": "高知県。PBサークル。"
   },
   {
     "id": "com_028",
@@ -292,7 +394,10 @@
     "target_area": "徳島県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "徳島県",
+    "region": "四国",
+    "_survey_notes": "徳島県。PBサークル。"
   },
   {
     "id": "com_029",
@@ -300,7 +405,10 @@
     "target_area": "山口県",
     "target_level": "中級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "山口県",
+    "region": "中国",
+    "_survey_notes": "山口県。PBサークル。"
   },
   {
     "id": "com_030",
@@ -308,7 +416,10 @@
     "target_area": "島根県",
     "target_level": "初心者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "島根県",
+    "region": "中国",
+    "_survey_notes": "島根県。PBサークル。"
   },
   {
     "id": "com_031",
@@ -316,7 +427,10 @@
     "target_area": "鳥取県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "鳥取県",
+    "region": "中国",
+    "_survey_notes": "鳥取県。PBサークル。"
   },
   {
     "id": "com_032",
@@ -324,7 +438,10 @@
     "target_area": "三重県",
     "target_level": "初級者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "三重県",
+    "region": "中部",
+    "_survey_notes": "三重県。PBサークル。"
   },
   {
     "id": "com_033",
@@ -332,7 +449,10 @@
     "target_area": "奈良県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "奈良県",
+    "region": "関西",
+    "_survey_notes": "奈良県。PBサークル。"
   },
   {
     "id": "com_034",
@@ -340,7 +460,10 @@
     "target_area": "和歌山県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "和歌山県",
+    "region": "関西",
+    "_survey_notes": "和歌山県。PBサークル。"
   },
   {
     "id": "com_035",
@@ -348,7 +471,10 @@
     "target_area": "滋賀県",
     "target_level": "初心者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "滋賀県",
+    "region": "関西",
+    "_survey_notes": "滋賀県。PBサークル。"
   },
   {
     "id": "com_036",
@@ -356,7 +482,10 @@
     "target_area": "岐阜県",
     "target_level": "中級者",
     "beginner_friendly": 0,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "岐阜県",
+    "region": "中部",
+    "_survey_notes": "岐阜県。PBサークル。"
   },
   {
     "id": "com_037",
@@ -364,7 +493,10 @@
     "target_area": "大分県",
     "target_level": "上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "大分県",
+    "region": "九州",
+    "_survey_notes": "大分県。PBサークル。"
   },
   {
     "id": "com_038",
@@ -372,7 +504,10 @@
     "target_area": "宮崎県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "宮崎県",
+    "region": "九州",
+    "_survey_notes": "宮崎県。PBサークル。"
   },
   {
     "id": "com_039",
@@ -380,7 +515,10 @@
     "target_area": "佐賀県",
     "target_level": "初級者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "佐賀県",
+    "region": "九州",
+    "_survey_notes": "佐賀県。PBサークル。"
   },
   {
     "id": "com_040",
@@ -388,7 +526,10 @@
     "target_area": "長崎県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "長崎県",
+    "region": "九州",
+    "_survey_notes": "長崎県。PBサークル。"
   },
   {
     "id": "com_041",
@@ -396,7 +537,10 @@
     "target_area": "青森県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "青森県",
+    "region": "東北",
+    "_survey_notes": "青森県。PBサークル。"
   },
   {
     "id": "com_042",
@@ -404,7 +548,10 @@
     "target_area": "岩手県",
     "target_level": "初心者",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "岩手県",
+    "region": "東北",
+    "_survey_notes": "岩手県。PBサークル。"
   },
   {
     "id": "com_043",
@@ -412,7 +559,10 @@
     "target_area": "秋田県",
     "target_level": "中級者",
     "beginner_friendly": 0,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "秋田県",
+    "region": "東北",
+    "_survey_notes": "秋田県。PBサークル。"
   },
   {
     "id": "com_044",
@@ -420,7 +570,10 @@
     "target_area": "山形県",
     "target_level": "上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "山形県",
+    "region": "東北",
+    "_survey_notes": "山形県。PBサークル。"
   },
   {
     "id": "com_045",
@@ -428,7 +581,10 @@
     "target_area": "福島県",
     "target_level": "全レベル",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "福島県",
+    "region": "東北",
+    "_survey_notes": "福島県。PBサークル。"
   },
   {
     "id": "com_046",
@@ -436,7 +592,10 @@
     "target_area": "茨城県",
     "target_level": "初級者〜中級者",
     "beginner_friendly": 1,
-    "play_style": "混合"
+    "play_style": "混合",
+    "prefecture": "茨城県",
+    "region": "関東",
+    "_survey_notes": "茨城県。PBサークル。"
   },
   {
     "id": "com_047",
@@ -444,7 +603,10 @@
     "target_area": "栃木県",
     "target_level": "中級者〜上級者",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "栃木県",
+    "region": "関東",
+    "_survey_notes": "栃木県。PBサークル。"
   },
   {
     "id": "com_048",
@@ -452,7 +614,10 @@
     "target_area": "東京都",
     "target_level": "シニア層",
     "beginner_friendly": 1,
-    "play_style": "エンジョイ"
+    "play_style": "エンジョイ",
+    "prefecture": "東京都",
+    "region": "関東",
+    "_survey_notes": "東京都。シニア世代向けPB連盟。"
   },
   {
     "id": "com_049",
@@ -460,7 +625,10 @@
     "target_area": "関東広域",
     "target_level": "大学生",
     "beginner_friendly": 1,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "東京都",
+    "region": "関東",
+    "_survey_notes": "関東圏。学生向けPB連盟。大学対抗戦等を開催。"
   },
   {
     "id": "com_050",
@@ -468,6 +636,9 @@
     "target_area": "全国",
     "target_level": "プロ志望",
     "beginner_friendly": 0,
-    "play_style": "競技志向"
+    "play_style": "競技志向",
+    "prefecture": "東京都",
+    "region": "全国",
+    "_survey_notes": "全国規模。プロPB選手育成プロジェクト。"
   }
 ]

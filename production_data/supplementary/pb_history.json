@@ -1,0 +1,86 @@
+[
+    {
+        "id": "hist_001",
+        "year": 1965,
+        "title_ja": "ピックルボール誕生",
+        "description_ja": "ワシントン州ベインブリッジ島でジョエル・プリチャード（下院議員）、ビル・ベル、バーニー・マッカラムの3人が発明。ゴルフから帰宅した夏の午後、退屈している家族のために即興でゲームを作った。バドミントンコートにテーブルテニスのパドルとウィッフルボールを使用。ネットはバドミントンの高さから36インチに下げた。",
+        "key_people": [
+            "Joel Pritchard",
+            "Bill Bell",
+            "Barney McCallum"
+        ],
+        "location": "Bainbridge Island, Washington, USA"
+    },
+    {
+        "id": "hist_002",
+        "year": 1967,
+        "title_ja": "初の常設コート建設",
+        "description_ja": "プリチャードの友人ボブ・オブライアンの裏庭にベインブリッジ島初の常設ピックルボールコートが建設された。"
+    },
+    {
+        "id": "hist_003",
+        "year": 1968,
+        "title_ja": "Pickle Ball Inc. 設立",
+        "description_ja": "ピックルボール用具の最初のメーカー・販売会社としてPickle Ball Inc.（後のPickel-Ball Inc.）が設立。商業化の第一歩。"
+    },
+    {
+        "id": "hist_004",
+        "year": 1972,
+        "title_ja": "スポーツ保護のための法人化",
+        "description_ja": "ピックルボールをスポーツとして保護するための法人が設立された。"
+    },
+    {
+        "id": "hist_005",
+        "year": 1976,
+        "title_ja": "初のトーナメント開催",
+        "description_ja": "ワシントン州タクウィラのSouth Center Athletic Clubで初の公式ピックルボールトーナメントが開催。Tennis Magazineが「アメリカ最新のラケットスポーツ」として特集。"
+    },
+    {
+        "id": "hist_006",
+        "year": 1984,
+        "title_ja": "USA Pickleball（USAPA）設立",
+        "description_ja": "United States Amateur Pickleball Association（現USA Pickleball）が設立。全米でのスポーツ普及を目的とし、初の公式ルールブックが発行された。"
+    },
+    {
+        "id": "hist_007",
+        "year": 2005,
+        "title_ja": "全米規模の競技大会スタート",
+        "description_ja": "USA Pickleballが主催する全米規模のトーナメントが本格化。コート数や公認クラブの増加が加速。"
+    },
+    {
+        "id": "hist_008",
+        "year": 2019,
+        "title_ja": "PPA Tour 設立",
+        "description_ja": "Professional Pickleball Association（PPA）ツアーが設立。プロ選手による賞金付きトーナメントシリーズが開始。Ben JohnsやAnna Leigh Watersらが台頭。"
+    },
+    {
+        "id": "hist_009",
+        "year": 2021,
+        "title_ja": "MLP（Major League Pickleball）創設",
+        "description_ja": "チーム制のプロリーグ Major League Pickleball が創設。LeBron James、Tom Bradyなどセレブリティオーナーが参入し社会的注目度が急上昇。"
+    },
+    {
+        "id": "hist_010",
+        "year": 2022,
+        "title_ja": "ワシントン州公式スポーツ認定",
+        "description_ja": "発祥の地ワシントン州がピックルボールを州の公式スポーツとして正式認定。全米プレイヤー数が4,860万人を突破。"
+    },
+    {
+        "id": "hist_011",
+        "year": 2023,
+        "title_ja": "PPA Tour と MLP 統合",
+        "description_ja": "PPAツアーとMLPが統合され、プロピックルボールの一体的な運営体制が確立。賞金総額も大幅に増加。"
+    },
+    {
+        "id": "hist_012",
+        "year": 2025,
+        "title_ja": "アジア・欧州への国際展開",
+        "description_ja": "PPA Tour Asia開始、European Pickleball Federation設立、欧州スポーツ評議会がPBを公式承認。世界のPB市場規模は18億ドルに到達。2032年オリンピック候補として活動中。"
+    },
+    {
+        "id": "hist_name_origin",
+        "year": 1965,
+        "title_ja": "「ピックルボール」名前の由来",
+        "description_ja": "名前の由来には2つの説がある。(1) ジョエル・プリチャードの妻ジョアンが、様々な競技の「残り物」を組み合わせた点がボート競技の「ピクルボート（余り物で編成するクルー）」に似ていると名付けた説。(2) プリチャード家の犬「ピクルス」がボールを追いかけて遊んだことから名付けた説。ただしUSA Pickleballの公式見解では犬は後から来たもので、ゲームの名にちなんで犬に名付けたとされている。"
+    }
+]
