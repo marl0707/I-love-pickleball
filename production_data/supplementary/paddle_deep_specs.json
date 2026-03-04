@@ -1,0 +1,102 @@
+[
+    {
+        "id": "paddle_spec_joola_scorpeus_3s_16",
+        "brand": "JOOLA",
+        "model": "Collin Johns Scorpeus 3S 16mm",
+        "generation": "Gen 3S",
+        "certification": "UPA-A認定",
+        "signature_player": "Collin Johns",
+        "specs": {
+            "weight_oz": "8.0 - 8.1（範囲: 7.8 - 8.2）",
+            "swing_weight": 111.05,
+            "length_in": 16,
+            "width_in": 8,
+            "handle_length_in": 5.25,
+            "grip_circumference_in": 4.25,
+            "core_material": "Propulsion Core（ポリプロピレン＋フォームのハイブリッド反応型ハニカムポリマー）",
+            "core_thickness_mm": 16,
+            "surface_material": "Charged Carbon Surface（カーボンファイバー＋Peel Plyテクスチャ）",
+            "spin_rpm_avg": 2205,
+            "nfc_chip": true
+        },
+        "performance_review": {
+            "power": "高い（Propulsion Coreによる爆発的なエネルギーリターン）",
+            "control": "高い（16mm厚コアが衝撃を吸収しドウェルタイム確保）",
+            "spin": "非常に高い（Peel Plyテクスチャで平均2205RPM）",
+            "sweet_spot": "大きい（寛容性が高い）",
+            "forgiveness": "高い（ミスヒットに強い）",
+            "best_for": "中級〜上級プレイヤー、コントロールとスピン重視",
+            "cons": [
+                "14mmモデルより衝撃が少ない分パワー感はややマイルド"
+            ]
+        },
+        "price_range_usd": "200 - 250",
+        "data_source": "JOOLA公式/Pickleheads/JustPaddles/PickleballEffect（2025年）"
+    },
+    {
+        "id": "paddle_spec_selkirk_vanguard_power_air_invikta",
+        "brand": "Selkirk",
+        "model": "Vanguard Power Air Invikta",
+        "generation": "Labs Project 002",
+        "certification": "USAP認定",
+        "signature_player": "Tyson McGuffin",
+        "specs": {
+            "weight_oz": "7.7 - 8.2",
+            "length_in": 16.5,
+            "width_in": 7.375,
+            "handle_length_in": 5.25,
+            "grip_circumference_in": 4.25,
+            "core_material": "SuperCore Polymer Honeycomb",
+            "core_thickness_mm": 13,
+            "surface_material": "QuadFlex 4-Layer Hybrid Face（ファイバーグラス＋カーボンファイバーの4層構造）",
+            "edge_guard": "Aero-DuraEdge Edgeless Technology（エッジレス設計）",
+            "flex_foam": "FlexFoam（ペリメーター注入で一貫したパフォーマンス）",
+            "air_dynamic_throat": true,
+            "spin_texture": "ProSpin+ NextGen Texture"
+        },
+        "performance_review": {
+            "power": "非常に高い（13mm薄型コア＋エロンゲートシェイプで高速スイング）",
+            "control": "中程度（パワー寄り設計だがQuadFlex面でバランスを取る）",
+            "spin": "非常に高い（ProSpin+ NextGenテクスチャ）",
+            "sweet_spot": "パワーパドルとしては大きい",
+            "maneuverability": "高い（Air Dynamic Throat＋エッジレス設計）",
+            "best_for": "攻撃的プレイヤー、パワーとスピン重視",
+            "cons": [
+                "打球音がやや大きい",
+                "エッジレス設計のため地面打ちつけでチッピングしやすい（テープ保護推奨）",
+                "繊細なタッチショットは要練習"
+            ]
+        },
+        "price_range_usd": "200 - 260",
+        "data_source": "Selkirk公式/JustPaddles/PickleballEffect/WearTesters（2024-2025年）"
+    },
+    {
+        "id": "paddle_spec_joola_hyperion_cfs_16",
+        "brand": "JOOLA",
+        "model": "Ben Johns Hyperion CFS 16mm",
+        "generation": "CFS (Carbon Friction Surface)",
+        "certification": "USAP認定",
+        "signature_player": "Ben Johns",
+        "specs": {
+            "weight_oz": "7.9 - 8.4",
+            "length_in": 16.5,
+            "width_in": 7.5,
+            "handle_length_in": 5.5,
+            "grip_circumference_in": 4.25,
+            "core_material": "Reactive Honeycomb Polymer Core",
+            "core_thickness_mm": 16,
+            "surface_material": "Carbon Friction Surface（カーボンファイバー＋テクスチャ加工）",
+            "edge_guard": "標準エッジガード"
+        },
+        "performance_review": {
+            "power": "高い（エロンゲートシェイプでレバレッジ効果）",
+            "control": "非常に高い（16mm厚コアのドウェルタイム＋CFS面）",
+            "spin": "高い（Carbon Friction Surface）",
+            "sweet_spot": "中程度（細身のため中心精度が重要）",
+            "best_for": "コントロールとスピン重視の上級者、Ben Johnsスタイル"
+        },
+        "price_range_usd": "180 - 230",
+        "data_source": "JOOLA公式/Pickleheads/レビューサイト各種（2024年）",
+        "note": "Ben JohnsはPerseus 16に移行しているが、Hyperionシリーズも人気継続中"
+    }
+]

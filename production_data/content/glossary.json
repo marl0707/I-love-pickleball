@@ -782,5 +782,40 @@
     "term_ja": "ハイブリッドゲーム",
     "category": "インクルージョン",
     "description": "車椅子プレイヤーと立位プレイヤーが一緒にプレーする試合形式。それぞれ自分のルール（車椅子は2バウンド可、立位は1バウンド）に従いながら対等に競い合う。インクルーシブなスポーツ文化を象徴するPBの特徴。"
+  },
+  {
+    "id": "term_propulsion_core",
+    "term_en": "Propulsion Core",
+    "term_ja": "プロパルジョンコア",
+    "category": "ギア・テクノロジー",
+    "description": "JOOLA独自のコア技術。ポリプロピレンとフォームを融合させた反応型ハニカムポリマーコア。爆発的なパワーとドウェルタイム（ボール接触時間）を両立させる設計。Gen 3Sモデル（Scorpeus等）に搭載。"
+  },
+  {
+    "id": "term_quadflex",
+    "term_en": "QuadFlex 4-Layer Hybrid Face",
+    "term_ja": "クアッドフレックス4層ハイブリッド面",
+    "category": "ギア・テクノロジー",
+    "description": "Selkirk独自のパドル面技術。ファイバーグラス（パワー）とカーボンファイバー（コントロール）の4層構造。パワーとコントロールの両方を1枚の面で実現する設計。Vanguard Power Airシリーズに搭載。"
+  },
+  {
+    "id": "term_peel_ply",
+    "term_en": "Peel Ply Texture",
+    "term_ja": "ピールプライテクスチャ",
+    "category": "ギア・テクノロジー",
+    "description": "カーボンファイバーパドルの製造過程で使用される表面テクスチャ処理。粗いテクスチャがボールに食い込み、高いスピン生成を可能にする。JOOLA等のGen 3Sパドルで採用。"
+  },
+  {
+    "id": "term_metabolic_window",
+    "term_en": "Metabolic Window",
+    "term_ja": "代謝ウィンドウ",
+    "category": "栄養・コンディショニング",
+    "description": "運動終了後30〜60分の時間帯。この間に栄養を摂取すると、グリコーゲン補充と筋肉修復が最も効率的に行われる。PBの試合後はこの時間内にたんぱく質20-30gと炭水化物を3:1〜4:1の比率で摂取するのが理想的。"
+  },
+  {
+    "id": "term_upa_a",
+    "term_en": "UPA-A Certification",
+    "term_ja": "UPA-A認定",
+    "category": "ルール・組織",
+    "description": "USA Pickleball（USAP）が2025年から導入したパドル認証規格。プロ選手が公式大会で使用するパドルはUPA-A認定を受ける必要がある。パドルのコア反発力、面の粗さ、重量バランス等を厳格にテスト。"
   }
 ]

@@ -7,9 +7,33 @@
     "birth_date": "1999-04-18",
     "play_style": "オールラウンダー / コントロール重視 / 世界No.1のディフェンス力とサードショットドロップ",
     "league_affiliation": "PPA Tour",
-    "ranking_singles": 1,
+    "ranking_singles": 2,
     "ranking_doubles": 1,
+    "ranking_mixed": 1,
     "participating_tournaments": "US Open, PPA Masters, MLP MVP等 多数優勝",
+    "career_stats": {
+      "ppa_titles": 123,
+      "triple_crowns": 21,
+      "total_medals": {
+        "gold": 169,
+        "silver": 18,
+        "bronze": 12
+      },
+      "dupr_singles": 7.096,
+      "dupr_doubles": 7.396,
+      "medal_rate_ppa": "100%（59大会連続メダル、2024年5月時点）",
+      "notable_records": [
+        "PPA史上最多トリプルクラウン21回（他男子選手は最多1回）",
+        "Anna Leigh Watersと混合ダブルス16連続優勝（2023.3〜2024.2）",
+        "2020〜2024年の大半で全3部門世界ランク1位を維持"
+      ],
+      "recent_results_2026": [
+        "Carvana Mesa Cup: 男子ダブルス金（with Gabe Tardio、10度目のペア優勝）",
+        "Carvana Mesa Cup: シングルス銀（Christopher Haworthに決勝で敗退）",
+        "Carvana Mesa Cup: 混合ダブルス銀（Anna Bright & Hayden Patriquinに敗退）"
+      ],
+      "data_source": "PPA Tour公式/Forbes/Picklewave（2026年2月時点）"
+    },
     "paddle_ids": "paddle_joola_perseus_16",
     "shoe_ids": null,
     "apparel_brand_sponsor": "JOOLA",
@@ -29,7 +53,41 @@
     "league_affiliation": "PPA Tour",
     "ranking_singles": 1,
     "ranking_doubles": 1,
+    "ranking_mixed": 1,
     "participating_tournaments": "PPA Triple Crown 最多獲得",
+    "career_stats": {
+      "total_gold_medals": 181,
+      "triple_crowns": 39,
+      "career_wins": 862,
+      "career_win_rate": "93.8%",
+      "2025_season": {
+        "gold": 38,
+        "silver": 2,
+        "bronze": 3,
+        "tournaments": 17,
+        "singles_undefeated": true,
+        "singles_titles": 12,
+        "triple_crowns_2025": 8
+      },
+      "notable_records": [
+        "プロPB史上最多メダル＆最多トリプルクラウン保持者",
+        "12歳でプロ転向（PB史上最年少プロ選手）",
+        "2025年シングルス全勝（12大会12冠）",
+        "2025年PPA Worldsで168thキャリアタイトル"
+      ],
+      "doubles_partners": [
+        {
+          "name": "Ben Johns",
+          "category": "混合ダブルス"
+        },
+        {
+          "name": "Anna Bright",
+          "category": "女子ダブルス（2025年〜）",
+          "gold_together": 7
+        }
+      ],
+      "data_source": "PPA Tour公式/Forbes/Wikipedia（2026年1月時点）"
+    },
     "paddle_ids": null,
     "shoe_ids": null,
     "apparel_brand_sponsor": "FILA",
@@ -50,6 +108,31 @@
     "ranking_singles": 3,
     "ranking_doubles": 4,
     "participating_tournaments": "PPA Tour Finals 優勝歴",
+    "career_stats": {
+      "career_matches": 654,
+      "career_wins": 410,
+      "career_win_rate": "62.7%",
+      "total_medals": 89,
+      "ppa_titles": 15,
+      "ppa_championship_titles": 7,
+      "grand_slam_champion": 5,
+      "us_open_champion": 2,
+      "national_champion": 4,
+      "triple_crowns": 2,
+      "dupr_singles": 6.861,
+      "dupr_doubles": 6.737,
+      "2025_season": {
+        "matches": 169,
+        "win_rate": "60.4%",
+        "doubles_record": "49-32",
+        "mixed_record": "40-29",
+        "singles_record": "13-6"
+      },
+      "recent_results": [
+        "2025年2月 Proton Australia Open: 混合ダブルス金（with Lacy Schneemann）"
+      ],
+      "data_source": "Picklewave/PPA Tour公式/tysonmcguffin.com（2026年3月時点）"
+    },
     "paddle_ids": "paddle_selkirk_vanguard_16",
     "shoe_ids": "shoe_skechers_viper_court",
     "apparel_brand_sponsor": "Skechers / Selkirk",
@@ -782,5 +865,98 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/haruna-shima/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=%E5%B6%8B%E6%99%B4%E8%8F%9C+%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "pro_anna_bright",
+    "name_ja": "アンナ・ブライト",
+    "name_en": "Anna Bright",
+    "nationality": "USA",
+    "birth_date": null,
+    "play_style": "パワフルなドライブ / 女子ダブルスのスペシャリスト / 安定したカウンター",
+    "league_affiliation": "PPA Tour",
+    "ranking_singles": 91,
+    "ranking_doubles": 2,
+    "ranking_mixed": 3,
+    "participating_tournaments": "PPA Tour, MLP",
+    "career_stats": {
+      "career_matches": 773,
+      "career_win_rate": "78.7%",
+      "total_medals": 135,
+      "ppa_gold_medals": 48,
+      "ppa_gold_breakdown": {
+        "womens_doubles": 33,
+        "mixed_doubles": 10,
+        "singles": 5
+      },
+      "2025_doubles_partner": "Anna Leigh Waters（女子ダブルス7金獲得）",
+      "previous_partners": [
+        "Rachel Rohrabacher（女子D）",
+        "James Ignatowich（混合D）",
+        "Andrei Daescu（混合D）"
+      ],
+      "notable_achievements": [
+        "PPA Tour史上2人目の金銀銅各30個以上獲得者",
+        "2022 Newport Beach MLP Championship co-MVP",
+        "2023 MLP Atlanta MVP",
+        "2025年Anna Leigh Watersとペア結成後7金獲得"
+      ],
+      "recent_results_2026": [
+        "Carvana Mesa Cup: 混合ダブルス金（with Hayden Patriquin）",
+        "Carvana Mesa Cup: 女子ダブルス金（with Anna Leigh Waters）"
+      ],
+      "data_source": "Picklewave/PPA Tour公式/Forbes/pickleball-wiki（2026年3月時点）"
+    },
+    "paddle_ids": null,
+    "shoe_ids": null,
+    "apparel_brand_sponsor": null,
+    "instagram_url": "https://www.instagram.com/annabright_pb",
+    "facebook_url": null,
+    "x_url": null,
+    "photo_url": "https://www.ppatour.com/player/anna-bright/",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Anna+Bright+pickleball"
+  },
+  {
+    "id": "pro_federico_staksrud",
+    "name_ja": "フェデリコ・スタクスルド",
+    "name_en": "Federico Staksrud",
+    "nationality": "Argentina",
+    "birth_date": null,
+    "play_style": "攻撃的パワーベースライン / テニスバックグラウンド / 戦略的適応力",
+    "league_affiliation": "PPA Tour",
+    "ranking_singles": 1,
+    "ranking_doubles": 1,
+    "ranking_mixed": 5,
+    "participating_tournaments": "PPA Tour, US Open, PPA Worlds",
+    "career_stats": {
+      "career_matches": 987,
+      "career_win_rate": "70.6%",
+      "dupr_singles": 7.168,
+      "dupr_doubles": 7.011,
+      "tennis_background": "アルゼンチンU18ランキング7位",
+      "pro_since": 2021,
+      "2025_season": {
+        "matches": 283,
+        "win_rate": "72.4%",
+        "wins": 205,
+        "losses": 78
+      },
+      "notable_achievements": [
+        "PPA史上初のシングルス＆ダブルス同時1位（2025年）",
+        "2025 US Open Pickleball Championships シングルス金",
+        "2025 PPA Worlds 男子ダブルス金（with Hayden Patriquin）",
+        "2024 PPA Arizona Grand Slam 金",
+        "2024シーズン24大会中20大会でメダル獲得",
+        "Ben Johnsからシングルス世界1位を奪取"
+      ],
+      "data_source": "Picklewave/PPA Tour公式/Forbes/101-pickleball（2026年3月時点）"
+    },
+    "paddle_ids": null,
+    "shoe_ids": null,
+    "apparel_brand_sponsor": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "x_url": null,
+    "photo_url": "https://www.ppatour.com/player/federico-staksrud/",
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Federico+Staksrud+pickleball"
   }
 ]

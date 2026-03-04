@@ -725,5 +725,33 @@
     "related_gear_ids": [],
     "related_facility_ids": [],
     "related_player_ids": []
+  },
+  {
+    "id": "art_60",
+    "title": "【パドル技術徹底解剖】Propulsion Core・QuadFlex・CFS…最新テクノロジーの全貌",
+    "category": "ギア・用具",
+    "target_audience": "中級〜上級",
+    "content_summary": "3大パドルの技術を個別に深堀り: (1)JOOLA Scorpeus 3S=Propulsion Core(PP+フォーム混合)で爆発的パワー+Charged Carbon Peel Plyで平均2205RPMスピン。16mm厚で制御力◎。UPA-A認定 (2)Selkirk Vanguard Power Air Invikta=SuperCore 13mm+QuadFlex 4層ハイブリッド面(FG+CF)+Aero-DuraEdgeエッジレス+Air Dynamic Throat。パワー最重視設計 (3)JOOLA Hyperion CFS=Reactive Honeycomb+Carbon Friction Surface。Ben Johns愛用のコントロール寄りモデル。価格帯$180-260。",
+    "status": "published",
+    "related_gear_ids": [
+      "paddle_spec_joola_scorpeus_3s_16",
+      "paddle_spec_selkirk_vanguard_power_air_invikta"
+    ],
+    "related_facility_ids": [],
+    "related_player_ids": [
+      "pro_ben_johns",
+      "pro_tyson_mcguffin"
+    ]
+  },
+  {
+    "id": "art_61",
+    "title": "【PBプレイヤー栄養学】試合前・中・後のベスト食事戦略と水分補給の科学",
+    "category": "健康・フィットネス",
+    "target_audience": "全レベル",
+    "content_summary": "3フェーズ栄養ガイド: [試合前2-4h] 体重1kgあたり炭水化物1-4g＋蛋白質20-30g(オートミール+バナナ等)。水480-600ml。脂質・食物繊維は避ける [試合中] 15-20分毎に210-300ml補給。60分超なら炭水化物30-60g/h(バナナ/おにぎり/エナジーバー)。暑い日は電解質ドリンク必須 [試合後30-60分] 蛋白質20-30g(鶏胸/サーモン/プロテインシェイク)+炭水化物:蛋白質=3-4:1。チョコミルクが理想比率。ダークベリー/タルトチェリーで筋肉痛軽減。ソース: PB Magazine/DUPR/Selkirk/PPA Tour。",
+    "status": "published",
+    "related_gear_ids": [],
+    "related_facility_ids": [],
+    "related_player_ids": []
   }
 ]

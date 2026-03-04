@@ -209,7 +209,7 @@
     "_facility_name": "ラウンドワンスタジアム川崎大師店",
     "_facility_index": 22,
     "paddle_rental_fee": "無料(スポッチャ利用料に含む)",
-    "_survey_notes": "川崎市。スポッチャ内PB。パドル・ボール無料レンタル。"
+    "_survey_notes": "ラウンドワン スポッチャ。パドル・ボール無料(スポッチャ利用料込)。全国17店舗対応(round1.co.jp確認)。"
   },
   {
     "has_paddle_rental": true,
@@ -261,7 +261,7 @@
     "_facility_name": "ラウンドワンスタジアム朝霞店",
     "_facility_index": 29,
     "paddle_rental_fee": "無料(スポッチャ利用料に含む)",
-    "_survey_notes": "朝霞市。スポッチャ内PB。パドル・ボール無料レンタル。"
+    "_survey_notes": "ラウンドワン スポッチャ。パドル・ボール無料(スポッチャ利用料込)。全国17店舗対応(round1.co.jp確認)。"
   },
   {
     "has_paddle_rental": true,
@@ -269,7 +269,7 @@
     "_facility_name": "ラウンドワンスタジアムららぽーと新三郷店",
     "_facility_index": 30,
     "paddle_rental_fee": "無料(スポッチャ利用料に含む)",
-    "_survey_notes": "三郷市。スポッチャ内PB。パドル・ボール無料レンタル。"
+    "_survey_notes": "ラウンドワン スポッチャ。パドル・ボール無料(スポッチャ利用料込)。全国17店舗対応(round1.co.jp確認)。"
   },
   {
     "has_paddle_rental": 1,
@@ -279,11 +279,11 @@
     "_survey_notes": "テニス用ハードコートをPB用に転用。通常2-4面利用可能。施設全体は14-15面のテニスコート保有。千葉県柏市。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "スポーツコミュニティー市川浦安店",
     "_facility_index": 32,
-    "_survey_notes": "テニス兼用コート(Aコート/Bコート/Cコート)をPBに使用。初心者向け無料体験あり。"
+    "_survey_notes": "千葉県市川市。テニス兼用インドアコートでPB利用可。初心者クリニック+無料体験会定期開催。パドルレンタル可(料金要確認)。"
   },
   {
     "has_paddle_rental": true,
@@ -294,18 +294,19 @@
     "_survey_notes": "千葉ニュータウン。インドアハード3面。PB体験会でパドル無料レンタル。毎週定期開催。"
   },
   {
-    "has_paddle_rental": 0,
+    "has_paddle_rental": true,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "千葉市立弁天小学校体育館",
     "_facility_index": 34,
-    "_survey_notes": "千葉県千葉市。小学校体育館でPB活動。面数不明。"
+    "_survey_notes": "千葉市。pickleball千葉:SAMURAI主催。パドルレンタル可。レベル別練習会。"
   },
   {
-    "has_paddle_rental": 0,
+    "has_paddle_rental": true,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "磯辺スポーツセンター体育館",
     "_facility_index": 35,
-    "_survey_notes": "千葉県千葉市。スポーツセンター体育館でPB活動。面数不明。"
+    "_survey_notes": "千葉市美浜区。SAMURAI練習会でパドルレンタル可(参加費1,000円に含む)。",
+    "paddle_rental_fee": "参加費1,000円に含む"
   },
   {
     "has_paddle_rental": true,
@@ -353,11 +354,12 @@
     "_survey_notes": "2021年オープン。屋外PB専用コート1面。栃木県。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "パドル・ボールのレンタルあり（個人参加プログラム時）",
     "_facility_name": "日環アリーナ栃木",
     "_facility_index": 42,
-    "_survey_notes": "栃木市。メインアリーナ(バスケ4面分)・サブアリーナ(バスケ2面分)。PB教室開催(火曜定員32名/水木定員16名)。常設PBコートなし、多目的スペース転用。"
+    "_survey_notes": "宇都宮市。個人参加型PB 700円/回。パドル有料レンタル(数限定)。火水木曜開催。gsz-eastarea.com確認。",
+    "paddle_rental_fee": "有料(数量限定)"
   },
   {
     "has_paddle_rental": true,
@@ -385,11 +387,11 @@
     "_survey_notes": "群馬県。ピックルボール練習場1面。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ティップネス太田",
     "_facility_index": 46,
-    "_survey_notes": "群馬県太田市。スタジオ利用でPBコート1面。"
+    "_survey_notes": "太田市。インドア1面。ギアレンタル可(pickle-one.com確認)。PBサークル常設。"
   },
   {
     "has_paddle_rental": true,
@@ -428,11 +430,12 @@
     "_survey_notes": "栃木県宇都宮市。セントラルスポーツ施設内でPBクラブ活動。面数不明。"
   },
   {
-    "has_paddle_rental": 0,
+    "has_paddle_rental": true,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "宇都宮市清原体育館",
     "_facility_index": 52,
-    "_survey_notes": "栃木県宇都宮市。清原体育館でPB活動。面数不明。"
+    "_survey_notes": "宇都宮市。市がPBパドル・ボールをニュースポーツ用具として無料貸出。イベント参加費500円に用具込。",
+    "paddle_rental_fee": "無料(市ニュースポーツ用具貸出)"
   },
   {
     "rental_detail": "日本最大級のピックルボールショップ併設。パドルの試打や購入が可能。",
@@ -1125,7 +1128,7 @@
     "_facility_name": "ラウンドワンスタジアム福島店",
     "_facility_index": 199,
     "paddle_rental_fee": "無料(スポッチャ利用料に含む)",
-    "_survey_notes": "福島市。スポッチャ内PB。パドル・ボール無料レンタル。"
+    "_survey_notes": "ラウンドワン スポッチャ。パドル・ボール無料(スポッチャ利用料込)。全国17店舗対応(round1.co.jp確認)。"
   },
   {
     "has_paddle_rental": 0,
@@ -1369,7 +1372,7 @@
     "_facility_name": "ラウンドワンスタジアム城山店",
     "_facility_index": 240,
     "paddle_rental_fee": "無料(スポッチャ利用料に含む)",
-    "_survey_notes": "鹿児島市。スポッチャ内PB。パドル・ボール無料レンタル。"
+    "_survey_notes": "ラウンドワン スポッチャ。パドル・ボール無料(スポッチャ利用料込)。全国17店舗対応(round1.co.jp確認)。"
   },
   {
     "has_paddle_rental": true,
