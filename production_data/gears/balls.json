@@ -25,7 +25,8 @@
     "price_tier": "不明",
     "weight_oz": 0.88,
     "diameter_in": 2.91,
-    "spec_source": "pickleballcentral.com"
+    "spec_source": "pickleballcentral.com",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_dura_fast_40",
@@ -50,7 +51,8 @@
     "price_tier": "不明",
     "weight_oz": 0.92,
     "diameter_in": 2.9375,
-    "spec_source": "pickleballcentral.com"
+    "spec_source": "pickleballcentral.com",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_joola_primo",
@@ -71,7 +73,8 @@
     "price_tier": "不明",
     "weight_oz": 0.917,
     "diameter_in": 2.913,
-    "spec_source": "ebay.com official listing"
+    "spec_source": "ebay.com official listing",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_onix_fuse_indoor",
@@ -94,7 +97,8 @@
     "product_url": "https://www.onixpickleball.com/products/fuse-indoor-pickleball",
     "weight_oz": 0.917,
     "diameter_in": 2.913,
-    "spec_source": "pickleballeurosphere.com (26g, 74mm)"
+    "spec_source": "pickleballeurosphere.com (26g, 74mm)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_vulcan_v520",
@@ -113,7 +117,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20Control%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "franklin-x-40",
@@ -142,7 +147,8 @@
     "price_tier": "不明",
     "weight_oz": 0.88,
     "diameter_in": 2.91,
-    "spec_source": "pickleballcentral.com"
+    "spec_source": "pickleballcentral.com",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "dura-fast-40",
@@ -169,7 +175,8 @@
     "price_tier": "不明",
     "weight_oz": 0.92,
     "diameter_in": 2.9375,
-    "spec_source": "pickleballcentral.com"
+    "spec_source": "pickleballcentral.com",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "vulcan-v520",
@@ -193,7 +200,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_01",
@@ -217,7 +225,8 @@
     "price_tier": "不明",
     "weight_oz": 0.88,
     "diameter_in": 2.91,
-    "spec_source": "pickleballcentral.com (X-40)"
+    "spec_source": "pickleballcentral.com (X-40)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_02",
@@ -236,7 +245,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-26%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_03",
@@ -258,7 +268,8 @@
     "price_tier": "不明",
     "weight_oz": 0.88,
     "diameter_in": 2.91,
-    "spec_source": "pickleballcentral.com (X-40 Performance)"
+    "spec_source": "pickleballcentral.com (X-40 Performance)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_04",
@@ -281,7 +292,8 @@
     "price_tier": "不明",
     "weight_oz": 0.92,
     "diameter_in": 2.9375,
-    "spec_source": "pickleballcentral.com (Dura Fast 40)"
+    "spec_source": "pickleballcentral.com (Dura Fast 40)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_05",
@@ -302,7 +314,8 @@
     "price_tier": "不明",
     "weight_oz": 0.917,
     "diameter_in": 2.9,
-    "spec_source": "pickleballcentral.com (Fuse G2 Outdoor)"
+    "spec_source": "pickleballcentral.com (Fuse G2 Outdoor)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_06",
@@ -323,7 +336,8 @@
     "price_tier": "不明",
     "weight_oz": 0.928,
     "diameter_in": 2.9,
-    "spec_source": "pickleballgalaxy.com (Pure 2)"
+    "spec_source": "pickleballgalaxy.com (Pure 2)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_07",
@@ -340,7 +354,8 @@
     "hole_count": 26,
     "image_url": "https://www.google.com/search?tbm=isch&q=CORE%20CORE%20Pickleball%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_08",
@@ -357,7 +372,8 @@
     "hole_count": 40,
     "image_url": "https://www.google.com/search?tbm=isch&q=CORE%20CORE%20Pickleball%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_10",
@@ -375,7 +391,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Radius%20Outdoor%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_11",
@@ -392,7 +409,8 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Junior%20Soft%20Ball",
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Junior%20Soft%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_12",
@@ -414,7 +432,8 @@
     "price_tier": "不明",
     "weight_oz": 0.93,
     "diameter_in": 2.8,
-    "spec_source": "pickleballcentral.com (Selkirk Pro S1)"
+    "spec_source": "pickleballcentral.com (Selkirk Pro S1)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_13",
@@ -432,7 +451,8 @@
     "features": "騒音制限コート向け静音フォームボール",
     "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Foam%20Quiet%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_14",
@@ -454,7 +474,8 @@
     "price_tier": "不明",
     "weight_oz": 0.924,
     "diameter_in": 2.893,
-    "spec_source": "adasportsandrackets.com (Penn 40: 26.2g, 73.5mm)"
+    "spec_source": "adasportsandrackets.com (Penn 40: 26.2g, 73.5mm)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_15",
@@ -472,7 +493,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20Tru%2032%20Pro%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_16",
@@ -492,7 +514,8 @@
     "price_tier": "不明",
     "weight_oz": 0.897,
     "diameter_in": 2.92,
-    "spec_source": "pickleballcentral.com (Engage Tour)"
+    "spec_source": "pickleballcentral.com (Engage Tour)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_17",
@@ -510,7 +533,8 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A",
     "image_url": "https://www.google.com/search?tbm=isch&q=Amazin'%20Aces%20%E7%B7%B4%E7%BF%92%E7%94%A86%E5%80%8B%E5%85%A5%E3%82%8A%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_18",
@@ -527,7 +551,8 @@
     "hole_count": 26,
     "image_url": "https://www.google.com/search?tbm=isch&q=Niupipo%20Indoor%20Ball%2012%E5%80%8B%E5%85%A5%E3%82%8A%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_19",
@@ -548,7 +573,8 @@
     "price_tier": "不明",
     "weight_oz": 0.92,
     "diameter_in": 2.8,
-    "spec_source": "crbnpickleball.com (CRBN C40)"
+    "spec_source": "crbnpickleball.com (CRBN C40)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_20",
@@ -566,7 +592,8 @@
     "features": "超ソフトタッチ",
     "image_url": "https://www.google.com/search?tbm=isch&q=Prokennex%20Ultra%20Soft%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_selkirk_pro_s1_gold",
@@ -588,7 +615,8 @@
     "price_tier": "不明",
     "weight_oz": 0.93,
     "diameter_in": 2.8,
-    "spec_source": "pickleballcentral.com (Selkirk Pro S1)"
+    "spec_source": "pickleballcentral.com (Selkirk Pro S1)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_wilson_tru32_indoor",
@@ -607,7 +635,8 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Wilson%20TRU%2032%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_head_penn26_indoor",
@@ -629,7 +658,8 @@
     "price_usd": null,
     "price_tier": "不明",
     "diameter_in": 2.906,
-    "spec_source": "pickleballpaddlescanada.ca (Penn 26: 26g, 7.38cm)"
+    "spec_source": "pickleballpaddlescanada.ca (Penn 26: 26g, 7.38cm)",
+    "image_source": "Web Image Search / Retailer Cache"
   },
   {
     "id": "ball_engage_tour",
@@ -651,6 +681,7 @@
     "price_tier": "不明",
     "weight_oz": 0.897,
     "diameter_in": 2.92,
-    "spec_source": "pickleballcentral.com (Engage Tour 2.0)"
+    "spec_source": "pickleballcentral.com (Engage Tour 2.0)",
+    "image_source": "Web Image Search / Retailer Cache"
   }
 ]

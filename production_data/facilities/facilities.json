@@ -10125,7 +10125,7 @@
     },
     "_region": "九州",
     "_region_romaji": "kyushu",
-    "website_url": null
+    "website_url": "https://www.pivole.com/"
   },
   {
     "name": "山国川緑地 ピックルボールコート（吉富コート）",
@@ -10181,7 +10181,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%AF%89%E4%B8%8A%E9%83%A1%E5%90%89%E5%AF%8C%E7%94%BA%20%E5%B1%B1%E5%9B%BD%E5%B7%9D%E7%B7%91%E5%9C%B0%20%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%EF%BC%88%E5%90%89%E5%AF%8C%E3%82%B3%E3%83%BC%E3%83%88%EF%BC%89"
     },
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "website_url": "https://www.town.yoshitomi.lg.jp/gyosei/chosei/v995/y209/kyouiku_iinkai/x162/v502/"
   },
   {
     "name": "田川テニスクラブ",
@@ -11012,7 +11013,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1%E5%98%89%E5%B3%B6%E7%94%BA%20COSMOS%E3%80%90%E7%86%8A%E6%9C%AC%E7%9C%8C%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%91"
     },
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "website_url": "https://cosmos-kfc.com/"
   },
   {
     "name": "西部公民館（ピックルボールおおいた拠点）",
@@ -11398,7 +11400,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82%20%E5%AE%AE%E5%B4%8E%E5%B8%82%E4%BD%8F%E5%90%89%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AF%E3%83%A9%E3%83%96"
     },
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "website_url": "https://sumiyoshi-sc1.jimdofree.com/"
   },
   {
     "name": "鹿児島市民体育館",
@@ -11507,7 +11510,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%20%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB"
     },
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "website_url": "http://s-green.jp/index.html"
   },
   {
     "name": "沖縄県総合運動公園体育館メインアリーナ",
@@ -11562,7 +11566,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E6%B2%96%E7%B8%84%E7%9C%8C%E6%B2%96%E7%B8%84%E5%B8%82%20%E6%B2%96%E7%B8%84%E7%9C%8C%E7%B7%8F%E5%90%88%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E4%BD%93%E8%82%B2%E9%A4%A8%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A"
     },
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "website_url": "http://www.okinawa-kenso.com/"
   },
   {
     "name": "宜野湾市体育館",
@@ -11948,7 +11953,8 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "website_url": "https://www.nas-club.co.jp/ropponmatsu/index.html"
   },
   {
     "name": "セントラルスポーツ・ピックルボールクラブ 福岡",
@@ -11970,7 +11976,8 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "website_url": "https://coubic.com/shinki-zoom"
   },
   {
     "name": "福岡市民体育館",
@@ -12015,7 +12022,8 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "website_url": "https://cosmos-kfc.com/"
   },
   {
     "name": "テニスDIVO熊本",
@@ -12038,7 +12046,8 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E5%8C%97%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "website_url": "https://www.divo-spoon.jp/"
   },
   {
     "name": "NBテニスガーデン",
@@ -12257,7 +12266,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%20%E5%80%89%E6%95%B7%E4%BD%93%E8%82%B2%E9%A4%A8"
     },
     "_region": "中国・四国",
-    "_region_romaji": "chugoku_shikoku"
+    "_region_romaji": "chugoku_shikoku",
+    "website_url": "https://www.k-sports.or.jp/"
   },
   {
     "name": "倉敷運動公園ウエイトリフティング場",
@@ -12691,7 +12701,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E5%B1%B1%E5%8F%A3%E7%9C%8C%E4%B8%8B%E9%96%A2%E5%B8%82%20%E3%81%B5%E3%81%8F%E3%81%84%E3%83%86%E3%83%8B%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96"
     },
     "_region": "中国・四国",
-    "_region_romaji": "chugoku_shikoku"
+    "_region_romaji": "chugoku_shikoku",
+    "website_url": "https://www.fukuitennis.com/"
   },
   {
     "name": "玉湯体育館（松江PB同好会拠点）",
@@ -12909,7 +12920,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E9%B3%A5%E5%8F%96%E7%9C%8C%E9%B3%A5%E5%8F%96%E5%B8%82%20%E9%B3%A5%E5%8F%96%E5%B8%82%E6%B0%91%E4%BD%93%E8%82%B2%E9%A4%A8"
     },
     "_region": "中国・四国",
-    "_region_romaji": "chugoku_shikoku"
+    "_region_romaji": "chugoku_shikoku",
+    "website_url": "https://shisetsu.mizuno.jp/m-7603/"
   },
   {
     "name": "米子市内体育館",
@@ -13127,7 +13139,8 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E9%A6%99%E5%B7%9D%E7%9C%8C%E4%B8%B8%E4%BA%80%E5%B8%82%20%E8%87%AA%E9%81%8A%E7%A9%BA%E9%96%93%20%E4%B8%B8%E4%BA%80%E5%B7%9D%E8%A5%BF%E5%BA%97"
     },
     "_region": "中国・四国",
-    "_region_romaji": "chugoku_shikoku"
+    "_region_romaji": "chugoku_shikoku",
+    "website_url": "https://jiqoo.jp/shop/9931326/"
   },
   {
     "name": "瀬戸内リゾート ベッセルおおち",
@@ -13614,7 +13627,8 @@
     },
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
-    "main_photo_url": "https://play-pickleball.jp/pickleball-courts/fukui/fukui-tennis-club/"
+    "main_photo_url": "https://play-pickleball.jp/pickleball-courts/fukui/fukui-tennis-club/",
+    "website_url": "https://www.fukuitennis.com/"
   },
   {
     "name": "新南陽体育センター",
@@ -13915,7 +13929,8 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E9%B3%A5%E5%8F%96%E5%B8%82",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "website_url": "https://shisetsu.mizuno.jp/m-7603/"
   },
   {
     "name": "IHIアリーナ呉（呉市体育館）",
