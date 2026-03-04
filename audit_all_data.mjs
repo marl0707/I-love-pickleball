@@ -60,9 +60,7 @@ function analyzeFile(filePath) {
 const BASE = 'c:/Users/sejim/OneDrive/デスクトップ/Ronshoal_Tech_Base/02_Development/I-love-pickleball';
 
 const sources = [
-    { name: 'data/', dir: join(BASE, 'data') },
-    { name: 'salvaged_data/', dir: join(BASE, 'salvaged_data') },
-    { name: 'recreated_by_antigravity/', dir: join(BASE, 'recreated_by_antigravity') },
+    { name: 'production_data/', dir: join(BASE, 'production_data') },
 ];
 
 for (const src of sources) {
