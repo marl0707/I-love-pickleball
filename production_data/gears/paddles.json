@@ -22,7 +22,8 @@
     "usapa_approved": true,
     "price_usd": 199.95,
     "_pbcor_status": "2025年7月1日より公式大会使用禁止（PBCoR基準超過）。JOOLA Perseus Mod TA-15 14mm/16mmが対象。JOOLAは後継モデルへの50%OFF交換プログラムを提供。",
-    "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Perseus%20CFS%2016mm%20pickleball%20paddle"
+    "image_url": "https://joola.com/cdn/shop/files/Ben-Johns-Perseus-CFS-16-18516-Web-01.jpg?v=1768584274&width=800",
+    "image_source": "official_site_cdn"
   },
   {
     "id": "paddle_franklin_signature_14",
@@ -72,9 +73,10 @@
     "length_in": 16.5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Invikta%2016mm%20pickleball%20paddle",
+    "image_url": "https://www.selkirk.com/cdn/shop/files/VANGUARD_POWER_AIR_INVIKTA_CP-HERO-GR.png?v=1759942220&width=800",
     "price_usd": 220,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "official_site_cdn"
   },
   {
     "id": "paddle_crbn_1x_14",
@@ -250,7 +252,8 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Vanguard%20Control%20pickleball%20paddle",
     "price_usd": 186.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "product_url": "https://www.selkirk.com/collections/paddles"
   },
   {
     "id": "pdl_joola_perseus_3",
@@ -402,9 +405,10 @@
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "product_url": "https://crbnpickleball.com/products/crbn-1x-power-series-16mm",
-    "image_url": "https://crbnpickleball.com/cdn/shop/products/1X_Front_Web_1800x1800.jpg?v=1673322003",
+    "image_url": "https://crbnpickleball.com/cdn/shop/files/preview_images/1X_Web.jpg?v=1771601422&width=800",
     "price_usd": 229.99,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "official_site_cdn"
   },
   {
     "id": "pdl_crbn_2x_14",
@@ -969,10 +973,11 @@
     "usapa_approved": true,
     "length_in": 16,
     "product_url": "https://www.franklinsports.com/pickleball/paddles/signature-series",
-    "image_url": "https://franklinsports.com/media/catalog/product/5/2/52985-phase1-main.jpg",
+    "image_url": "https://franklinsports.com/media/catalog/product/cache/1f09c1fff74ac7f56ef11be5803762e9/5/2/52983c2-phase1-main_1__1.jpg",
     "price_usd": 119.99,
     "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.5
+    "grip_length_in": 5.5,
+    "image_source": "official_site_cdn"
   },
   {
     "id": "pdl_franklin_carbon_stk",
@@ -2085,9 +2090,10 @@
     "weight_oz": "7.9-8.4",
     "length_in": 16.4,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20Invikta%20pickleball%20paddle",
+    "image_url": "https://www.selkirk.com/cdn/shop/files/VANGUARD_POWER_AIR_INVIKTA_CP-HERO-GR.png?v=1759942220&width=800",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "image_source": "official_site_cdn"
   },
   {
     "id": "pdl_selkirk_s2",

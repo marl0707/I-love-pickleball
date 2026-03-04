@@ -207,10 +207,10 @@
     "lighting_type": "屋内照明",
     "_facility_name": "有明スポーツセンター",
     "_facility_index": 13,
-    "_survey_notes": "東京都江東区有明。Toyosu PBクラブが体育館で月1回以上練習会開催。有明在勤在住者中心。参加費割り勘制。BANDアプリで参加申請。"
+    "_survey_notes": "江東区有明2-3-6。PB設備なし(koto-hsc.or.jp/koto.lg.jp確認)。体育館/プール/トレーニング室あるがPB記載なし。近隣にPacific PICKLE CLUB(有明USP内/2面/2024年10月オープン/pacificpickleclub.com)あり。"
   },
   {
-    "court_type": "アウトドア",
+    "court_type": "屋外",
     "number_of_courts": 2,
     "surface_type": "屋外ハードコート",
     "line_visibility": "他競技混在(見にくい)",
@@ -219,7 +219,7 @@
     "lighting_type": null,
     "_facility_name": "ヒルトン東京",
     "_facility_index": 14,
-    "_survey_notes": "5Fフィットネスセンター屋外2面。平日60分5,000-8,000円(宿泊客)/6,000-10,000円(ビジター)。ラケットレンタル800円。プロコーチレッスンあり。"
+    "_survey_notes": "新宿区西新宿6-6-2。5Fフィットネスセンター屋外にPBコート2面(S/D対応)(prtimes.jp/hiltonjapan.co.jp確認)。7:00-21:00。宿泊ゲスト60分5,000円/ビジター6,000円(平日7-18時)。パドルレンタル800円。プロコーチレッスン可。ロッカー/シャワー/サウナ利用可。"
   },
   {
     "court_type": "アウトドア",
