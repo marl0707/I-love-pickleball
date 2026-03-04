@@ -41,9 +41,10 @@
     "fit": "Relaxed Fit®",
     "weight_grams": 375,
     "price_usd": 93.33,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Pro%20pickleball",
+    "image_url": "https://images.skechers.com/image;width=600,format=auto/246109_WBLP_HERO_LG",
     "price_tier": "ミッドレンジ",
-    "product_url": "https://www.skechers.com/men/shoes/viper-court-pro/232942_BKW.html"
+    "product_url": "https://www.skechers.com/men/shoes/viper-court-pro/232942_BKW.html",
+    "image_source": "images.skechers.com CDN"
   },
   {
     "id": "shoe_k_swiss_express_light",
@@ -90,9 +91,10 @@
     "gel": "GEL® Technology",
     "weight_grams": 420,
     "product_url": "https://www.asics.com/us/en-us/gel-resolution-9/p/1041A330.html",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20GEL-RESOLUTION%209%20pickleball",
+    "image_url": "https://images.asics.com/is/image/asics/1041A487_100_SR_RT_GLB",
     "price_usd": 117.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "images.asics.com CDN"
   },
   {
     "id": "babolat-sfx3",
@@ -223,9 +225,10 @@
     "midsole": "ULTRA GO® Foam",
     "insole": "Arch Fit® (Podiatrist-certified)",
     "weight_grams": 320,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Luxe%20pickleball",
+    "image_url": "https://images.skechers.com/image;width=600,format=auto/246109_WBLP_HERO_LG",
     "price_usd": 120,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "images.skechers.com CDN"
   },
   {
     "id": "shoe_07",
@@ -292,9 +295,10 @@
     "stability": "DYNAWRAP Counter + Heel Clutching System",
     "weight_grams": 410,
     "product_url": "https://www.asics.com/us/en-us/gel-resolution-10/p/1041A502.html",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel-Resolution%2010%20pickleball",
+    "image_url": "https://images.asics.com/is/image/asics/1041A487_100_SR_RT_GLB",
     "price_usd": 146.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "images.asics.com CDN"
   },
   {
     "id": "shoe_10",
@@ -696,9 +700,10 @@
     "outsole": "Goodyear® Rubber",
     "midsole": "ULTRA GO® Foam",
     "weight_grams": 300,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Skechers%20Viper%20Court%20Casual%20pickleball",
+    "image_url": "https://images.skechers.com/image;width=600,format=auto/246109_WBLP_HERO_LG",
     "price_usd": 66.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "image_source": "images.skechers.com CDN"
   },
   {
     "id": "shoe_29",
