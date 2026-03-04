@@ -3,13 +3,14 @@
 
 generator client {
   provider        = "prisma-client-js"
-  previewFeatures = ["driverAdapters"]
+  previewFeatures = ["driverAdapters", "postgresqlExtensions"]
 }
 
 datasource db {
-  provider  = "postgresql"
-  url       = env("DATABASE_URL")
-  directUrl = env("DIRECT_URL")
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  directUrl  = env("DIRECT_URL")
+  extensions = [vector]
 }
 
 // ============================================
@@ -731,4 +732,21 @@ model ExpertReview {
   updatedAt    DateTime @updatedAt @map("updated_at")
 
   @@map("expert_reviews")
+}
+
+// ============================================
+// カテゴリ8: RAG用検索ドキュメント (AI Search / RAG)
+// ============================================
+model SearchDocument {
+  id         String                      @id @default(uuid())
+  targetType String                      @map("target_type") // e.g., 'facility', 'article', 'gear', 'community'
+  targetId   String                      @map("target_id")
+  title      String
+  content    String                      @db.Text
+  embedding  Unsupported("vector(768)")?
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("search_documents")
 }

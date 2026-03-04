@@ -127,6 +127,19 @@ export default function AdSlot({
         return () => { isMounted = false; };
     }, [actualCategory, rankIndex, slot]);
 
+    const activeBid = autoRank !== null ? bids[autoRank] : undefined;
+
+    useEffect(() => {
+        if (IS_ADSENSE_ACTIVE && ADSENSE_CLIENT_ID && !activeBid && !loading && autoRank !== null) {
+            try {
+                // @ts-ignore
+                (window.adsbygoogle = window.adsbygoogle || []).push({});
+            } catch (e) {
+                console.error("AdSense push error:", e);
+            }
+        }
+    }, [activeBid, loading, autoRank]);
+
     if (isPremium) return null;
 
     if (loading || autoRank === null) {
@@ -134,8 +147,6 @@ export default function AdSlot({
             <div className={`ad-slot animate-pulse bg-gray-100 rounded-sm ${className}`} style={{ ...config.style, height: config.placeholder.height }} />
         );
     }
-
-    const activeBid = bids[autoRank];
 
     if (activeBid && activeBid.imageUrl) {
         return (
@@ -153,17 +164,6 @@ export default function AdSlot({
             </div>
         );
     }
-
-    useEffect(() => {
-        if (IS_ADSENSE_ACTIVE && ADSENSE_CLIENT_ID && !activeBid && !loading && autoRank !== null) {
-            try {
-                // @ts-ignore
-                (window.adsbygoogle = window.adsbygoogle || []).push({});
-            } catch (e) {
-                console.error("AdSense push error:", e);
-            }
-        }
-    }, [activeBid, loading, autoRank]);
 
     // 2. If AdSense is active and no active bid, fallback to AdSense
     if (IS_ADSENSE_ACTIVE && ADSENSE_CLIENT_ID && (!activeBid || !activeBid.imageUrl)) {

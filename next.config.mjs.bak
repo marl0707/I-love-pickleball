@@ -14,7 +14,7 @@ const nextConfig = {
     typescript: {
         ignoreBuildErrors: true,
     },
-
+    basePath: '/pickleball',
 };
 
 export default nextConfig;

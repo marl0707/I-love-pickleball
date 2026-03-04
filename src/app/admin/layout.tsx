@@ -48,17 +48,17 @@ export default async function AdminLayout({
                         <span className="material-symbols-outlined text-lg">groups</span>
                         サークル管理
                     </Link>
-                    <Link href="/admin/drills" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors">
+                    <Link href="#" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors opacity-50">
                         <span className="material-symbols-outlined text-lg">fitness_center</span>
-                        練習メニュー管理
+                        練習メニュー管理（準備中）
                     </Link>
                     <Link href="/admin/ads" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors">
                         <span className="material-symbols-outlined text-lg">campaign</span>
                         広告枠・入札管理
                     </Link>
-                    <Link href="/admin/users" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors">
+                    <Link href="#" className="flex items-center gap-3 px-3 py-2.5 rounded-lg hover:bg-brand-accent/10 hover:text-brand-accent transition-colors opacity-50">
                         <span className="material-symbols-outlined text-lg">group</span>
-                        ユーザー管理
+                        ユーザー管理（準備中）
                     </Link>
                 </nav>
             </aside>

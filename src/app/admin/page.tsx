@@ -128,14 +128,14 @@ export default async function AdminDashboardPage() {
                 <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-6">
                     <h2 className="font-bold text-gray-800 mb-4">クイックアクション</h2>
                     <div className="space-y-3">
-                        <Link href="/admin/events/new" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
-                            + 新しいイベントを作成
+                        <Link href="#" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 text-gray-400 rounded-lg text-sm font-medium transition-colors border border-gray-100 cursor-not-allowed">
+                            + 新しいイベントを作成（準備中）
                         </Link>
-                        <Link href="/admin/articles/new" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
-                            + 新しい記事を執筆
+                        <Link href="#" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 text-gray-400 rounded-lg text-sm font-medium transition-colors border border-gray-100 cursor-not-allowed">
+                            + 新しい記事を執筆（準備中）
                         </Link>
-                        <Link href="/admin/facilities/new" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
-                            + 施設情報を登録
+                        <Link href="#" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 text-gray-400 rounded-lg text-sm font-medium transition-colors border border-gray-100 cursor-not-allowed">
+                            + 施設情報を登録（準備中）
                         </Link>
                         <Link href="/admin/circles" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
                             サークル管理を開く
