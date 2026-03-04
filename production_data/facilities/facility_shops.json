@@ -1145,11 +1145,11 @@
     "_survey_notes": "テニスクラブ内でPB活動可能。面数不明。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "ピヴォーレ福岡 (Pivole FUKUOKA)",
     "_facility_index": 209,
-    "_survey_notes": "福岡市。九州初インドアPBコート。2025年6月完成。ソフトコート最大4面。"
+    "_survey_notes": "福岡市東区。パドル/シューズ/ボールレンタル可。手ぶらOK(pivole.com確認)。最大4面。"
   },
   {
     "has_paddle_rental": 0,
