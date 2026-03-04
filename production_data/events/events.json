@@ -71,10 +71,10 @@
     "held_month": "4月",
     "status": "annual",
     "event_type": "国際大会",
-    "entry_fee": "大会HPにて確認",
+    "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": "2025-01-01T00:00:00"
+    "start_datetime": null
   },
   {
     "id": "tournament_jpa_japan_national",
@@ -85,10 +85,10 @@
     "held_month": "12月",
     "status": "annual",
     "event_type": "国内メジャー（JPA主催）",
-    "entry_fee": "大会HPにて確認",
+    "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": "2025-01-01T00:00:00"
+    "start_datetime": null
   },
   {
     "id": "tournament_jpa_all_japan",
@@ -138,10 +138,10 @@
     "schedule": "年間5-6イベント",
     "description": "チーム対抗形式のプロリーグ。LeBron JamesやTom Bradyなど著名人がオーナーに名を連ねる。",
     "event_type": "プロリーグ",
-    "entry_fee": "大会HPにて確認",
+    "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": "2025-01-01T00:00:00"
+    "start_datetime": null
   },
   {
     "id": "tour_04",
@@ -151,10 +151,10 @@
     "schedule": "毎年2月",
     "description": "APP Tourの主要大会のひとつ。フロリダのビーチリゾート付近で開催される。",
     "event_type": "国際プロツアー",
-    "entry_fee": "大会HPにて確認",
+    "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": "2025-01-01T00:00:00"
+    "start_datetime": null
   },
   {
     "id": "tour_05",
@@ -164,10 +164,10 @@
     "schedule": "毎年7月",
     "description": "ビール醸造の街で開催される人気大会。アマチュアカテゴリも充実。",
     "event_type": "国際プロツアー",
-    "entry_fee": "大会HPにて確認",
+    "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": "2025-01-01T00:00:00"
+    "start_datetime": null
   },
   {
     "id": "tour_06",
@@ -177,10 +177,10 @@
     "schedule": "毎年8月",
     "description": "ピックルボール発祥の地で開催されるエキシビション招待大会。",
     "event_type": "国際招待",
-    "entry_fee": "大会HPにて確認",
+    "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": "2025-01-01T00:00:00"
+    "start_datetime": null
   },
   {
     "id": "tour_07",

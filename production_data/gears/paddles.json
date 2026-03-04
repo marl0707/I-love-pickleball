@@ -18,8 +18,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA+Ben+Johns+Perseus",
     "weight_oz": "8.0-8.2",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "price_usd": 199.95,
@@ -48,11 +46,9 @@
     "usapa_approved": true,
     "weight_oz": "7.5-7.9",
     "length_in": 15.75,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Signature%20Pro%2014mm%20pickleball%20paddle",
     "price_usd": 120,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "paddle_selkirk_vanguard_16",
@@ -74,8 +70,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk+VANGUARD+Invikta",
     "weight_oz": "7.7-8.2",
     "length_in": 16.5,
-    "width_in": 7.375,
-    "grip_length_in": 5.25,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Invikta%2016mm%20pickleball%20paddle",
@@ -101,8 +95,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN+1X+Power",
     "weight_oz": "7.8-8.1",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%201X%20Power%20Series%2014mm%20pickleball%20paddle",
@@ -129,8 +121,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Six+Zero+Double+Black+Diamond",
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
-    "width_in": 7.7,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Six%20Zero%20Double%20Black%20Diamond%20Control%2016mm%20pickleball%20paddle",
@@ -157,12 +147,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20VANGUARD%20Pro%20Epic",
     "weight_oz": "7.7-8.2",
     "length_in": 16.5,
-    "width_in": 7.375,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Pro%20Epic%20pickleball%20paddle",
     "price_usd": 233.33,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_selkirk_halo_max",
@@ -184,8 +172,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20SLK%20Halo%20Max",
     "weight_oz": "7.9-8.0",
     "length_in": 16.25,
-    "width_in": 7.87,
-    "grip_length_in": 4.87,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20SLK%20Halo%20Max%20pickleball%20paddle",
@@ -212,8 +198,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20SLK%20Halo%20XL",
     "weight_oz": "7.8",
     "length_in": 16.25,
-    "width_in": 7.87,
-    "grip_length_in": 4.87,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20SLK%20Halo%20XL%20pickleball%20paddle",
@@ -239,12 +223,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Labs%20Project%20003",
     "weight_oz": "7.8-8.2",
     "length_in": 16.4,
-    "width_in": 7.4,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Labs%20Project%20003%20pickleball%20paddle",
     "price_usd": 320,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_selkirk_vanguard_control",
@@ -265,12 +247,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Vanguard%20Control",
     "weight_oz": "7.7-8.2",
     "length_in": 15.75,
-    "width_in": 8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Vanguard%20Control%20pickleball%20paddle",
     "price_usd": 186.67,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.25
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_joola_perseus_3",
@@ -291,8 +271,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Ben%20Johns%20Perseus%203",
     "weight_oz": "8.0",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Perseus%203%20pickleball%20paddle",
@@ -318,8 +296,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Anna%20Bright%20Scorpeus%203",
     "weight_oz": "7.8",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Anna%20Bright%20Scorpeus%203%20pickleball%20paddle",
@@ -345,12 +321,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Radius%20Pro",
     "weight_oz": "7.6-8.0",
     "length_in": 15.87,
-    "width_in": 8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Radius%20Pro%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_joola_collin_johns",
@@ -371,8 +345,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Collin%20Johns%20Scorpeus",
     "weight_oz": "7.8",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "product_url": "https://www.joola.com/products/collin-johns-scorpeus",
@@ -399,8 +371,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=JOOLA%20Solaire%20FAS%2013",
     "weight_oz": "8.2",
     "length_in": 16,
-    "width_in": 8,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "unique_tech": "Aero-Curve head design",
@@ -428,7 +398,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%201X%2016mm",
     "weight_oz": "7.8-8.1",
     "length_in": 16.5,
-    "width_in": 7.25,
     "grip_length_in": 5.5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
@@ -456,7 +425,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%202X%2014mm",
     "weight_oz": "7.8-8.1",
     "length_in": 15.75,
-    "width_in": 8,
     "grip_length_in": 4.75,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
@@ -484,7 +452,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%203X%2016mm",
     "weight_oz": "7.8-8.1",
     "length_in": 16.5,
-    "width_in": 7.5,
     "grip_length_in": 5.25,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
@@ -512,8 +479,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%201%20(Original)%2016mm",
     "weight_oz": "8.0-8.3",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.35,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%201%20(Original)%2016mm%20pickleball%20paddle",
@@ -539,8 +504,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20CRBN%202%20(Original)%2014mm",
     "weight_oz": "7.8-8.1",
     "length_in": 15.75,
-    "width_in": 8,
-    "grip_length_in": 5.25,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%202%20(Original)%2014mm%20pickleball%20paddle",
@@ -568,7 +531,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Double%20Black%20Diamond%2016mm",
     "weight_oz": "8.1",
     "length_in": 16.3,
-    "width_in": 7.7,
     "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
@@ -596,7 +558,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Double%20Black%20Diamond%2014mm",
     "weight_oz": "7.8-8.0",
     "length_in": 16.3,
-    "width_in": 7.7,
     "usapa_approved": true,
     "product_url": "https://www.sixzeropickleball.com/products/double-black-diamond-power-14mm",
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Double%20Black%20Diamond%2014mm%20pickleball%20paddle",
@@ -623,12 +584,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Ruby",
     "weight_oz": "8.2",
     "length_in": 16.3,
-    "width_in": 7.5,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Ruby%20pickleball%20paddle",
     "price_usd": 206.67,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_sixzero_infinity",
@@ -649,12 +608,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Infinity",
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
-    "width_in": 7.5,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Infinity%20pickleball%20paddle",
     "price_usd": 220,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_sixzero_sapphire",
@@ -675,12 +632,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Sapphire",
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
-    "width_in": 7.5,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Sapphire%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.5
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_engage_pursuit_pro_ex",
@@ -702,12 +657,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Pursuit%20Pro%20EX",
     "weight_oz": "7.8-8.3",
     "length_in": 16,
-    "width_in": 8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Pursuit%20Pro%20EX%20pickleball%20paddle",
     "price_usd": 226.67,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.25
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_engage_pursuit_pro_mx",
@@ -729,7 +682,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Pursuit%20Pro%20MX",
     "weight_oz": "7.9-8.3",
     "length_in": 15.5,
-    "width_in": 8.125,
     "usapa_approved": true,
     "product_url": "https://engagepickleball.com/collections/pursuit-pro-mx",
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Pursuit%20Pro%20MX%20pickleball%20paddle",
@@ -758,12 +710,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Engage%20Encore%20MX%206.0",
     "weight_oz": "7.9-8.3",
     "length_in": 15.5,
-    "width_in": 8.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Encore%20MX%206.0%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_gearbox_pro_power",
@@ -784,8 +734,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20Pro%20Power%20Elongated",
     "weight_oz": "8.0",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4,
     "usapa_approved": true,
     "unique_tech": "SST (ハニカム不使用・全カーボン構造) + Power Matrix",
@@ -813,13 +761,11 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20Pro%20Control%20Elongated",
     "weight_oz": "7.8",
     "length_in": 16,
-    "width_in": 8,
     "usapa_approved": true,
     "unique_tech": "SST (ハニカム不使用・全カーボン構造)",
     "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20Pro%20Control%20Elongated%20pickleball%20paddle",
     "price_usd": 280,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.25
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_gearbox_cx14_e",
@@ -841,8 +787,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gearbox%20CX14%20Elongated",
     "weight_oz": "7.5-8.0",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20CX14%20Elongated%20pickleball%20paddle",
@@ -868,8 +812,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProXR%20Zane%20Navratil%20Signature",
     "weight_oz": "8.0-8.4",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 6,
     "grip_circumference_in": 4,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Zane%20Navratil%20Signature%20pickleball%20paddle",
@@ -895,8 +837,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProXR%20Advantage%2016",
     "weight_oz": "8.0-8.4",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 6,
     "grip_circumference_in": 4,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Advantage%2016%20pickleball%20paddle",
@@ -924,7 +864,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Bantam%20EXL%20Pro",
     "weight_oz": "7.6-8.1",
     "length_in": 16.5,
-    "width_in": 7.5,
     "usapa_approved": true,
     "product_url": "https://www.paddletek.com/products/bantam-exl-pro",
     "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Bantam%20EXL%20Pro%20pickleball%20paddle",
@@ -952,8 +891,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Tempest%20Wave%20Pro",
     "weight_oz": "7.6-8.0",
     "length_in": 15.875,
-    "width_in": 8,
-    "grip_length_in": 5.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Paddletek%20Tempest%20Wave%20Pro%20pickleball%20paddle",
     "price_usd": 180,
@@ -979,9 +916,7 @@
     "weight_oz": "7.8-8.2",
     "usapa_approved": true,
     "grip_circumference_in": 4.25,
-    "grip_length_in": 4.5,
     "length_in": 15.5,
-    "width_in": 7.75,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V520%20Control%20pickleball%20paddle",
     "price_usd": 120,
     "price_tier": "ミッドレンジ"
@@ -1005,8 +940,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20V900%20Max",
     "weight_oz": "7.6-8.0",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V900%20Max%20pickleball%20paddle",
@@ -1035,7 +968,6 @@
     "weight_oz": "7.8-8.2",
     "usapa_approved": true,
     "length_in": 16,
-    "width_in": 8,
     "product_url": "https://www.franklinsports.com/pickleball/paddles/signature-series",
     "image_url": "https://franklinsports.com/media/catalog/product/5/2/52985-phase1-main.jpg",
     "price_usd": 119.99,
@@ -1062,11 +994,9 @@
     "weight_oz": "7.5-8.0",
     "usapa_approved": true,
     "length_in": 16,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Carbon%20STK%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_diadem_vice",
@@ -1087,14 +1017,12 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Diadem%20Vice%20(EVA%20Core)",
     "weight_oz": "7.8-8.2",
     "length_in": 16,
-    "width_in": 7.6,
     "usapa_approved": true,
     "unique_tech": "静音EVAコア - 騒音制限コート対応",
     "product_url": "https://diadempickleball.com/products/vice",
     "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Vice%20(EVA%20Core)%20pickleball%20paddle",
     "price_usd": 149.99,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_diadem_warrior",
@@ -1116,7 +1044,6 @@
     "weight_oz": "8.0-8.4",
     "usapa_approved": true,
     "length_in": 16,
-    "width_in": 7.6,
     "product_url": "https://diadempickleball.com/products/warrior-v2",
     "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Warrior%20V2%20pickleball%20paddle",
     "price_usd": 169.99,
@@ -1143,8 +1070,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Diadem%20Icon%20V2",
     "weight_oz": "8.0",
     "length_in": 16,
-    "width_in": 7.6,
-    "grip_length_in": 5.25,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Diadem%20Icon%20V2%20pickleball%20paddle",
@@ -1170,7 +1095,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Volair%20Mach%201%20Forza",
     "weight_oz": "8.2",
     "length_in": 16.3,
-    "width_in": 7.5,
     "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
@@ -1198,8 +1122,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Volair%20Mach%202%20Forza",
     "weight_oz": "8.0",
     "length_in": 16,
-    "width_in": 8,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Volair%20Mach%202%20Forza%20pickleball%20paddle",
@@ -1225,8 +1147,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Ronbus%20R1%20Nova",
     "weight_oz": "7.8-8.2",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Ronbus%20R1%20Nova%20pickleball%20paddle",
@@ -1252,8 +1172,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Ronbus%20R3%20Pulsar",
     "weight_oz": "7.8-8.2",
     "length_in": 16.5,
-    "width_in": 7.5,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Ronbus%20R3%20Pulsar%20pickleball%20paddle",
@@ -1279,8 +1197,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vatic%20Pro%20Prism%20Flash%2016mm",
     "weight_oz": "7.9-8.2",
     "length_in": 16.2,
-    "width_in": 7.7,
-    "grip_length_in": 5.3,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "price_usd": 99.99,
@@ -1306,7 +1222,6 @@
     "weight_oz": "8.2-8.5",
     "usapa_approved": true,
     "length_in": 16.5,
-    "width_in": 7.5,
     "product_url": "https://vaticpro.com/products/v7-carbon",
     "image_url": "https://www.google.com/search?tbm=isch&q=Vatic%20Pro%20V7%20Carbon%20pickleball%20paddle",
     "price_usd": 119.99,
@@ -1332,7 +1247,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=GRUVN%20Mula%2016H",
     "weight_oz": "7.9",
     "length_in": 16.5,
-    "width_in": 7.375,
     "grip_length_in": 5.875,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
@@ -1362,11 +1276,9 @@
     "weight_oz": "7.8-8.2",
     "usapa_approved": true,
     "length_in": 15.9,
-    "width_in": 7.9,
     "image_url": "https://www.google.com/search?tbm=isch&q=Hudef%20Viva%20Pro%20pickleball%20paddle",
     "price_usd": 120,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_oneshot_aeroshoot",
@@ -1388,11 +1300,9 @@
     "weight_oz": "7.9",
     "usapa_approved": true,
     "length_in": 16.5,
-    "width_in": 7.5,
     "image_url": "https://www.google.com/search?tbm=isch&q=OneShot%20Aeroshoot%20pickleball%20paddle",
     "price_usd": 126.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.5
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_electrum_model_e",
@@ -1413,8 +1323,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Electrum%20Model%20E",
     "weight_oz": "7.9-8.2",
     "length_in": 16,
-    "width_in": 8,
-    "grip_length_in": 5.25,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Electrum%20Model%20E%20pickleball%20paddle",
@@ -1440,7 +1348,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Electrum%20Pro%20II",
     "weight_oz": "7.9-8.2",
     "length_in": 16,
-    "width_in": 8,
     "grip_length_in": 5.25,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
@@ -1469,7 +1376,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix%20Evoke%20Premier",
     "weight_oz": "7.8-8.2",
     "length_in": 16,
-    "width_in": 8,
     "grip_length_in": 5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
@@ -1501,7 +1407,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Onix%20Z5%20Graphite",
     "weight_oz": "7.5-8.2",
     "length_in": 15.5,
-    "width_in": 8.125,
     "grip_length_in": 5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
@@ -1529,7 +1434,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=HEAD%20Gravity%20Tour",
     "weight_oz": "8.4-8.5",
     "length_in": 15.75,
-    "width_in": 8.1,
     "grip_length_in": 4.9,
     "usapa_approved": true,
     "product_url": "https://www.head.com/en_US/gravity-tour-pickleball-paddle.html",
@@ -1557,7 +1461,6 @@
     "usapa_approved": true,
     "weight_oz": "8.1",
     "length_in": 16,
-    "width_in": 7.875,
     "grip_length_in": 5,
     "grip_circumference_in": 4.125,
     "product_url": "https://www.head.com/en_US/radical-pro-pickleball-paddle-225013.html",
@@ -1584,13 +1487,11 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20RNGD%20Touch",
     "weight_oz": "7.4-7.8",
     "length_in": 16.1,
-    "width_in": 7.8,
     "usapa_approved": true,
     "unique_tech": "RPM Grit Technology (スピン強化面加工)",
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20RNGD%20Touch%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_babolat_mnstr_power",
@@ -1611,12 +1512,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20MNSTR%20Power",
     "weight_oz": "8.1",
     "length_in": 16.1,
-    "width_in": 7.8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20MNSTR%20Power%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_prince_response_pro",
@@ -1640,11 +1539,9 @@
     "usapa_approved": true,
     "weight_oz": "7.7-8.2",
     "length_in": 15.75,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Response%20Pro%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_prince_spectrum_pro",
@@ -1666,11 +1563,9 @@
     "usapa_approved": true,
     "weight_oz": "7.6-8.0",
     "length_in": 15.75,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Spectrum%20Pro%20pickleball%20paddle",
     "price_usd": 129.99,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_gamma_never_stop",
@@ -1692,11 +1587,9 @@
     "weight_oz": "7.6-8.0",
     "usapa_approved": true,
     "length_in": 16.375,
-    "width_in": 7.375,
     "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Never%20Stop%20pickleball%20paddle",
     "price_usd": 99.99,
-    "price_tier": "エントリー",
-    "grip_length_in": 5.5
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_gamma_206",
@@ -1717,8 +1610,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma%20Obsidian%2016",
     "weight_oz": "7.8-8.3",
     "length_in": 16.375,
-    "width_in": 7.375,
-    "grip_length_in": 5.75,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Obsidian%2016%20pickleball%20paddle",
@@ -1748,7 +1639,6 @@
     "price_usd": 126.67,
     "price_tier": "ミッドレンジ",
     "length_in": 15.75,
-    "grip_length_in": 5.25,
     "product_url": "https://www.kswiss.com/pickleball-paddles"
   },
   {
@@ -1773,8 +1663,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Court%20Speed%20Pickleball%20pickleball%20paddle",
     "price_usd": 140,
     "price_tier": "ミッドレンジ",
-    "length_in": 15.75,
-    "grip_length_in": 5.25
+    "length_in": 15.75
   },
   {
     "id": "pdl_wilson_echo",
@@ -1799,7 +1688,6 @@
     "price_usd": 120,
     "price_tier": "ミッドレンジ",
     "length_in": 15.75,
-    "grip_length_in": 5.25,
     "product_url": "https://www.wilson.com/en-us/product/echo-energy-wr098911u",
     "width_in": 8
   },
@@ -1826,7 +1714,6 @@
     "price_usd": 153.33,
     "price_tier": "ミッドレンジ",
     "length_in": 16,
-    "grip_length_in": 5.25,
     "product_url": "https://www.wilson.com/en-us/product/fierce-max-paddle",
     "width_in": 8
   },
@@ -1849,8 +1736,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=ProKennex%20Kinetic%20Ovation%20Speed",
     "weight_oz": "7.7-8.0",
     "length_in": 15.67,
-    "width_in": 7.6,
-    "grip_length_in": 4.875,
     "grip_circumference_in": 3.875,
     "usapa_approved": true,
     "unique_tech": "Kinetic Technology (タングステンビーズ振動低減: 衝撃46%減, 振動23%減)",
@@ -1908,8 +1793,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Pickleball%20Apes%20Pro%20Line%20Energy%20S%20pickleball%20paddle",
     "price_usd": 186.67,
     "price_tier": "プレミアム",
-    "length_in": 15.75,
-    "grip_length_in": 5.25
+    "length_in": 15.75
   },
   {
     "id": "pdl_the_kitchen",
@@ -1933,8 +1817,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=The%20Kitchen%20Signature%20Paddle%20pickleball%20paddle",
     "price_usd": 100,
     "price_tier": "ミッドレンジ",
-    "length_in": 15.75,
-    "grip_length_in": 5.25
+    "length_in": 15.75
   },
   {
     "id": "pdl_11_six_24",
@@ -1956,11 +1839,9 @@
     "weight_oz": "8.0-8.3",
     "usapa_approved": true,
     "length_in": 16.5,
-    "width_in": 7.5,
     "image_url": "https://www.google.com/search?tbm=isch&q=11SIX24%20Hurache-X%20pickleball%20paddle",
     "price_usd": 153.33,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.5
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_juciao_pro",
@@ -1984,8 +1865,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Juciao%20T700%20Carbon%20Pro%20pickleball%20paddle",
     "price_usd": 53.33,
     "price_tier": "エントリー",
-    "length_in": 16,
-    "grip_length_in": 5.25
+    "length_in": 16
   },
   {
     "id": "pdl_niupipo_explorer",
@@ -2007,7 +1887,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Niupipo%20Explorer%20Pro",
     "weight_oz": "8.0-8.2",
     "length_in": 15.94,
-    "width_in": 7.91,
     "grip_length_in": 4.96,
     "grip_circumference_in": 4.45,
     "usapa_approved": true,
@@ -2040,7 +1919,6 @@
     "price_usd": 60,
     "price_tier": "エントリー",
     "length_in": 15.75,
-    "grip_length_in": 5.25,
     "product_url": "https://www.amazon.com/dp/B0BQY5Y9F8"
   },
   {
@@ -2066,7 +1944,6 @@
     "price_usd": 26.67,
     "price_tier": "エントリー",
     "length_in": 15.5,
-    "grip_length_in": 5.25,
     "product_url": "https://www.amazon.com/dp/B07MR94VQR"
   },
   {
@@ -2115,7 +1992,6 @@
     "price_usd": 93.33,
     "price_tier": "エントリー",
     "length_in": 15.5,
-    "grip_length_in": 5.25,
     "product_url": "https://bigdillpickleball.com/products/original-paddle"
   },
   {
@@ -2208,12 +2084,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Amped%20Invikta",
     "weight_oz": "7.9-8.4",
     "length_in": 16.4,
-    "width_in": 7.375,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20Invikta%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.5
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_selkirk_s2",
@@ -2235,12 +2109,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Selkirk%20Amped%20S2",
     "weight_oz": "7.9-8.4",
     "length_in": 15.75,
-    "width_in": 8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Amped%20S2%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_crbn_magnum",
@@ -2287,8 +2159,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Legacy%20Legacy%20Pro%2016mm%20pickleball%20paddle",
     "price_usd": 160,
     "price_tier": "ミッドレンジ",
-    "length_in": 16.5,
-    "grip_length_in": 5.5
+    "length_in": 16.5
   },
   {
     "id": "pdl_spinhaven_velocity",
@@ -2335,8 +2206,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=OWL%20Quiet%20Paddle%20pickleball%20paddle",
     "price_usd": 200,
     "price_tier": "プレミアム",
-    "length_in": 15.75,
-    "grip_length_in": 5.25
+    "length_in": 15.75
   },
   {
     "id": "pdl_proxr_titan",
@@ -2360,8 +2230,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=ProXR%20Titan%2014%20pickleball%20paddle",
     "price_usd": 180,
     "price_tier": "プレミアム",
-    "length_in": 16,
-    "grip_length_in": 5.25
+    "length_in": 16
   },
   {
     "id": "pdl_paddletek_bantam_ts5",
@@ -2383,8 +2252,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Paddletek%20Bantam%20TS-5",
     "weight_oz": "7.6-8.1",
     "length_in": 16,
-    "width_in": 7.875,
-    "grip_length_in": 4.75,
     "grip_circumference_in": 4.375,
     "usapa_approved": true,
     "price_usd": 149.99,
@@ -2409,9 +2276,7 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Vulcan%20V510%20Hybrid",
     "weight_oz": "7.9",
     "length_in": 15.5,
-    "width_in": 7.75,
     "grip_circumference_in": 4.375,
-    "grip_length_in": 4.75,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vulcan%20V510%20Hybrid%20pickleball%20paddle",
     "price_usd": 113.33,
@@ -2486,8 +2351,7 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Gearbox%20CP7%20Honeycomb%20pickleball%20paddle",
     "price_usd": 133.33,
     "price_tier": "ミッドレンジ",
-    "length_in": 16.625,
-    "grip_length_in": 5.5
+    "length_in": 16.625
   },
   {
     "id": "pdl_sixzero_bd_16",
@@ -2508,7 +2372,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=SixZero%20Black%20Diamond%2016mm",
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
-    "width_in": 7.7,
     "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
@@ -2535,12 +2398,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Hudef%20HD6.1",
     "weight_oz": "8.0-8.3",
     "length_in": 15.9,
-    "width_in": 7.9,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Hudef%20HD6.1%20pickleball%20paddle",
     "price_usd": 93.33,
-    "price_tier": "エントリー",
-    "grip_length_in": 5.25
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_joola_senator",
@@ -2562,11 +2423,9 @@
     "usapa_approved": true,
     "weight_oz": "8.0",
     "length_in": 15.75,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Senator%20Pro%20pickleball%20paddle",
     "price_usd": 186.67,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.25
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_crbn_zero",
@@ -2588,11 +2447,9 @@
     "usapa_approved": true,
     "weight_oz": "7.8-8.1",
     "length_in": 16,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Zero%2016%20pickleball%20paddle",
     "price_usd": 133.33,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_selkirk_slk_evo",
@@ -2618,8 +2475,7 @@
     "price_usd": 79.99,
     "price_tier": "エントリー",
     "length_in": 16,
-    "grip_length_in": 5.25,
-    "width_in": 7.85
+    "grip_length_in": 5.25
   },
   {
     "id": "pdl_babolat_mnstr_touch",
@@ -2640,12 +2496,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Babolat%20MNSTR%20Touch",
     "weight_oz": "7.6",
     "length_in": 16.1,
-    "width_in": 7.8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Babolat%20MNSTR%20Touch%20pickleball%20paddle",
     "price_usd": 166.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_prince_synergy_pro",
@@ -2666,12 +2520,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Prince%20Synergy%20Pro",
     "weight_oz": "7.8-8.2",
     "length_in": 15.75,
-    "width_in": 8,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Prince%20Synergy%20Pro%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_gamma_micron",
@@ -2692,8 +2544,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Gamma%20Micron%202.0",
     "weight_oz": "7.6-8.1",
     "length_in": 15.75,
-    "width_in": 7.75,
-    "grip_length_in": 5.25,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Gamma%20Micron%202.0%20pickleball%20paddle",
@@ -2720,11 +2570,9 @@
     "usapa_approved": true,
     "weight_oz": "8.0",
     "length_in": 16,
-    "width_in": 8,
     "image_url": "https://www.google.com/search?tbm=isch&q=Asics%20Gel%20Resolution%20Paddle%20pickleball%20paddle",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_wilson_profile",
@@ -2749,7 +2597,6 @@
     "price_usd": 89.99,
     "price_tier": "エントリー",
     "length_in": 15.75,
-    "grip_length_in": 5.25,
     "product_url": "https://www.wilson.com/en-us/product/profile-pro-paddle"
   },
   {
@@ -2772,12 +2619,10 @@
     "usapa_approved": true,
     "weight_oz": "7.9-8.2",
     "length_in": 16.2,
-    "width_in": 7.7,
     "grip_circumference_in": 4.25,
     "image_url": "https://www.google.com/search?tbm=isch&q=Vatic%20Pro%20Alchemy%2016mm%20pickleball%20paddle",
     "price_usd": 160,
-    "price_tier": "ミッドレンジ",
-    "grip_length_in": 5.25
+    "price_tier": "ミッドレンジ"
   },
   {
     "id": "pdl_ronbus_r2_pulsar",
@@ -2798,8 +2643,6 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Ronbus%20R2%20Pulsar",
     "weight_oz": "7.8-8.2",
     "length_in": 16,
-    "width_in": 8,
-    "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Ronbus%20R2%20Pulsar%20pickleball%20paddle",
@@ -2815,7 +2658,6 @@
     "core_thickness": 16,
     "weight_oz": "8.0-8.3",
     "length_in": 16.5,
-    "width_in": 7.5,
     "usapa_approved": true,
     "paddle_shape": "Elongated(長方形)",
     "description": "2025年ベストハイブリッドパドル。コントロールとパワーの絶妙なバランス。",
@@ -2826,8 +2668,7 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Bread%20%26%20Butter%20Loco%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー",
-    "grip_length_in": 5.5
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_bnb_filth",
@@ -2846,11 +2687,9 @@
     "yahoo_url": null,
     "price": null,
     "length_in": 16.5,
-    "width_in": 7.5,
     "image_url": "https://www.google.com/search?tbm=isch&q=Bread%20%26%20Butter%20The%20Filth%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー",
-    "grip_length_in": 5.5
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_honolulu_j2nf",
@@ -2861,7 +2700,6 @@
     "core_thickness": 16,
     "weight_oz": "8.0-8.3",
     "length_in": 16.5,
-    "width_in": 7.5,
     "usapa_approved": true,
     "paddle_shape": "Elongated(長方形)",
     "description": "2025年最高評価のフォームパドル。パワー・スピン・コントロール全てにおいて高スコア。",
@@ -2872,8 +2710,7 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Honolulu%20Pickleball%20Co%20Sword%20%26%20Shield%20J2NF%20pickleball%20paddle",
     "price_usd": 79.99,
-    "price_tier": "エントリー",
-    "grip_length_in": 5.5
+    "price_tier": "エントリー"
   },
   {
     "id": "pdl_crbn_trufoam_genesis",
@@ -2884,7 +2721,6 @@
     "core_thickness": 16,
     "weight_oz": "8.0-8.3",
     "length_in": 16.5,
-    "width_in": 7.5,
     "usapa_approved": true,
     "paddle_shape": "Elongated(長方形)",
     "description": "CRBNの最新フォームコアパドル。エリートレベルのスピン・パワー・コントロール。",
@@ -2896,8 +2732,7 @@
     "product_url": "https://crbnpickleball.com/products/trufoam-genesis",
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20TruFoam%20Genesis%20pickleball%20paddle",
     "price_usd": 249.99,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_selkirk_labs_007",
@@ -2916,12 +2751,10 @@
     "yahoo_url": null,
     "price": null,
     "length_in": 16.4,
-    "width_in": 7.4,
     "product_url": "https://www.selkirk.com/products/labs-project-007",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Labs%20Project%20007%20pickleball%20paddle",
     "price_usd": 299.99,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_selkirk_luxx_control",
@@ -2940,12 +2773,10 @@
     "yahoo_url": null,
     "price": null,
     "length_in": 16.5,
-    "width_in": 7.375,
     "product_url": "https://www.selkirk.com/products/luxx-control-air-epic",
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20LUXX%20Control%20Air%20Epic%20pickleball%20paddle",
     "price_usd": 279.99,
-    "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "price_tier": "プレミアム"
   },
   {
     "id": "pdl_electrum_elite",
@@ -2956,7 +2787,6 @@
     "core_thickness": 14,
     "weight_oz": "7.9-8.2",
     "length_in": 16,
-    "width_in": 8,
     "usapa_approved": true,
     "paddle_shape": "Standard(標準)",
     "description": "2025年スピン特化パドル。フォーム注入ペリメータで安定性向上。",
@@ -2979,7 +2809,6 @@
     "core_thickness": 16,
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
-    "width_in": 7.5,
     "usapa_approved": true,
     "paddle_shape": "Hybrid(AeroCurve)",
     "description": "初級〜中級者向けの寛容性の高いオールコートパドル。",

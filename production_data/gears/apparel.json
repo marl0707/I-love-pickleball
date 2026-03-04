@@ -903,7 +903,6 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Essentials%20Pleated%20Pickleball%20Skirt%20pickleball",
-    "price_usd": 64.99,
     "price_tier": "不明",
     "product_url": "https://www.selkirk.com/products/womens-essential-pleated-skirt"
   },
@@ -972,7 +971,6 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Nike%20Swoosh%20Headband%20pickleball",
-    "price_usd": 12,
     "price_tier": "不明",
     "product_url": "https://www.nike.com/t/swoosh-headband-tg8Z9W"
   },
@@ -997,7 +995,6 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Performance%20Visor%20pickleball",
-    "price_usd": 29.99,
     "price_tier": "不明",
     "product_url": "https://www.selkirk.com/products/performance-visor"
   },
@@ -1022,58 +1019,7 @@
     "yahoo_url": null,
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Ben%20Johns%20Performance%20Shorts%20pickleball",
-    "price_usd": 39.95,
     "price_tier": "不明",
     "product_url": "https://www.joola.com/collections/apparel"
-  },
-  {
-    "id": "apparel_dink_queen_tee",
-    "brand_name": "ピックルボール専門",
-    "product_name": "Dink Queen Tシャツ",
-    "category": "Tシャツ",
-    "gender": "女性",
-    "price_usd": 29.99,
-    "description": "ピックルボール愛好家向けのファンTシャツ。吸湿速乾素材、UVカット。",
-    "image_url": ""
-  },
-  {
-    "id": "apparel_kitchen_crew_socks",
-    "brand_name": "ピックルボール専門",
-    "product_name": "Kitchen Crew ソックス",
-    "category": "ソックス",
-    "gender": "ユニセックス",
-    "price_usd": 14.99,
-    "description": "ピックルボールデザインのパフォーマンスソックス。アーチサポートとクッション付き。",
-    "image_url": ""
-  },
-  {
-    "id": "apparel_upf50_longsleeve",
-    "brand_name": "Selkirk",
-    "product_name": "UPF50 長袖パフォーマンスシャツ",
-    "category": "長袖シャツ",
-    "gender": "ユニセックス",
-    "price_usd": 49.99,
-    "description": "UPF50+のサンプロテクション。屋外ピックルボールプレイに最適。吸湿速乾素材。",
-    "image_url": "https://www.selkirk.com/cdn/shop/products/upf50-longsleeve.jpg"
-  },
-  {
-    "id": "apparel_pb_cap",
-    "brand_name": "JOOLA",
-    "product_name": "ピックルボール パフォーマンスキャップ",
-    "category": "キャップ",
-    "gender": "ユニセックス",
-    "price_usd": 24.95,
-    "description": "JOOLAロゴ入りパフォーマンスキャップ。速乾素材、調節可能なバックル。",
-    "image_url": "https://www.joola.com/cdn/shop/products/pb-perf-cap.jpg"
-  },
-  {
-    "id": "apparel_compression_sleeve",
-    "brand_name": "Copper Compression",
-    "product_name": "エルボーコンプレッションスリーブ",
-    "category": "サポーター",
-    "gender": "ユニセックス",
-    "price_usd": 19.99,
-    "description": "銅繊維コンプレッションスリーブ。テニスエルボー予防と回復をサポート。",
-    "image_url": ""
   }
 ]
