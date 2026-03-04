@@ -1,7 +1,7 @@
 [
   {
-    "court_type": "アウトドア",
-    "number_of_courts": 2,
+    "court_type": "インドア",
+    "number_of_courts": 1,
     "surface_type": "専用コート（青色塗装・屋上ハードコート）",
     "court_dimensions": "13.4m×6.1m（バドミントンダブルスと同サイズ）",
     "line_visibility": "専用ラインのみ(見やすい)",
@@ -10,7 +10,8 @@
     "baseline_margin": "標準",
     "lighting_type": "LED照明あり（2025年9月〜ナイター営業開始）",
     "_facility_name": "東京タワーベストアメニティピックルボールコート",
-    "_facility_index": 0
+    "_facility_index": 0,
+    "_survey_notes": "東京都港区芝公園4-2-8(東京タワーフットタウン内)。2025年7月4日オープン。1面/コートレンタル制(個人不可)。平日10-18時8,000円/18-21時10,000円/土日12,000円(税込)。パドル・ボール無料レンタル。インバウンド平日30%OFF(5,600円)。tokyotower-pickleball.jp公式/pickle-one.com/play-pickleball.jp確認。"
   },
   {
     "court_type": "インドア",
@@ -831,7 +832,8 @@
     "lighting_type": "屋内照明",
     "net_type": "ポータブル等",
     "_facility_name": "DIADEM PICKLEBALL COMPLEX KOBE (DPC KOBE)",
-    "_facility_index": 87
+    "_facility_index": 87,
+    "_survey_notes": "神戸市。2025年7月6日グランドオープン。日本最大級PB専用インドア5面。Standard月11,000円/Plus月19,800円/Elite月26,400円。ビジターオープンプレイ2,200円(60分1,100円)/レッスン90分2,750円/コートレンタル60分4,400円。パドルビジター550円(会員無料)/シューズ550円(会員無料)。dpckobe.jp公式/prtimes.jp/play-pickleball.jp確認。"
   },
   {
     "court_type": "インドア",
@@ -972,7 +974,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "和歌山市・松下体育館",
-    "_facility_index": 99
+    "_facility_index": 99,
+    "_survey_notes": "和歌山市西浜1037。バド4面/バレー2面の体育館。紀州PBクラブが2024年9月~活動(週1夜/体験参加可)(play-pickleball.jp確認)。9:00-21:00/木曜休(祝日翌日)。公共施設予約システムで予約。PB専用コートなし(バドコート転用)。面数不明(可変)。"
   },
   {
     "court_type": "インドア",
@@ -981,7 +984,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "田辺スポーツパーク 体育館",
-    "_facility_index": 100
+    "_facility_index": 100,
+    "_survey_notes": "和歌山県田辺市上の山1-23-1。バド8面/バスケ2面のアリーナ。Pickleball Sparkle主催のPB練習会・体験会を定期開催(4面使用/定員20名)(tennisbear.net確認)。2015年紀の国わかやま国体使用施設。面数不明(可変/イベント時4面)。"
   },
   {
     "court_type": "インドア",
@@ -990,14 +994,17 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "紀の川市民体育館",
-    "_facility_index": 101
+    "_facility_index": 101,
+    "number_of_courts": 3,
+    "_survey_notes": "和歌山県紀の川市。PB3面(pickleball-portal.jp確認)。ミズノ主催のPB交流会・大会を定期開催。2025年1-12月で延べ400名以上がPB体験。「気軽にオープンコート」イベント(2026年3月)。パドルレンタル可。bizmanager.jp/pickle-one.com確認。"
   },
   {
     "court_type": "インドア",
     "number_of_courts": 6,
     "surface_type": "国際基準コート",
     "_facility_name": "Pickleball Base Osaka (2026年4月オープン)",
-    "_facility_index": 104
+    "_facility_index": 104,
+    "_survey_notes": "大阪府堺市堺区。ホテルアゴーラリージェンシー大阪堺6F。2026年4月1日オープン予定。国際基準PBコート6面(西日本最大級)。大阪初のPB専門施設。pickleball-base.jp公式/osaka.style/play-pickleball.jp確認。"
   },
   {
     "court_type": "インドア",
@@ -1120,13 +1127,14 @@
     "_survey_notes": "静岡県浜松市。フィットネスクラブ内でPBプログラム提供。面数不明。"
   },
   {
-    "court_type": "アウトドア",
+    "court_type": "屋外",
     "number_of_courts": 4,
-    "surface_type": "USA Pickleball公認アウトドアコート",
+    "surface_type": "USA Pickleball公認",
     "line_visibility": "専用コート",
     "net_type": "ポータブル等",
     "_facility_name": "東急リゾートタウン浜名湖",
-    "_facility_index": 131
+    "_facility_index": 131,
+    "_survey_notes": "静岡県浜松市。屋外PBコート4面。日本初のUSA Pickleball協会公認屋外専用コート(2024年完成)。tokyu-hamanako-sports.com公式/prtimes.jp/pickle-one.com確認。東急リゾート内施設。"
   },
   {
     "court_type": "インドア",
@@ -1218,7 +1226,8 @@
     "net_type": "ポータブル等",
     "line_visibility": "専用ラインのみ(見やすい)",
     "_facility_name": "アクトス各務原店",
-    "_facility_index": 139
+    "_facility_index": 139,
+    "_survey_notes": "岐阜県各務原市。名電各務原駅徒歩3分。PBサークル常設(月~日曜/週1~フリー)。月会費: 週1回3,300円/2回4,400円/3回5,500円/フリー7,700円。パドル・ボール無料レンタル。超総合型スポーツクラブ(クアプール/アロマ等併設)。axtos.com公式/play-pickleball.jp確認。"
   },
   {
     "court_type": "インドア",
@@ -1226,7 +1235,8 @@
     "line_visibility": "バドミントンコートと同等の面積を活用",
     "net_type": "ポータブル等",
     "_facility_name": "マリンブルーテニススクール",
-    "_facility_index": 140
+    "_facility_index": 140,
+    "_survey_notes": "PBレッスン水木金日曜。高校生以上対象。コーチがPBコーディネーター資格取得済。初心者体験レッスンあり(入会金無料/体験料キャッシュバック特典)。テニスコート転用。面数不明。marineblue.co.jp公式確認。"
   },
   {
     "court_type": "インドア",
@@ -1271,7 +1281,8 @@
     "net_type": "ポータブル等",
     "line_visibility": "専用ラインのみ(見やすい)",
     "_facility_name": "sanTasピックルボールクラブ",
-    "_facility_index": 144
+    "_facility_index": 144,
+    "_survey_notes": "富山県砺波市東石丸424-1。会員制複合施設sanTas内。インドアPBコート2面。santas-n.com公式/randaall.com確認。"
   },
   {
     "court_type": "インドア",
@@ -1458,7 +1469,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "松本市総合体育館",
-    "_facility_index": 160
+    "_facility_index": 160,
+    "_survey_notes": "長野県松本市美須々5-1(エア・ウォーターアリーナ松本)。サブアリーナでPBイベント・練習会開催。松本PB協会/松本PBクラブ/松本ペリッドットPBが活動(matsumotopickleball.club確認)。8:30-21:00/火曜休。ミズノ運営。PB専用コートなし(体育館利用)。面数不明(可変)。"
   },
   {
     "court_type": "インドア",
@@ -1467,7 +1479,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "上田城跡公園 第二体育館",
-    "_facility_index": 161
+    "_facility_index": 161,
+    "_survey_notes": "長野県上田市二の丸。バレー2面/バスケ1面/バド4面の体育館。うえだPBクラブが体験交流会を開催(city.ueda.nagano.jp/uedapickleball.club確認)。他に清明小・浦里小でも定期練習会。PB専用コートなし。面数不明(可変)。"
   },
   {
     "court_type": "インドア",
@@ -1476,7 +1489,8 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "ユメックスアリーナ 塩尻市総合体育館",
-    "_facility_index": 162
+    "_facility_index": 162,
+    "_survey_notes": "長野県塩尻市。ミズノグループ運営。メインアリーナ/サブアリーナ。DIADEM CUP in 信州塩尻(2026年1月/DUPR3.5以下/以上ミックスD)(tennisbear.net/shiojiri.or.jp確認)。YOUMEX SPORTS FES 2026で初心者PB体験会開催。PB用具(木製ラケット+穴あきボール)貸出可(shiojiri.lg.jp確認)。予約システムで利用可。面数不明(可変)。"
   },
   {
     "court_type": "インドア",
@@ -1485,10 +1499,11 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "東武体育館",
-    "_facility_index": 163
+    "_facility_index": 163,
+    "_survey_notes": "PB専用コート・PBプログラムの明確な情報は検索で見つからなかった。東武スポーツクラブ公式(tobusports.co.jp)にPB記載なし。ティップネス東武練馬(別施設)にインドア1面あり(pickle-one.com)。東武宇都宮百貨店大田原でPB体験会実績あり。"
   },
   {
-    "court_type": "アウトドア",
+    "court_type": "屋外",
     "number_of_courts": 8,
     "surface_type": "ピックルカラーテックス（東亜道路工業製・ピックルボール専用表層カラー材）",
     "line_visibility": "専用ラインのみ(見やすい)",
@@ -1497,7 +1512,8 @@
     "baseline_margin": null,
     "lighting_type": "一部ナイト用照明（特定イベント時）",
     "_facility_name": "ルスツリゾート ピックルボールコート",
-    "_facility_index": 178
+    "_facility_index": 178,
+    "_survey_notes": "北海道虻田郡留寿都村。PJF公認PB専用コート8面(観覧席完備)。1面1時間3,000円。パドル300円/ボール150円(買取)。2025年7月4日~10月19日営業(7:00-18:00/受付16:30まで)。オープン記念(7/4-8/24)リゾート券で1時間無料。rusutsu.com公式/prtimes.jp/play-pickleball.jp確認。"
   },
   {
     "court_type": "インドア",
@@ -1630,7 +1646,8 @@
     "baseline_margin": null,
     "lighting_type": "屋内照明（別途照明代）",
     "_facility_name": "ならはスカイアリーナ",
-    "_facility_index": 189
+    "_facility_index": 189,
+    "_survey_notes": "福島県双葉郡楢葉町。屋内PBコート6面。JPA(日本PB協会)公式大会2025年10月開催(sportsentry.ne.jp/prtimes.jp/japanpickleball.org確認)。多目的アリーナ。地域スポーツ振興拠点。"
   },
   {
     "court_type": "インドア",
@@ -2543,6 +2560,7 @@
     "line_note": "※バドミントンのラインを利用するか、マスキングテープ等でのライン引きが必要な場合があります。",
     "lighting_type": "屋内照明",
     "_facility_name": "維新大晃アリーナ",
-    "_facility_index": 281
+    "_facility_index": 281,
+    "_survey_notes": "山口県山口市維新公園4-1-1。PJF山口チャンピオンシップ2025年5月開催(pickleball-japan.org/ishin100.com確認)。レクチャールームで6コート使用の体験会実績(yamaguchi-calendar.jp)。PJFジャパンオープン2026年6月開催予定。山口PBクラブが市内体育館で活動。面数不明(可変/イベント時6コート)。"
   }
 ]

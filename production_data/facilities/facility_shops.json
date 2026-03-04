@@ -8,7 +8,7 @@
     "handled_brands": "",
     "_facility_name": "東京タワーベストアメニティピックルボールコート",
     "_facility_index": 0,
-    "_survey_notes": "港区。東京タワーフットタウン屋上。2025年7月常設。パドル無料レンタル。夏季30%OFFキャンペーン実績。"
+    "_survey_notes": "港区東京タワー。パドル・ボール無料レンタル(受付申出要)。コート1面1時間8,000-12,000円(tokyotower-pickleball.jp確認)。"
   },
   {
     "has_paddle_sales": true,
@@ -541,11 +541,9 @@
     "_facility_name": "DIADEM PICKLEBALL COMPLEX KOBE (DPC KOBE)",
     "_facility_index": 87,
     "has_paddle_sales": true,
-    "handled_brands": [
-      "DIADEM"
-    ],
-    "paddle_rental_fee": "550円/本",
-    "_survey_notes": "神戸市。DPCコート5面。DIADEMブランド専門。パドルレンタル550円/本(セット1,650円)。販売・試打可。"
+    "handled_brands": "DIADEM",
+    "paddle_rental_fee": "ビジター550円(会員無料)",
+    "_survey_notes": "神戸市。DIADEM販売あり。パドルビジター550円(4本+ボール4球セット1,650円)/会員無料。シューズ550円(会員無料)(dpckobe.jp確認)。"
   },
   {
     "has_paddle_rental": 0,
@@ -640,11 +638,11 @@
     "_survey_notes": "和歌山県田辺市。スポーツパーク体育館でPB活動。面数不明。"
   },
   {
-    "has_paddle_rental": 0,
+    "has_paddle_rental": true,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "紀の川市民体育館",
     "_facility_index": 101,
-    "_survey_notes": "和歌山県紀の川市。市民体育館でPB活動。面数不明。"
+    "_survey_notes": "紀の川市。ミズノ主催交流会でパドルレンタル可。PB3面(pickleball-portal.jp確認)。"
   },
   {
     "has_paddle_rental": true,
@@ -776,11 +774,12 @@
     "_survey_notes": "岐阜県多治見市。体育館でPB活動。面数不明。"
   },
   {
-    "has_paddle_rental": 1,
+    "has_paddle_rental": true,
     "rental_detail": "体験用のパドル・ボール貸出あり（有料/無料は要確認）",
     "_facility_name": "アクトス各務原店",
     "_facility_index": 139,
-    "_survey_notes": "岐阜県各務原市。スポーツクラブアクトス内でPB活動。面数不明。"
+    "_survey_notes": "各務原市。パドル・ボール無料レンタル。月会費制(週1回3,300円~フリー7,700円)(axtos.com確認)。",
+    "paddle_rental_fee": "無料"
   },
   {
     "has_paddle_rental": true,
@@ -946,11 +945,12 @@
     "_survey_notes": "長野県上田市。上田城跡公園内体育館でPB活動。面数不明。"
   },
   {
-    "has_paddle_rental": 0,
+    "has_paddle_rental": true,
     "rental_detail": "個人持ち込み必須（支柱とネットはバドミントン用を代用）",
     "_facility_name": "ユメックスアリーナ 塩尻市総合体育館",
     "_facility_index": 162,
-    "_survey_notes": "長野県塩尻市。総合体育館でPB活動。面数不明。"
+    "_survey_notes": "塩尻市。PB用具(木製ラケット+穴あきボール)貸出可(shiojiri.lg.jp確認)。",
+    "paddle_rental_fee": "無料(公共施設貸出)"
   },
   {
     "has_paddle_rental": 0,
@@ -963,12 +963,12 @@
     "has_paddle_sales": null,
     "has_apparel_sales": null,
     "has_paddle_rental": true,
-    "paddle_rental_fee": "無料(リゾート利用込)",
+    "paddle_rental_fee": "300円/本",
     "rental_detail": "ラケット1本300円。ボール150円/個（買い取り）",
     "handled_brands": null,
     "_facility_name": "ルスツリゾート ピックルボールコート",
     "_facility_index": 178,
-    "_survey_notes": "北海道虻田郡留寿都村。リゾート内PB8面。パドル無料レンタル(リゾート利用込)。"
+    "_survey_notes": "留寿都村。パドル300円/本。ボール150円(買取)。8面PJF公認。1面1h3,000円(rusutsu.com確認)。"
   },
   {
     "has_paddle_sales": false,
