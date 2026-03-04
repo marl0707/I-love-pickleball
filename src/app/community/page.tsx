@@ -10,7 +10,18 @@ export const metadata: Metadata = {
     description: "ピックルボール仲間と情報交換や質問ができるコミュニティ掲示板です。",
 };
 
-export default async function CommunityTopPage() {
+interface PageProps {
+    searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+}
+
+export default async function CommunityTopPage({ searchParams }: PageProps) {
+    const queryParams = await searchParams;
+    const where: any = {};
+    if (queryParams.q) {
+        const q = String(queryParams.q).toLowerCase();
+        where.title = { contains: q, mode: "insensitive" };
+    }
+
     // カテゴリとそれぞれの最新投稿数を取得
     const categories = await prisma.communityCategory.findMany({
         orderBy: { sortOrder: 'asc' },
@@ -23,6 +34,7 @@ export default async function CommunityTopPage() {
 
     // 全カテゴリの最新投稿を取得
     const recentPosts = await prisma.communityPost.findMany({
+        where,
         orderBy: { createdAt: 'desc' },
         take: 10,
         include: {
@@ -53,7 +65,26 @@ export default async function CommunityTopPage() {
                 </div>
             </section>
 
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 flex flex-col lg:flex-row gap-12">
+            {/* 検索フォーム */}
+            <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-6">
+                <form method="GET" className="bg-gray-50 border border-gray-100 p-6 md:p-8">
+                    <h2 className="text-center text-xs tracking-[0.3em] uppercase text-gray-500 mb-6 font-semibold font-sans">SEARCH</h2>
+                    <div className="max-w-2xl mx-auto flex gap-4">
+                        <input
+                            type="text"
+                            name="q"
+                            defaultValue={queryParams.q as string || ""}
+                            placeholder="投稿タイトルで検索..."
+                            className="flex-1 border border-gray-200 bg-white text-sm py-3 px-4 rounded-sm focus:border-brand-accent focus:ring-1 focus:ring-brand-accent transition"
+                        />
+                        <button type="submit" className="bg-brand-accent text-white text-xs tracking-[0.2em] uppercase px-8 py-3 hover:bg-brand-accent/80 transition-colors font-sans">
+                            検索
+                        </button>
+                    </div>
+                </form>
+            </section>
+
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-6 flex flex-col lg:flex-row gap-12">
                 {/* メイン: 最新の投稿 */}
                 <div className="flex-1 lg:w-2/3">
                     <div className="flex justify-between items-end mb-6 border-b border-gray-200 pb-2">

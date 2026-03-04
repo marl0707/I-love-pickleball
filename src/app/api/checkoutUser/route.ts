@@ -18,7 +18,7 @@ export async function POST(req: Request) {
         const bidAmount = parseInt(bidAmountStr, 10)
 
         if (!category || isNaN(bidAmount) || bidAmount < 35) {
-            return new NextResponse('Invalid category or bid amount (minimum 35 USD)', { status: 400 })
+            return new NextResponse('Invalid input. Category and valid minimum bid amount (35 USD) are required.', { status: 400 })
         }
 
         // DBからユーザー情報を取得
@@ -74,6 +74,8 @@ export async function POST(req: Request) {
                 userId: user.id,
                 category: category,
                 bidAmount: bidAmount.toString(),
+                advertiserName: '名称未設定',
+                targetUrl: '#',
                 action: 'create_ad_bid',
             }
         })

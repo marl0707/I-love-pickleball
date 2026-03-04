@@ -1,26 +1,18 @@
 import { prisma } from '@/lib/prisma'
 import Link from 'next/link'
 import Image from 'next/image'
+import AdAuctionPreview from '@/components/AdAuctionPreview'
+import { getRankedAdBids } from '@/lib/ad-bids'
 
 export const metadata = {
     title: '広告掲載・スポンサー募集 | I LOVE PICKLEBALL',
 }
 
-export default async function AdvertisePage() {
-    // 施設カテゴリの直近の入札トップ3を取得（例として）
-    const topFacilityBids = await prisma.adBid.findMany({
-        where: { category: 'Facility', status: 'ACTIVE' },
-        orderBy: { bidAmount: 'desc' },
-        take: 3,
-        include: { bidderUser: { select: { nickname: true } } }
-    })
+const CATEGORIES = ["Facility", "Gear", "Event", "Instructor", "Other"];
 
-    const topGearBids = await prisma.adBid.findMany({
-        where: { category: 'Gear', status: 'ACTIVE' },
-        orderBy: { bidAmount: 'desc' },
-        take: 3,
-        include: { bidderUser: { select: { nickname: true } } }
-    })
+export default async function AdvertisePage() {
+    // SSRで初期データとして施設カテゴリのランキングを取得
+    const initialFacilityBids = await getRankedAdBids('Facility');
 
     return (
         <div className="bg-gray-50 min-h-screen pb-20">
@@ -117,123 +109,18 @@ export default async function AdvertisePage() {
                                 <span className="material-symbols-outlined text-[28px]">rocket_launch</span>
                             </div>
                             <h3 className="font-bold text-base text-gray-900">3. 即座に掲載開始</h3>
-                            <p className="text-gray-600 text-xs leading-relaxed text-left">Stripeを利用した安全なクレジットカード決済完了後、あなたが<span className="font-bold text-brand-accent">最高額入札者（1位）</span>であれば、すぐに対象一覧ページへとバナーが自動掲載されます。</p>
+                            <p className="text-gray-600 text-xs leading-relaxed text-left">Stripeを利用した安全なクレジットカード決済完了後、あなたが<span className="font-bold text-brand-accent">最高額入札者（1位〜10位）</span>であれば、すぐに対象一覧ページへと自動掲載されます。</p>
                         </div>
                     </div>
                 </section>
 
                 {/* ランキング・プレビュー表示 */}
                 <section>
-                    <h2 className="text-2xl font-bold text-gray-900 mb-8 flex items-center justify-center gap-2">
-                        <span className="material-symbols-outlined text-red-500 text-3xl">local_fire_department</span>
-                        現在の入札状況ランキング（リアルタイム）
-                    </h2>
-
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-
-                        {/* 施設カテゴリ */}
-                        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
-                            <div className="bg-brand-dark p-4 text-center">
-                                <h3 className="text-white font-bold tracking-wider">施設・コートカテゴリ 枠</h3>
-                                <p className="text-brand-accent text-xs mt-1">/facilities スポンサー枠</p>
-                            </div>
-                            <div className="p-0">
-                                {topFacilityBids.length === 0 ? (
-                                    <div className="p-8 text-center text-gray-400">現在、このカテゴリの入札はありません。<br />月額最低$35からあなたが最初のスポンサーになれます！</div>
-                                ) : (
-                                    <ul className="divide-y divide-gray-100">
-                                        {topFacilityBids.map((bid, index) => (
-                                            <li key={bid.id} className="flex items-center p-4">
-                                                <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold mr-4 flex-shrink-0 ${index === 0 ? 'bg-yellow-400 text-white' : index === 1 ? 'bg-gray-300 text-white' : 'bg-orange-300 text-white'
-                                                    }`}>
-                                                    {index + 1}
-                                                </div>
-                                                <div className="flex-1">
-                                                    <div className="font-bold text-gray-800">{bid.advertiserName}</div>
-                                                    <div className="text-xs text-gray-500 line-clamp-1">{bid.targetUrl}</div>
-                                                </div>
-                                                <div className="text-right">
-                                                    <div className="text-sm font-bold text-brand-dark">${bid.bidAmount.toLocaleString()}<span className="text-xs font-normal text-gray-400"> /月</span></div>
-                                                </div>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                )}
-                            </div>
-                            <div className="p-4 bg-gray-50 border-t border-gray-100">
-                                <form action="/api/checkoutUser" method="POST" className="w-full space-y-3">
-                                    <input type="hidden" name="category" value="Facility" />
-                                    <div>
-                                        <label className="block text-xs font-medium text-gray-700 mb-1">入札額 (USD 月額 / $35以上)</label>
-                                        <input type="number" name="bidAmount" min="35" defaultValue="35" required className="w-full p-2 border border-gray-300 rounded-md text-sm" />
-                                    </div>
-                                    <div>
-                                        <label className="block text-xs font-medium text-gray-700 mb-1">スポンサー(広告主)名</label>
-                                        <input type="text" name="advertiserName" required placeholder="例: ○○ピックルボールクラブ" className="w-full p-2 border border-gray-300 rounded-md text-sm" />
-                                    </div>
-                                    <div>
-                                        <label className="block text-xs font-medium text-gray-700 mb-1">遷移先URL</label>
-                                        <input type="url" name="targetUrl" required placeholder="https://..." className="w-full p-2 border border-gray-300 rounded-md text-sm" />
-                                    </div>
-                                    <button type="submit" className="w-full bg-brand-accent hover:bg-emerald-600 text-white font-bold py-3 mt-2 rounded-xl transition-colors shadow-sm">
-                                        この枠に入札する
-                                    </button>
-                                </form>
-                            </div>
-                        </div>
-
-                        {/* ギア・用具カテゴリ */}
-                        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
-                            <div className="bg-brand-dark p-4 text-center">
-                                <h3 className="text-white font-bold tracking-wider">ギア・用具カテゴリ 枠</h3>
-                                <p className="text-brand-accent text-xs mt-1">/gear スポンサー枠</p>
-                            </div>
-                            <div className="p-0">
-                                {topGearBids.length === 0 ? (
-                                    <div className="p-8 text-center text-gray-400">現在、このカテゴリの入札はありません。<br />月額最低$35からあなたが最初のスポンサーになれます！</div>
-                                ) : (
-                                    <ul className="divide-y divide-gray-100">
-                                        {topGearBids.map((bid, index) => (
-                                            <li key={bid.id} className="flex items-center p-4">
-                                                <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold mr-4 flex-shrink-0 ${index === 0 ? 'bg-yellow-400 text-white' : index === 1 ? 'bg-gray-300 text-white' : 'bg-orange-300 text-white'
-                                                    }`}>
-                                                    {index + 1}
-                                                </div>
-                                                <div className="flex-1">
-                                                    <div className="font-bold text-gray-800">{bid.advertiserName}</div>
-                                                    <div className="text-xs text-gray-500 line-clamp-1">{bid.targetUrl}</div>
-                                                </div>
-                                                <div className="text-right">
-                                                    <div className="text-sm font-bold text-brand-dark">${bid.bidAmount.toLocaleString()}<span className="text-xs font-normal text-gray-400"> /月</span></div>
-                                                </div>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                )}
-                            </div>
-                            <div className="p-4 bg-gray-50 border-t border-gray-100">
-                                <form action="/api/checkoutUser" method="POST" className="w-full space-y-3">
-                                    <input type="hidden" name="category" value="Gear" />
-                                    <div>
-                                        <label className="block text-xs font-medium text-gray-700 mb-1">入札額 (USD 月額 / $35以上)</label>
-                                        <input type="number" name="bidAmount" min="35" defaultValue="35" required className="w-full p-2 border border-gray-300 rounded-md text-sm" />
-                                    </div>
-                                    <div>
-                                        <label className="block text-xs font-medium text-gray-700 mb-1">スポンサー(広告主)名</label>
-                                        <input type="text" name="advertiserName" required placeholder="例: 株式会社○○スポーツ" className="w-full p-2 border border-gray-300 rounded-md text-sm" />
-                                    </div>
-                                    <div>
-                                        <label className="block text-xs font-medium text-gray-700 mb-1">遷移先URL</label>
-                                        <input type="url" name="targetUrl" required placeholder="https://..." className="w-full p-2 border border-gray-300 rounded-md text-sm" />
-                                    </div>
-                                    <button type="submit" className="w-full bg-brand-accent hover:bg-emerald-600 text-white font-bold py-3 mt-2 rounded-xl transition-colors shadow-sm">
-                                        この枠に入札する
-                                    </button>
-                                </form>
-                            </div>
-                        </div>
-
-                    </div>
+                    <AdAuctionPreview
+                        categories={CATEGORIES}
+                        initialCategory="Facility"
+                        initialBids={initialFacilityBids as any}
+                    />
                 </section>
 
             </div>

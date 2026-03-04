@@ -29,21 +29,16 @@ export async function POST(req: Request) {
             case 'checkout.session.completed': {
                 const session = event.data.object as Stripe.Checkout.Session
                 if (session.metadata?.action === 'create_ad_bid') {
-                    const { userId, category, bidAmount } = session.metadata
-
-                    // FormDataから受け取って本来はmetadata等で渡すべきですが、
-                    // 今回はテスト実装として「名称未設定」などで一旦レコードを作成します。
-                    // ※実際には Checkout への遷移前に一旦 DB に PENDING ステータスで保存し、
-                    //   Webhook でACTIVEに更新する設計が王道です。
+                    const { userId, category, bidAmount, advertiserName, targetUrl } = session.metadata
 
                     await prisma.adBid.create({
                         data: {
                             category,
                             bidAmount: parseInt(bidAmount, 10),
                             bidderId: userId,
-                            advertiserName: '名称未設定スポンサー (ダッシュボードから設定)', // 仮
-                            targetUrl: 'https://...', // 仮
-                            imageUrl: '', // 仮
+                            advertiserName: advertiserName || '名称未設定スポンサー',
+                            targetUrl: targetUrl || 'https://...',
+                            imageUrl: '', // 画像は後日アップロード、またはデフォルト
                             stripeSubscriptionId: session.subscription as string,
                             status: 'ACTIVE',
                         }

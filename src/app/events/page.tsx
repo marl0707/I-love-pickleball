@@ -7,8 +7,20 @@ export const metadata = {
     description: '全国で開催されるピックルボールのイベント、練習会、大会情報の一覧です。',
 }
 
-export default async function EventsPage() {
+interface PageProps {
+    searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+}
+
+export default async function EventsPage({ searchParams }: PageProps) {
+    const queryParams = await searchParams;
+    const where: any = {};
+    if (queryParams.q) {
+        const q = String(queryParams.q).toLowerCase();
+        where.title = { contains: q, mode: "insensitive" };
+    }
+
     const events = await prisma.event.findMany({
+        where,
         orderBy: { date: 'asc' },
         include: {
             organizer: {
@@ -33,7 +45,26 @@ export default async function EventsPage() {
                 </p>
             </section>
 
-            <div className="container mx-auto px-4 max-w-6xl">
+            {/* 検索フォーム */}
+            <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                <form method="GET" className="bg-gray-50 border border-gray-100 p-6 md:p-8">
+                    <h2 className="text-center text-xs tracking-[0.3em] uppercase text-gray-500 mb-6 font-semibold font-sans">SEARCH</h2>
+                    <div className="max-w-2xl mx-auto flex gap-4">
+                        <input
+                            type="text"
+                            name="q"
+                            defaultValue={queryParams.q as string || ""}
+                            placeholder="イベント名で検索..."
+                            className="flex-1 border border-gray-200 bg-white text-sm py-3 px-4 rounded-sm focus:border-brand-accent focus:ring-1 focus:ring-brand-accent transition"
+                        />
+                        <button type="submit" className="bg-brand-accent text-white text-xs tracking-[0.2em] uppercase px-8 py-3 hover:bg-brand-accent/80 transition-colors font-sans">
+                            検索
+                        </button>
+                    </div>
+                </form>
+            </section>
+
+            <div className="container mx-auto px-4 max-w-6xl pb-12">
                 <h2 className="text-2xl font-bold mb-6 border-b-2 border-brand-accent pb-2 inline-block">
                     直近のイベント
                 </h2>
