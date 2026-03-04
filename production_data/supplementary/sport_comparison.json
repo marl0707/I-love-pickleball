@@ -1,0 +1,116 @@
+[
+    {
+        "id": "comp_pb",
+        "sport": "ピックルボール",
+        "sport_en": "Pickleball",
+        "court": {
+            "size": "20ft × 44ft (6.1m × 13.4m)",
+            "same_as": "バドミントンダブルスと同一サイズ",
+            "singles_doubles_same": true,
+            "note": "テニスコート1面に4面取れる"
+        },
+        "net_height": {
+            "center": "34in (86cm)",
+            "sideline": "36in (91cm)"
+        },
+        "equipment": {
+            "racket_type": "ソリッドパドル（穴なし面、木材/コンポジット素材）",
+            "ball": "穿孔プラスチックボール（ウィッフルボール型）",
+            "ball_speed": "遅め（時速40-50km程度）"
+        },
+        "scoring": "11点制（サーブ側のみ得点、2点差必要）",
+        "key_features": [
+            "低衝撃で関節に優しい",
+            "コートが小さく移動距離少ない",
+            "年齢・体力を問わず参加可能",
+            "戦略・配球・コントロール重視",
+            "キッチン（NVZ）が独自の戦略要素"
+        ],
+        "physical_demand": "中程度",
+        "learning_curve": "簡単（数時間で基礎習得可能）"
+    },
+    {
+        "id": "comp_tennis",
+        "sport": "テニス",
+        "sport_en": "Tennis",
+        "court": {
+            "size": "シングルス: 27ft × 78ft / ダブルス: 36ft × 78ft",
+            "comparison_to_pb": "PBコートの約4倍の面積",
+            "singles_doubles_same": false
+        },
+        "net_height": {
+            "center": "36in (91cm)",
+            "sideline": "42in (107cm)"
+        },
+        "equipment": {
+            "racket_type": "ストリング張りのラケット（PBパドルより大きく重い）",
+            "ball": "加圧フェルトボール（高い弾力性）",
+            "ball_speed": "速い（プロのサーブは時速200km以上）"
+        },
+        "scoring": "ポイント制（15-30-40-ゲーム）、6ゲーム1セット",
+        "key_features": [
+            "高い身体的要求（持久力・パワー・スピード）",
+            "広いコートでの全面カバーが必要",
+            "パワフルなサーブ・グラウンドストロークが主体",
+            "長いラリーと激しい運動量"
+        ],
+        "physical_demand": "高い",
+        "learning_curve": "やや難しい（基礎習得に数週間〜数ヶ月）"
+    },
+    {
+        "id": "comp_badminton",
+        "sport": "バドミントン",
+        "sport_en": "Badminton",
+        "court": {
+            "size": "ダブルス: 20ft × 44ft / シングルス: 17ft × 44ft",
+            "comparison_to_pb": "ダブルスコートはPBと同一サイズ",
+            "singles_doubles_same": false,
+            "note": "通常屋内でプレー"
+        },
+        "net_height": {
+            "center": "5ft (152cm)",
+            "sideline": "5ft 1in (155cm)"
+        },
+        "equipment": {
+            "racket_type": "軽量ストリングラケット",
+            "ball": "シャトルコック（羽根またはプラスチック）",
+            "ball_speed": "スマッシュは非常に速い（時速400km以上の記録）が空気抵抗で急減速"
+        },
+        "scoring": "21点制（ラリースコアリング、2点差必要）",
+        "key_features": [
+            "非常に速い反応速度が必要",
+            "シャトルの軌道が独特（急速に減速）",
+            "スマッシュとフィネスショットの使い分け",
+            "高い俊敏性・瞬発力が要求される"
+        ],
+        "physical_demand": "高い",
+        "learning_curve": "中程度"
+    },
+    {
+        "id": "comp_table_tennis",
+        "sport": "卓球",
+        "sport_en": "Table Tennis",
+        "court": {
+            "size": "テーブル: 9ft × 5ft (2.74m × 1.52m)",
+            "comparison_to_pb": "PBコートと同列比較不可（テーブル上のスポーツ）",
+            "singles_doubles_same": true
+        },
+        "net_height": {
+            "center": "6in (15.25cm)"
+        },
+        "equipment": {
+            "racket_type": "ラバー貼りの木製ラケット",
+            "ball": "40mmプラスチックボール（2.7g）",
+            "ball_speed": "非常に速い（スマッシュは時速100km以上）"
+        },
+        "scoring": "11点制（ラリースコアリング、2点差必要）",
+        "key_features": [
+            "超高速のラリー展開",
+            "スピンの種類と量が非常に重要",
+            "反射神経と繊細な手首コントロールが必須",
+            "PBの祖先（パドル・ゲーム性の共通点）"
+        ],
+        "physical_demand": "中程度",
+        "learning_curve": "中程度"
+    }
+]

@@ -1,0 +1,97 @@
+{
+    "senior_benefits": [
+        {
+            "id": "sr_001",
+            "category": "身体的メリット",
+            "title_ja": "低衝撃で関節に優しい",
+            "description_ja": "テニスと比べコートが小さく、ボール速度が遅いため、膝・股関節・肩・足首への負担が少ない。関節炎や人工関節の方でもプレー可能。",
+            "source": "Mayo Clinic, Fox Rehab"
+        },
+        {
+            "id": "sr_002",
+            "category": "身体的メリット",
+            "title_ja": "心血管系の健康改善",
+            "description_ja": "中程度の有酸素運動として心拍数を適度に上昇させ、血圧やコレステロール値の改善に寄与。週に推奨される運動量を達成しやすい。",
+            "source": "Columbia Doctors, NC State研究"
+        },
+        {
+            "id": "sr_003",
+            "category": "身体的メリット",
+            "title_ja": "バランス・協調性の向上",
+            "description_ja": "素早い動き、方向転換、反応が必要なため、安定性・手と目の協調・空間認識が向上。転倒予防に直結する重要な効果。",
+            "source": "Time Magazine, Fox Rehab"
+        },
+        {
+            "id": "sr_004",
+            "category": "身体的メリット",
+            "title_ja": "筋力維持と体重管理",
+            "description_ja": "スクワット姿勢、シャッフル移動、パドルスイングで主要筋群を使用。1時間のプレーで250〜350カロリー消費。",
+            "source": "Helios Pickleball"
+        },
+        {
+            "id": "sr_005",
+            "category": "精神的メリット",
+            "title_ja": "認知機能の維持・向上",
+            "description_ja": "戦略的思考、素早い判断、配球の計画が脳を刺激し、記憶力・問題解決能力を改善。加齢による認知機能低下のリスク軽減に寄与する可能性。",
+            "source": "Pickleball Nation"
+        },
+        {
+            "id": "sr_006",
+            "category": "精神的メリット",
+            "title_ja": "社会的つながりと孤立防止",
+            "description_ja": "本質的にソーシャルなスポーツであり、新しい友人関係の構築や既存の絆の強化に役立つ。退職後の目的意識の回復にも効果的。",
+            "source": "Mayo Clinic, Time Magazine"
+        },
+        {
+            "id": "sr_007",
+            "category": "精神的メリット",
+            "title_ja": "ストレス軽減とメンタルヘルス改善",
+            "description_ja": "運動によるエンドルフィン分泌で気分が向上。ストレス、不安、うつ症状の軽減に効果がある。楽しさが継続のモチベーションになる。",
+            "source": "Human Kinetics"
+        }
+    ],
+    "adaptive_pickleball": {
+        "description_ja": "身体的・認知的・発達的な障害を持つ方にもピックルボールを楽しんでもらうための適応ルールと用具の総称。車椅子プレイヤーを含む。USA Pickleballがインクルーシブなプログラムのネットワーク構築を推進中。",
+        "rule_modifications": [
+            {
+                "rule_ja": "ツーバウンスルール",
+                "description_ja": "車椅子プレイヤーは自分のサイドで2回バウンドさせてからリターン可能（通常は1回）。2回目のバウンドはコート外でもOK。"
+            },
+            {
+                "rule_ja": "車椅子は身体の一部",
+                "description_ja": "車椅子はプレイヤーの身体の延長として扱われる。意図的にブロックしなければ、ボールが車椅子に当たっても有効。"
+            },
+            {
+                "rule_ja": "サーブ時の後輪位置",
+                "description_ja": "サーブ時に後輪がベースラインの後ろにある必要がある。サーブ前に1回のプッシュが許可される場合もある。"
+            },
+            {
+                "rule_ja": "NVZルール（車椅子版）",
+                "description_ja": "前輪はNVZに触れてもOK。ただし後輪はNVZ外に出ている必要がある。"
+            },
+            {
+                "rule_ja": "ハイブリッドゲーム",
+                "description_ja": "車椅子プレイヤーと立位プレイヤーが一緒にプレー可能。それぞれのルールに従いながら公平な試合を実現。"
+            }
+        ],
+        "equipment_modifications": [
+            {
+                "item_ja": "スポーツ用車椅子",
+                "description_ja": "軽量でキャンバー付きの車輪、アンチティップキャスター付きのテニス用車椅子が推奨。"
+            },
+            {
+                "item_ja": "改良グリップ＆リストガード",
+                "description_ja": "握力が弱い方向けの改良グリップと、手首を安定させるリストガード。"
+            },
+            {
+                "item_ja": "ボールリトリーバー",
+                "description_ja": "かがまずにボールを拾えるツール。移動制限のある方に特に有用。"
+            },
+            {
+                "item_ja": "脚・足ストラップ",
+                "description_ja": "急な動きの際に下肢を安定・安全に保つためのストラップ。"
+            }
+        ],
+        "source": "USA Pickleball, Challenged Athletes Foundation"
+    }
+}

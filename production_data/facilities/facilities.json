@@ -2412,7 +2412,7 @@
     },
     "_region": "関東",
     "_region_romaji": "kanto",
-    "website_url": "https://impact-tsukuba.square.site/"
+    "website_url": null
   },
   {
     "name": "ゴールドジム土浦茨城",
@@ -2647,7 +2647,7 @@
     },
     "_region": "関東",
     "_region_romaji": "kanto",
-    "website_url": "https://p-rextochigi.com/"
+    "website_url": null
   },
   {
     "name": "日環アリーナ栃木",
@@ -3663,7 +3663,7 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82",
     "main_photo_url": "https://konami.com/sportsclub/tennis/omiya/pickleball/",
-    "website_url": "https://konami.com/sportsclub/tennis/omiya/"
+    "website_url": null
   },
   {
     "name": "さいたま市与野体育館",
@@ -7286,7 +7286,7 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "website_url": "https://racketpark.jp/"
+    "website_url": null
   },
   {
     "name": "日硝ハイウエーアリーナ",
@@ -7625,7 +7625,7 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "website_url": "https://www.nagoya-nakagawa.jp/"
+    "website_url": null
   },
   {
     "name": "福井市体育館",
@@ -8346,7 +8346,7 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82",
     "main_photo_url": "https://pickleball-base.com/",
-    "website_url": "https://pickleball-base.com/"
+    "website_url": null
   },
   {
     "name": "テニスラウンジ ウェルネススクエア新栄校",
@@ -10052,7 +10052,7 @@
     },
     "_region": "九州",
     "_region_romaji": "kyushu",
-    "website_url": "https://pivole.com/"
+    "website_url": null
   },
   {
     "name": "山国川緑地 ピックルボールコート（吉富コート）",
@@ -10885,7 +10885,7 @@
     },
     "_region": "九州",
     "_region_romaji": "kyushu",
-    "website_url": "https://pickleball-kumamoto.jp/"
+    "website_url": null
   },
   {
     "name": "COSMOS【熊本県フットボールセンター】",
