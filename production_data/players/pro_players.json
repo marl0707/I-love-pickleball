@@ -19,8 +19,8 @@
         "silver": 18,
         "bronze": 12
       },
-      "dupr_singles": 7.096,
-      "dupr_doubles": 7.396,
+      "dupr_singles": 7.066,
+      "dupr_doubles": 7.411,
       "medal_rate_ppa": "100%（59大会連続メダル、2024年5月時点）",
       "notable_records": [
         "PPA史上最多トリプルクラウン21回（他男子選手は最多1回）",
@@ -32,7 +32,7 @@
         "Carvana Mesa Cup: シングルス銀（Christopher Haworthに決勝で敗退）",
         "Carvana Mesa Cup: 混合ダブルス銀（Anna Bright & Hayden Patriquinに敗退）"
       ],
-      "data_source": "PPA Tour公式/Forbes/Picklewave（2026年2月時点）"
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
     },
     "paddle_ids": "paddle_joola_perseus_16",
     "shoe_ids": null,
@@ -86,7 +86,9 @@
           "gold_together": 7
         }
       ],
-      "data_source": "PPA Tour公式/Forbes/Wikipedia（2026年1月時点）"
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)",
+      "dupr_singles": 6.57,
+      "dupr_doubles": 6.85
     },
     "paddle_ids": null,
     "shoe_ids": null,
@@ -131,7 +133,7 @@
       "recent_results": [
         "2025年2月 Proton Australia Open: 混合ダブルス金（with Lacy Schneemann）"
       ],
-      "data_source": "Picklewave/PPA Tour公式/tysonmcguffin.com（2026年3月時点）"
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
     },
     "paddle_ids": "paddle_selkirk_vanguard_16",
     "shoe_ids": "shoe_skechers_viper_court",
@@ -161,7 +163,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/riley-newman/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Riley+Newman+pickleball",
-    "_sponsor_note": "2026.1にPaddletekと契約。元ProXR（2024）、さらにその前はTakeya（〜2023）"
+    "_sponsor_note": "2026.1にPaddletekと契約。元ProXR（2024）、さらにその前はTakeya（〜2023）",
+    "career_stats": {
+      "dupr_singles": null,
+      "dupr_doubles": 6.815,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_federico_staksrud",
@@ -182,7 +189,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/federico-staksrud/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Federico+Staksrud+pickleball",
-    "_sponsor_note": "2025.1にAdidas→短期間で復帰しJOOLA (2025.7確認)"
+    "_sponsor_note": "2025.1にAdidas→短期間で復帰しJOOLA (2025.7確認)",
+    "career_stats": {
+      "dupr_singles": 7.168,
+      "dupr_doubles": 7.011,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_jack_sock",
@@ -203,7 +215,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/jack-sock/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Jack+Sock+pickleball",
-    "_sponsor_note": "Selkirk LUXX Control Air シグネチャーパドル。CourtStrike Proシューズも使用"
+    "_sponsor_note": "Selkirk LUXX Control Air シグネチャーパドル。CourtStrike Proシューズも使用",
+    "career_stats": {
+      "dupr_singles": 6.564,
+      "dupr_doubles": 6.499,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_catherine_parenteau",
@@ -224,7 +241,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/catherine-parenteau/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Catherine+Parenteau+pickleball",
-    "_sponsor_note": "Selkirk VANGUARD Power Air Invikta → SLK ERA Power (2025)"
+    "_sponsor_note": "Selkirk VANGUARD Power Air Invikta → SLK ERA Power (2025)",
+    "career_stats": {
+      "dupr_singles": 6.025,
+      "dupr_doubles": 6.198,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_lea_jansen",
@@ -245,7 +267,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/lea-jansen/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Lea+Jansen+pickleball",
-    "_sponsor_note": "Joola Ben Johns Perseus使用 (2025確認)"
+    "_sponsor_note": "Joola Ben Johns Perseus使用 (2025確認)",
+    "career_stats": {
+      "dupr_singles": 5.894,
+      "dupr_doubles": 5.874,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_collin_johns",
@@ -265,7 +292,12 @@
     "facebook_url": null,
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/collin-johns/",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=Collin+Johns+pickleball"
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Collin+Johns+pickleball",
+    "career_stats": {
+      "dupr_singles": 6.967,
+      "dupr_doubles": 6.497,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_matt_wright",
@@ -286,7 +318,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/matt-wright/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Matt+Wright+pickleball",
-    "_sponsor_note": "2025はONIX。2025末〜2026にWarping Pointへ移籍"
+    "_sponsor_note": "2025はONIX。2025末〜2026にWarping Pointへ移籍",
+    "career_stats": {
+      "dupr_singles": null,
+      "dupr_doubles": 6.62,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_jw_johnson",
@@ -307,7 +344,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/jw-johnson/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=JW+Johnson+pickleball",
-    "_sponsor_note": "2026.1にFranklin離脱。新パドルスポンサーTBA"
+    "_sponsor_note": "2026.1にFranklin離脱。新パドルスポンサーTBA",
+    "career_stats": {
+      "dupr_singles": 6.749,
+      "dupr_doubles": 7.153,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_jorja_johnson",
@@ -328,7 +370,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/jorja-johnson/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Jorja+Johnson+pickleball",
-    "_sponsor_note": "2026.1にFranklin離脱。JWと同時期に移籍、新スポンサーTBA"
+    "_sponsor_note": "2026.1にFranklin離脱。JWと同時期に移籍、新スポンサーTBA",
+    "career_stats": {
+      "dupr_singles": 5.732,
+      "dupr_doubles": 6.253,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_jackie_kawamoto",
@@ -348,7 +395,12 @@
     "facebook_url": null,
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/jackie-kawamoto/",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=Jackie+Kawamoto+pickleball"
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Jackie+Kawamoto+pickleball",
+    "career_stats": {
+      "dupr_singles": 3.5,
+      "dupr_doubles": 6.082,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_callie_smith",
@@ -369,7 +421,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/callie-smith/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Callie+Smith+pickleball",
-    "_sponsor_note": "パドルスポンサー不明。Sunrider International（ウェルネス製品）のブランドアンバサダー"
+    "_sponsor_note": "パドルスポンサー不明。Sunrider International（ウェルネス製品）のブランドアンバサダー",
+    "career_stats": {
+      "dupr_singles": 5.945,
+      "dupr_doubles": 5.914,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_vivienne_david",
@@ -390,7 +447,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/vivienne-david/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Vivienne+David+pickleball",
-    "_sponsor_note": "CRBNスポンサー。2026年1月に競技から引退、今後は指導活動に専念"
+    "_sponsor_note": "CRBNスポンサー。2026年1月に競技から引退、今後は指導活動に専念",
+    "career_stats": {
+      "dupr_singles": 5.525,
+      "dupr_doubles": 5.862,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_dylan_frazier",
@@ -411,7 +473,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/dylan-frazier/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Dylan+Frazier+pickleball",
-    "_sponsor_note": "2025.2にSelkirk離脱→JOOLA使用→2025.4にVolairと正式契約"
+    "_sponsor_note": "2025.2にSelkirk離脱→JOOLA使用→2025.4にVolairと正式契約",
+    "career_stats": {
+      "dupr_singles": 6.386,
+      "dupr_doubles": 6.63,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_anna_bright",
@@ -453,7 +520,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/salome-devidze/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Salome+Devidze+pickleball",
-    "_sponsor_note": "パドルスポンサーなし。2024はVatic Pro/Paddletek Waters C使用。パドルは自費購入"
+    "_sponsor_note": "パドルスポンサーなし。2024はVatic Pro/Paddletek Waters C使用。パドルは自費購入",
+    "career_stats": {
+      "dupr_singles": 6.002,
+      "dupr_doubles": 5.392,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_andrei_daescu",
@@ -474,7 +546,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/andrei-daescu/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Andrei+Daescu+pickleball",
-    "_sponsor_note": "2025末にProton離脱。2026.2-3にCRBNパドルをテスト中。公式スポンサー未定"
+    "_sponsor_note": "2025末にProton離脱。2026.2-3にCRBNパドルをテスト中。公式スポンサー未定",
+    "career_stats": {
+      "dupr_singles": 6.617,
+      "dupr_doubles": 7.061,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_thomas_wilson",
@@ -495,7 +572,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/thomas-wilson/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Thomas+Wilson+pickleball",
-    "_sponsor_note": "CRBNシグネチャーパドル終了。新パドルスポンサー未定。アパレルはCenterline Athletics"
+    "_sponsor_note": "CRBNシグネチャーパドル終了。新パドルスポンサー未定。アパレルはCenterline Athletics",
+    "career_stats": {
+      "dupr_singles": 6.504,
+      "dupr_doubles": 6.904,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_dekel_bar",
@@ -516,7 +598,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/dekel-bar/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Dekel+Bar+pickleball",
-    "_sponsor_note": "2025大半はJOOLA Perseus Pro IV使用。2025末に11SIX24に移籍、Vapor Power 2使用"
+    "_sponsor_note": "2025大半はJOOLA Perseus Pro IV使用。2025末に11SIX24に移籍、Vapor Power 2使用",
+    "career_stats": {
+      "dupr_singles": 7.014,
+      "dupr_doubles": 6.517,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_irina_tereschenko",
@@ -536,7 +623,12 @@
     "facebook_url": null,
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/irina-tereschenko/",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=Irina+Tereschenko+pickleball"
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Irina+Tereschenko+pickleball",
+    "career_stats": {
+      "dupr_singles": 5.453,
+      "dupr_doubles": 5.654,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_zane_navratil",
@@ -557,7 +649,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/zane-navratil/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Zane+Navratil+pickleball",
-    "_sponsor_note": "ProXR Zane Navratil Signature。PaddletekとProXRは統合され「Paddletek Group」"
+    "_sponsor_note": "ProXR Zane Navratil Signature。PaddletekとProXRは統合され「Paddletek Group」",
+    "career_stats": {
+      "dupr_singles": 5.921,
+      "dupr_doubles": 6.425,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_etta_wright",
@@ -578,7 +675,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/etta-wright-tuionetoa/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Etta+Wright+pickleball",
-    "_sponsor_note": "Team JOOLA (2023.2加入)。JOOLA Ben Johns Perseus Pro IV 14mm使用"
+    "_sponsor_note": "Team JOOLA (2023.2加入)。JOOLA Ben Johns Perseus Pro IV 14mm使用",
+    "career_stats": {
+      "dupr_singles": 5.525,
+      "dupr_doubles": 6.051,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_leigh_waters",
@@ -618,7 +720,12 @@
     "facebook_url": null,
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/jesse-irvine/",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=Jesse+Irvine+pickleball"
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Jesse+Irvine+pickleball",
+    "career_stats": {
+      "dupr_singles": 5.12,
+      "dupr_doubles": 5.871,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_lucy_kovalova",
@@ -638,7 +745,12 @@
     "facebook_url": null,
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/lucy-kovalova/",
-    "youtube_search_url": "https://www.youtube.com/results?search_query=Lucy+Kovalova+pickleball"
+    "youtube_search_url": "https://www.youtube.com/results?search_query=Lucy+Kovalova+pickleball",
+    "career_stats": {
+      "dupr_singles": 5.915,
+      "dupr_doubles": 5.804,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_dayne_gingrich",
@@ -659,7 +771,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/dayne-gingrich/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Dayne+Gingrich+pickleball",
-    "dupr_rating": "5.5+"
+    "dupr_rating": "5.5+",
+    "career_stats": {
+      "dupr_singles": null,
+      "dupr_doubles": 5.914,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_scott_moore",
@@ -680,7 +797,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/scott-moore/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Scott+Moore+pickleball",
-    "dupr_rating": "5.5+"
+    "dupr_rating": "5.5+",
+    "career_stats": {
+      "dupr_singles": null,
+      "dupr_doubles": 5.95,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "pro_beth_bellamy",
@@ -701,7 +823,12 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/beth-bellamy/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Beth+Bellamy+pickleball",
-    "dupr_rating": "5.0+"
+    "dupr_rating": "5.0+",
+    "career_stats": {
+      "dupr_singles": null,
+      "dupr_doubles": 5.771,
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
+    }
   },
   {
     "id": "player_yuta_funemizu",
@@ -948,7 +1075,7 @@
         "2024シーズン24大会中20大会でメダル獲得",
         "Ben Johnsからシングルス世界1位を奪取"
       ],
-      "data_source": "Picklewave/PPA Tour公式/Forbes/101-pickleball（2026年3月時点）"
+      "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
     },
     "paddle_ids": null,
     "shoe_ids": null,

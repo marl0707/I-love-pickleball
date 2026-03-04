@@ -649,7 +649,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92105-0023%20%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E8%8A%9D%E6%B5%A61-16-1%EF%BC%88%E3%81%BF%E3%81%AA%E3%81%A8%E3%83%91%E3%83%BC%E3%82%AF%E8%8A%9D%E6%B5%A6%E5%86%85%EF%BC%89%20%E6%B8%AF%E5%8C%BA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.6481919,
+    "longitude": 139.7532779
   },
   {
     "name": "新宿区立新宿スポーツセンター",
@@ -1206,7 +1208,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92224-0032%20%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%83%BD%E7%AD%91%E5%8C%BA%E8%8C%85%E3%83%B6%E5%B4%8E%E4%B8%AD%E5%A4%AE1-1%20GODAI%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8D%97"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.5466001,
+    "longitude": 139.5741196
   },
   {
     "name": "GODAI横浜",
@@ -1319,7 +1323,9 @@
     },
     "_region": "関東",
     "_region_romaji": "kanto",
-    "website_url": "https://www.central.co.jp/club/higashitotsuka-f/"
+    "website_url": "https://www.central.co.jp/club/higashitotsuka-f/",
+    "latitude": 35.4292668,
+    "longitude": 139.5580275
   },
   {
     "name": "横浜市緑区山下みどり台小学校体育館",
@@ -1725,7 +1731,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92330-0854%20%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%A4%A7%E5%AE%AE%E5%8C%BA%E6%A1%9C%E6%9C%A8%E7%94%BA2-3%20DOM%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B1%8B%E4%B8%8A%20%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E5%A4%A7%E5%88%9D%E5%BF%83%E5%AE%AE"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.8811033,
+    "longitude": 139.6143435
   },
   {
     "name": "さいたま市大宮体育館",
@@ -2072,7 +2080,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92277-0812%20%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E8%8A%B1%E9%87%8E%E4%BA%95519%20%E5%90%89%E7%94%B0%E8%A8%98%E5%BF%B5%E3%83%86%E3%83%8B%E3%82%B9%E7%A0%94%E4%BF%AE%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC(TTC)"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.8960189,
+    "longitude": 139.9677918
   },
   {
     "name": "スポーツコミュニティー市川浦安店",
@@ -2129,7 +2139,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92272-0144%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%B8%82%E5%B7%9D%E5%B8%82%E6%96%B0%E4%BA%951-26-8%20%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E5%B8%82%E5%B7%9D%E6%B5%A6%E5%AE%89%E5%BA%97"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.6745818,
+    "longitude": 139.8953125
   },
   {
     "name": "アルドールテニスステージ千葉NT校",
@@ -2188,7 +2200,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92270-1369%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%B0%E8%A5%BF%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8D%971-11-2%20%E3%82%A2%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%E3%83%86%E3%83%8B%E3%82%B9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E5%8D%83%E8%91%89NT%E6%A0%A1"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 31.2727889,
+    "longitude": 130.2941415
   },
   {
     "name": "千葉市立弁天小学校体育館",
@@ -2353,7 +2367,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92289-1135%20%E5%8D%83%E8%91%89%E7%9C%8C%E5%85%AB%E8%A1%97%E5%B8%82%E5%B0%8F%E8%B0%B7%E6%B5%81616%20%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E5%B0%8F%E8%B0%B7%E6%B5%81%E6%B2%A2%E3%83%AD%E3%83%83%E3%82%B8"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.6201493,
+    "longitude": 140.2749111
   },
   {
     "name": "IMPACT TSUKUBA PICKLEBALL CLUB",
@@ -2419,7 +2435,9 @@
     },
     "_region": "関東",
     "_region_romaji": "kanto",
-    "website_url": "https://impact-tsukubapickleball-club.square.site/"
+    "website_url": "https://impact-tsukubapickleball-club.square.site/",
+    "latitude": 36.048814,
+    "longitude": 140.1359839
   },
   {
     "name": "ゴールドジム土浦茨城",
@@ -2912,7 +2930,9 @@
     },
     "_region": "関東",
     "_region_romaji": "kanto",
-    "website_url": "https://www.yyr.co.jp/"
+    "website_url": "https://www.yyr.co.jp/",
+    "latitude": 35.4593068,
+    "longitude": 139.4027418
   },
   {
     "name": "ティップネス太田",
@@ -3027,7 +3047,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92401-0301%20%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A56662-10%20PICA%20PICKLE%EF%BC%88PICA%20Fujiyama%E5%86%85%EF%BC%89"
     },
     "_region": "関東",
-    "_region_romaji": "kanto"
+    "_region_romaji": "kanto",
+    "latitude": 35.4977401,
+    "longitude": 138.7661445
   },
   {
     "name": "エストテニスクラブ甲府",
@@ -3193,7 +3215,9 @@
     "_region": "関東",
     "_region_romaji": "kanto",
     "main_photo_url": "https://play-pickleball.jp/pickleball-courts/tochigi/tocchy/",
-    "website_url": "https://www.tocchypickle.com/"
+    "website_url": "https://www.tocchypickle.com/",
+    "latitude": 36.8066705,
+    "longitude": 139.9236292
   },
   {
     "name": "セントラルスポーツ・ピックルボールクラブ",
@@ -3298,7 +3322,9 @@
     "_region": "関東",
     "_region_romaji": "kanto",
     "main_photo_url": "https://www.utsunomiya-sponavi.or.jp/og.png",
-    "website_url": "https://www.utsunomiya-sponavi.or.jp/facility/02.html"
+    "website_url": "https://www.utsunomiya-sponavi.or.jp/facility/02.html",
+    "latitude": 36.5454611,
+    "longitude": 139.9831187
   },
   {
     "name": "Pickleball One Ginza Shimbashi",
@@ -3327,7 +3353,9 @@
     "_region": "関東",
     "_region_romaji": "kanto",
     "main_photo_url": "https://pickle-one.com/ginza/",
-    "website_url": "https://pickle-one.com/ginza/"
+    "website_url": "https://pickle-one.com/ginza/",
+    "latitude": 35.6938097,
+    "longitude": 139.7532163
   },
   {
     "name": "テニス＆バドミントンスクール ノア南町田校",
@@ -3353,7 +3381,9 @@
     "_region": "関東",
     "_region_romaji": "kanto",
     "main_photo_url": "https://noah-minamimachida.com/",
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 35.5466803,
+    "longitude": 139.4386999
   },
   {
     "name": "東京体育館 フィットネスエリアスタジオ",
@@ -3378,7 +3408,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B7",
     "main_photo_url": "https://totai-tip.jp/",
-    "website_url": "https://totai-tip.jp/"
+    "website_url": "https://totai-tip.jp/",
+    "latitude": 35.6818379,
+    "longitude": 139.7074785
   },
   {
     "name": "ウェルラケットクラブ",
@@ -3403,7 +3435,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%91%9B%E9%A3%BE%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://www.well-k.jp"
+    "website_url": "https://www.well-k.jp",
+    "latitude": 35.7433912,
+    "longitude": 139.8473472
   },
   {
     "name": "トップインドアステージ多摩",
@@ -3427,7 +3461,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82",
     "main_photo_url": "https://viptop.jp/wp-content/themes/viptop/home/images/txt_main_copy.png",
-    "website_url": "http://www.viptop.jp/"
+    "website_url": "http://www.viptop.jp/",
+    "latitude": 35.6663595,
+    "longitude": 139.3163653
   },
   {
     "name": "桐ヶ丘体育館",
@@ -3451,7 +3487,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA",
     "main_photo_url": "https://kita-tai.com/wp/wp-content/themes/kita-tai_v2/img/common/img_navi_akatai.jpg",
-    "website_url": "https://kita-tai.com/"
+    "website_url": "https://kita-tai.com/",
+    "latitude": 35.7528821,
+    "longitude": 139.7338331
   },
   {
     "name": "千代田区立スポーツセンター",
@@ -3475,7 +3513,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
     "main_photo_url": "https://shisetsu.mizuno.jp/storage/mv/m-7501/523_18071053_0.jpg",
-    "website_url": "https://shisetsu.mizuno.jp/m-7501"
+    "website_url": "https://shisetsu.mizuno.jp/m-7501",
+    "latitude": 35.6938097,
+    "longitude": 139.7532163
   },
   {
     "name": "渋谷区スポーツセンター",
@@ -3499,7 +3539,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
     "main_photo_url": "https://shibspo.com/wp-content/uploads/2023/06/エレメント.png",
-    "website_url": "https://shibspo.com/"
+    "website_url": "https://shibspo.com/",
+    "latitude": 35.6633709,
+    "longitude": 139.6964952
   },
   {
     "name": "烏山総合体育館",
@@ -3522,7 +3564,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
     "main_photo_url": "https://www.kitakarasuyama-sp.jp/wp-content/uploads/2021/05/烏山トップヘッダー画像3.png",
-    "website_url": "https://www.kitakarasuyama-sp.jp/"
+    "website_url": "https://www.kitakarasuyama-sp.jp/",
+    "latitude": 35.6469025,
+    "longitude": 139.652531
   },
   {
     "name": "セントラルスポーツ 東十条店",
@@ -3545,7 +3589,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA",
     "main_photo_url": "https://www.central.co.jp/assets/common/img/fitness/fitness_tag.png",
-    "website_url": "https://www.central.co.jp/club/higashijujo/"
+    "website_url": "https://www.central.co.jp/club/higashijujo/",
+    "latitude": 35.7528821,
+    "longitude": 139.7338331
   },
   {
     "name": "セサミテニススクール大船",
@@ -3569,7 +3615,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%A0%84%E5%8C%BA",
     "main_photo_url": "https://www.cesame.co.jp/wp-content/uploads/2019/05/corp_top_MV01.jpg",
-    "website_url": "https://cesame.co.jp/"
+    "website_url": "https://cesame.co.jp/",
+    "latitude": 35.3643361,
+    "longitude": 139.5540327
   },
   {
     "name": "テニス＆バドミントンスクール・ノア 川崎宮前平校",
@@ -3593,7 +3641,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 35.5891669,
+    "longitude": 139.5786951
   },
   {
     "name": "テニススクール・ノア 横浜東戸塚校",
@@ -3617,7 +3667,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E6%88%B8%E5%A1%9A%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 35.4000177,
+    "longitude": 139.5335429
   },
   {
     "name": "Dテニススクール D-tennis-古淵駅前校",
@@ -3641,7 +3693,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E7%9B%B8%E6%A8%A1%E5%8E%9F%E5%B8%82%E5%8D%97%E5%8C%BA",
     "main_photo_url": "https://d-tennis.co.jp/wp-content/themes/d-tennis-main/assets/img/common/ogp.jpg",
-    "website_url": "https://www.d-tennis.co.jp/"
+    "website_url": "https://www.d-tennis.co.jp/",
+    "latitude": 35.5300387,
+    "longitude": 139.4302713
   },
   {
     "name": "ティップネス川崎",
@@ -3664,7 +3718,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA",
     "main_photo_url": "https://tip.tipness.co.jp/assets/images/common/og.png",
-    "website_url": "https://tip.tipness.co.jp/shop_info/SHP056/"
+    "website_url": "https://tip.tipness.co.jp/shop_info/SHP056/",
+    "latitude": 35.5296902,
+    "longitude": 139.7038971
   },
   {
     "name": "コナミスポーツ テニススクール大宮",
@@ -3688,7 +3744,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82",
     "main_photo_url": "https://konami.com/sportsclub/tennis/omiya/pickleball/",
-    "website_url": "https://www.konamisportsclub.jp/"
+    "website_url": "https://www.konamisportsclub.jp/",
+    "latitude": 35.8616141,
+    "longitude": 139.6455666
   },
   {
     "name": "さいたま市与野体育館",
@@ -3711,7 +3769,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://www.dunlopsportsclub.jp/yonotaiikukan/"
+    "website_url": "https://www.dunlopsportsclub.jp/yonotaiikukan/",
+    "latitude": 35.8616141,
+    "longitude": 139.6455666
   },
   {
     "name": "テニス＆バドミントンスクール・ノア 和光成増校",
@@ -3735,7 +3795,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%92%8C%E5%85%89%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 35.7817053,
+    "longitude": 139.6058692
   },
   {
     "name": "埼玉県所沢市民体育館",
@@ -3758,7 +3820,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%89%80%E6%B2%A2%E5%B8%82",
     "main_photo_url": "https://www.city.tokorozawa.saitama.jp/images/menu02_sp.png",
-    "website_url": "https://www.city.tokorozawa.saitama.jp/"
+    "website_url": "https://www.city.tokorozawa.saitama.jp/",
+    "latitude": 35.7987179,
+    "longitude": 139.4696758
   },
   {
     "name": "吉田記念テニス研修センター（TTC）",
@@ -3781,7 +3845,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82",
     "main_photo_url": "https://tennis-ttc.or.jp/wp-content/uploads/2022/02/logo_ogp.png",
-    "website_url": "https://tennis-ttc.or.jp/"
+    "website_url": "https://tennis-ttc.or.jp/",
+    "latitude": 35.8676218,
+    "longitude": 139.9756876
   },
   {
     "name": "アルドールテニスステージ 千葉NT校",
@@ -3805,7 +3871,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%B0%E8%A5%BF%E5%B8%82",
     "main_photo_url": "https://www.ardor-ts.co.jp/wp_system/wp-content/themes/ardor2023/img/rental_coat/bnr_menu_rental_coat.png",
-    "website_url": "https://www.ardor-ts.co.jp/chibant/"
+    "website_url": "https://www.ardor-ts.co.jp/chibant/",
+    "latitude": 35.8322582,
+    "longitude": 140.1452981
   },
   {
     "name": "SYSテニスクラブ・アカデミー松戸",
@@ -3828,7 +3896,9 @@
     "_region_romaji": "kanto",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E6%9D%BE%E6%88%B8%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://www.systca.com/"
+    "website_url": "https://www.systca.com/",
+    "latitude": 35.787267,
+    "longitude": 139.9049043
   },
   {
     "name": "Pickleball Base Osaka",
@@ -3976,7 +4046,9 @@
       "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 34.9780539,
+    "longitude": 135.9087019
   },
   {
     "name": "江坂テニスセンター",
@@ -4206,7 +4278,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92589-0031%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E7%8B%AD%E5%B1%B1%E5%B8%82%E6%B1%A0%E4%B9%8B%E5%8E%9F%E5%9B%9B%E4%B8%81%E7%9B%AE248%E7%95%AA%E5%9C%B0%20%E5%A4%A7%E9%98%AA%E7%8B%AD%E5%B1%B1%E5%B8%82%E7%B7%8F%E5%90%88%E4%BD%93%E8%82%B2%E9%A4%A8%E3%82%B5%E3%83%96%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 34.506782,
+    "longitude": 135.5423684
   },
   {
     "name": "河内長野市立市民総合体育館",
@@ -4380,7 +4454,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92612-8486%20%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E7%BE%BD%E6%9D%9F%E5%B8%AB%E5%8F%A4%E5%B7%9D%E7%94%BA330%20%E3%82%B5%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB%E5%8D%97%E5%88%A5%E9%A4%A8%20%E4%BA%AC%E9%83%BD%E3%83%94%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 34.9251443,
+    "longitude": 135.7252323
   },
   {
     "name": "右京地域体育館（右京区役所4F）",
@@ -4672,7 +4748,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92655-0886%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA%E6%9D%B1%E5%9E%82%E6%B0%B41%E4%B8%81%E7%9B%AE1-1%20%E6%9D%B1%E5%9E%82%E6%B0%B4%E5%85%AC%E6%B0%91%E9%A4%A8%E3%83%BB%E5%9E%82%E6%B0%B4%E4%BD%93%E8%82%B2%E9%A4%A8"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 35.5975436,
+    "longitude": 135.1402178
   },
   {
     "name": "東灘体育館",
@@ -4835,7 +4913,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92520-0025%20%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82%E7%9A%87%E5%AD%90%E3%81%8C%E4%B8%981%E4%B8%81%E7%9B%AE1-1%20%E7%9A%87%E5%AD%90%E3%81%8C%E4%B8%98%E5%85%AC%E5%9C%92%E4%BD%93%E8%82%B2%E9%A4%A8"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 35.0232265,
+    "longitude": 135.8603059
   },
   {
     "name": "石山市民体育館",
@@ -4943,7 +5023,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92630-8106%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E4%BD%90%E4%BF%9D%E5%8F%B0%E8%A5%BF%E7%94%BA115%E7%95%AA%E5%9C%B0%20%E5%A5%88%E8%89%AF%E5%B8%82%E5%8B%A4%E5%8A%B4%E8%80%85%E7%B7%8F%E5%90%88%E7%A6%8F%E7%A5%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%88%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%81%AA%E3%82%89%EF%BC%89"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 34.711216,
+    "longitude": 135.8104394
   },
   {
     "name": "奈良市西部公民館",
@@ -5106,7 +5188,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92635-0831%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%8C%97%E8%91%9B%E5%9F%8E%E9%83%A1%E5%BA%83%E9%99%B5%E7%94%BA%E9%A6%AC%E8%A6%8B%E5%8D%973%E4%B8%81%E7%9B%AE9-15%EF%BC%88%E8%A5%BF%E4%BD%93%E8%82%B2%E9%A4%A8%EF%BC%89%20%E5%BA%83%E9%99%B5%E7%94%BA%E8%A5%BF%E4%BD%93%E8%82%B2%E9%A4%A8%E3%83%BB%E5%8C%97%E4%BD%93%E8%82%B2%E9%A4%A8"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 34.5498306,
+    "longitude": 135.7289587
   },
   {
     "name": "紀の川市民体育館メインアリーナ",
@@ -5159,7 +5243,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92649-6202%20%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E7%B4%80%E3%81%AE%E5%B7%9D%E5%B8%82%E8%8A%B1%E9%87%8E604%E7%95%AA%E5%9C%B02%20%E7%B4%80%E3%81%AE%E5%B7%9D%E5%B8%82%E6%B0%91%E4%BD%93%E8%82%B2%E9%A4%A8%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 34.2858432,
+    "longitude": 135.3108992
   },
   {
     "name": "ITC京都西",
@@ -5212,7 +5298,9 @@
       "directions_url": "https://www.google.com/maps/dir/?api=1&destination=%E3%80%92615-0056%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E8%A5%BF%E9%99%A2%E8%A5%BF%E8%B2%9D%E5%B7%9D%E7%94%BA39%20ITC%E4%BA%AC%E9%83%BD%E8%A5%BF"
     },
     "_region": "関西",
-    "_region_romaji": "kansai"
+    "_region_romaji": "kansai",
+    "latitude": 35.5601891,
+    "longitude": 135.1412979
   },
   {
     "name": "和歌山市・松下体育館",
@@ -5262,7 +5350,9 @@
     "_region": "関西",
     "_region_romaji": "kansai",
     "main_photo_url": "../../../_template_/_site_/_default_/_res/images/sns/ogimage.png",
-    "website_url": "http://www.city.wakayama.wakayama.jp/shisetsu/kouen_sp_shisetsu/1006086/1000988.html"
+    "website_url": "http://www.city.wakayama.wakayama.jp/shisetsu/kouen_sp_shisetsu/1006086/1000988.html",
+    "latitude": 34.263719,
+    "longitude": 135.125747
   },
   {
     "name": "田辺スポーツパーク 体育館",
@@ -5388,7 +5478,9 @@
     "_region": "関西",
     "_region_romaji": "kansai",
     "main_photo_url": "https://www.lusty-s.com/takatsuki/wp-content/uploads/sites/3/2022/10/shop_name_attend.svg",
-    "website_url": "https://www.lusty-s.com/takatsuki/"
+    "website_url": "https://www.lusty-s.com/takatsuki/",
+    "latitude": 34.8464785,
+    "longitude": 135.6172204
   },
   {
     "name": "ラスティ寝屋川 テニススクール",
@@ -5414,7 +5506,9 @@
     "_region": "関西",
     "_region_romaji": "kansai",
     "main_photo_url": "https://www.lusty-s.com/neyagawa/wp-content/uploads/sites/2/2023/03/tennis.svg",
-    "website_url": "https://www.lusty-s.com/neyagawa/"
+    "website_url": "https://www.lusty-s.com/neyagawa/",
+    "latitude": 34.7660998,
+    "longitude": 135.6278989
   },
   {
     "name": "Pickleball Base Osaka (2026年4月オープン)",
@@ -5446,7 +5540,9 @@
     "_region": "関西",
     "_region_romaji": "kansai",
     "main_photo_url": "https://pickleball-base.jp/court.jpg",
-    "website_url": "https://pickleball-base.jp/"
+    "website_url": "https://pickleball-base.jp/",
+    "latitude": 34.5737364,
+    "longitude": 135.4828866
   },
   {
     "name": "滋賀ダイハツアリーナ",
@@ -5471,7 +5567,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C",
     "main_photo_url": "https://shiga-arena.jp/storage/mv/shiga-arena/393_16180927_0.JPG",
-    "website_url": "https://shiga-arena.jp/"
+    "website_url": "https://shiga-arena.jp/",
+    "latitude": 35.247154,
+    "longitude": 136.109385
   },
   {
     "name": "オリンピアスポーツクラブ",
@@ -5495,7 +5593,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E5%9B%9B%E6%97%A5%E5%B8%82%E5%B8%82",
     "main_photo_url": "https://www.olympia-sportsclub.com/wp-content/themes/olympia-sportsclub.com/images/share/facebook.png",
-    "website_url": "https://www.olympia-sportsclub.com/"
+    "website_url": "https://www.olympia-sportsclub.com/",
+    "latitude": 34.9651264,
+    "longitude": 136.624433
   },
   {
     "name": "NEMU RESORT",
@@ -5519,7 +5619,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E5%BF%97%E6%91%A9%E5%B8%82",
     "main_photo_url": "https://www.nemuresort.com/common_new/img/ogp/ogimage.jpg",
-    "website_url": "https://www.nemuresort.com/"
+    "website_url": "https://www.nemuresort.com/",
+    "latitude": 34.3411841,
+    "longitude": 136.8196451
   },
   {
     "name": "住吉スポーツセンター",
@@ -5542,7 +5644,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA",
     "main_photo_url": "https://hos-sumiyoshi.com/images/common/page_top.png",
-    "website_url": "https://hos-sumiyoshi.com/"
+    "website_url": "https://hos-sumiyoshi.com/",
+    "latitude": 34.599765,
+    "longitude": 135.506426
   },
   {
     "name": "福島スポーツセンター",
@@ -5565,7 +5669,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://www.sbt-csp.jp/"
+    "website_url": "https://www.sbt-csp.jp/",
+    "latitude": 34.692104,
+    "longitude": 135.474812
   },
   {
     "name": "セントラルウェルネスクラブ都島",
@@ -5588,7 +5694,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA",
     "main_photo_url": "https://www.central.co.jp/assets/common/img/fitness/fitness_tag.png",
-    "website_url": "https://www.central.co.jp/club/miyakojima/"
+    "website_url": "https://www.central.co.jp/club/miyakojima/",
+    "latitude": 34.712703,
+    "longitude": 135.529697
   },
   {
     "name": "河内庭球倶楽部",
@@ -5611,7 +5719,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%85%AB%E5%B0%BE%E5%B8%82",
     "main_photo_url": "https://play-pickleball.jp/pickleball-courts/osaka/kawachi-tennis-club/",
-    "website_url": "https://kawachi-tennis.com/"
+    "website_url": "https://kawachi-tennis.com/",
+    "latitude": 34.6269018,
+    "longitude": 135.6008668
   },
   {
     "name": "テニスクラブ コ・ス・パ 神崎川",
@@ -5635,7 +5745,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://www.cospa-wellness.co.jp/tennis/kanzakigawa/"
+    "website_url": "https://www.cospa-wellness.co.jp/tennis/kanzakigawa/",
+    "latitude": 34.7209341,
+    "longitude": 135.4865298
   },
   {
     "name": "ラスティ高槻テニススクール",
@@ -5659,7 +5771,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%AB%98%E6%A7%BB%E5%B8%82",
     "main_photo_url": "https://www.lusty-s.com/takatsuki/wp-content/uploads/sites/3/2022/10/shop_name_attend.svg",
-    "website_url": "https://www.lusty-s.com/takatsuki/"
+    "website_url": "https://www.lusty-s.com/takatsuki/",
+    "latitude": 34.8464785,
+    "longitude": 135.6172204
   },
   {
     "name": "テニス＆バドミントンスクール・ノア 大阪久宝寺校",
@@ -5683,7 +5797,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%85%AB%E5%B0%BE%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 34.6269018,
+    "longitude": 135.6008668
   },
   {
     "name": "KTM河本工業総合体育館",
@@ -5706,7 +5822,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E6%9E%9A%E6%96%B9%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://shisetsu.mizuno.jp/m-7204"
+    "website_url": "https://shisetsu.mizuno.jp/m-7204",
+    "latitude": 34.8144363,
+    "longitude": 135.6507278
   },
   {
     "name": "吹田市立山田市民体育館",
@@ -5729,7 +5847,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%90%B9%E7%94%B0%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://shisetsu.mizuno.jp/m-7221"
+    "website_url": "https://shisetsu.mizuno.jp/m-7221",
+    "latitude": 34.7594193,
+    "longitude": 135.516835
   },
   {
     "name": "コープこうべ協同学苑テニススクール",
@@ -5753,7 +5873,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E4%B8%89%E6%9C%A8%E5%B8%82",
     "main_photo_url": "https://www.lusty-s.com/kyodo/wp-content/uploads/sites/4/2024/05/tennis_kyodo.svg",
-    "website_url": "https://www.lusty-s.com/kyodo/"
+    "website_url": "https://www.lusty-s.com/kyodo/",
+    "latitude": 34.796887,
+    "longitude": 134.9901983
   },
   {
     "name": "テニススクール・ノア 宝塚伊丹校",
@@ -5777,7 +5899,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E5%AE%9D%E5%A1%9A%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 34.800474,
+    "longitude": 135.3608674
   },
   {
     "name": "ITC神戸インドアテニススクール",
@@ -5801,7 +5925,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%95%B7%E7%94%B0%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "http://www.i-tennis.co.jp/school/kobe/index.html"
+    "website_url": "http://www.i-tennis.co.jp/school/kobe/index.html",
+    "latitude": 34.6656798,
+    "longitude": 135.1508661
   },
   {
     "name": "テニス＆バドミントンスクール・ノア 西宮校",
@@ -5825,7 +5951,9 @@
     "_region_romaji": "kansai",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 34.7377745,
+    "longitude": 135.3413128
   },
   {
     "name": "テニスラウンジ名西",
@@ -6453,7 +6581,9 @@
       "comment": "このアリーナはまさに『聖地』。実際にこのコートで繰り広げられたトップレベルの試合動画を見ることで、次に行くときのモチベーションが爆上がりすること間違いなしです！"
     },
     "_region": "中部",
-    "_region_romaji": "chubu"
+    "_region_romaji": "chubu",
+    "latitude": 34.773128,
+    "longitude": 137.565202
   },
   {
     "name": "堀之内体育館（菊川ピックルズ拠点）",
@@ -7183,7 +7313,9 @@
     "is_association_hq": true,
     "association_name": "富山県初のJPA加盟施設",
     "_region": "中部",
-    "_region_romaji": "chubu"
+    "_region_romaji": "chubu",
+    "latitude": 35.5115579,
+    "longitude": 134.2199264
   },
   {
     "name": "高岡市民体育館",
@@ -7791,7 +7923,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.6957569,
+    "longitude": 137.2136215
   },
   {
     "name": "ふれあい松東体育館",
@@ -7842,7 +7976,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.4032931,
+    "longitude": 136.4495465
   },
   {
     "name": "福井市南体育館",
@@ -7893,7 +8029,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.6800777,
+    "longitude": 137.7719719
   },
   {
     "name": "福井市東体育館",
@@ -7944,7 +8082,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.061751,
+    "longitude": 136.2260542
   },
   {
     "name": "安茂里体育館",
@@ -7993,7 +8133,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.6302229,
+    "longitude": 138.1618403
   },
   {
     "name": "松本市総合体育館",
@@ -8042,7 +8184,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.2567325,
+    "longitude": 137.9805903
   },
   {
     "name": "上田城跡公園 第二体育館",
@@ -8091,7 +8235,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.4039924,
+    "longitude": 138.2417461
   },
   {
     "name": "ユメックスアリーナ 塩尻市総合体育館",
@@ -8140,7 +8286,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.1240383,
+    "longitude": 137.9451621
   },
   {
     "name": "東武体育館",
@@ -8189,7 +8337,9 @@
     },
     "_region": "中部",
     "_region_romaji": "chubu",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.5336984,
+    "longitude": 138.120123
   },
   {
     "name": "津市産業・スポーツセンター（サオリーナ / 日硝アリーナ）",
@@ -8246,7 +8396,9 @@
     "_region": "中部",
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E5%B0%8F%E6%9D%BE%E5%B8%82%E5%AE%89%E5%AE%85%E7%94%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 36.4211938,
+    "longitude": 136.4233592
   },
   {
     "name": "エストテニスクラブ 甲府校/八田校",
@@ -8271,7 +8423,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C",
     "main_photo_url": "https://estclub.co.jp/wp-content/themes/est/og-image.png",
-    "website_url": "https://www.estclub.co.jp/"
+    "website_url": "https://www.estclub.co.jp/",
+    "latitude": 35.6399328,
+    "longitude": 138.6380495
   },
   {
     "name": "PICA Fujiyama (PICA PICKLE)",
@@ -8295,7 +8449,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E5%8D%97%E9%83%BD%E7%95%99%E9%83%A1%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA",
     "main_photo_url": "https://www.pica-resort.jp/fujiyama/h75ch800000000j8-img/10.png",
-    "website_url": "https://www.pica-resort.jp/fujiyama/"
+    "website_url": "https://www.pica-resort.jp/fujiyama/",
+    "latitude": 35.4858719,
+    "longitude": 138.7706593
   },
   {
     "name": "テニス＆バドミントンスクール・ノア 名古屋瓢箪山校",
@@ -8319,7 +8475,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%AE%88%E5%B1%B1%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://noahindoortennis.com/"
+    "website_url": "https://noahindoortennis.com/",
+    "latitude": 35.2528793,
+    "longitude": 137.0459332
   },
   {
     "name": "諸の木テニス倶楽部",
@@ -8342,7 +8500,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%B7%91%E5%8C%BA",
     "main_photo_url": "https://www.moronoki.com/wp/wp-content/uploads/2023/11/ogp.png",
-    "website_url": "https://www.moronoki.com/"
+    "website_url": "https://www.moronoki.com/",
+    "latitude": 35.0716484,
+    "longitude": 136.9514159
   },
   {
     "name": "名古屋市千種スポーツセンター",
@@ -8364,7 +8524,9 @@
     "_region": "中部",
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8D%83%E7%A8%AE%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 35.1624207,
+    "longitude": 136.9802103
   },
   {
     "name": "ティップネス上飯田",
@@ -8387,7 +8549,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E5%8C%97%E5%8C%BA",
     "main_photo_url": "https://tipness.co.jp/shop/SHP072/pickleball/",
-    "website_url": "https://tipness.co.jp/shop/SHP072/"
+    "website_url": "https://tipness.co.jp/shop/SHP072/",
+    "latitude": 35.2073889,
+    "longitude": 136.9107697
   },
   {
     "name": "Nagoya Pickleball Base",
@@ -8410,7 +8574,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82",
     "main_photo_url": "https://pickleball-base.com/",
-    "website_url": "https://pickleball-base.com/"
+    "website_url": "https://pickleball-base.com/",
+    "latitude": 35.1851045,
+    "longitude": 136.8998438
   },
   {
     "name": "テニスラウンジ ウェルネススクエア新栄校",
@@ -8434,7 +8600,9 @@
     "_region_romaji": "chubu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA",
     "main_photo_url": "https://tennislounge.com/wellness-shinsakae/wp-content/uploads/sites/6/2021/03/8a69fb9a19943f0a72064893167b66a6.jpg",
-    "website_url": "https://tennislounge.com/wellness-shinsakae/"
+    "website_url": "https://tennislounge.com/wellness-shinsakae/",
+    "latitude": 35.1830419,
+    "longitude": 136.9025552
   },
   {
     "id": "tohoku-sendai-pickleball-hub",
@@ -8451,7 +8619,9 @@
     "website": "https://play-pickleball.jp/courts/?area=tohoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=宮城県仙台市青葉区+ピックルボール",
     "_region": "東北",
-    "_region_romaji": "tohoku"
+    "_region_romaji": "tohoku",
+    "latitude": 38.2691248,
+    "longitude": 140.8705271
   },
   {
     "id": "tohoku-aomori-community-gym",
@@ -8468,7 +8638,9 @@
     "website": "https://www.city.aomori.aomori.jp/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=青森県青森市+市民コミュニティ体育館",
     "_region": "東北",
-    "_region_romaji": "tohoku"
+    "_region_romaji": "tohoku",
+    "latitude": 40.8222833,
+    "longitude": 140.7472027
   },
   {
     "id": "hokkaido-sapporo-pickleball-arena",
@@ -8504,7 +8676,9 @@
     "website": "https://www.city.chitose.hokkaido.jp/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=北海道+千歳市青葉+スポーツパーク",
     "_region": "北海道",
-    "_region_romaji": "hokkaido"
+    "_region_romaji": "hokkaido",
+    "latitude": 42.8150231,
+    "longitude": 141.6301655
   },
   {
     "name": "ルスツリゾート ピックルボールコート",
@@ -9860,7 +10034,9 @@
     "_region": "北海道",
     "_region_romaji": "hokkaido",
     "main_photo_url": "https://aomori-arena.jp/super-arena/wp-content/uploads/2024/05/APE1274_メインアリーナ_2F北座席あり.jpg",
-    "website_url": "https://aomori-arena.jp/"
+    "website_url": "https://aomori-arena.jp/",
+    "latitude": 40.614565,
+    "longitude": 140.3047466
   },
   {
     "name": "リバティテニスクラブ (Liberty Tennis Club)",
@@ -9935,7 +10111,9 @@
     "_region": "北海道",
     "_region_romaji": "hokkaido",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%B1%B1%E5%BD%A2%E5%B8%82",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 38.2553393,
+    "longitude": 140.3400205
   },
   {
     "name": "セントラルスポーツ・ピックルボールクラブ 札幌",
@@ -9958,7 +10136,9 @@
     "_region": "北海道",
     "_region_romaji": "hokkaido",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 43.0552782,
+    "longitude": 141.3409902
   },
   {
     "name": "スポーツクラブNAS 札幌",
@@ -9981,7 +10161,9 @@
     "_region_romaji": "hokkaido",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
     "main_photo_url": "https://www.nas-club.co.jp/vitparksapporo/common/img/ogp.jpg",
-    "website_url": "https://www.nas-club.co.jp/vitparksapporo/index.html"
+    "website_url": "https://www.nas-club.co.jp/vitparksapporo/index.html",
+    "latitude": 43.0552782,
+    "longitude": 141.3409902
   },
   {
     "name": "ライジングテニスクラブ 北野校",
@@ -10005,7 +10187,9 @@
     "_region_romaji": "hokkaido",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E6%B8%85%E7%94%B0%E5%8C%BA",
     "main_photo_url": "https://rising2005.com/ogp2022.jpg",
-    "website_url": "https://rising2005.com/kitano/"
+    "website_url": "https://rising2005.com/kitano/",
+    "latitude": 42.9997818,
+    "longitude": 141.443687
   },
   {
     "name": "北ガスアリーナ札幌46",
@@ -10028,7 +10212,9 @@
     "_region": "北海道",
     "_region_romaji": "hokkaido",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 43.0552782,
+    "longitude": 141.3409902
   },
   {
     "id": "kyushu-fukuoka-oohori-pickleball",
@@ -10045,7 +10231,9 @@
     "website": "https://play-pickleball.jp/courts/?area=kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=福岡県福岡市中央区大濠公園+ピックルボール",
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "latitude": 33.5819762,
+    "longitude": 130.3770932
   },
   {
     "id": "kyushu-kumamoto-indoor-sports",
@@ -10062,7 +10250,9 @@
     "website": "https://www.city.kumamoto.jp/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=熊本県熊本市中央区+インドアスポーツ",
     "_region": "九州",
-    "_region_romaji": "kyushu"
+    "_region_romaji": "kyushu",
+    "latitude": 32.8031228,
+    "longitude": 130.7079265
   },
   {
     "name": "ピヴォーレ福岡 (Pivole FUKUOKA)",
@@ -11874,7 +12064,9 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%B3%9F%E5%B1%8B%E9%83%A1%E7%B2%95%E5%B1%8B%E7%94%BA%E9%A7%95%E4%B8%8E%E4%B8%813%E4%B8%81%E7%9B%AE2-1",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 39.7322103,
+    "longitude": 141.070163
   },
   {
     "name": "糸島市運動公園 体育館",
@@ -11908,7 +12100,9 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%B3%B8%E5%B3%B6%E5%B8%82%E8%94%B5%E6%8C%81686-1",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 35.4131624,
+    "longitude": 136.7802166
   },
   {
     "name": "大分市西部公民館",
@@ -11932,7 +12126,9 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 33.1819875,
+    "longitude": 131.4270217
   },
   {
     "name": "スポーツクラブNAS 六本松",
@@ -11955,7 +12151,9 @@
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82",
     "main_photo_url": "https://www.nas-club.co.jp/common_renew/sp_img/navi_btn.png",
-    "website_url": "https://www.nas-club.co.jp/ropponmatsu/index.html"
+    "website_url": "https://www.nas-club.co.jp/ropponmatsu/index.html",
+    "latitude": 33.5898988,
+    "longitude": 130.4017509
   },
   {
     "name": "セントラルスポーツ・ピックルボールクラブ 福岡",
@@ -11978,7 +12176,9 @@
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
     "main_photo_url": "https://coubic-images.s3.ap-northeast-1.amazonaws.com/covers/shinki-zoom_e73640.jpg",
-    "website_url": "https://coubic.com/shinki-zoom"
+    "website_url": "https://coubic.com/shinki-zoom",
+    "latitude": 33.5892504,
+    "longitude": 130.3927565
   },
   {
     "name": "福岡市民体育館",
@@ -12000,7 +12200,9 @@
     "_region": "九州",
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%8D%9A%E5%A4%9A%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 33.5908258,
+    "longitude": 130.4142719
   },
   {
     "name": "COSMOS 熊本県フットボールセンター",
@@ -12024,7 +12226,9 @@
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E4%B8%8A%E7%9B%8A%E5%9F%8E%E9%83%A1",
     "main_photo_url": "https://cosmos-kfc.com/wp-content/uploads/2022/10/logo_220818-1-scaled.jpg",
-    "website_url": "https://cosmos-kfc.com/"
+    "website_url": "https://cosmos-kfc.com/",
+    "latitude": 32.694647,
+    "longitude": 130.9653095
   },
   {
     "name": "テニスDIVO熊本",
@@ -12048,7 +12252,9 @@
     "_region_romaji": "kyushu",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E5%8C%97%E5%8C%BA",
     "main_photo_url": null,
-    "website_url": "https://www.divo-spoon.jp/"
+    "website_url": "https://www.divo-spoon.jp/",
+    "latitude": 32.9035572,
+    "longitude": 130.6943308
   },
   {
     "name": "NBテニスガーデン",
@@ -13629,7 +13835,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "main_photo_url": "https://play-pickleball.jp/pickleball-courts/fukui/fukui-tennis-club/",
-    "website_url": "https://www.fukuitennis.com/"
+    "website_url": "https://www.fukuitennis.com/",
+    "latitude": 33.9577116,
+    "longitude": 130.9415455
   },
   {
     "name": "新南陽体育センター",
@@ -13678,7 +13886,9 @@
     },
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
-    "main_photo_url": "https://play-pickleball.jp/pickleball-courts/yamaguchi/shinnanyo/"
+    "main_photo_url": "https://play-pickleball.jp/pickleball-courts/yamaguchi/shinnanyo/",
+    "latitude": 34.0550595,
+    "longitude": 131.8064092
   },
   {
     "name": "美東小学校体育館",
@@ -13727,7 +13937,9 @@
     },
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.1667992,
+    "longitude": 131.2062283
   },
   {
     "name": "須恵健康公園体育館",
@@ -13776,7 +13988,9 @@
     },
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
-    "main_photo_url": "https://play-pickleball.jp/pickleball-courts/fukuoka/sue-kenko-park/"
+    "main_photo_url": "https://play-pickleball.jp/pickleball-courts/fukuoka/sue-kenko-park/",
+    "latitude": 34.0030045,
+    "longitude": 131.1819289
   },
   {
     "name": "維新大晃アリーナ",
@@ -13836,7 +14050,9 @@
     },
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.1781317,
+    "longitude": 131.4737077
   },
   {
     "name": "玉汤体育館",
@@ -13860,7 +14076,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.9418212,
+    "longitude": 132.537439
   },
   {
     "name": "米子市内体育館（拠点）",
@@ -13884,7 +14102,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 35.3555075,
+    "longitude": 133.8678525
   },
   {
     "name": "高知市東部総合運動場体育センター",
@@ -13907,7 +14127,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%9F%A5%E5%B8%82",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 33.5588482,
+    "longitude": 133.5310918
   },
   {
     "name": "鳥取市民体育館（エネトピアアリーナ）",
@@ -13931,7 +14153,9 @@
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E9%B3%A5%E5%8F%96%E5%B8%82",
     "main_photo_url": null,
-    "website_url": "https://shisetsu.mizuno.jp/m-7603/"
+    "website_url": "https://shisetsu.mizuno.jp/m-7603/",
+    "latitude": 35.4943948,
+    "longitude": 134.2219282
   },
   {
     "name": "IHIアリーナ呉（呉市体育館）",
@@ -13953,7 +14177,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%91%89%E5%B8%82",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.2484488,
+    "longitude": 132.5652498
   },
   {
     "name": "二葉公民館",
@@ -13975,7 +14201,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E6%9D%B1%E5%8C%BA",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.395331,
+    "longitude": 132.4824829
   },
   {
     "name": "倉敷運動公園 ウエイトリフティング場",
@@ -13997,7 +14225,9 @@
     "_region": "中国・四国",
     "_region_romaji": "chugoku_shikoku",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82",
-    "main_photo_url": null
+    "main_photo_url": null,
+    "latitude": 34.5850791,
+    "longitude": 133.7719957
   },
   {
     "category": "全国チェーン施設",
@@ -14561,7 +14791,9 @@
     "address": "神奈川県横浜市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82",
+    "latitude": 35.4503381,
+    "longitude": 139.6343802
   },
   {
     "id": "fac_kanagawa_2",
@@ -14571,7 +14803,9 @@
     "address": "神奈川県川崎市",
     "has_parking": 1,
     "is_indoor": 0,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82",
+    "latitude": 35.5306639,
+    "longitude": 139.7037668
   },
   {
     "id": "fac_saitama_1",
@@ -14581,7 +14815,9 @@
     "address": "埼玉県さいたま市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82",
+    "latitude": 35.8616141,
+    "longitude": 139.6455666
   },
   {
     "id": "fac_saitama_2",
@@ -14591,7 +14827,9 @@
     "address": "埼玉県川越市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E8%B6%8A%E5%B8%82",
+    "latitude": 35.9251145,
+    "longitude": 139.4856927
   },
   {
     "id": "fac_chiba_1",
@@ -14601,7 +14839,9 @@
     "address": "千葉県千葉市美浜区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8D%83%E8%91%89%E5%B8%82%E7%BE%8E%E6%B5%9C%E5%8C%BA",
+    "latitude": 35.6404626,
+    "longitude": 140.0631558
   },
   {
     "id": "fac_chiba_2",
@@ -14611,7 +14851,9 @@
     "address": "千葉県柏市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82",
+    "latitude": 35.8676218,
+    "longitude": 139.9756876
   },
   {
     "id": "fac_hokkaido_1",
@@ -14621,7 +14863,9 @@
     "address": "北海道札幌市豊平区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B1%8A%E5%B9%B3%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%B1%8A%E5%B9%B3%E5%8C%BA",
+    "latitude": 43.0312415,
+    "longitude": 141.38005
   },
   {
     "id": "fac_hokkaido_2",
@@ -14631,7 +14875,9 @@
     "address": "北海道函館市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82",
+    "latitude": 41.768793,
+    "longitude": 140.729008
   },
   {
     "id": "fac_aomori_1",
@@ -14641,7 +14887,9 @@
     "address": "青森県弘前市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%BC%98%E5%89%8D%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%BC%98%E5%89%8D%E5%B8%82",
+    "latitude": 40.6030543,
+    "longitude": 140.4640389
   },
   {
     "id": "fac_iwate_1",
@@ -14651,7 +14899,9 @@
     "address": "岩手県盛岡市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%9B%9B%E5%B2%A1%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A9%E6%89%8B%E7%9C%8C%E7%9B%9B%E5%B2%A1%E5%B8%82",
+    "latitude": 39.7021331,
+    "longitude": 141.1545397
   },
   {
     "id": "fac_miyagi_1",
@@ -14661,7 +14911,9 @@
     "address": "宮城県仙台市太白区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%AA%E7%99%BD%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E5%A4%AA%E7%99%BD%E5%8C%BA",
+    "latitude": 38.224298,
+    "longitude": 140.8772465
   },
   {
     "id": "fac_fukushima_1",
@@ -14671,7 +14923,9 @@
     "address": "福島県福島市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B3%B6%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%A6%8F%E5%B3%B6%E5%B8%82",
+    "latitude": 37.760777,
+    "longitude": 140.4745807
   },
   {
     "id": "fac_niigata_1",
@@ -14681,7 +14935,9 @@
     "address": "新潟県新潟市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82",
+    "latitude": 37.9163757,
+    "longitude": 139.0365062
   },
   {
     "id": "fac_ishikawa_1",
@@ -14691,7 +14947,9 @@
     "address": "石川県金沢市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%82",
+    "latitude": 36.561627,
+    "longitude": 136.6568822
   },
   {
     "id": "fac_nagano_1",
@@ -14701,7 +14959,9 @@
     "address": "長野県軽井沢町",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E9%87%8E%E7%9C%8C%E8%BB%BD%E4%BA%95%E6%B2%A2%E7%94%BA",
+    "latitude": 36.3482938,
+    "longitude": 138.5969968
   },
   {
     "id": "fac_shizuoka_1",
@@ -14711,7 +14971,9 @@
     "address": "静岡県袋井市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%A2%8B%E4%BA%95%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%A2%8B%E4%BA%95%E5%B8%82",
+    "latitude": 34.7501492,
+    "longitude": 137.9246962
   },
   {
     "id": "fac_aichi_1",
@@ -14721,7 +14983,9 @@
     "address": "愛知県名古屋市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82",
+    "latitude": 35.1851045,
+    "longitude": 136.8998438
   },
   {
     "id": "fac_aichi_2",
@@ -14731,7 +14995,9 @@
     "address": "愛知県豊田市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E7%94%B0%E5%B8%82",
+    "latitude": 35.0834524,
+    "longitude": 137.156737
   },
   {
     "id": "fac_mie_1",
@@ -14741,7 +15007,9 @@
     "address": "三重県鈴鹿市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E9%88%B4%E9%B9%BF%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E7%9C%8C%E9%88%B4%E9%B9%BF%E5%B8%82",
+    "latitude": 34.8817102,
+    "longitude": 136.5836516
   },
   {
     "id": "fac_hyogo_1",
@@ -14751,7 +15019,9 @@
     "address": "兵庫県神戸市中央区",
     "has_parking": 0,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+    "latitude": 34.6897121,
+    "longitude": 135.1948039
   },
   {
     "id": "fac_hyogo_2",
@@ -14761,7 +15031,9 @@
     "address": "兵庫県西宮市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82",
+    "latitude": 34.7377745,
+    "longitude": 135.3413128
   },
   {
     "id": "fac_nara_1",
@@ -14771,7 +15043,9 @@
     "address": "奈良県奈良市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82",
+    "latitude": 34.6845445,
+    "longitude": 135.8048359
   },
   {
     "id": "fac_wakayama_1",
@@ -14781,7 +15055,9 @@
     "address": "和歌山県和歌山市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82",
+    "latitude": 34.2342931,
+    "longitude": 135.1783549
   },
   {
     "id": "fac_okayama_1",
@@ -14791,7 +15067,9 @@
     "address": "岡山県岡山市北区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA",
+    "latitude": 34.771885,
+    "longitude": 133.877551
   },
   {
     "id": "fac_hiroshima_1",
@@ -14801,7 +15079,9 @@
     "address": "広島県広島市中区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA",
+    "latitude": 34.3862943,
+    "longitude": 132.4550501
   },
   {
     "id": "fac_tokushima_1",
@@ -14811,7 +15091,9 @@
     "address": "徳島県徳島市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%E5%BE%B3%E5%B3%B6%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%B3%B6%E7%9C%8C%E5%BE%B3%E5%B3%B6%E5%B8%82",
+    "latitude": 34.0698307,
+    "longitude": 134.5550353
   },
   {
     "id": "fac_kagawa_1",
@@ -14821,7 +15103,9 @@
     "address": "香川県高松市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%AB%98%E6%9D%BE%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%AB%98%E6%9D%BE%E5%B8%82",
+    "latitude": 34.3425592,
+    "longitude": 134.0465338
   },
   {
     "id": "fac_ehime_1",
@@ -14831,7 +15115,9 @@
     "address": "愛媛県松山市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82",
+    "latitude": 33.8395188,
+    "longitude": 132.7653521
   },
   {
     "id": "fac_kochi_1",
@@ -14841,7 +15127,9 @@
     "address": "高知県高知市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%9F%A5%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%9F%A5%E7%9C%8C%E9%AB%98%E7%9F%A5%E5%B8%82",
+    "latitude": 33.5588482,
+    "longitude": 133.5310918
   },
   {
     "id": "fac_fukuoka_1",
@@ -14851,7 +15139,9 @@
     "address": "福岡県福岡市東区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA",
+    "latitude": 33.6178322,
+    "longitude": 130.4174572
   },
   {
     "id": "fac_fukuoka_2",
@@ -14861,7 +15151,9 @@
     "address": "福岡県北九州市八幡東区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E6%9D%B1%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%85%AB%E5%B9%A1%E6%9D%B1%E5%8C%BA",
+    "latitude": 33.8635249,
+    "longitude": 130.8118835
   },
   {
     "id": "fac_saga_1",
@@ -14871,7 +15163,9 @@
     "address": "佐賀県佐賀市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%B3%80%E7%9C%8C%E4%BD%90%E8%B3%80%E5%B8%82",
+    "latitude": 33.2639134,
+    "longitude": 130.3008378
   },
   {
     "id": "fac_nagasaki_1",
@@ -14881,7 +15175,9 @@
     "address": "長崎県長崎市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E9%95%B7%E5%B4%8E%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E7%9C%8C%E9%95%B7%E5%B4%8E%E5%B8%82",
+    "latitude": 32.7501611,
+    "longitude": 129.8781002
   },
   {
     "id": "fac_kumamoto_1",
@@ -14891,7 +15187,9 @@
     "address": "熊本県熊本市西区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E8%A5%BF%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%86%8A%E6%9C%AC%E5%B8%82%E8%A5%BF%E5%8C%BA",
+    "latitude": 32.7765491,
+    "longitude": 130.6476179
   },
   {
     "id": "fac_oita_1",
@@ -14901,7 +15199,9 @@
     "address": "大分県別府市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E7%9C%8C%E5%88%A5%E5%BA%9C%E5%B8%82",
+    "latitude": 33.2845752,
+    "longitude": 131.4913063
   },
   {
     "id": "fac_miyazaki_1",
@@ -14911,7 +15211,9 @@
     "address": "宮崎県宮崎市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%AE%E5%B4%8E%E7%9C%8C%E5%AE%AE%E5%B4%8E%E5%B8%82",
+    "latitude": 31.9076334,
+    "longitude": 131.4204022
   },
   {
     "id": "fac_kagoshima_1",
@@ -14921,7 +15223,9 @@
     "address": "鹿児島県鹿児島市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82",
+    "latitude": 31.596793,
+    "longitude": 130.5571949
   },
   {
     "id": "fac_okinawa_1",
@@ -14931,7 +15235,9 @@
     "address": "沖縄県沖縄市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E6%B2%96%E7%B8%84%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%96%E7%B8%84%E7%9C%8C%E6%B2%96%E7%B8%84%E5%B8%82",
+    "latitude": 26.3343738,
+    "longitude": 127.8056597
   },
   {
     "id": "fac_tokyo_2",
@@ -14941,7 +15247,9 @@
     "address": "東京都世田谷区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA",
+    "latitude": 35.6469025,
+    "longitude": 139.652531
   },
   {
     "id": "fac_tokyo_3",
@@ -14951,7 +15259,9 @@
     "address": "東京都調布市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AA%BF%E5%B8%83%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%AA%BF%E5%B8%83%E5%B8%82",
+    "latitude": 35.6506036,
+    "longitude": 139.5407066
   },
   {
     "id": "fac_tokyo_4",
@@ -14961,7 +15271,9 @@
     "address": "東京都江東区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA",
+    "latitude": 35.6727747,
+    "longitude": 139.8169621
   },
   {
     "id": "fac_tokyo_5",
@@ -14971,7 +15283,9 @@
     "address": "東京都渋谷区",
     "has_parking": 0,
     "is_indoor": 0,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA",
+    "latitude": 35.6633709,
+    "longitude": 139.6964952
   },
   {
     "id": "fac_osaka_1",
@@ -14981,7 +15295,9 @@
     "address": "大阪府大阪市此花区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA",
+    "latitude": 34.676245,
+    "longitude": 135.43555
   },
   {
     "id": "fac_osaka_2",
@@ -14991,7 +15307,9 @@
     "address": "大阪府大阪市港区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA",
+    "latitude": 34.662683,
+    "longitude": 135.453854
   },
   {
     "id": "fac_osaka_3",
@@ -15001,7 +15319,9 @@
     "address": "大阪府大阪市浪速区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA",
+    "latitude": 34.66283,
+    "longitude": 135.490485
   },
   {
     "id": "fac_osaka_4",
@@ -15011,7 +15331,9 @@
     "address": "大阪府門真市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%96%80%E7%9C%9F%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%96%80%E7%9C%9F%E5%B8%82",
+    "latitude": 34.739496,
+    "longitude": 135.5869107
   },
   {
     "id": "fac_osaka_5",
@@ -15021,7 +15343,9 @@
     "address": "大阪府大阪市東住吉区",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA",
+    "latitude": 34.615662,
+    "longitude": 135.531096
   },
   {
     "id": "fac_akita_1",
@@ -15031,7 +15355,9 @@
     "address": "秋田県秋田市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%A7%8B%E7%94%B0%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A7%8B%E7%94%B0%E7%9C%8C%E7%A7%8B%E7%94%B0%E5%B8%82",
+    "latitude": 39.7197629,
+    "longitude": 140.1034669
   },
   {
     "id": "fac_yamagata_1",
@@ -15041,7 +15367,9 @@
     "address": "山形県天童市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%A4%A9%E7%AB%A5%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%BD%A2%E7%9C%8C%E5%A4%A9%E7%AB%A5%E5%B8%82",
+    "latitude": 38.3624343,
+    "longitude": 140.3772634
   },
   {
     "id": "fac_ibaraki_1",
@@ -15051,7 +15379,9 @@
     "address": "茨城県水戸市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E6%B0%B4%E6%88%B8%E5%B8%82",
+    "latitude": 36.3659174,
+    "longitude": 140.4731743
   },
   {
     "id": "fac_tochigi_1",
@@ -15061,7 +15391,9 @@
     "address": "栃木県宇都宮市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%AE%87%E9%83%BD%E5%AE%AE%E5%B8%82",
+    "latitude": 36.5549677,
+    "longitude": 139.8828776
   },
   {
     "id": "fac_gunma_1",
@@ -15071,7 +15403,9 @@
     "address": "群馬県太田市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%A4%AA%E7%94%B0%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%A4%AA%E7%94%B0%E5%B8%82",
+    "latitude": 36.2911561,
+    "longitude": 139.3754233
   },
   {
     "id": "fac_toyama_1",
@@ -15081,7 +15415,9 @@
     "address": "富山県富山市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%AF%8C%E5%B1%B1%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%B1%B1%E7%9C%8C%E5%AF%8C%E5%B1%B1%E5%B8%82",
+    "latitude": 36.6957569,
+    "longitude": 137.2136215
   },
   {
     "id": "fac_fukui_1",
@@ -15091,7 +15427,9 @@
     "address": "福井県福井市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82",
+    "latitude": 36.061751,
+    "longitude": 136.2260542
   },
   {
     "id": "fac_yamanashi_1",
@@ -15101,7 +15439,9 @@
     "address": "山梨県甲府市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82",
+    "latitude": 35.6652481,
+    "longitude": 138.5710441
   },
   {
     "id": "fac_shiga_1",
@@ -15111,7 +15451,9 @@
     "address": "滋賀県大津市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BB%8B%E8%B3%80%E7%9C%8C%E5%A4%A7%E6%B4%A5%E5%B8%82",
+    "latitude": 35.0177852,
+    "longitude": 135.8548122
   },
   {
     "id": "fac_tottori_1",
@@ -15121,7 +15463,9 @@
     "address": "鳥取県鳥取市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E9%B3%A5%E5%8F%96%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E9%B3%A5%E5%8F%96%E5%B8%82",
+    "latitude": 35.4943948,
+    "longitude": 134.2219282
   },
   {
     "id": "fac_shimane_1",
@@ -15131,7 +15475,9 @@
     "address": "島根県松江市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%9D%BE%E6%B1%9F%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%B6%E6%A0%B9%E7%9C%8C%E6%9D%BE%E6%B1%9F%E5%B8%82",
+    "latitude": 35.468115,
+    "longitude": 133.048768
   },
   {
     "id": "fac_tottori_2",
@@ -15141,7 +15487,9 @@
     "address": "鳥取県米子市",
     "has_parking": 1,
     "is_indoor": 1,
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E7%B1%B3%E5%AD%90%E5%B8%82"
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E5%8F%96%E7%9C%8C%E7%B1%B3%E5%AD%90%E5%B8%82",
+    "latitude": 35.4276408,
+    "longitude": 133.331459
   },
   {
     "name": "仙台市宮城野体育館",

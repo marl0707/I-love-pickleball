@@ -1,0 +1,96 @@
+﻿
+================================================================================
+【データソース】production_data/
+================================================================================
+  community/activity_logs.json: 5件
+  community/announcements.json: 5件
+  community/communities.json: 55件
+    → 欠損50%以上: age_limit_min(95%), age_limit_max(95%), schedule_text(95%), external_url(95%), location_text(95%), owner_user_id(95%), created_at(95%), contact_url(95%), contact_type(95%), description(91%), activity_frequency(91%)
+  community/community_media.json: 15件
+  community/threads.json: 15件
+  content/articles.json: 61件
+  content/drills.json: 30件
+  content/glossary.json: 117件
+  events/awards.json: 5件
+  events/events.json: 25件
+    → 欠損50%以上: category(84%), held_month(84%), status(84%), facility_id(76%), end_datetime(76%), target_level_min(76%), target_level_max(76%), title(60%)
+  facilities/facilities.json: 367件
+    → 欠損50%以上: naming_rights(100%), shoe_policy(100%), instagram_url(100%), tournament_sponsors(100%), operator_detail(100%), number_of_courts_detail(100%), hours_weekend(100%), club_info(100%), hours_wed_to_fri(100%), hours_sat_sun(100%), program_info(100%), partner(100%), rental_info(100%), reception(100%), has_cafe(100%), category(100%), last_updated(100%), data_source(100%), description(100%), chains(100%), youtube_url(99%), reservation_note(99%), has_lighting(99%), hours_weekday(99%), closed_days(99%), phone(99%), cancel_policy(99%), has_ac(99%), certification(99%), is_association_hq(99%), association_name(99%), reservation_url(98%), surface_type(98%), venues(98%), paddle_rental_fee(98%), website(98%), type(98%), courts(98%), features(98%), number_of_courts(97%), tournament_types(96%), activity_days(96%), visitor_welcome(95%), opened_date(94%), media_info(94%), has_paddle_rental(93%), reservation_method(92%), is_premium(91%), access(90%), hosts_tournaments(89%), has_school(87%), price_info(86%), is_indoor(84%), id(82%), has_parking(78%), court_type(65%), main_photo_url(63%), latitude(50%), longitude(50%)
+  facilities/facility_comments.json: 5件
+  facilities/facility_courts.json: 215件
+    → 欠損50%以上: ac_detail(100%), bench(100%), safety(100%), baseline_margin(99%), court_name(99%), usage(99%), court_dimensions(98%), line_note(94%), number_of_courts(68%)
+  facilities/facility_media.json: 40件
+    → 欠損50%以上: facility_id(100%), target_type(80%), target_id(80%)
+  facilities/facility_shops.json: 213件
+    → 欠損50%以上: apparel_detail(100%), sales_detail(99%), handled_brands(97%), has_apparel_sales(96%), has_paddle_sales(82%), paddle_rental_fee(82%)
+  gears/accessories.json: 57件
+    → 欠損50%以上: features(79%), description(74%), sub_category(65%)
+  gears/apparel.json: 45件
+    → 欠損50%以上: product_url(89%), features(69%), description(62%)
+  gears/bags.json: 22件
+    → 欠損50%以上: capacity_liters(95%), weight_lbs(95%), features(95%), dimensions(91%), material(91%), special_features(82%), product_url(82%), paddle_count(77%), has_shoe_compartment(77%), has_laptop_sleeve(77%), description(77%)
+  gears/balls.json: 31件
+    → 欠損50%以上: bounce_height_cm(100%), price_usd(100%), price_tier(100%), price(100%), product_url(97%), material(94%), best_for(90%), description(87%), official_tournament(84%), features(84%)
+  gears/paddles.json: 113件
+    → 欠損50%以上: _pbcor_status(98%), description(93%), unique_tech(92%), product_url(70%), grip_circumference_in(62%)
+  gears/shoes.json: 41件
+    → 欠損50%以上: fit(98%), key_technologies(98%), best_for(98%), dragguard(93%), stability_features(93%), gel(90%), insole(85%), features(83%), description(83%), stability(73%), product_url(56%)
+  players/expert_reviews.json: 34件
+    → 欠損50%以上: player_id(100%), related_youtube_url(94%), paddle_id(85%), reviewer(85%), rating(85%), date(85%), summary(85%), pros(79%), cons(79%)
+  players/pro_players.json: 40件
+    → 欠損50%以上: facebook_url(100%), x_url(100%), shoe_ids(98%), ranking_mixed(90%), career_stats(88%), dupr_rating(88%), birth_date(65%), paddle_ids(53%), _sponsor_note(53%)
+  supplementary/advanced_shots.json: 14件
+  supplementary/beginner_mistakes.json: 10件
+  supplementary/brands.json: 46件
+    → 欠損50%以上: warranty(98%), face_technology(98%), manufacturing(98%), subsidiaries(98%), notable_achievement(98%), notable_ball(98%), heritage(98%), partnership(98%), certification(98%), founding_year(96%), notable_players(80%), founded(76%), headquarters(76%), website(76%), specialty(76%), unique_tech(65%), founded_year(57%)
+  supplementary/certifications.json: 11件
+  supplementary/coaches.json: 14件
+    → 欠損50%以上: qualifications(79%), country(79%)
+  supplementary/court_rules.json: obj(8keys)件
+  supplementary/doubles_tactics.json: 10件
+    → 欠損50%以上: image_url(100%)
+  supplementary/etiquette.json: obj(3keys)件
+  supplementary/faq.json: 10件
+  supplementary/fitness_training.json: 7件
+  supplementary/gear_maintenance.json: 7件
+    → 欠損50%以上: replacement_interval(86%), signs_of_wear(86%), steps(86%), do_list(86%), dont_list(86%), tips(71%), frequency(57%), tools_needed(57%), warnings(57%)
+  supplementary/glossary.json: 30件
+  supplementary/health_benefits.json: obj(6keys)件
+  supplementary/history.json: obj(4keys)件
+  supplementary/injury_prevention.json: 18件
+  supplementary/international_pb.json: 10件
+    → 欠損50%以上: awareness_percent(90%), monthly_players_millions(80%)
+  supplementary/maintenance_guide.json: obj(5keys)件
+  supplementary/master_associations.json: 9件
+    → 欠損50%以上: is_hq_facility_id(100%), region(78%)
+  supplementary/master_tags.json: 56件
+    → 欠損50%以上: description(70%)
+  supplementary/mlp_teams.json: 16件
+  supplementary/niche_gears.json: 35件
+    → 欠損50%以上: usage_tips(57%), specific_features(57%), brand(57%)
+  supplementary/paddle_deep_specs.json: 3件
+    → 欠損50%以上: note(67%)
+  supplementary/paddle_guide.json: obj(4keys)件
+  supplementary/paddle_technology.json: 6件
+    → 欠損50%以上: generation(67%), drawbacks(67%)
+  supplementary/pb_apps.json: 8件
+  supplementary/pb_history.json: 13件
+    → 欠損50%以上: key_people(92%), location(92%)
+  supplementary/pb_nutrition.json: obj(5keys)件
+  supplementary/price_guide.json: 5件
+    → 欠損50%以上: general_instructions(80%), regional_price_estimates(80%), faq(80%)
+  supplementary/promotions_coupons.json: 8件
+    → 欠損50%以上: _source(63%), code(50%), valid_until(50%)
+  supplementary/pro_rankings.json: obj(6keys)件
+  supplementary/senior_adaptive_pb.json: obj(2keys)件
+  supplementary/sport_comparison.json: 4件
+  supplementary/strategies.json: 7件
+  supplementary/tournaments.json: 7件
+    → 欠損50%以上: prize_pool_usd(86%)
+  supplementary/tournament_formats.json: 5件
+    → 欠損50%以上: dreambreaker(80%), notable_owners(80%), rally_scoring_compatible(60%)
+  supplementary/training_drills.json: 13件
+  supplementary/users_mock.json: 56件
+    → 欠損50%以上: avatar_url(93%), created_at(93%), is_profile_public(89%)
+  supplementary/user_bookmarks.json: 7件
+  supplementary/warmup_cooldown.json: obj(2keys)件

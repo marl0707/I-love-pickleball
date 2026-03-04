@@ -106,7 +106,6 @@
   },
   {
     "id": "tour_01",
-    "name": "PPA Tour - US Open Pickleball Championships",
     "location": "ネープルズ, フロリダ州, 米国",
     "type": "国際メジャー",
     "schedule": "毎年4月",
@@ -115,11 +114,11 @@
     "entry_fee": "観戦無料(選手エントリーは別途)",
     "entry_url": "https://www.ppatour.com/",
     "start_datetime": "2025-08-26T09:00:00",
-    "_survey_notes": "PPA TOUR ASIA Sansan FUKUOKA OPEN 2025。糸島運動公園。8/26-31。入場観戦無料。エントリー5/6開始～7/31締切。"
+    "_survey_notes": "PPA TOUR ASIA Sansan FUKUOKA OPEN 2025。糸島運動公園。8/26-31。入場観戦無料。エントリー5/6開始～7/31締切。",
+    "title": "PPA Tour - US Open Pickleball Championships"
   },
   {
     "id": "tour_02",
-    "name": "PPA Tour - National Championships",
     "location": "ダラス, テキサス州, 米国",
     "type": "国際メジャー",
     "schedule": "毎年11月",
@@ -128,11 +127,11 @@
     "entry_fee": "観戦無料(選手エントリーは別途)",
     "entry_url": "https://www.ppatour.com/",
     "start_datetime": "2025-08-26T09:00:00",
-    "_survey_notes": "PPA TOUR ASIA Sansan FUKUOKA OPEN 2025。糸島運動公園。8/26-31。入場観戦無料。エントリー5/6開始～7/31締切。"
+    "_survey_notes": "PPA TOUR ASIA Sansan FUKUOKA OPEN 2025。糸島運動公園。8/26-31。入場観戦無料。エントリー5/6開始～7/31締切。",
+    "title": "PPA Tour - National Championships"
   },
   {
     "id": "tour_03",
-    "name": "MLP (Major League Pickleball) Season",
     "location": "全米各地(ローテーション)",
     "type": "プロリーグ",
     "schedule": "年間5-6イベント",
@@ -141,11 +140,11 @@
     "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": null
+    "start_datetime": null,
+    "title": "MLP (Major League Pickleball) Season"
   },
   {
     "id": "tour_04",
-    "name": "APP Tour - Atlantic Open",
     "location": "デルレイビーチ, フロリダ州, 米国",
     "type": "国際プロツアー",
     "schedule": "毎年2月",
@@ -154,11 +153,11 @@
     "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": null
+    "start_datetime": null,
+    "title": "APP Tour - Atlantic Open"
   },
   {
     "id": "tour_05",
-    "name": "Beer City Open",
     "location": "グランドラピッズ, ミシガン州, 米国",
     "type": "国際プロツアー",
     "schedule": "毎年7月",
@@ -167,11 +166,11 @@
     "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": null
+    "start_datetime": null,
+    "title": "Beer City Open"
   },
   {
     "id": "tour_06",
-    "name": "Bainbridge Cup",
     "location": "ベインブリッジ島, ワシントン州, 米国",
     "type": "国際招待",
     "schedule": "毎年8月",
@@ -180,11 +179,11 @@
     "entry_fee": null,
     "_survey_notes": " ※参加費は公式サイトで要確認。 ※日程未確定。公式発表をお待ちください。",
     "entry_url": "https://japanpickleball.org/tournament",
-    "start_datetime": null
+    "start_datetime": null,
+    "title": "Bainbridge Cup"
   },
   {
     "id": "tour_07",
-    "name": "JPA 全日本ピックルボール選手権大会",
     "location": "東京都",
     "type": "国内公式(JPA)",
     "schedule": "毎年10月",
@@ -193,11 +192,11 @@
     "entry_fee": "14,000円/組(ダブルス)、8,000円(シングルス)",
     "entry_url": "https://japanpickleball.org/tournament",
     "start_datetime": "2025-11-28T09:00:00",
-    "_survey_notes": "JPA主催全日本大会。詳細は公式サイト参照。"
+    "_survey_notes": "JPA主催全日本大会。詳細は公式サイト参照。",
+    "title": "JPA 全日本ピックルボール選手権大会"
   },
   {
     "id": "tour_08",
-    "name": "JPA 東日本オープン",
     "location": "東京都・神奈川県",
     "type": "国内公式(JPA)",
     "schedule": "毎年5月",
@@ -206,11 +205,11 @@
     "entry_fee": "9,000-10,000円/組(JPA団体所属割引あり)",
     "entry_url": "https://japanpickleball.org/tournament",
     "start_datetime": "2025-05-03T09:00:00",
-    "_survey_notes": "千葉・東金オープン2025として開催。東金アリーナ。JPA2025年度選手登録+DUPR必須。"
+    "_survey_notes": "千葉・東金オープン2025として開催。東金アリーナ。JPA2025年度選手登録+DUPR必須。",
+    "title": "JPA 東日本オープン"
   },
   {
     "id": "tour_09",
-    "name": "JPA 西日本オープン",
     "location": "大阪府",
     "type": "国内公式(JPA)",
     "schedule": "毎年6月",
@@ -219,11 +218,11 @@
     "entry_fee": "10,000-14,000円/組",
     "entry_url": "https://japanpickleball.org/tournament",
     "start_datetime": "2025-07-20T09:00:00",
-    "_survey_notes": "MD NEXT大阪オープン2025として開催。江坂テニスセンター室内ハードコート10面。7/20-21。"
+    "_survey_notes": "MD NEXT大阪オープン2025として開催。江坂テニスセンター室内ハードコート10面。7/20-21。",
+    "title": "JPA 西日本オープン"
   },
   {
     "id": "tour_10",
-    "name": "関東草大会 月例杯",
     "location": "関東各地(持ち回り)",
     "type": "草大会",
     "schedule": "毎月第3日曜",
@@ -232,11 +231,11 @@
     "entry_fee": "3,000-5,000円/組(大会により異なる)",
     "entry_url": "https://tennisbear.net/",
     "start_datetime": "2025-04-01T09:00:00",
-    "_survey_notes": "月例開催の草トーナメント。テニスベアやモシコムで募集。参加費は大会規模による。"
+    "_survey_notes": "月例開催の草トーナメント。テニスベアやモシコムで募集。参加費は大会規模による。",
+    "title": "関東草大会 月例杯"
   },
   {
     "id": "tour_11",
-    "name": "名古屋ピックルフェスティバル",
     "location": "愛知県名古屋市",
     "type": "草大会",
     "schedule": "毎年9月",
@@ -245,11 +244,11 @@
     "entry_fee": "無料(観戦・参加無料)",
     "entry_url": "https://pickle-one.com/",
     "start_datetime": "2025-03-14T10:00:00",
-    "_survey_notes": "PBパークin名古屋。久屋大通公園メディアヒロバ。3/14-16。予約不要(一部会員限定)。雨天中止。"
+    "_survey_notes": "PBパークin名古屋。久屋大通公園メディアヒロバ。3/14-16。予約不要(一部会員限定)。雨天中止。",
+    "title": "名古屋ピックルフェスティバル"
   },
   {
     "id": "tour_12",
-    "name": "大阪ミックスダブルスオープン",
     "location": "大阪府",
     "type": "草大会",
     "schedule": "毎年3月",
@@ -258,11 +257,11 @@
     "entry_fee": "10,000円/組(1人5,750円)",
     "entry_url": "https://pickleballtournaments.com/",
     "start_datetime": "2025-06-28T09:00:00",
-    "_survey_notes": "Sansan PB Championship in Osaka June。江坂テニスセンターインドアハードコート8面。受付9時/競技9:30。スキル別・年齢別MD。"
+    "_survey_notes": "Sansan PB Championship in Osaka June。江坂テニスセンターインドアハードコート8面。受付9時/競技9:30。スキル別・年齢別MD。",
+    "title": "大阪ミックスダブルスオープン"
   },
   {
     "id": "tour_13",
-    "name": "札幌インドアカップ",
     "location": "北海道札幌市",
     "type": "草大会",
     "schedule": "毎年1月",
@@ -271,11 +270,11 @@
     "entry_fee": "ダブルス7,000円/組、シングルス3,000円(暖房費込)",
     "entry_url": "https://neo-spo.com/",
     "start_datetime": "2025-12-29T09:00:00",
-    "_survey_notes": "NEO PB All Players Friendly CUP 2025。PLACE OF SPORTS NEO室内デコターフ6面。パドルレンタル100円/日。公式LINE先着順エントリー。"
+    "_survey_notes": "NEO PB All Players Friendly CUP 2025。PLACE OF SPORTS NEO室内デコターフ6面。パドルレンタル100円/日。公式LINE先着順エントリー。",
+    "title": "札幌インドアカップ"
   },
   {
     "id": "tour_14",
-    "name": "福岡サンシャインオープン",
     "location": "福岡県福岡市",
     "type": "草大会",
     "schedule": "毎年11月",
@@ -284,11 +283,11 @@
     "entry_fee": "5,500円/エントリー(税込)",
     "entry_url": "https://fukuokapickleball.jp/",
     "start_datetime": "2026-01-16T09:00:00",
-    "_survey_notes": "PICKLEBALL FUKUOKA OPEN 2026 ITOSHIMA。糸島市総合運動公園。1/16-17。別途JPA公式大会(福岡オープン2026)は1/9-11かすやドームで開催(D14,000円/S8,000円)。"
+    "_survey_notes": "PICKLEBALL FUKUOKA OPEN 2026 ITOSHIMA。糸島市総合運動公園。1/16-17。別途JPA公式大会(福岡オープン2026)は1/9-11かすやドームで開催(D14,000円/S8,000円)。",
+    "title": "福岡サンシャインオープン"
   },
   {
     "id": "tour_15",
-    "name": "Spanish Pickleball Open",
     "location": "バルセロナ, スペイン",
     "type": "国際(欧州)",
     "schedule": "毎年6月",
@@ -297,7 +296,8 @@
     "entry_fee": "カテゴリーにより異なる",
     "entry_url": "https://www.spanishpickleballopen.com/",
     "start_datetime": "2025-09-01T09:00:00",
-    "_survey_notes": "スペイン開催の国際PB大会。欧州シリーズの一環。"
+    "_survey_notes": "スペイン開催の国際PB大会。欧州シリーズの一環。",
+    "title": "Spanish Pickleball Open"
   },
   {
     "id": "event_local_001",
