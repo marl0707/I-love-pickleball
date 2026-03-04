@@ -47,9 +47,10 @@
     "usapa_approved": true,
     "weight_oz": "7.5-7.9",
     "length_in": 15.75,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Signature%20Pro%2014mm%20pickleball%20paddle",
+    "image_url": "https://franklinsports.com/media/catalog/product/5/2/52985-phase1-main.jpg",
     "price_usd": 120,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "image_source": "franklinsports.com"
   },
   {
     "id": "paddle_selkirk_vanguard_16",
@@ -99,9 +100,10 @@
     "length_in": 16.5,
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%201X%20Power%20Series%2014mm%20pickleball%20paddle",
+    "image_url": "https://crbnpickleball.com/cdn/shop/products/1X_Front_Web_1800x1800.jpg?v=1673322003",
     "price_usd": 233.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "crbnpickleball.com CDN"
   },
   {
     "id": "paddle_sixzero_dbd_16",
@@ -125,9 +127,10 @@
     "length_in": 16.3,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Six%20Zero%20Double%20Black%20Diamond%20Control%2016mm%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 193.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "sixzeropickleball.com CDN"
   },
   {
     "id": "pdl_selkirk_vanguard_pro",
@@ -150,9 +153,10 @@
     "weight_oz": "7.7-8.2",
     "length_in": 16.5,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20VANGUARD%20Pro%20Epic%20pickleball%20paddle",
+    "image_url": "https://www.selkirk.com/cdn/shop/files/VANGUARD_POWER_AIR_EPIC_RED_HERO-GR.png?v=1759942216&width=800",
     "price_usd": 233.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "selkirk.com CDN"
   },
   {
     "id": "pdl_selkirk_halo_max",
@@ -564,10 +568,11 @@
     "length_in": 16.3,
     "usapa_approved": true,
     "product_url": "https://www.sixzeropickleball.com/products/double-black-diamond-power-14mm",
-    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Double%20Black%20Diamond%2014mm%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 199.99,
     "price_tier": "プレミアム",
-    "grip_length_in": 5.5
+    "grip_length_in": 5.5,
+    "image_source": "sixzeropickleball.com CDN"
   },
   {
     "id": "pdl_sixzero_ruby",
@@ -589,9 +594,10 @@
     "weight_oz": "8.2",
     "length_in": 16.3,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Ruby%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 206.67,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "sixzeropickleball.com CDN"
   },
   {
     "id": "pdl_sixzero_infinity",
@@ -613,9 +619,10 @@
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Infinity%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 220,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "sixzeropickleball.com CDN"
   },
   {
     "id": "pdl_sixzero_sapphire",
@@ -637,9 +644,10 @@
     "weight_oz": "8.0-8.2",
     "length_in": 16.3,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Sapphire%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 146.67,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "image_source": "sixzeropickleball.com CDN"
   },
   {
     "id": "pdl_engage_pursuit_pro_ex",
@@ -1416,9 +1424,10 @@
     "grip_circumference_in": 4.25,
     "usapa_approved": true,
     "product_url": "https://www.onixpickleball.com/products/z5-graphite",
-    "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Z5%20Graphite%20pickleball%20paddle",
+    "image_url": "https://cdn.shopify.com/s/files/1/0481/9828/7516/products/onixcompositeevokepro-red_pickleballpaddle_kz1131-red-1_1__KZ1131-RED-1.jpg?v=1750277546",
     "price_usd": 79.99,
-    "price_tier": "エントリー"
+    "price_tier": "エントリー",
+    "image_source": "onixpickleball.com CDN (Shopify)"
   },
   {
     "id": "pdl_head_gravity_tour",
@@ -2139,9 +2148,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=CRBN%20Magnum%201X",
     "usapa_approved": true,
     "weight_oz": "8.0-8.3",
-    "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20Magnum%201X%20pickleball%20paddle",
+    "image_url": "https://crbnpickleball.com/cdn/shop/products/1X_Front_Web_1800x1800.jpg?v=1673322003",
     "price_usd": 233.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "crbnpickleball.com CDN"
   },
   {
     "id": "pdl_legacy_pro",
@@ -2330,9 +2340,10 @@
     "yahoo_url": "https://shopping.yahoo.co.jp/search?p=Franklin%20Christina%20McGrath%20Signature",
     "weight_oz": "7.5-8.0",
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20Christina%20McGrath%20Signature%20pickleball%20paddle",
+    "image_url": "https://franklinsports.com/media/catalog/product/5/2/52985-phase1-main.jpg",
     "price_usd": 113.33,
-    "price_tier": "ミッドレンジ"
+    "price_tier": "ミッドレンジ",
+    "image_source": "franklinsports.com"
   },
   {
     "id": "pdl_gearbox_cp7",
@@ -2381,9 +2392,10 @@
     "grip_length_in": 5.5,
     "grip_circumference_in": 4.125,
     "usapa_approved": true,
-    "image_url": "https://www.google.com/search?tbm=isch&q=SixZero%20Black%20Diamond%2016mm%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 193.33,
-    "price_tier": "プレミアム"
+    "price_tier": "プレミアム",
+    "image_source": "sixzeropickleball.com CDN"
   },
   {
     "id": "pdl_hudef_hd6",
@@ -2823,9 +2835,10 @@
     "rakuten_url": null,
     "yahoo_url": null,
     "price": null,
-    "image_url": "https://www.google.com/search?tbm=isch&q=Six%20Zero%20Coral%20pickleball%20paddle",
+    "image_url": "https://www.sixzeropickleball.com/cdn/shop/files/1_77978e8a-4a92-4863-a9ab-9934dfd64a27.png?v=1762118738&width=800",
     "price_usd": 79.99,
     "price_tier": "エントリー",
-    "grip_length_in": 5.5
+    "grip_length_in": 5.5,
+    "image_source": "sixzeropickleball.com CDN"
   }
 ]
