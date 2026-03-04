@@ -17,8 +17,8 @@ export async function POST(req: Request) {
         const bidAmountStr = formData.get('bidAmount') as string
         const bidAmount = parseInt(bidAmountStr, 10)
 
-        if (!category || isNaN(bidAmount) || bidAmount < 35) {
-            return new NextResponse('Invalid input. Category and valid minimum bid amount (35 USD) are required.', { status: 400 })
+        if (!category || isNaN(bidAmount) || bidAmount < 30 || bidAmount % 10 !== 0) {
+            return new NextResponse('Invalid input. Category and valid minimum bid amount (30 USD, multiple of 10) are required.', { status: 400 })
         }
 
         // DBからユーザー情報を取得

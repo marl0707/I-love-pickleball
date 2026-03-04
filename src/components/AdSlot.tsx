@@ -4,6 +4,9 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
+const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "";
+const IS_ADSENSE_ACTIVE = process.env.NEXT_PUBLIC_ADSENSE_ACTIVE === "true";
+
 const SLOT_CONFIG = {
     "header-banner": {
         format: "horizontal" as const,
@@ -84,6 +87,7 @@ let sidebarInstanceCount = 0;
 
 export default function AdSlot({
     slot,
+    adSlotId,
     className = "",
     isPremium = false,
     category,
@@ -150,6 +154,31 @@ export default function AdSlot({
         );
     }
 
+    useEffect(() => {
+        if (IS_ADSENSE_ACTIVE && ADSENSE_CLIENT_ID && !activeBid && !loading && autoRank !== null) {
+            try {
+                // @ts-ignore
+                (window.adsbygoogle = window.adsbygoogle || []).push({});
+            } catch (e) {
+                console.error("AdSense push error:", e);
+            }
+        }
+    }, [activeBid, loading, autoRank]);
+
+    // 2. If AdSense is active and no active bid, fallback to AdSense
+    if (IS_ADSENSE_ACTIVE && ADSENSE_CLIENT_ID && (!activeBid || !activeBid.imageUrl)) {
+        return (
+            <div className={`ad-slot-adsense ${className} my-4 flex justify-center w-full overflow-hidden`} style={config.style}>
+                <ins className="adsbygoogle"
+                    style={{ ...config.style, display: "block" }}
+                    data-ad-client={ADSENSE_CLIENT_ID}
+                    data-ad-slot={adSlotId || "auto"}
+                    data-ad-format={config.format || "auto"}
+                    data-full-width-responsive="true"></ins>
+            </div>
+        );
+    }
+
     return (
         <Link
             href="/advertise"
@@ -169,7 +198,7 @@ export default function AdSlot({
                 Your Ad Here
             </span>
             <span className="text-[11px] font-medium tracking-wide text-emerald-400/80 group-hover:text-emerald-600 mt-1 transition-colors">
-                {autoRank === 0 ? "No.1 GLOBAL BANNER ($200/mo~)" : `Sidebar Rank ${autoRank + 1} Available`}
+                {autoRank === 0 ? "No.1 GLOBAL BANNER ($30/mo~)" : `Sidebar Rank ${autoRank + 1} Available`}
             </span>
         </Link>
     );

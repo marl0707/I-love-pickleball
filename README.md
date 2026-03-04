@@ -92,3 +92,16 @@ npm run build
 ### 2026-03-02
 - イベント・ドリル詳細ページ実装
 - ナビゲーションリンク追加
+
+## 過去のインシデントと教訓
+
+### 2026-03-04: Server ComponentでのonClick使用によるページクラッシュ
+
+**症状:** ページにアクセスすると、「Event handlers cannot be passed to Client Component props」というエラーが発生してページがクラッシュする。ビルド時およびハイドレーション時にフロントエンドの実行時エラーとなる。
+
+**根本原因:**
+Server Component（`"use client"`がないファイル）内に、`<button onClick={() => window.scrollTo(...) }>` のようなクライアント側のJavaScriptイベントハンドラを直接記述してしまったため。Next.js App Routerでは、Server Component内でブラウザAPI（`window`など）やインタラクティブなイベントは利用できない。
+
+**解決策と再発防止:**
+- ページ内スクロールやアンカーへの遷移は、イベント付きのボタンではなく、標準的なHTMLタグまたは `<Link href="#anchor">` を用いて実装すること。これにより、Server Componentのパフォーマンスの利点を維持しつつ、エラーなく動作する。
+- どうしても `onClick` イベントが必要な場合は、そのUI要素のみを別ファイルに切り出し、先頭に `"use client"` を明記したClient Componentとしてインポートする。

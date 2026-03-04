@@ -25,7 +25,7 @@ export default async function AdvertisePage() {
                     </h1>
                     <p className="text-gray-300 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
                         国内最大級のピックルボール専門メディア「I LOVE PICKLEBALL」は、<br className="hidden md:block" />純度の高いプレイヤー層へのダイレクトなリーチを実現します。<br />
-                        透明性の高い<span className="text-white font-bold tracking-wider">完全入札制（リアルタイムオークション方式）</span>で、<br className="hidden md:block" />予算に合わせた柔軟で強力なプロモーションが可能です。
+                        透明性の高い<span className="text-white font-bold tracking-wider">カテゴリ別10枠入札制（オークション方式）</span>で、<br className="hidden md:block" />さらに<strong className="text-brand-accent">総合1位を獲得するとトップページも独占</strong>できる強力なプロモーションが可能です。
                     </p>
                 </div>
             </section>
@@ -60,21 +60,21 @@ export default async function AdvertisePage() {
                         </div>
                     </div>
                     <div className="bg-gray-100/50 rounded-2xl p-8 border border-gray-100 shadow-inner">
-                        <h3 className="font-bold text-gray-800 mb-4 text-center text-sm tracking-wider uppercase">広告表示のイメージ</h3>
-                        <div className="bg-white p-4 rounded-xl border border-brand-accent/40 shadow-sm relative">
-                            <div className="absolute top-0 right-0 bg-brand-accent text-white text-[9px] font-bold px-3 py-0.5 rounded-bl-lg tracking-wider">PR / SPONSOR</div>
-                            <div className="flex items-center gap-4 opacity-100">
-                                <div className="w-16 h-16 bg-emerald-50 border border-emerald-100 rounded-lg flex items-center justify-center text-brand-accent flex-shrink-0">
-                                    <span className="material-symbols-outlined text-2xl">campaign</span>
-                                </div>
-                                <div className="flex-1 space-y-2">
-                                    <div className="h-4 bg-gray-200 rounded w-3/4"></div>
-                                    <div className="h-3 bg-gray-100 rounded w-1/2"></div>
-                                </div>
+                        <h3 className="font-bold text-gray-800 mb-4 text-center text-sm tracking-wider uppercase">広告表示の仕組み</h3>
+                        <div className="space-y-4">
+                            <div className="bg-white p-4 rounded-xl border border-brand-accent/40 shadow-sm relative">
+                                <div className="absolute top-0 right-0 bg-brand-accent text-white text-[9px] font-bold px-3 py-0.5 rounded-bl-lg tracking-wider">👑 総合1位 (全部門トップ)</div>
+                                <p className="text-sm font-bold text-gray-800">トップページ＆全カテゴリ最上位を独占</p>
+                                <p className="text-xs text-gray-500 mt-1">全ての入札の中で単独1位になると、サイトの顔であるトップページ最上部に表示されます。</p>
+                            </div>
+                            <div className="bg-white p-4 rounded-xl border border-gray-200 shadow-sm relative">
+                                <div className="absolute top-0 right-0 bg-gray-500 text-white text-[9px] font-bold px-3 py-0.5 rounded-bl-lg tracking-wider">🌟 カテゴリ内 2位〜10位</div>
+                                <p className="text-sm font-bold text-gray-800">各カテゴリページの上部・サイドバー</p>
+                                <p className="text-xs text-gray-500 mt-1">ターゲットに直結する各カテゴリ（施設一覧・ギア特集など）の専用枠（最大10枠）に順位に応じて表示されます。</p>
                             </div>
                         </div>
                         <p className="text-center text-xs text-gray-500 mt-5 leading-relaxed">
-                            各カテゴリ（施設一覧・ギア特集など）の目立つ検索上部位置に最優先表示され、確実な認知を獲得します。
+                            確実な認知を獲得するため、まずは関連カテゴリでのランクイン（10位以内）を目指してください。
                         </p>
                     </div>
                 </section>
@@ -85,31 +85,37 @@ export default async function AdvertisePage() {
                     <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-emerald-500/5 rounded-full blur-2xl"></div>
 
                     <h2 className="text-2xl font-bold text-gray-900 mb-3 relative z-10">シンプルで公平な入札システム</h2>
-                    <p className="text-gray-500 text-sm mb-12 relative z-10">最低額 $35/月から。オンラインで即時掲載手続きが完了します。</p>
+                    <p className="text-gray-500 text-sm mb-12 relative z-10">最低額 $30/月から。オンラインで即時掲載手続きが完了します。</p>
 
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-10 relative z-10">
-                        <div className="space-y-5">
-                            <div className="w-16 h-16 bg-blue-50 text-blue-600 border border-blue-100 rounded-full flex items-center justify-center mx-auto shadow-sm">
-                                <span className="material-symbols-outlined text-[28px]">category</span>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8 relative z-10">
+                        <div className="flex items-start gap-4 text-left">
+                            <div className="w-14 h-14 bg-blue-50 text-blue-600 border border-blue-100 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm">
+                                <span className="material-symbols-outlined text-[24px]">category</span>
                             </div>
-                            <h3 className="font-bold text-base text-gray-900">1. ターゲットの選択</h3>
-                            <p className="text-gray-600 text-xs leading-relaxed text-left">全国のコート情報を調べるユーザー向けの<span className="font-bold text-brand-dark">「施設・コート枠」</span>、パドル等を探すユーザー向けの<span className="font-bold text-brand-dark">「ギア・用具枠」</span>など、PRしたい商材に合わせたカテゴリを選びます。</p>
+                            <div>
+                                <h3 className="font-bold text-base text-gray-900 mb-2">1. ターゲットの選択</h3>
+                                <p className="text-gray-600 text-xs leading-relaxed">全国のコート情報を調べるユーザー向けの<span className="font-bold text-brand-dark">「施設・コート枠」</span>、パドル等を探すユーザー向けの<span className="font-bold text-brand-dark">「ギア・用具枠」</span>など、PRしたい商材に合わせたカテゴリを選びます。</p>
+                            </div>
                         </div>
-                        <div className="space-y-5 relative">
-                            <div className="hidden md:block absolute top-8 -left-8 w-16 h-px bg-gray-200"></div>
-                            <div className="w-16 h-16 bg-orange-50 text-orange-600 border border-orange-100 rounded-full flex items-center justify-center mx-auto shadow-sm">
-                                <span className="material-symbols-outlined text-[28px]">gavel</span>
+                        <div className="flex items-start gap-4 text-left relative">
+                            <div className="hidden md:block absolute top-7 -left-6 w-8 h-px bg-gray-200"></div>
+                            <div className="w-14 h-14 bg-orange-50 text-orange-600 border border-orange-100 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm">
+                                <span className="material-symbols-outlined text-[24px]">gavel</span>
                             </div>
-                            <h3 className="font-bold text-base text-gray-900">2. 金額を決めて入札</h3>
-                            <p className="text-gray-600 text-xs leading-relaxed text-left">各カテゴリの現在の『トップ入札額』はリアルタイムで公開されています。競合の金額を確認しながら、自社の予算や戦略に応じた入札額（月額）を設定してください。</p>
+                            <div>
+                                <h3 className="font-bold text-base text-gray-900 mb-2">2. 金額を決めて入札</h3>
+                                <p className="text-gray-600 text-xs leading-relaxed">各カテゴリの現在の『トップ入札額』はリアルタイムで公開されています。競合の金額を確認しながら、自社の予算や戦略に応じた入札額（月額）を設定してください。</p>
+                            </div>
                         </div>
-                        <div className="space-y-5 relative">
-                            <div className="hidden md:block absolute top-8 -left-8 w-16 h-px bg-gray-200"></div>
-                            <div className="w-16 h-16 bg-emerald-50 text-brand-accent border border-emerald-100 rounded-full flex items-center justify-center mx-auto shadow-sm">
-                                <span className="material-symbols-outlined text-[28px]">rocket_launch</span>
+                        <div className="flex items-start gap-4 text-left relative">
+                            <div className="hidden md:block absolute top-7 -left-6 w-8 h-px bg-gray-200"></div>
+                            <div className="w-14 h-14 bg-emerald-50 text-brand-accent border border-emerald-100 rounded-xl flex-shrink-0 flex items-center justify-center shadow-sm">
+                                <span className="material-symbols-outlined text-[24px]">rocket_launch</span>
                             </div>
-                            <h3 className="font-bold text-base text-gray-900">3. 即座に掲載開始</h3>
-                            <p className="text-gray-600 text-xs leading-relaxed text-left">Stripeを利用した安全なクレジットカード決済完了後、あなたが<span className="font-bold text-brand-accent">最高額入札者（1位〜10位）</span>であれば、すぐに対象一覧ページへと自動掲載されます。</p>
+                            <div>
+                                <h3 className="font-bold text-base text-gray-900 mb-2">3. 即座に掲載開始</h3>
+                                <p className="text-gray-600 text-xs leading-relaxed">Stripeのセキュアなクレジットカード決済が完了すると枠を確保します。その後、専用の<strong className="text-brand-accent text-sm">企業ダッシュボード</strong>から広告画像やリンク先URLを自由に設定・変更できます。ランク内（10位以内）であれば即座にサイト上へ反映されます。</p>
+                            </div>
                         </div>
                     </div>
                 </section>
@@ -122,6 +128,22 @@ export default async function AdvertisePage() {
                         initialBids={initialFacilityBids as any}
                     />
                 </section>
+
+                {/* Dashboard CTA */}
+                <div className="mt-16 text-center">
+                    <div className="inline-flex items-center justify-center p-6 bg-white rounded-2xl border shadow-sm max-w-2xl mx-auto w-full">
+                        <div className="flex flex-col sm:flex-row items-center justify-between w-full">
+                            <div className="text-left mb-4 sm:mb-0">
+                                <h3 className="text-xl font-bold mb-1 text-gray-900">広告設定ダッシュボード</h3>
+                                <p className="text-gray-500">掲載中の広告の管理や、画像のアップロードはこちらから。</p>
+                            </div>
+                            <Link href="/advertise/dashboard" className="inline-flex items-center justify-center rounded-md font-medium bg-brand-dark text-white hover:bg-emerald-700 h-12 px-6 transition-colors shadow-sm">
+                                <span className="material-symbols-outlined mr-2 text-[20px]">bar_chart</span>
+                                ダッシュボードへ
+                            </Link>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>

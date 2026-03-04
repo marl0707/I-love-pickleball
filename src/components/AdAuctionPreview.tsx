@@ -79,8 +79,8 @@ export default function AdAuctionPreview({
                         <button
                             key={cat}
                             onClick={() => setSelectedCategory(cat)}
-                            className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${selectedCategory === cat
-                                ? "bg-brand-primary text-white shadow-md shadow-brand-primary/20"
+                            className={`px-4 py-2 rounded-full text-sm font-bold transition-all ${selectedCategory === cat
+                                ? "bg-brand-dark text-white shadow-md"
                                 : "bg-white text-gray-600 hover:bg-gray-100 border border-gray-200"
                                 }`}
                         >
@@ -111,7 +111,7 @@ export default function AdAuctionPreview({
                                     </div>
                                 </div>
                             ) : (
-                                <EmptySlot rank="1" title="サイト全体ヘッダー（全画面表示）" price="$200" isGlobal />
+                                <EmptySlot rank="1" title="サイト全体ヘッダー（全画面表示）" price="$30" isGlobal />
                             )}
                         </div>
 
@@ -135,7 +135,7 @@ export default function AdAuctionPreview({
                                         );
                                     }
 
-                                    return <EmptySlot key={`empty-${rank}`} rank={rank.toString()} title={`カテゴリ内枠`} price="$35" />;
+                                    return <EmptySlot key={`empty-${rank}`} rank={rank.toString()} title={`カテゴリ内枠`} price="$30" />;
                                 })}
                             </div>
                         </div>
@@ -157,15 +157,15 @@ export default function AdAuctionPreview({
                             <input
                                 type="number"
                                 name="bidAmount"
-                                min={bids.length >= 10 ? Math.ceil((bids[9].bidAmount + 1) / 10) * 10 : 40}
+                                min={bids.length >= 10 ? Math.ceil((bids[9].bidAmount + 1) / 10) * 10 : 30}
                                 step="10"
-                                defaultValue={globalTop ? Math.ceil((globalTop.bidAmount + 10) / 10) * 10 : 40}
+                                defaultValue={globalTop ? Math.ceil((globalTop.bidAmount + 10) / 10) * 10 : 30}
                                 required
                                 className="w-full p-3 bg-white/10 border border-white/20 rounded-lg text-white text-xl font-bold focus:border-brand-accent focus:ring-1 focus:ring-brand-accent outline-none transition-all placeholder-white/30"
                             />
                         </div>
                         <p className="text-gray-400 text-xs mt-2">
-                            ※ 最低入札額: ${bids.length >= 10 ? Math.ceil((bids[9].bidAmount + 1) / 10) * 10 : 40}（空き枠がない場合、ランクインに必要な最低額が表示されます）
+                            ※ 最低入札額: ${bids.length >= 10 ? Math.ceil((bids[9].bidAmount + 1) / 10) * 10 : 30}（空き枠がない場合、ランクインに必要な最低額が表示されます）
                         </p>
                     </div>
 
