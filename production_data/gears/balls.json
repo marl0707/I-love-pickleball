@@ -22,7 +22,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Outdoor%20Pickleballs%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.88,
+    "diameter_in": 2.91,
+    "spec_source": "pickleballcentral.com"
   },
   {
     "id": "ball_dura_fast_40",
@@ -44,7 +47,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Dura%20Fast%2040%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.92,
+    "diameter_in": 2.9375,
+    "spec_source": "pickleballcentral.com"
   },
   {
     "id": "ball_joola_primo",
@@ -62,7 +68,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=JOOLA%20Primo%20Pickleballs%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.917,
+    "diameter_in": 2.913,
+    "spec_source": "ebay.com official listing"
   },
   {
     "id": "ball_onix_fuse_indoor",
@@ -82,7 +91,10 @@
     "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Fuse%20Indoor%20Pickleballs%20pickleball",
     "price_usd": null,
     "price_tier": "不明",
-    "product_url": "https://www.onixpickleball.com/products/fuse-indoor-pickleball"
+    "product_url": "https://www.onixpickleball.com/products/fuse-indoor-pickleball",
+    "weight_oz": 0.917,
+    "diameter_in": 2.913,
+    "spec_source": "pickleballeurosphere.com (26g, 74mm)"
   },
   {
     "id": "ball_vulcan_v520",
@@ -127,7 +139,10 @@
     "official_tournament": "US Open Pickleball Championships 公式球",
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.88,
+    "diameter_in": 2.91,
+    "spec_source": "pickleballcentral.com"
   },
   {
     "id": "dura-fast-40",
@@ -151,7 +166,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Fast%2040%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.92,
+    "diameter_in": 2.9375,
+    "spec_source": "pickleballcentral.com"
   },
   {
     "id": "vulcan-v520",
@@ -196,7 +214,10 @@
     "official_tournament": "US Open Pickleball Championships 公式球",
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.88,
+    "diameter_in": 2.91,
+    "spec_source": "pickleballcentral.com (X-40)"
   },
   {
     "id": "ball_02",
@@ -234,7 +255,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Franklin%20X-40%20Performance%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.88,
+    "diameter_in": 2.91,
+    "spec_source": "pickleballcentral.com (X-40 Performance)"
   },
   {
     "id": "ball_04",
@@ -254,7 +278,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Dura%20Dura%20Fast%2040%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.92,
+    "diameter_in": 2.9375,
+    "spec_source": "pickleballcentral.com (Dura Fast 40)"
   },
   {
     "id": "ball_05",
@@ -272,7 +299,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Fuse%20G2%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.917,
+    "diameter_in": 2.9,
+    "spec_source": "pickleballcentral.com (Fuse G2 Outdoor)"
   },
   {
     "id": "ball_06",
@@ -290,7 +320,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Onix%20Pure%202%20Indoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.928,
+    "diameter_in": 2.9,
+    "spec_source": "pickleballgalaxy.com (Pure 2)"
   },
   {
     "id": "ball_07",
@@ -378,7 +411,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Pro%20S1%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.93,
+    "diameter_in": 2.8,
+    "spec_source": "pickleballcentral.com (Selkirk Pro S1)"
   },
   {
     "id": "ball_13",
@@ -415,7 +451,10 @@
     "official_tournament": "USA Pickleball認定ボール",
     "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Penn%2040%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.924,
+    "diameter_in": 2.893,
+    "spec_source": "adasportsandrackets.com (Penn 40: 26.2g, 73.5mm)"
   },
   {
     "id": "ball_15",
@@ -450,7 +489,10 @@
     "hole_count": 40,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Ball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.897,
+    "diameter_in": 2.92,
+    "spec_source": "pickleballcentral.com (Engage Tour)"
   },
   {
     "id": "ball_17",
@@ -503,7 +545,10 @@
     "usapa_approved": true,
     "image_url": "https://www.google.com/search?tbm=isch&q=CRBN%20CRBN%20Pro%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.92,
+    "diameter_in": 2.8,
+    "spec_source": "crbnpickleball.com (CRBN C40)"
   },
   {
     "id": "ball_20",
@@ -540,7 +585,10 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Selkirk%20Pro%20S1%20Gold%20Outdoor%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.93,
+    "diameter_in": 2.8,
+    "spec_source": "pickleballcentral.com (Selkirk Pro S1)"
   },
   {
     "id": "ball_wilson_tru32_indoor",
@@ -567,7 +615,7 @@
     "product_name": "Penn 26 Indoor Pickleball",
     "ball_type": "indoor",
     "hole_count": 26,
-    "weight_oz": 0.81,
+    "weight_oz": 0.917,
     "usapa_approved": true,
     "description": "HEAD Penn 26ホールインドアボール。軽量0.81oz。柔らかめの打球感。",
     "color_variations": [
@@ -579,7 +627,9 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=HEAD%20Penn%2026%20Indoor%20Pickleball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "diameter_in": 2.906,
+    "spec_source": "pickleballpaddlescanada.ca (Penn 26: 26g, 7.38cm)"
   },
   {
     "id": "ball_engage_tour",
@@ -598,6 +648,9 @@
     "price": null,
     "image_url": "https://www.google.com/search?tbm=isch&q=Engage%20Tour%20Outdoor%20Pickleball%20pickleball",
     "price_usd": null,
-    "price_tier": "不明"
+    "price_tier": "不明",
+    "weight_oz": 0.897,
+    "diameter_in": 2.92,
+    "spec_source": "pickleballcentral.com (Engage Tour 2.0)"
   }
 ]
