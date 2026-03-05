@@ -5,9 +5,7 @@ import HeroSlider from "@/components/HeroSlider";
 import AdSlot from "@/components/AdSlot";
 import BeginnerGuide from "@/components/BeginnerGuide";
 import { prisma } from "@/lib/prisma";
-
-// フォールバック画像
-const PLACEHOLDER_IMG = "https://images.unsplash.com/photo-1622396342880-9280d9aa3ac9?q=80&w=800&auto=format&fit=crop";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 function getBadgeBg(category: string): string {
   const map: Record<string, string> = {
@@ -50,17 +48,17 @@ async function getHomeData() {
     const randomArticle = getRandomItem(articles);
 
     const editorsPick = [
-      randomFacility ? { label: "Courts", title: randomFacility.name, img: randomFacility.mainPhotoUrl || PLACEHOLDER_IMG, href: `/facilities/${randomFacility.id}`, tag: "Facility" } : null,
-      randomGear ? { label: "Gears", title: randomGear.productName, img: randomGear.imageUrl || PLACEHOLDER_IMG, href: `/gear/${randomGear.id}`, tag: randomGear.brandName } : null,
-      randomPlayer ? { label: "Players", title: randomPlayer.nameJa, img: randomPlayer.photoUrl || PLACEHOLDER_IMG, href: `/players/${randomPlayer.id}`, tag: "Pro Player" } : null,
-      randomArticle ? { label: "Articles", title: randomArticle.title, img: randomArticle.thumbnailUrl || PLACEHOLDER_IMG, href: `/articles/${randomArticle.slug}`, tag: randomArticle.category || "News" } : null,
-    ].filter(Boolean) as { label: string; title: string; img: string; href: string; tag: string }[];
+      randomFacility ? { label: "Courts", title: randomFacility.name, img: randomFacility.mainPhotoUrl, href: `/facilities/${randomFacility.id}`, tag: "Facility" } : null,
+      randomGear ? { label: "Gears", title: randomGear.productName, img: randomGear.imageUrl, href: `/gear/${randomGear.id}`, tag: randomGear.brandName } : null,
+      randomPlayer ? { label: "Players", title: randomPlayer.nameJa, img: randomPlayer.photoUrl, href: `/players/${randomPlayer.id}`, tag: "Pro Player" } : null,
+      randomArticle ? { label: "Articles", title: randomArticle.title, img: randomArticle.thumbnailUrl, href: `/articles/${randomArticle.slug}`, tag: randomArticle.category || "News" } : null,
+    ].filter(Boolean) as { label: string; title: string; img: string | null; href: string; tag: string }[];
 
     const latestArticles = articles.slice(0, 3).map((a) => ({
       title: a.title,
       slug: a.slug,
       category: a.category || "News",
-      img: a.thumbnailUrl || PLACEHOLDER_IMG,
+      img: a.thumbnailUrl,
       date: a.publishedAt ? new Date(a.publishedAt).toLocaleDateString("ja-JP") : "",
       desc: a.content?.replace(/<[^>]+>/g, '').slice(0, 100) || "",
     }));
@@ -112,11 +110,15 @@ export default async function HomePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
             {editorsPick.map((item, i) => (
               <Link key={i} href={item.href} className="group cursor-pointer block">
-                <div className="aspect-[3/4] overflow-hidden mb-4 relative bg-gray-200">
-                  <div
-                    className="w-full h-full bg-cover bg-center transition-transform duration-700 group-hover:scale-105"
-                    style={{ backgroundImage: `url('${item.img}')` }}
-                  />
+                <div className="aspect-[3/4] overflow-hidden mb-4 relative bg-gray-200 rounded-lg">
+                  {item.img ? (
+                    <div
+                      className="w-full h-full bg-cover bg-center transition-transform duration-700 group-hover:scale-105"
+                      style={{ backgroundImage: `url('${item.img}')` }}
+                    />
+                  ) : (
+                    <DefaultNoImage text={item.label} className="w-full h-full transition-transform duration-700 group-hover:scale-105" />
+                  )}
                   <div className="absolute bottom-4 left-4 bg-white/90 px-3 py-1 text-[10px] uppercase tracking-widest" style={{ fontFamily: "'Inter', sans-serif" }}>{item.label}</div>
                 </div>
                 <h3 className="text-base font-medium leading-relaxed text-gray-800 group-hover:text-brand-accent transition-colors text-center px-2">{item.title}</h3>
@@ -140,8 +142,12 @@ export default async function HomePage() {
             <div className="space-y-12">
               {latestArticles.map((article, i) => (
                 <Link key={i} href={`/articles/${article.slug}`} className="flex flex-col md:flex-row gap-8 group block">
-                  <div className="w-full md:w-64 aspect-[4/3] overflow-hidden bg-gray-200">
-                    <div className="w-full h-full bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style={{ backgroundImage: `url('${article.img}')` }} />
+                  <div className="w-full md:w-64 aspect-[4/3] overflow-hidden bg-gray-200 shrink-0 rounded-lg">
+                    {article.img ? (
+                      <div className="w-full h-full bg-cover bg-center transition-transform duration-500 group-hover:scale-105" style={{ backgroundImage: `url('${article.img}')` }} />
+                    ) : (
+                      <DefaultNoImage text="ARTICLE" className="w-full h-full transition-transform duration-500 group-hover:scale-105" />
+                    )}
                   </div>
                   <div className="flex-1 flex flex-col justify-center">
                     <div className="flex items-center gap-3 mb-3">
@@ -182,10 +188,16 @@ export default async function HomePage() {
                   </Link>
                   <div className="flex flex-col gap-6">
                     {gearNews.length > 0 ? gearNews.map((article, idx) => {
-                      const displayImg = article.thumbnailUrl || PLACEHOLDER_IMG;
+                      const displayImg = article.thumbnailUrl;
                       return (
                         <Link key={idx} className="flex gap-4 group/item" href={`/articles/${article.slug}`}>
-                          <div className="w-24 h-24 bg-cover bg-center shrink-0 bg-gray-200" style={{ backgroundImage: `url('${displayImg}')` }} />
+                          <div className="w-24 h-24 shrink-0 bg-gray-200 overflow-hidden relative rounded-lg">
+                            {displayImg ? (
+                              <div className="w-full h-full bg-cover bg-center" style={{ backgroundImage: `url('${displayImg}')` }} />
+                            ) : (
+                              <DefaultNoImage text="" className="w-full h-full" />
+                            )}
+                          </div>
                           <div>
                             <h4 className="text-sm font-medium text-gray-800 group-hover/item:text-brand-accent transition-colors line-clamp-2 leading-relaxed">{article.title}</h4>
                             <span className="text-[10px] text-gray-400 mt-1 block">

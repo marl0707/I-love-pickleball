@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -77,9 +78,7 @@ export default async function PlayerDetailPage({ params }: PageProps) {
                         {player.photoUrl ? (
                             <Image src={resolveImageUrl(player.photoUrl)} alt={player.nameJa} fill priority sizes="(max-width: 768px) 100vw, 50vw" className="object-cover object-top grayscale hover:grayscale-0 transition-all duration-700" />
                         ) : (
-                            <div className="w-full h-full bg-gray-800 flex items-center justify-center">
-                                <span className="text-gray-600 font-bold text-6xl opacity-20">NO PHOTO</span>
-                            </div>
+                            <DefaultNoImage text="PLAYER" className="w-full h-full" />
                         )}
                     </div>
                 </div>

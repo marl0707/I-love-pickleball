@@ -5,6 +5,7 @@ import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import SponsorBanner from "@/components/SponsorBanner";
 import { prisma } from "@/lib/prisma";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -99,13 +100,13 @@ export default async function GearPage({ searchParams }: PageProps) {
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                                 {paddles.map((paddle) => (
                                     <Link key={paddle.id} href={`/gear/${paddle.id}`} className="block group transition-all duration-300 hover:-translate-y-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent rounded-xl p-2 -m-2 hover:bg-gray-50/50">
-                                        <div className="aspect-square overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative">
+                                        <div className="aspect-square overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative rounded-lg">
                                             {paddle.imageUrl ? (
                                                 <Image src={resolveImageUrl(paddle.imageUrl)} alt={paddle.productName} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw" />
                                             ) : (
-                                                <div className="w-full h-full flex items-center justify-center text-gray-300">No Image</div>
+                                                <DefaultNoImage text="GEAR" className="w-full h-full group-hover:scale-105 transition-transform duration-500" />
                                             )}
-                                            <span className="absolute top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-brand-dark text-white px-2 py-1">{paddle.brandName}</span>
+                                            <span className="absolute z-20 top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-brand-dark text-white px-2 py-1">{paddle.brandName}</span>
                                         </div>
                                         <h3 className="text-sm font-bold text-gray-800 leading-relaxed group-hover:text-brand-accent transition-colors line-clamp-2">{paddle.productName}</h3>
                                         <p className="text-xs text-brand-dark mt-1 font-bold">¥{paddle.price?.toLocaleString() || '価格不明'}</p>

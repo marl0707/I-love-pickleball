@@ -5,6 +5,7 @@ import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import SponsorBanner from "@/components/SponsorBanner";
 import { prisma } from "@/lib/prisma";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -110,15 +111,15 @@ export default async function FacilitiesPage({ searchParams }: PageProps) {
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {facilities.map((facility) => (
                                     <Link key={facility.id} href={`/facilities/${facility.id}`} className="block group transition-all duration-300 hover:-translate-y-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent rounded-xl p-2 -m-2 hover:bg-gray-50/50">
-                                        <div className="aspect-[4/3] overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative">
+                                        <div className="aspect-[4/3] overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative rounded-lg">
                                             {facility.mainPhotoUrl ? (
                                                 <Image src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw" />
                                             ) : (
-                                                <div className="w-full h-full flex items-center justify-center text-gray-300">No Image</div>
+                                                <DefaultNoImage text="COURT" className="w-full h-full group-hover:scale-105 transition-transform duration-500" />
                                             )}
-                                            {facility.typeFlag === 1 && <span className="absolute top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-white/90 text-brand-dark px-2 py-1">コート</span>}
-                                            {facility.typeFlag === 2 && <span className="absolute top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-white/90 text-brand-accent px-2 py-1">ショップ</span>}
-                                            {facility.typeFlag === 3 && <span className="absolute top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-white/90 text-brand-dark px-2 py-1">コート・ショップ</span>}
+                                            {facility.typeFlag === 1 && <span className="absolute z-20 top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-white/90 text-brand-dark px-2 py-1">コート</span>}
+                                            {facility.typeFlag === 2 && <span className="absolute z-20 top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-white/90 text-brand-accent px-2 py-1">ショップ</span>}
+                                            {facility.typeFlag === 3 && <span className="absolute z-20 top-3 left-3 text-[10px] font-semibold tracking-widest uppercase bg-white/90 text-brand-dark px-2 py-1">コート・ショップ</span>}
                                         </div>
                                         <h3 className="text-sm font-bold text-gray-800 leading-relaxed group-hover:text-brand-accent transition-colors line-clamp-2">{facility.name}</h3>
                                         <p className="text-xs text-gray-500 mt-1 line-clamp-1">{facility.address || '住所情報なし'}</p>
@@ -138,11 +139,11 @@ export default async function FacilitiesPage({ searchParams }: PageProps) {
                             <div className="space-y-6">
                                 {popularFacilities.map((facility, i) => (
                                     <Link key={facility.id} href={`/facilities/${facility.id}`} className="flex gap-4 items-start group transition-all duration-300 hover:-translate-y-1 hover:bg-gray-50 p-2 -m-2 rounded-xl">
-                                        <div className="w-20 h-20 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 shrink-0 flex items-center justify-center overflow-hidden">
+                                        <div className="w-20 h-20 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 shrink-0 flex items-center justify-center overflow-hidden rounded-lg relative">
                                             {facility.mainPhotoUrl ? (
                                                 <Image src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} fill className="object-cover" sizes="(min-width: 1024px) 80px, 64px" />
                                             ) : (
-                                                <span className="text-gray-300 text-xs">No Img</span>
+                                                <DefaultNoImage text="" className="w-full h-full" />
                                             )}
                                         </div>
                                         <div>

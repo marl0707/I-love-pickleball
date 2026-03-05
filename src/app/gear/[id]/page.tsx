@@ -5,6 +5,7 @@ import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
 import { generateAffiliateLinks } from "@/lib/affiliate";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -94,11 +95,11 @@ export default async function GearDetailPage({ params }: PageProps) {
 
                         {/* 製品ヘッダー */}
                         <div className="flex flex-col md:flex-row gap-8 mb-12">
-                            <div className="w-full md:w-1/2 aspect-square bg-gradient-to-br from-brand-accent/10 to-brand-dark/5 p-4 flex items-center justify-center rounded-2xl overflow-hidden relative">
+                            <div className="w-full md:w-1/2 aspect-square bg-gradient-to-br from-brand-accent/10 to-brand-dark/5 p-4 flex items-center justify-center rounded-2xl overflow-hidden relative border border-gray-100 shadow-sm">
                                 {gear.imageUrl ? (
                                     <Image src={resolveImageUrl(gear.imageUrl)} alt={gear.productName} fill priority sizes="(max-width: 768px) 100vw, 50vw" className="object-contain mix-blend-multiply p-4" />
                                 ) : (
-                                    <span className="text-gray-300 font-bold text-2xl tracking-widest uppercase opacity-20">{gear.brandName}</span>
+                                    <DefaultNoImage text="GEAR IMAGE" className="w-full h-full rounded-xl" />
                                 )}
                             </div>
                             <div className="w-full md:w-1/2 flex flex-col justify-center">

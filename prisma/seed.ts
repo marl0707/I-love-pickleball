@@ -49,7 +49,13 @@ async function cleanDatabase() {
   ];
   for (const model of models) {
     if ((prisma as any)[model]) {
-      await (prisma as any)[model].deleteMany();
+      try {
+        process.stdout.write(`  - 削除中: ${model}... `);
+        await (prisma as any)[model].deleteMany();
+        console.log('OK');
+      } catch (err: any) {
+        console.log(`失敗: ${err.message}`);
+      }
     }
   }
   console.log('✅ 削除完了');
@@ -276,7 +282,7 @@ async function seedContent() {
       const slug = a.id || a.slug || `article-${Date.now()}-${aCount}`;
       await prisma.article.create({
         data: {
-          slug, title: a.title || 'Untitled', content: a.content || a.description || '',
+          slug, title: a.title || 'Untitled', content: a.content || a.description || a.content_summary || '',
           category: a.category || null, targetAudience: a.target_audience || null,
           thumbnailUrl: a.thumbnail_url || a.image_url || null, status: 'published',
         }
@@ -285,6 +291,60 @@ async function seedContent() {
     }
   }
   console.log(`✅ 記事: ${aCount}件`);
+
+  // イベント
+  const events = loadJSON('events', 'events.json');
+  let eCount = 0;
+  if (events && Array.isArray(events)) {
+    // イベント用にダミーユーザーを作成（organizerIdが必須のため）
+    const sysUser = await prisma.user.upsert({
+      where: { email: 'admin@ilovepickleball.local' },
+      update: {},
+      create: {
+        email: 'admin@ilovepickleball.local',
+        nickname: 'ILPB Admin',
+        isProfilePublic: false
+      }
+    });
+
+    for (const e of events) {
+      try {
+        let eventDate = new Date(); // デフォルト
+        if (e.start_date || e.start_datetime || e.event_date) {
+          const parsed = new Date(e.start_date || e.start_datetime || e.event_date);
+          if (!isNaN(parsed.getTime())) eventDate = parsed;
+        }
+
+        let feeInt: number | null = null;
+        if (typeof e.entry_fee === 'number') {
+          feeInt = e.entry_fee;
+        } else if (typeof e.entry_fee === 'string') {
+          const match = e.entry_fee.replace(/,/g, '').match(/\d+/);
+          if (match) feeInt = parseInt(match[0], 10);
+        }
+
+        let locName = e.location_name || e.venue_name || e.location || null;
+
+        await prisma.event.create({
+          data: {
+            title: e.title || e.event_name || 'Untitled Event',
+            description: e.description || e.event_description || '',
+            date: eventDate,
+            location: locName,
+            organizerId: sysUser.id,
+            maxCapacity: toInt(e.capacity),
+            fee: feeInt,
+            imageUrl: e.image_url || null,
+            externalLink: e.event_url || e.website_url || e.entry_url || null,
+          }
+        });
+        eCount++;
+      } catch (err: any) {
+        console.warn(`イベント追加失敗: ${err.message}`);
+      }
+    }
+  }
+  console.log(`✅ イベント: ${eCount}件`);
 
   // ドリル (training_drills.json or drills.json)
   const drills = loadJSON('supplementary', 'training_drills.json') || loadJSON('content', 'drills.json');

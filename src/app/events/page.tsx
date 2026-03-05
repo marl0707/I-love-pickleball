@@ -1,6 +1,7 @@
 import { prisma } from '@/lib/prisma'
 import Link from 'next/link'
 import Image from 'next/image'
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const metadata = {
     title: 'イベント・大会情報 | I LOVE PICKLEBALL',
@@ -75,7 +76,7 @@ export default async function EventsPage({ searchParams }: PageProps) {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         {upcomingEvents.map((event) => (
                             <Link href={`/events/${event.id}`} key={event.id} className="group flex flex-col bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-1.5 transition-all duration-300 border border-gray-100">
-                                <div className="relative aspect-[4/3] w-full overflow-hidden bg-gray-100">
+                                <div className="relative aspect-[4/3] w-full overflow-hidden bg-gray-100 rounded-lg">
                                     {event.imageUrl ? (
                                         <Image
                                             src={event.imageUrl}
@@ -85,9 +86,7 @@ export default async function EventsPage({ searchParams }: PageProps) {
                                             className="object-cover group-hover:scale-105 transition-transform duration-300"
                                         />
                                     ) : (
-                                        <div className="w-full h-full flex items-center justify-center text-gray-400">
-                                            No Image
-                                        </div>
+                                        <DefaultNoImage text="EVENT" className="w-full h-full group-hover:scale-105 transition-transform duration-300" />
                                     )}
                                     {/* 日付バッジ */}
                                     <div className="absolute top-4 left-4 bg-white/90 backdrop-blur-sm text-brand-dark px-3 py-2 rounded-lg font-bold shadow-sm text-center min-w-[60px]">

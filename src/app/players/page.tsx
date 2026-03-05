@@ -4,6 +4,7 @@ import Image from "next/image";
 import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -101,10 +102,7 @@ export default async function PlayersPage({ searchParams }: PageProps) {
                                             {player.photoUrl ? (
                                                 <Image src={resolveImageUrl(player.photoUrl)} alt={player.nameJa} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw" />
                                             ) : (
-                                                <div className="w-full h-full flex flex-col items-center justify-center text-gray-300">
-                                                    <svg className="w-12 h-12 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>
-                                                    No Photo
-                                                </div>
+                                                <DefaultNoImage text="PLAYER" className="w-full h-full group-hover:scale-105 transition-transform duration-500" />
                                             )}
                                         </div>
                                         <h3 className="text-sm font-bold text-gray-800 leading-relaxed group-hover:text-brand-accent transition-colors line-clamp-1">{player.nameJa}</h3>

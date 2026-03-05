@@ -7,8 +7,10 @@ import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
 import { createClient } from "@/utils/supabase/server";
 import BookmarkButton from "@/components/BookmarkButton";
+import DefaultNoImage from "@/components/DefaultNoImage";
 import { Play } from "lucide-react";
 
+// (中略、コードを破壊しないよう慎重に)
 const FacilityMap = dynamic(() => import('@/components/FacilityMap'), {
     ssr: false,
     loading: () => <div className="w-full h-[300px] md:h-[400px] bg-gray-100 animate-pulse rounded-2xl flex items-center justify-center text-gray-400 font-bold">地図を読み込み中...</div>
@@ -107,13 +109,17 @@ export default async function FacilityDetailPage({ params }: PageProps) {
     return (
         <div className="bg-white text-gray-900 font-sans">
             {/* ヒーロー */}
-            <section className="relative h-[400px] md:h-[500px] bg-brand-dark flex flex-col justify-end">
-                {facility.mainPhotoUrl && (
-                    <div className="absolute inset-0">
+            <section className="relative h-[400px] md:h-[500px] flex flex-col justify-end overflow-hidden">
+                {facility.mainPhotoUrl ? (
+                    <div className="absolute inset-0 bg-brand-dark">
                         <Image src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} fill priority sizes="100vw" className="object-cover opacity-60 mix-blend-overlay" />
                     </div>
+                ) : (
+                    <div className="absolute inset-0">
+                        <DefaultNoImage text="FACILITY IMAGE" className="w-full h-full" />
+                    </div>
                 )}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-black/10" />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent pointer-events-none" />
 
                 <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 w-full">
                     <div className="flex items-center gap-3 mb-4">

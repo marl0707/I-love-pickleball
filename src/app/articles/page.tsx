@@ -4,6 +4,7 @@ import Image from "next/image";
 import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -100,11 +101,11 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
                             <div className="space-y-8">
                                 {articles.map((article) => (
                                     <article key={article.id} className="flex flex-col md:flex-row gap-6 group transition-all duration-300 hover:-translate-y-1.5 bg-white hover:bg-gray-50 p-4 -m-4 rounded-2xl">
-                                        <Link href={`/articles/${article.slug}`} className="block w-full md:w-1/3 aspect-[4/3] shrink-0 overflow-hidden relative bg-gradient-to-br from-brand-accent/10 to-brand-accent/5">
+                                        <Link href={`/articles/${article.slug}`} className="block w-full md:w-1/3 aspect-[4/3] shrink-0 overflow-hidden relative bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 rounded-lg">
                                             {article.thumbnailUrl ? (
                                                 <Image src={resolveImageUrl(article.thumbnailUrl)} alt={article.title} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 100vw, 33vw" />
                                             ) : (
-                                                <div className="w-full h-full flex items-center justify-center text-gray-300">No Image</div>
+                                                <DefaultNoImage text="ARTICLE" className="w-full h-full group-hover:scale-105 transition-transform duration-500" />
                                             )}
                                         </Link>
                                         <div className="flex flex-col justify-center">

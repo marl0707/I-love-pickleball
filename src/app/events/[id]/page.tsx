@@ -2,6 +2,7 @@ import { prisma } from '@/lib/prisma'
 import { notFound } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export async function generateMetadata({ params }: { params: { id: string } }) {
     const event = await prisma.event.findUnique({ where: { id: params.id } })
@@ -35,7 +36,7 @@ export default async function EventDetailPage({ params }: { params: { id: string
                 {event.imageUrl ? (
                     <Image src={event.imageUrl} alt={event.title} fill sizes="100vw" className="object-cover" priority />
                 ) : (
-                    <div className="w-full h-full flex items-center justify-center text-gray-400 text-lg font-bold">EVENT IMAGE</div>
+                    <DefaultNoImage text="EVENT" className="w-full h-full" />
                 )}
                 <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/80 via-transparent to-transparent"></div>
                 <div className="absolute bottom-0 left-0 w-full p-6 md:p-10">

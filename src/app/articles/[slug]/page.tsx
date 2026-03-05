@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
+import DefaultNoImage from "@/components/DefaultNoImage";
 
 export const revalidate = 3600;
 
@@ -80,9 +81,13 @@ export default async function ArticleDetailPage({ params }: PageProps) {
                                 {article.title}
                             </h1>
 
-                            {article.thumbnailUrl && (
-                                <div className="aspect-[16/9] w-full overflow-hidden bg-gray-100 mb-10 relative">
+                            {article.thumbnailUrl ? (
+                                <div className="aspect-[16/9] w-full overflow-hidden bg-gray-100 mb-10 relative rounded-2xl">
                                     <Image src={resolveImageUrl(article.thumbnailUrl)} alt={article.title} fill priority sizes="(max-width: 768px) 100vw, 66vw" className="object-cover" />
+                                </div>
+                            ) : (
+                                <div className="aspect-[16/9] w-full mb-10 relative">
+                                    <DefaultNoImage text="ARTICLE" className="w-full h-full rounded-2xl" />
                                 </div>
                             )}
                         </header>
@@ -120,7 +125,9 @@ export default async function ArticleDetailPage({ params }: PageProps) {
                                             <div className="w-24 h-24 aspect-square shrink-0 bg-gray-100 overflow-hidden relative">
                                                 {rel.thumbnailUrl ? (
                                                     <Image src={resolveImageUrl(rel.thumbnailUrl)} alt={rel.title} fill sizes="96px" className="object-cover group-hover:scale-105 transition-transform duration-500" />
-                                                ) : null}
+                                                ) : (
+                                                    <DefaultNoImage text="" className="w-full h-full" />
+                                                )}
                                             </div>
                                             <div className="flex-1">
                                                 <h4 className="text-sm font-bold text-gray-800 line-clamp-3 leading-relaxed group-hover:text-brand-accent transition-colors">{rel.title}</h4>
