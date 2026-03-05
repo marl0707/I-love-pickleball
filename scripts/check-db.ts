@@ -1,27 +1,21 @@
-import { PrismaClient } from '@prisma/client';
-const prisma = new PrismaClient();
+import { PrismaClient } from '@prisma/client'
+const prisma = new PrismaClient()
 
 async function main() {
-    const articles = await prisma.article.findMany({ take: 3 });
-    const facilities = await prisma.facility.findMany({ take: 3 });
-
-    console.log("=== Articles ===");
-    console.dir(articles, { depth: null });
-
-    console.log("=== Facilities ===");
-    console.dir(facilities, { depth: null });
-
-    const publishedArticles = await prisma.article.count({
-        where: { status: { in: ["PUBLISHED", "published"] } }
-    });
-    console.log(`Published Articles Count: ${publishedArticles}`);
+  const players = await prisma.proPlayer.findMany({ take: 3 });
+  console.log("PLAYERS:", players.map(p => ({
+    name: p.nameJa, rankS: p.rankingSingles, rankD: p.rankingDoubles, photo: p.photoUrl
+  })));
+  
+  const articles = await prisma.article.findMany({ take: 3 });
+  console.log("ARTICLES:", articles.map(a => ({
+    title: a.title, contentSnippet: a.content.substring(0, 50)
+  })));
+  
+  const drills = await prisma.drill.findMany({ take: 3 });
+  console.log("DRILLS:", drills);
+  
+  const events = await prisma.event.findMany({ take: 3 });
+  console.log("EVENTS:", events);
 }
-
-main()
-    .catch(e => {
-        console.error(e);
-        process.exit(1);
-    })
-    .finally(async () => {
-        await prisma.$disconnect();
-    });
+main().catch(console.error).finally(() => prisma.$disconnect());

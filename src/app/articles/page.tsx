@@ -121,7 +121,7 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
                                             </Link>
                                             <p className="text-sm text-gray-600 line-clamp-2 md:line-clamp-3 leading-relaxed">
                                                 {/* contentがHTMLタグを含む場合があるため、簡易的にプレーンテキスト化 */}
-                                                {article.content.replace(/<[^>]+>/g, '')}
+                                                {article.content?.replace(/<[^>]+>/g, '').substring(0, 150) + '...'}
                                             </p>
                                             <div className="mt-4 text-xs text-gray-400">
                                                 {article.publishedAt ? new Date(article.publishedAt).toLocaleDateString('ja-JP') : ''}
