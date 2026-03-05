@@ -100,6 +100,38 @@ export default async function HomePage() {
       {/* ===== ヒーローセクション（動的スライドショー） ===== */}
       <HeroSlider />
 
+      {/* ===== Explore Categories (カテゴリから探す) ===== */}
+      <section className="bg-white py-12 md:py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-10 md:mb-12">
+            <h2 className="text-3xl md:text-4xl italic text-gray-800 mb-4">Explore Categories</h2>
+            <div className="w-12 h-px bg-brand-accent mx-auto" />
+            <p className="text-sm text-gray-500 mt-4 tracking-widest pl-2">各コンテンツを探す</p>
+          </div>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+            {[
+              { title: "施設一覧", img: "https://images.unsplash.com/photo-1554068865-24cecd4e34f8?q=80&w=600", href: "/facilities", icon: "location_on" },
+              { title: "ギア・用具", img: "https://images.unsplash.com/photo-1622396342880-9280d9aa3ac9?q=80&w=600", href: "/gear", icon: "sports_tennis" },
+              { title: "選手名鑑", img: "https://images.unsplash.com/photo-1526679262145-238d77cfc235?q=80&w=600", href: "/players", icon: "groups" },
+              { title: "記事・コラム", img: "https://images.unsplash.com/photo-1508344928928-7137b29de216?q=80&w=600", href: "/articles", icon: "article" },
+              { title: "大会・イベント", img: "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600", href: "/events", icon: "event" },
+              { title: "練習メニュー", img: "https://images.unsplash.com/photo-1574629810360-7efbb1ff2151?q=80&w=600", href: "/drills", icon: "fitness_center" },
+              { title: "サークル", img: "https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=600", href: "/circles", icon: "diversity_3" },
+              { title: "コミュニティ", img: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=600", href: "/community", icon: "forum" },
+            ].map((cat, i) => (
+              <Link key={i} href={cat.href} className="group relative overflow-hidden rounded-2xl aspect-[4/3] block bg-gray-900 shadow-sm hover:shadow-xl transition-all duration-500">
+                <div className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110 opacity-70 group-hover:opacity-40" style={{ backgroundImage: `url('${cat.img}')` }} />
+                <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/90 via-black/40 to-transparent" />
+                <div className="absolute inset-x-0 bottom-0 p-4 md:p-6 flex flex-col items-center justify-end h-full text-center">
+                  <span className="material-symbols-outlined text-brand-accent text-3xl mb-3 group-hover:-translate-y-2 transition-transform duration-300">{cat.icon}</span>
+                  <h3 className="text-white font-bold tracking-widest text-sm md:text-base group-hover:-translate-y-1 transition-transform duration-300">{cat.title}</h3>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ===== Editor's Pick ===== */}
       <section className="bg-gray-50 py-16 md:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
