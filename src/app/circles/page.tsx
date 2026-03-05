@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { prisma } from "@/lib/prisma";
 import { Users, MapPin, Zap, Heart } from "lucide-react";
 
@@ -147,15 +148,17 @@ export default async function CirclesPage({ searchParams }: PageProps) {
                 ) : (
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         {communities.map((circle) => (
-                            <Link key={circle.id} href={`/circles/${circle.id}`} className="group">
+                            <Link key={circle.id} href={`/circles/${circle.id}`} className="block group transition-transform duration-300 hover:-translate-y-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent rounded-xl">
                                 <div className="bg-white border border-gray-100 rounded-xl overflow-hidden hover:shadow-lg hover:border-brand-accent/30 transition-all duration-300">
                                     {/* サークル画像 */}
                                     <div className="aspect-[16/9] overflow-hidden bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative">
                                         {circle.mainPhotoUrl ? (
-                                            <img
+                                            <Image
                                                 src={circle.mainPhotoUrl}
                                                 alt={circle.name}
-                                                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                                                fill
+                                                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                                                className="object-cover group-hover:scale-105 transition-transform duration-500"
                                             />
                                         ) : (
                                             <div className="w-full h-full flex items-center justify-center">

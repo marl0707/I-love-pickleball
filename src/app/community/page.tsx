@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { prisma } from "@/lib/prisma";
+import Image from "next/image";
 import { MessageSquare, ThumbsUp, Eye } from "lucide-react";
 
 export const revalidate = 60;
@@ -110,7 +111,7 @@ export default async function CommunityTopPage({ searchParams }: PageProps) {
                                         <div className="flex items-center gap-2">
                                             <div className="w-6 h-6 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-[10px] overflow-hidden">
                                                 {post.user.profileImageUrl ? (
-                                                    <img src={post.user.profileImageUrl} alt="user" className="w-full h-full object-cover" />
+                                                    <Image src={post.user.profileImageUrl} alt="user" fill className="object-cover" sizes="24px" />
                                                 ) : (
                                                     (post.user.nickname || 'U').charAt(0).toUpperCase()
                                                 )}

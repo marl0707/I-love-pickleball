@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import SponsorBanner from "@/components/SponsorBanner";
@@ -108,10 +109,10 @@ export default async function FacilitiesPage({ searchParams }: PageProps) {
                         ) : (
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                                 {facilities.map((facility) => (
-                                    <Link key={facility.id} href={`/facilities/${facility.id}`} className="group">
+                                    <Link key={facility.id} href={`/facilities/${facility.id}`} className="block group transition-all duration-300 hover:-translate-y-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent rounded-xl p-2 -m-2 hover:bg-gray-50/50">
                                         <div className="aspect-[4/3] overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative">
                                             {facility.mainPhotoUrl ? (
-                                                <img src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                                <Image src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw" />
                                             ) : (
                                                 <div className="w-full h-full flex items-center justify-center text-gray-300">No Image</div>
                                             )}
@@ -136,10 +137,10 @@ export default async function FacilitiesPage({ searchParams }: PageProps) {
                             <h3 className="text-xl font-bold text-gray-800 mb-6 border-b border-gray-200 pb-2">人気の施設</h3>
                             <div className="space-y-6">
                                 {popularFacilities.map((facility, i) => (
-                                    <Link key={facility.id} href={`/facilities/${facility.id}`} className="flex gap-4 items-start group">
+                                    <Link key={facility.id} href={`/facilities/${facility.id}`} className="flex gap-4 items-start group transition-all duration-300 hover:-translate-y-1 hover:bg-gray-50 p-2 -m-2 rounded-xl">
                                         <div className="w-20 h-20 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 shrink-0 flex items-center justify-center overflow-hidden">
                                             {facility.mainPhotoUrl ? (
-                                                <img src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} className="w-full h-full object-cover" />
+                                                <Image src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} fill className="object-cover" sizes="(min-width: 1024px) 80px, 64px" />
                                             ) : (
                                                 <span className="text-gray-300 text-xs">No Img</span>
                                             )}

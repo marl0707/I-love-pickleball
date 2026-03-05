@@ -1,5 +1,6 @@
 import { prisma } from '@/lib/prisma'
 import React from 'react'
+import Image from 'next/image'
 
 interface SponsorBannerProps {
     category: string // 'Facility', 'Gear', 'ALL' 等
@@ -23,8 +24,8 @@ export default async function SponsorBanner({ category, className = '' }: Sponso
             </div>
             <a href={topBid.targetUrl || '#'} target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
                 {topBid.imageUrl ? (
-                    <div className="w-16 h-16 md:w-20 md:h-20 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0">
-                        <img src={topBid.imageUrl} alt={topBid.advertiserName} className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+                    <div className="w-16 h-16 md:w-20 md:h-20 bg-gray-100 rounded-lg overflow-hidden flex-shrink-0 relative">
+                        <Image src={topBid.imageUrl} alt={topBid.advertiserName} fill className="object-cover group-hover:scale-105 transition-transform" sizes="(min-width: 768px) 80px, 64px" />
                     </div>
                 ) : (
                     <div className="w-16 h-16 md:w-20 md:h-20 bg-emerald-50 border border-emerald-100 rounded-lg flex items-center justify-center flex-shrink-0 text-brand-accent">

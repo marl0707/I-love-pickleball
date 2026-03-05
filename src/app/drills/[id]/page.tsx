@@ -89,7 +89,7 @@ export default async function DrillDetailPage({ params }: { params: { id: string
                                 </a>
                             </div>
                         ) : (
-                            drill.imageUrl && <Image src={drill.imageUrl} alt={drill.title} fill className="object-cover" priority />
+                            drill.imageUrl && <Image src={drill.imageUrl} alt={drill.title} fill sizes="(max-width: 1024px) 100vw, 66vw" className="object-cover" priority />
                         )}
                     </div>
                 ) : null}

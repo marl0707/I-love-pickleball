@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || "";
@@ -151,11 +152,13 @@ export default function AdSlot({
     if (activeBid && activeBid.imageUrl) {
         return (
             <div className={`ad-slot-custom ${className} relative group`} style={config.style}>
-                <a href={activeBid.targetUrl || "#"} target="_blank" rel="noopener noreferrer" className="block w-full h-full rounded-sm overflow-hidden shadow-sm border border-gray-200">
-                    <img
+                <a href={activeBid.targetUrl || "#"} target="_blank" rel="noopener noreferrer" className="block w-full h-full rounded-sm overflow-hidden shadow-sm border border-gray-200 absolute inset-0">
+                    <Image
                         src={activeBid.imageUrl}
                         alt={activeBid.advertiserName || "Advertisement"}
-                        className="w-full h-full object-cover transition-transform group-hover:scale-[1.02]"
+                        fill
+                        className="object-cover transition-transform group-hover:scale-[1.02]"
+                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                     />
                 </a>
                 <div className={`absolute top-0 right-0 ${autoRank === 0 ? "bg-amber-500" : "bg-black/60"} text-white text-[9px] px-1.5 py-0.5 rounded-bl tracking-wider backdrop-blur-sm z-10`}>

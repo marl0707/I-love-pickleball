@@ -13,9 +13,9 @@ export default async function AuthButton() {
             <span className="text-sm hidden sm:inline-block">
                 {user.email}
             </span>
-            <Link href="/mypage/bookmarks" className="text-sm font-bold text-white/80 hover:text-brand-accent transition">
+            <span className="text-sm font-bold text-white/50 cursor-not-allowed" title="準備中">
                 お気に入り
-            </Link>
+            </span>
             <form action={signout}>
                 <button className="text-sm font-bold border border-gray-600 hover:border-brand-accent hover:text-brand-accent transition px-4 py-1.5 rounded">
                     ログアウト

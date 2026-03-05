@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import { prisma } from "@/lib/prisma";
@@ -95,10 +96,10 @@ export default async function PlayersPage({ searchParams }: PageProps) {
                         ) : (
                             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                                 {players.map((player) => (
-                                    <Link key={player.id} href={`/players/${player.id}`} className="group">
+                                    <Link key={player.id} href={`/players/${player.id}`} className="block group transition-all duration-300 hover:-translate-y-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent rounded-xl p-2 -m-2 hover:bg-gray-50/50">
                                         <div className="aspect-[3/4] overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative">
                                             {player.photoUrl ? (
-                                                <img src={resolveImageUrl(player.photoUrl)} alt={player.nameJa} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                                <Image src={resolveImageUrl(player.photoUrl)} alt={player.nameJa} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw" />
                                             ) : (
                                                 <div className="w-full h-full flex flex-col items-center justify-center text-gray-300">
                                                     <svg className="w-12 h-12 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg>

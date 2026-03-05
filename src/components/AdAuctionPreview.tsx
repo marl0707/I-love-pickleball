@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 
 interface Bid {
     id: string;
@@ -102,8 +103,8 @@ export default function AdAuctionPreview({
                             {globalTop ? (
                                 <div className="border-2 border-amber-400 rounded-lg p-3 bg-amber-50 flex flex-col md:flex-row gap-4 items-center">
                                     <div className="w-full md:w-64 h-24 bg-gray-200 rounded relative overflow-hidden flex-shrink-0">
-                                        <img src={globalTop.imageUrl} alt={globalTop.advertiserName || "Ad"} className="w-full h-full object-cover" />
-                                        <div className="absolute top-0 right-0 bg-amber-500 text-white text-xs px-2 py-1 rounded-bl font-bold">👑 Global 1st</div>
+                                        <Image src={globalTop.imageUrl} alt={globalTop.advertiserName || "Ad"} fill className="object-cover" sizes="(max-width: 768px) 100vw, 256px" />
+                                        <div className="absolute top-0 right-0 bg-amber-500 text-white text-xs px-2 py-1 rounded-bl font-bold z-10">👑 Global 1st</div>
                                     </div>
                                     <div className="flex-grow">
                                         <div className="font-bold text-lg">{globalTop.advertiserName || globalTop.bidderUser?.nickname || "Unknown"}</div>
@@ -126,8 +127,8 @@ export default function AdAuctionPreview({
                                         return (
                                             <div key={bid.id} className="border border-gray-200 rounded-lg p-3 bg-white hover:shadow-md transition-shadow">
                                                 <div className="font-bold text-brand-primary mb-2">第{rank}位</div>
-                                                <div className="aspect-video bg-gray-100 rounded mb-3 overflow-hidden">
-                                                    <img src={bid.imageUrl} alt={bid.advertiserName || "Ad"} className="w-full h-full object-cover" />
+                                                <div className="aspect-video bg-gray-100 rounded mb-3 overflow-hidden relative">
+                                                    <Image src={bid.imageUrl} alt={bid.advertiserName || "Ad"} fill className="object-cover" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
                                                 </div>
                                                 <div className="font-bold truncate">{bid.advertiserName || bid.bidderUser?.nickname || "Unknown"}</div>
                                                 <div className="text-sm text-gray-600">${bid.bidAmount.toLocaleString()}</div>

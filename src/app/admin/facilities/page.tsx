@@ -18,11 +18,11 @@ export default async function AdminFacilitiesPage() {
                     <p className="text-gray-500 mt-1">全国のピックルボールコート・ショップ情報を管理・編集します。</p>
                 </div>
                 <Link
-                    href="/admin/facilities/new"
-                    className="bg-brand-accent text-white px-4 py-2 rounded-lg text-sm font-bold shadow-sm hover:bg-emerald-600 transition-colors flex items-center gap-2"
+                    href="#"
+                    className="bg-gray-300 text-white px-4 py-2 rounded-lg text-sm font-bold shadow-sm flex items-center gap-2 cursor-not-allowed opacity-70"
                 >
                     <span className="material-symbols-outlined text-[18px]">add</span>
-                    新規作成
+                    新規作成 (準備中)
                 </Link>
             </div>
 
@@ -72,8 +72,8 @@ export default async function AdminFacilitiesPage() {
                                         </td>
                                         <td className="p-4">
                                             <span className={`inline-block px-2 py-1 rounded text-xs font-bold ${facility.typeFlag === 1 ? 'bg-blue-50 text-blue-700' :
-                                                    facility.typeFlag === 2 ? 'bg-orange-50 text-orange-700' :
-                                                        'bg-purple-50 text-purple-700'
+                                                facility.typeFlag === 2 ? 'bg-orange-50 text-orange-700' :
+                                                    'bg-purple-50 text-purple-700'
                                                 }`}>
                                                 {facility.typeFlag === 1 ? 'コート' : facility.typeFlag === 2 ? 'ショップ' : 'コート・ショップ'}
                                             </span>
@@ -85,9 +85,9 @@ export default async function AdminFacilitiesPage() {
                                             <Link href={`/facilities/${facility.id}`} target="_blank" className="text-gray-400 hover:text-brand-accent transition-colors" title="ページを確認">
                                                 <span className="material-symbols-outlined text-[18px]">visibility</span>
                                             </Link>
-                                            <Link href={`/admin/facilities/${facility.id}/edit`} className="text-gray-400 hover:text-brand-dark transition-colors" title="編集">
+                                            <span className="text-gray-300 cursor-not-allowed opacity-50" title="編集 (準備中)">
                                                 <span className="material-symbols-outlined text-[18px]">edit</span>
-                                            </Link>
+                                            </span>
                                         </td>
                                     </tr>
                                 ))

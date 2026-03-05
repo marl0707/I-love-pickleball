@@ -88,7 +88,7 @@ export default async function AdminDashboardPage() {
                 <div className="lg:col-span-2 bg-white rounded-xl border border-gray-100 shadow-sm overflow-hidden">
                     <div className="px-6 py-4 border-b border-gray-100 flex justify-between items-center">
                         <h2 className="font-bold text-gray-800">最新の広告入札 (Bids)</h2>
-                        <Link href="/admin/ads" className="text-sm text-brand-accent hover:underline">すべて見る</Link>
+                        <span className="text-sm text-gray-400 cursor-not-allowed" title="広告機能は準備中です">すべて見る</span>
                     </div>
                     <div className="divide-y divide-gray-100">
                         {recentBids.length === 0 ? (
@@ -137,8 +137,8 @@ export default async function AdminDashboardPage() {
                         <Link href="#" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 text-gray-400 rounded-lg text-sm font-medium transition-colors border border-gray-100 cursor-not-allowed">
                             + 施設情報を登録（準備中）
                         </Link>
-                        <Link href="/admin/circles" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-brand-accent/10 hover:text-brand-accent rounded-lg text-sm font-medium transition-colors border border-gray-100">
-                            サークル管理を開く
+                        <Link href="#" className="block w-full text-left px-4 py-3 bg-gray-50 hover:bg-gray-100 text-gray-400 rounded-lg text-sm font-medium transition-colors border border-gray-100 cursor-not-allowed">
+                            + 新しいサークルを登録（準備中）
                         </Link>
                     </div>
                 </div>

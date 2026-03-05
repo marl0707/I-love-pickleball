@@ -81,8 +81,8 @@ export default async function ArticleDetailPage({ params }: PageProps) {
                             </h1>
 
                             {article.thumbnailUrl && (
-                                <div className="aspect-[16/9] w-full overflow-hidden bg-gray-100 mb-10">
-                                    <img src={resolveImageUrl(article.thumbnailUrl)} alt={article.title} className="w-full h-full object-cover" />
+                                <div className="aspect-[16/9] w-full overflow-hidden bg-gray-100 mb-10 relative">
+                                    <Image src={resolveImageUrl(article.thumbnailUrl)} alt={article.title} fill priority sizes="(max-width: 768px) 100vw, 66vw" className="object-cover" />
                                 </div>
                             )}
                         </header>
@@ -117,9 +117,9 @@ export default async function ArticleDetailPage({ params }: PageProps) {
                                 <div className="space-y-6">
                                     {relatedArticles.map(rel => (
                                         <Link key={rel.id} href={`/articles/${rel.slug}`} className="flex gap-4 group">
-                                            <div className="w-24 h-24 aspect-square shrink-0 bg-gray-100 overflow-hidden">
+                                            <div className="w-24 h-24 aspect-square shrink-0 bg-gray-100 overflow-hidden relative">
                                                 {rel.thumbnailUrl ? (
-                                                    <img src={resolveImageUrl(rel.thumbnailUrl)} alt={rel.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                                    <Image src={resolveImageUrl(rel.thumbnailUrl)} alt={rel.title} fill sizes="96px" className="object-cover group-hover:scale-105 transition-transform duration-500" />
                                                 ) : null}
                                             </div>
                                             <div className="flex-1">

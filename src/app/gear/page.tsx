@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import Pagination from "@/components/Pagination";
 import AdSlot from "@/components/AdSlot";
 import SponsorBanner from "@/components/SponsorBanner";
@@ -97,10 +98,10 @@ export default async function GearPage({ searchParams }: PageProps) {
                         ) : (
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                                 {paddles.map((paddle) => (
-                                    <Link key={paddle.id} href={`/gear/${paddle.id}`} className="group">
+                                    <Link key={paddle.id} href={`/gear/${paddle.id}`} className="block group transition-all duration-300 hover:-translate-y-1.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-accent rounded-xl p-2 -m-2 hover:bg-gray-50/50">
                                         <div className="aspect-square overflow-hidden mb-3 bg-gradient-to-br from-brand-accent/10 to-brand-accent/5 relative">
                                             {paddle.imageUrl ? (
-                                                <img src={resolveImageUrl(paddle.imageUrl)} alt={paddle.productName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                                <Image src={resolveImageUrl(paddle.imageUrl)} alt={paddle.productName} fill className="object-cover group-hover:scale-105 transition-transform duration-500" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw" />
                                             ) : (
                                                 <div className="w-full h-full flex items-center justify-center text-gray-300">No Image</div>
                                             )}

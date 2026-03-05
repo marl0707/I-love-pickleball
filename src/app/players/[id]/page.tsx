@@ -75,7 +75,7 @@ export default async function PlayerDetailPage({ params }: PageProps) {
                     <div className="w-1/2 relative">
                         <div className="absolute inset-0 bg-gradient-to-r from-brand-dark via-brand-dark/50 to-transparent z-10" />
                         {player.photoUrl ? (
-                            <img src={resolveImageUrl(player.photoUrl)} alt={player.nameJa} className="w-full h-full object-cover object-top grayscale hover:grayscale-0 transition-all duration-700" />
+                            <Image src={resolveImageUrl(player.photoUrl)} alt={player.nameJa} fill priority sizes="(max-width: 768px) 100vw, 50vw" className="object-cover object-top grayscale hover:grayscale-0 transition-all duration-700" />
                         ) : (
                             <div className="w-full h-full bg-gray-800 flex items-center justify-center">
                                 <span className="text-gray-600 font-bold text-6xl opacity-20">NO PHOTO</span>

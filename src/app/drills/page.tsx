@@ -38,10 +38,10 @@ export default async function DrillsPage({ searchParams }: PageProps) {
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {drillsList.map((drill) => (
-                        <Link href={`/drills/${drill.id}`} key={drill.id} className="flex bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-all border border-gray-100 group">
+                        <Link href={`/drills/${drill.id}`} key={drill.id} className="flex bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-1.5 transition-all duration-300 border border-gray-100 group">
                             <div className="w-1/3 relative bg-gray-100 flex-shrink-0">
                                 {drill.imageUrl ? (
-                                    <Image src={drill.imageUrl} alt={drill.title} fill className="object-cover group-hover:scale-105 transition-transform duration-500" />
+                                    <Image src={drill.imageUrl} alt={drill.title} fill sizes="(max-width: 768px) 33vw, 16vw" className="object-cover group-hover:scale-105 transition-transform duration-500" />
                                 ) : (
                                     <div className="w-full h-full flex items-center justify-center text-gray-400">No Image</div>
                                 )}

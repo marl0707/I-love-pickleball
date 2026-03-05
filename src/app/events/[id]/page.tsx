@@ -33,7 +33,7 @@ export default async function EventDetailPage({ params }: { params: { id: string
             {/* ヒーロー画像 */}
             <div className="w-full h-64 md:h-96 relative bg-gray-200">
                 {event.imageUrl ? (
-                    <Image src={event.imageUrl} alt={event.title} fill className="object-cover" priority />
+                    <Image src={event.imageUrl} alt={event.title} fill sizes="100vw" className="object-cover" priority />
                 ) : (
                     <div className="w-full h-full flex items-center justify-center text-gray-400 text-lg font-bold">EVENT IMAGE</div>
                 )}
@@ -105,7 +105,7 @@ export default async function EventDetailPage({ params }: { params: { id: string
                                 <div className="flex items-center gap-3 mb-4">
                                     <div className="w-10 h-10 rounded-full bg-gray-200 overflow-hidden relative flex-shrink-0">
                                         {event.organizer.profileImageUrl ? (
-                                            <Image src={event.organizer.profileImageUrl} alt="Organizer" fill className="object-cover" />
+                                            <Image src={event.organizer.profileImageUrl} alt="Organizer" fill sizes="40px" className="object-cover" />
                                         ) : (
                                             <div className="w-full h-full flex items-center justify-center text-gray-400 text-xs">Org</div>
                                         )}

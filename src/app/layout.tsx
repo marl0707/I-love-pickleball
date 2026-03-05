@@ -3,6 +3,7 @@ import './globals.css';
 import Link from 'next/link';
 import Script from 'next/script';
 import AIChatBot from '@/components/AIChatBot';
+import MobileMenu from '@/components/MobileMenu';
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'),
@@ -74,11 +75,7 @@ export default function RootLayout({
             <div className="border-b border-gray-100">
               <div className="max-w-6xl mx-auto px-6 sm:px-10 lg:px-16">
                 <div className="flex justify-between items-center h-10">
-                  <div className="lg:hidden">
-                    <Link href="/community" className="text-gray-500 hover:text-brand-dark transition-colors">
-                      <span className="material-symbols-outlined text-[22px]">menu</span>
-                    </Link>
-                  </div>
+                  <MobileMenu />
                   <div className="hidden lg:flex items-center gap-6 text-xs tracking-wider text-gray-500 ml-auto" style={{ fontFamily: "'Inter', sans-serif" }}>
                     <Link href="/advertise" className="hover:text-brand-dark transition-colors flex items-center gap-1">
                       <span className="material-symbols-outlined text-[16px]">campaign</span> 広告掲載

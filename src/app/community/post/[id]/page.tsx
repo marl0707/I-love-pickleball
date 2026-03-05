@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 import { prisma } from '@/lib/prisma'
 import { notFound } from 'next/navigation'
 import { MessageSquare, Eye, ChevronRight, User } from 'lucide-react'
@@ -68,7 +69,7 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
                         <div className="flex items-center gap-3">
                             <div className="w-10 h-10 rounded-full bg-brand-accent/20 flex flex-shrink-0 items-center justify-center text-brand-dark font-bold overflow-hidden">
                                 {post.user.profileImageUrl ? (
-                                    <img src={post.user.profileImageUrl} alt="user" className="w-full h-full object-cover" />
+                                    <Image src={post.user.profileImageUrl} alt="user" fill className="object-cover" sizes="40px" />
                                 ) : (
                                     <User className="w-5 h-5 text-gray-400" />
                                 )}
@@ -106,7 +107,7 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
                                         <div className="flex items-center gap-2">
                                             <div className="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center overflow-hidden">
                                                 {comment.user.profileImageUrl ? (
-                                                    <img src={comment.user.profileImageUrl} alt="user" className="w-full h-full object-cover" />
+                                                    <Image src={comment.user.profileImageUrl} alt="user" fill className="object-cover" sizes="32px" />
                                                 ) : (
                                                     <User className="w-4 h-4 text-gray-400" />
                                                 )}
@@ -129,7 +130,10 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
                     <div className="bg-white border border-gray-200 rounded-2xl p-6 shadow-sm">
                         <h4 className="font-bold text-gray-800 mb-4">コメントを書く</h4>
                         {user ? (
-                            <form action={addCommunityComment}>
+                            <form action={async (formData) => {
+                                "use server";
+                                await addCommunityComment(formData);
+                            }}>
                                 <input type="hidden" name="postId" value={post.id} />
                                 <textarea
                                     name="content"

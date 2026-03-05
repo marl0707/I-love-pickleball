@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { prisma } from "@/lib/prisma";
 import { MapPin, Zap, Calendar, ExternalLink, Heart, Users, Play } from "lucide-react";
 
@@ -60,10 +61,13 @@ export default async function CircleDetailPage({ params }: PageProps) {
             <section className="relative h-[400px] md:h-[500px] bg-brand-dark flex flex-col justify-end">
                 {community.mainPhotoUrl && (
                     <div className="absolute inset-0">
-                        <img
+                        <Image
                             src={community.mainPhotoUrl}
                             alt={community.name}
-                            className="w-full h-full object-cover opacity-60 mix-blend-overlay"
+                            fill
+                            priority
+                            sizes="100vw"
+                            className="object-cover opacity-60 mix-blend-overlay"
                         />
                     </div>
                 )}
@@ -197,11 +201,13 @@ export default async function CircleDetailPage({ params }: PageProps) {
                                 <h2 className="text-xl font-bold text-gray-900 border-b border-gray-200 pb-3 mb-6">フォトギャラリー</h2>
                                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                                     {imageMedia.map(media => (
-                                        <div key={media.id} className="aspect-square rounded-xl overflow-hidden bg-gray-100">
-                                            <img
+                                        <div key={media.id} className="aspect-square rounded-xl overflow-hidden bg-gray-100 relative">
+                                            <Image
                                                 src={media.url}
                                                 alt="サークル活動の様子"
-                                                className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                                                fill
+                                                sizes="(max-width: 768px) 50vw, 33vw"
+                                                className="object-cover hover:scale-105 transition-transform duration-300"
                                             />
                                         </div>
                                     ))}

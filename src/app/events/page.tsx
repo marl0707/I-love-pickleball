@@ -74,13 +74,14 @@ export default async function EventsPage({ searchParams }: PageProps) {
                 ) : (
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         {upcomingEvents.map((event) => (
-                            <Link href={`/events/${event.id}`} key={event.id} className="group flex flex-col bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-gray-100">
+                            <Link href={`/events/${event.id}`} key={event.id} className="group flex flex-col bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-1.5 transition-all duration-300 border border-gray-100">
                                 <div className="relative aspect-[4/3] w-full overflow-hidden bg-gray-100">
                                     {event.imageUrl ? (
                                         <Image
                                             src={event.imageUrl}
                                             alt={event.title}
                                             fill
+                                            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                                             className="object-cover group-hover:scale-105 transition-transform duration-300"
                                         />
                                     ) : (
@@ -118,7 +119,7 @@ export default async function EventsPage({ searchParams }: PageProps) {
                                     <div className="flex items-center gap-3 pt-4 border-t border-gray-100 mt-auto">
                                         <div className="w-8 h-8 rounded-full bg-gray-200 overflow-hidden relative">
                                             {event.organizer.profileImageUrl ? (
-                                                <Image src={event.organizer.profileImageUrl} alt="Organizer" fill className="object-cover" />
+                                                <Image src={event.organizer.profileImageUrl} alt="Organizer" fill sizes="32px" className="object-cover" />
                                             ) : (
                                                 <div className="w-full h-full flex items-center justify-center text-gray-500 text-xs">Org</div>
                                             )}
@@ -142,7 +143,7 @@ export default async function EventsPage({ searchParams }: PageProps) {
                         </h2>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 opacity-75">
                             {pastEvents.map((event) => (
-                                <Link href={`/events/${event.id}`} key={event.id} className="group flex flex-col bg-gray-50 rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+                                <Link href={`/events/${event.id}`} key={event.id} className="group flex flex-col bg-gray-50 rounded-xl overflow-hidden shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-300">
                                     <div className="p-4">
                                         <div className="text-sm text-gray-500 mb-1">{event.date.toLocaleDateString('ja-JP')}</div>
                                         <h3 className="font-bold text-gray-700 line-clamp-2 group-hover:text-brand-dark transition-colors">

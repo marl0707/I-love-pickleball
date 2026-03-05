@@ -21,11 +21,11 @@ export default async function AdminEventsPage() {
                     <p className="text-gray-500 mt-1">ピックルボールのイベント一覧を管理・編集します。</p>
                 </div>
                 <Link
-                    href="/admin/events/new"
-                    className="bg-brand-accent text-white px-4 py-2 rounded-lg text-sm font-bold shadow-sm hover:bg-emerald-600 transition-colors flex items-center gap-2"
+                    href="#"
+                    className="bg-gray-300 text-white px-4 py-2 rounded-lg text-sm font-bold shadow-sm flex items-center gap-2 cursor-not-allowed opacity-70"
                 >
                     <span className="material-symbols-outlined text-[18px]">add</span>
-                    新規作成
+                    新規作成 (準備中)
                 </Link>
             </div>
 
@@ -76,9 +76,9 @@ export default async function AdminEventsPage() {
                                             <Link href={`/events/${event.id}`} target="_blank" className="text-gray-400 hover:text-brand-accent transition-colors" title="ページを確認">
                                                 <span className="material-symbols-outlined text-[18px]">visibility</span>
                                             </Link>
-                                            <Link href={`/admin/events/${event.id}/edit`} className="text-gray-400 hover:text-brand-dark transition-colors" title="編集">
+                                            <span className="text-gray-300 cursor-not-allowed opacity-50" title="編集 (準備中)">
                                                 <span className="material-symbols-outlined text-[18px]">edit</span>
-                                            </Link>
+                                            </span>
                                         </td>
                                     </tr>
                                 ))

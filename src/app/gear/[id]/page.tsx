@@ -96,7 +96,7 @@ export default async function GearDetailPage({ params }: PageProps) {
                         <div className="flex flex-col md:flex-row gap-8 mb-12">
                             <div className="w-full md:w-1/2 aspect-square bg-gradient-to-br from-brand-accent/10 to-brand-dark/5 p-4 flex items-center justify-center rounded-2xl overflow-hidden relative">
                                 {gear.imageUrl ? (
-                                    <img src={resolveImageUrl(gear.imageUrl)} alt={gear.productName} className="w-full h-full object-contain mix-blend-multiply" />
+                                    <Image src={resolveImageUrl(gear.imageUrl)} alt={gear.productName} fill priority sizes="(max-width: 768px) 100vw, 50vw" className="object-contain mix-blend-multiply p-4" />
                                 ) : (
                                     <span className="text-gray-300 font-bold text-2xl tracking-widest uppercase opacity-20">{gear.brandName}</span>
                                 )}

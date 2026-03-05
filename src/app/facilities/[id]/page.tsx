@@ -110,7 +110,7 @@ export default async function FacilityDetailPage({ params }: PageProps) {
             <section className="relative h-[400px] md:h-[500px] bg-brand-dark flex flex-col justify-end">
                 {facility.mainPhotoUrl && (
                     <div className="absolute inset-0">
-                        <img src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} className="w-full h-full object-cover opacity-60 mix-blend-overlay" />
+                        <Image src={resolveImageUrl(facility.mainPhotoUrl)} alt={facility.name} fill priority sizes="100vw" className="object-cover opacity-60 mix-blend-overlay" />
                     </div>
                 )}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-black/10" />
@@ -252,11 +252,13 @@ export default async function FacilityDetailPage({ params }: PageProps) {
                                 <h2 className="text-xl font-bold text-gray-900 border-b border-gray-200 pb-3 mb-6">フォトギャラリー</h2>
                                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                                     {imageMedia.map(media => (
-                                        <div key={media.id} className="aspect-square rounded-xl overflow-hidden bg-gray-100">
-                                            <img
+                                        <div key={media.id} className="aspect-square rounded-xl overflow-hidden bg-gray-100 relative">
+                                            <Image
                                                 src={media.url}
                                                 alt="施設の様子"
-                                                className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                                                fill
+                                                sizes="(max-width: 768px) 50vw, 33vw"
+                                                className="object-cover hover:scale-105 transition-transform duration-300"
                                             />
                                         </div>
                                     ))}
@@ -300,9 +302,9 @@ export default async function FacilityDetailPage({ params }: PageProps) {
                                     {facility.reviews.slice(0, 3).map(review => (
                                         <div key={review.id} className="bg-gray-50 border border-gray-100 p-4 rounded-xl">
                                             <div className="flex items-center gap-2 mb-2">
-                                                <div className="w-8 h-8 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-xs shrink-0 aspect-square overflow-hidden">
+                                                <div className="w-8 h-8 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-xs shrink-0 aspect-square overflow-hidden relative">
                                                     {review.user?.profileImageUrl ? (
-                                                        <img src={review.user.profileImageUrl} alt="user" className="w-full h-full object-cover" />
+                                                        <Image src={review.user.profileImageUrl} alt="user" fill sizes="32px" className="object-cover" />
                                                     ) : (
                                                         (review.user?.nickname || 'U').charAt(0).toUpperCase()
                                                     )}
