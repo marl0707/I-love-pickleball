@@ -49,6 +49,19 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
         notFound()
     }
 
+    // 同じカテゴリの関連投稿を取得
+    const relatedPosts = await prisma.communityPost.findMany({
+        where: {
+            categoryId: post.categoryId,
+            id: { not: post.id }
+        },
+        orderBy: { createdAt: 'desc' },
+        take: 5,
+        include: {
+            _count: { select: { comments: true } }
+        }
+    })
+
     return (
         <div className="bg-white text-gray-900 font-sans min-h-screen pb-20">
             <div className="bg-gray-50 border-b border-gray-200">
@@ -67,7 +80,7 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
 
                     <div className="flex flex-wrap items-center justify-between pb-6 border-b border-gray-100 mb-6">
                         <div className="flex items-center gap-3">
-                            <div className="w-10 h-10 rounded-full bg-brand-accent/20 flex flex-shrink-0 items-center justify-center text-brand-dark font-bold overflow-hidden">
+                            <div className="w-10 h-10 rounded-full bg-brand-accent/20 flex flex-shrink-0 items-center justify-center text-brand-dark font-bold overflow-hidden relative">
                                 {post.user.profileImageUrl ? (
                                     <Image src={post.user.profileImageUrl} alt="user" fill className="object-cover" sizes="40px" />
                                 ) : (
@@ -105,7 +118,7 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
                                 <div key={comment.id} className="bg-gray-50/80 rounded-2xl p-5 border border-gray-100">
                                     <div className="flex items-center justify-between mb-3">
                                         <div className="flex items-center gap-2">
-                                            <div className="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center overflow-hidden">
+                                            <div className="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center overflow-hidden relative">
                                                 {comment.user.profileImageUrl ? (
                                                     <Image src={comment.user.profileImageUrl} alt="user" fill className="object-cover" sizes="32px" />
                                                 ) : (
@@ -158,6 +171,34 @@ export default async function PostDetailPage({ params }: { params: Promise<{ id:
                         )}
                     </div>
                 </section>
+
+                {/* 関連投稿 */}
+                {relatedPosts.length > 0 && (
+                    <section className="mt-12">
+                        <h3 className="text-xl font-bold text-gray-800 mb-6 border-b border-gray-200 pb-2">
+                            「{post.category.name}」の他の投稿
+                        </h3>
+                        <div className="space-y-3">
+                            {relatedPosts.map(related => (
+                                <Link key={related.id} href={`/community/post/${related.id}`} className="flex items-center justify-between p-4 bg-gray-50 rounded-xl hover:bg-white hover:shadow-md border border-transparent hover:border-gray-100 transition-all group">
+                                    <div className="flex-1 min-w-0">
+                                        <h4 className="font-bold text-sm text-gray-800 group-hover:text-brand-accent transition-colors truncate">{related.title}</h4>
+                                        <p className="text-xs text-gray-500 mt-1">{related.createdAt.toLocaleDateString('ja-JP')}</p>
+                                    </div>
+                                    <div className="flex items-center gap-3 ml-4 text-xs text-gray-400 shrink-0">
+                                        <span className="flex items-center gap-1"><Eye className="w-3 h-3" />{related.viewCount}</span>
+                                        <span className="flex items-center gap-1"><MessageSquare className="w-3 h-3" />{related._count.comments}</span>
+                                    </div>
+                                </Link>
+                            ))}
+                        </div>
+                        <div className="mt-6 text-center">
+                            <Link href={`/community/category/${post.category.slug}`} className="text-sm text-brand-accent hover:underline font-bold">
+                                「{post.category.name}」の投稿をすべて見る →
+                            </Link>
+                        </div>
+                    </section>
+                )}
             </div>
         </div>
     )

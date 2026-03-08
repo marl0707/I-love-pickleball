@@ -11,7 +11,7 @@ const rateLimitMap = new Map<string, RateLimitEntry>();
 // 古いエントリを定期的にクリーンアップ
 setInterval(() => {
     const now = Date.now();
-    for (const [key, entry] of rateLimitMap.entries()) {
+    for (const [key, entry] of Array.from(rateLimitMap.entries())) {
         if (now > entry.resetAt) {
             rateLimitMap.delete(key);
         }

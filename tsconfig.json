@@ -37,6 +37,7 @@
   "exclude": [
     "node_modules",
     "_app_old_backup",
+    "components",
     "dist",
     ".next"
   ]

@@ -3,6 +3,8 @@ import Link from 'next/link'
 import { format } from 'date-fns'
 import { ja } from 'date-fns/locale'
 
+export const dynamic = 'force-dynamic'
+
 export const metadata = {
     title: 'イベント管理 | Management Console',
 }

@@ -1,5 +1,11 @@
+import type { Metadata } from 'next'
 import Link from "next/link";
 import { login, signup } from "./actions";
+
+export const metadata: Metadata = {
+    title: 'ログイン・新規登録',
+    description: 'I LOVE PICKLEBALLにログインまたは新規登録して、コミュニティや各種機能をご利用ください。',
+}
 
 export default function LoginPage({
     searchParams,

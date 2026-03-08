@@ -57,6 +57,26 @@ export default function RootLayout({
         />
       </head>
       <body>
+        {/* JSON-LD 構造化データ */}
+        <Script id="json-ld-website" type="application/ld+json" strategy="afterInteractive">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "I LOVE PICKLEBALL",
+            "alternateName": "ピックルボール総合情報メディア",
+            "url": process.env.NEXT_PUBLIC_BASE_URL || "https://i-love-pickleball.com",
+            "description": "日本最大級のピックルボール総合情報メディア。初心者向けのルールや用具の選び方、全国のコート情報、大会情報など。",
+            "inLanguage": "ja",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": (process.env.NEXT_PUBLIC_BASE_URL || "https://i-love-pickleball.com") + "/community?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          })}
+        </Script>
         {/* Google Analytics 4 */}
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-X1NLDNF2CS" strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">

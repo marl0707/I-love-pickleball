@@ -39,7 +39,7 @@ export default async function CategoryPage({ params, searchParams }: PageProps) 
         notFound()
     }
 
-    const [posts, totalCount] = await Promise.all([
+    const [posts, totalCount, allCategories] = await Promise.all([
         prisma.communityPost.findMany({
             where: { categoryId: category.id },
             orderBy: { createdAt: 'desc' },
@@ -52,7 +52,11 @@ export default async function CategoryPage({ params, searchParams }: PageProps) 
                 }
             }
         }),
-        prisma.communityPost.count({ where: { categoryId: category.id } })
+        prisma.communityPost.count({ where: { categoryId: category.id } }),
+        prisma.communityCategory.findMany({
+            orderBy: { sortOrder: 'asc' },
+            include: { _count: { select: { posts: true } } }
+        })
     ])
 
     const totalPages = Math.ceil(totalCount / limitParams)
@@ -97,7 +101,7 @@ export default async function CategoryPage({ params, searchParams }: PageProps) 
 
                                     <div className="flex items-center justify-between mt-4 text-xs text-gray-500">
                                         <div className="flex items-center gap-2">
-                                            <div className="w-6 h-6 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-[10px] overflow-hidden">
+                                            <div className="w-6 h-6 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-[10px] overflow-hidden relative">
                                                 {post.user.profileImageUrl ? (
                                                     <Image src={post.user.profileImageUrl} alt="user" fill className="object-cover" sizes="24px" />
                                                 ) : (
@@ -121,6 +125,37 @@ export default async function CategoryPage({ params, searchParams }: PageProps) 
                         <Pagination currentPage={page} totalPages={totalPages} basePath={`/community/category/${category.slug}`} />
                     </div>
                 </div>
+
+                {/* サイドバー: 他のカテゴリ */}
+                <aside className="w-full lg:w-1/3 space-y-8">
+                    <div className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
+                        <h2 className="text-lg font-bold text-gray-800 mb-4 border-b border-gray-200 pb-2">カテゴリー</h2>
+                        <ul className="space-y-2">
+                            {allCategories.map(cat => (
+                                <li key={cat.id}>
+                                    <Link
+                                        href={`/community/category/${cat.slug}`}
+                                        className={`flex items-center justify-between p-3 rounded-lg transition-all group ${cat.slug === slug ? 'bg-brand-accent/10 border border-brand-accent/20' : 'hover:bg-white hover:shadow-sm'}`}
+                                    >
+                                        <div>
+                                            <div className={`font-bold text-sm ${cat.slug === slug ? 'text-brand-accent' : 'text-gray-700 group-hover:text-brand-accent'}`}>{cat.name}</div>
+                                            {cat.description && <div className="text-[10px] text-gray-500 mt-0.5">{cat.description}</div>}
+                                        </div>
+                                        <span className="bg-white border border-gray-200 text-gray-500 text-xs px-2 py-1 rounded-full">{cat._count.posts}</span>
+                                    </Link>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+
+                    <div className="bg-brand-dark rounded-2xl p-6 text-center">
+                        <h3 className="text-white font-bold mb-2">投稿してみよう！</h3>
+                        <p className="text-white/70 text-sm mb-4">質問やトピックを投稿して、ピックルボール仲間と交流しましょう。</p>
+                        <Link href={`/community/new?category=${category.slug}`} className="inline-flex items-center gap-2 bg-brand-accent text-white font-bold px-6 py-2.5 rounded-full hover:bg-white hover:text-brand-dark transition-colors text-sm">
+                            <MessageSquare className="w-4 h-4" /> 新規投稿
+                        </Link>
+                    </div>
+                </aside>
             </div>
         </div>
     )

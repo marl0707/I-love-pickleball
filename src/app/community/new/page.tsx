@@ -8,6 +8,7 @@ import { ChevronRight } from 'lucide-react'
 
 export const metadata: Metadata = {
     title: '新規投稿 | コミュニティ | I LOVE PICKLEBALL',
+    description: 'ピックルボールに関する質問やトピックを投稿して、全国の仲間と交流しましょう。',
 }
 
 interface PageProps {
@@ -29,6 +30,14 @@ export default async function NewPostPage({ searchParams }: PageProps) {
         orderBy: { sortOrder: 'asc' }
     })
 
+    async function handleSubmit(formData: FormData) {
+        "use server"
+        const result = await createCommunityPost(formData)
+        if (result.success && result.postId) {
+            redirect(`/community/post/${result.postId}`)
+        }
+    }
+
     return (
         <div className="bg-white text-gray-900 font-sans min-h-screen pb-20">
             <div className="bg-gray-50 border-b border-gray-200">
@@ -43,7 +52,7 @@ export default async function NewPostPage({ searchParams }: PageProps) {
                 <div className="bg-white border border-gray-200 rounded-2xl p-6 md:p-10 shadow-sm">
                     <h1 className="text-2xl font-bold text-gray-800 mb-8 border-b border-gray-100 pb-4">新しく投稿する</h1>
 
-                    <form action={async (formData) => { "use server"; await createCommunityPost(formData); }} className="space-y-6">
+                    <form action={handleSubmit} className="space-y-6">
                         <div>
                             <label htmlFor="categoryId" className="block text-sm font-bold text-gray-700 mb-2">カテゴリー <span className="text-red-500">*</span></label>
                             <select

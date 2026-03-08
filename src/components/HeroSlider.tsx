@@ -19,7 +19,7 @@ export default function HeroSlider() {
             subtitle: "2026年最新パドル比較",
             desc: "カーボンファイバーからグラスファイバーまで、プレースタイルに合わせた最適なパドルの選び方をご紹介します。",
             image: "/images/slider/pickleball_paddles.png",
-            href: "/gears/paddles"
+            href: "/gear"
         },
         {
             tag: "COURTS",

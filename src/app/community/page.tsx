@@ -109,7 +109,7 @@ export default async function CommunityTopPage({ searchParams }: PageProps) {
 
                                     <div className="flex items-center justify-between mt-4 text-xs text-gray-500">
                                         <div className="flex items-center gap-2">
-                                            <div className="w-6 h-6 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-[10px] overflow-hidden">
+                                            <div className="w-6 h-6 rounded-full bg-brand-accent/20 flex items-center justify-center text-brand-dark font-bold text-[10px] overflow-hidden relative">
                                                 {post.user.profileImageUrl ? (
                                                     <Image src={post.user.profileImageUrl} alt="user" fill className="object-cover" sizes="24px" />
                                                 ) : (
