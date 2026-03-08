@@ -26,7 +26,7 @@ export async function createCommunityPost(formData: FormData) {
                 title,
                 content,
                 categoryId,
-                authorId: user.id
+                userId: user.id
             }
         })
 

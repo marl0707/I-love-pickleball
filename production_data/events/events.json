@@ -309,7 +309,7 @@
     "target_level_min": 1,
     "target_level_max": 2.5,
     "entry_fee": 1500,
-    "entry_url": "https://example.com/entry/123"
+    "entry_url": null
   },
   {
     "id": "event_local_002",
@@ -321,6 +321,6 @@
     "target_level_min": 3.5,
     "target_level_max": 5,
     "entry_fee": 2000,
-    "entry_url": "https://example.com/entry/124"
+    "entry_url": null
   }
 ]

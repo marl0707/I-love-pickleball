@@ -1,14 +1,15 @@
 'use client';
 
-import { useChat } from 'ai/react';
+import { useChat } from '@ai-sdk/react';
 import { useState, useRef, useEffect } from 'react';
 import { MessageCircle, X, Send, User, Bot, Loader2 } from 'lucide-react';
 
 export default function Chatbot() {
     const [isOpen, setIsOpen] = useState(false);
-    const { messages, input, handleInputChange, handleSubmit, isLoading } = useChat({
+    const chatProps: any = useChat({
         api: '/api/chat',
-    });
+    } as any);
+    const { messages = [], input = '', handleInputChange, handleSubmit, isLoading = false } = chatProps;
     const messagesEndRef = useRef<HTMLDivElement>(null);
 
     // オートスクロール
@@ -43,7 +44,7 @@ export default function Chatbot() {
                                 <p className="mt-2 text-xs">施設やイベント、ルールについて何でも聞いてください。</p>
                             </div>
                         ) : (
-                            messages.map(m => (
+                            messages.map((m: any) => (
                                 <div key={m.id} className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'} gap-2`}>
                                     {m.role !== 'user' && (
                                         <div className="w-8 h-8 rounded-full bg-indigo-100 flex items-center justify-center flex-shrink-0 text-indigo-600">
@@ -52,8 +53,8 @@ export default function Chatbot() {
                                     )}
                                     <div
                                         className={`px-4 py-2.5 rounded-2xl max-w-[80%] whitespace-pre-wrap ${m.role === 'user'
-                                                ? 'bg-blue-600 text-white rounded-tr-sm'
-                                                : 'bg-white text-gray-800 border border-gray-100 shadow-sm rounded-tl-sm'
+                                            ? 'bg-blue-600 text-white rounded-tr-sm'
+                                            : 'bg-white text-gray-800 border border-gray-100 shadow-sm rounded-tl-sm'
                                             }`}
                                     >
                                         {m.content}

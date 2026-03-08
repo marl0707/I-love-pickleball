@@ -43,7 +43,7 @@ export default async function NewPostPage({ searchParams }: PageProps) {
                 <div className="bg-white border border-gray-200 rounded-2xl p-6 md:p-10 shadow-sm">
                     <h1 className="text-2xl font-bold text-gray-800 mb-8 border-b border-gray-100 pb-4">新しく投稿する</h1>
 
-                    <form action={createCommunityPost} className="space-y-6">
+                    <form action={async (formData) => { "use server"; await createCommunityPost(formData); }} className="space-y-6">
                         <div>
                             <label htmlFor="categoryId" className="block text-sm font-bold text-gray-700 mb-2">カテゴリー <span className="text-red-500">*</span></label>
                             <select

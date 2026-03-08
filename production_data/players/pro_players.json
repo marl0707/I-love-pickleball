@@ -207,7 +207,7 @@
     "ranking_singles": null,
     "ranking_doubles": 5,
     "participating_tournaments": "PPA Tour 2024参戦",
-    "paddle_ids": "pdl_selkirk_vanguard_pro",
+    "paddle_ids": "paddle_selkirk_vanguard_16",
     "shoe_ids": null,
     "apparel_brand_sponsor": "Selkirk",
     "instagram_url": "https://www.instagram.com/jacksock",
@@ -233,7 +233,7 @@
     "ranking_singles": 3,
     "ranking_doubles": 2,
     "participating_tournaments": "PPA Tour複数優勝 / US Open金メダル",
-    "paddle_ids": "pdl_selkirk_vanguard_pro",
+    "paddle_ids": "paddle_selkirk_vanguard_16",
     "shoe_ids": null,
     "apparel_brand_sponsor": "Selkirk",
     "instagram_url": "https://www.instagram.com/catherineparenteau",
@@ -336,9 +336,9 @@
     "ranking_singles": 2,
     "ranking_doubles": null,
     "participating_tournaments": "PPA Tour2024シーズン複数優勝",
-    "paddle_ids": null,
+    "paddle_ids": "paddle_franklin_signature_14",
     "shoe_ids": null,
-    "apparel_brand_sponsor": null,
+    "apparel_brand_sponsor": "Franklin",
     "instagram_url": "https://www.instagram.com/jwjohnson_pb",
     "facebook_url": null,
     "x_url": null,
@@ -491,7 +491,7 @@
     "ranking_singles": 2,
     "ranking_doubles": null,
     "participating_tournaments": "PPA Tour Women's Singles 複数優勝",
-    "paddle_ids": "pdl_joola_scorpeus_3",
+    "paddle_ids": "paddle_joola_perseus_16",
     "shoe_ids": null,
     "apparel_brand_sponsor": "JOOLA",
     "instagram_url": "https://www.instagram.com/annabright_pb",
@@ -1033,9 +1033,9 @@
       ],
       "data_source": "Picklewave/PPA Tour公式/Forbes/pickleball-wiki（2026年3月時点）"
     },
-    "paddle_ids": null,
+    "paddle_ids": "paddle_joola_perseus_16",
     "shoe_ids": null,
-    "apparel_brand_sponsor": null,
+    "apparel_brand_sponsor": "JOOLA",
     "instagram_url": "https://www.instagram.com/annabright_pb",
     "facebook_url": null,
     "x_url": null,
@@ -1077,7 +1077,7 @@
       ],
       "data_source": "PPA Tour Official / DUPR.com / PickleWave (2026 Verified)"
     },
-    "paddle_ids": null,
+    "paddle_ids": "paddle_joola_perseus_16",
     "shoe_ids": null,
     "apparel_brand_sponsor": null,
     "instagram_url": null,
@@ -1085,5 +1085,59 @@
     "x_url": null,
     "photo_url": "https://www.ppatour.com/player/federico-staksrud/",
     "youtube_search_url": "https://www.youtube.com/results?search_query=Federico+Staksrud+pickleball"
+  },
+  {
+    "id": "pro_yuta_funamizu",
+    "name_ja": "船水 雄太",
+    "name_en": "Yuta Funamizu",
+    "nationality": "JP",
+    "play_style": "アグレッシブ（元ソフトテニス）",
+    "league_affiliation": "MLP / JPA",
+    "participating_tournaments": "MLP Miami Pickleball Club"
+  },
+  {
+    "id": "pro_miyu_hazawa",
+    "name_ja": "羽澤 未宥",
+    "name_en": "Miyu Hazawa",
+    "nationality": "JP",
+    "play_style": "オールラウンダー",
+    "league_affiliation": "JPA",
+    "participating_tournaments": "2024年10月日本代表（国際大会出場）"
+  },
+  {
+    "id": "pro_rika_fujiwara",
+    "name_ja": "藤原 里華",
+    "name_en": "Rika Fujiwara",
+    "nationality": "JP",
+    "play_style": "オールラウンダー（元テニス日本代表）",
+    "league_affiliation": "JPA",
+    "participating_tournaments": "グローバルトッププロ育成選抜"
+  },
+  {
+    "id": "pro_kenta_miyoshi",
+    "name_ja": "宮吉 健太",
+    "name_en": "Kenta Miyoshi",
+    "nationality": "JP",
+    "play_style": "パワー",
+    "league_affiliation": "JPA",
+    "participating_tournaments": "国内大会上位入賞"
+  },
+  {
+    "id": "pro_tetsuya_sato",
+    "name_ja": "佐藤 哲哉",
+    "name_en": "Tetsuya Sato",
+    "nationality": "JP",
+    "play_style": "コントロール",
+    "league_affiliation": "JPA",
+    "participating_tournaments": "グローバルトッププロ育成選抜（元デビスカップ代表）"
+  },
+  {
+    "id": "pro_seigo_hatakeyama",
+    "name_ja": "畠山 成冴",
+    "name_en": "Seigo Hatakeyama",
+    "nationality": "JP",
+    "play_style": "アグレッシブ",
+    "league_affiliation": "JPA",
+    "participating_tournaments": "グローバルトッププロ育成選抜（元パデル日本代表）"
   }
 ]

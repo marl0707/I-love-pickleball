@@ -1,5 +1,4 @@
 import { prisma } from '@/lib/prisma'
-import Link from 'next/link'
 
 export const metadata = {
     title: '広告・入札管理 | Management Console',
@@ -57,8 +56,8 @@ export default async function AdminAdsPage() {
                                         </td>
                                         <td className="p-4">
                                             <span className={`inline-block px-2 py-1 rounded-full text-xs font-bold ${bid.status === 'ACTIVE' ? 'bg-green-100 text-green-700' :
-                                                    bid.status === 'CANCELED' ? 'bg-red-100 text-red-700' :
-                                                        'bg-gray-100 text-gray-700'
+                                                bid.status === 'CANCELED' ? 'bg-red-100 text-red-700' :
+                                                    'bg-gray-100 text-gray-700'
                                                 }`}>
                                                 {bid.status}
                                             </span>

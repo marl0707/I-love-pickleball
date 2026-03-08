@@ -7,6 +7,7 @@ export const metadata = {
 
 export default async function AdminFacilitiesPage() {
     const facilities = await prisma.facility.findMany({
+        include: { _count: { select: { courts: true } } },
         orderBy: { createdAt: 'desc' }
     })
 
@@ -63,12 +64,11 @@ export default async function AdminFacilitiesPage() {
                                         <td className="p-4">
                                             <div className="font-bold text-gray-900 line-clamp-1">{facility.name}</div>
                                             <div className="text-xs text-brand-accent mt-1 flex items-center gap-1">
-                                                {facility.courtsCount && <span>コート: {facility.courtsCount}面</span>}
+                                                {facility._count.courts > 0 && <span>コート: {facility._count.courts}面</span>}
                                             </div>
                                         </td>
                                         <td className="p-4 text-gray-600">
                                             <div className="line-clamp-1">{facility.address || '未設定'}</div>
-                                            <div className="text-xs text-gray-400 mt-1">{facility.prefecture || '未設定'}</div>
                                         </td>
                                         <td className="p-4">
                                             <span className={`inline-block px-2 py-1 rounded text-xs font-bold ${facility.typeFlag === 1 ? 'bg-blue-50 text-blue-700' :

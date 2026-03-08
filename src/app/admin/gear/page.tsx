@@ -63,7 +63,7 @@ export default async function AdminGearPage() {
                                         </td>
                                         <td className="p-4">
                                             <div className="font-bold text-gray-900 line-clamp-1">{paddle.productName}</div>
-                                            {paddle.affiliateUrl && (
+                                            {(paddle.amazonUrl || paddle.rakutenUrl || paddle.yahooUrl) && (
                                                 <div className="text-xs text-brand-accent mt-1 flex items-center gap-1">
                                                     <span className="material-symbols-outlined text-[14px]">link</span>
                                                     アフィリエイト設定あり
@@ -79,7 +79,7 @@ export default async function AdminGearPage() {
                                             {paddle.price ? `¥${paddle.price.toLocaleString()}` : '-'}
                                         </td>
                                         <td className="p-4 text-gray-600">
-                                            {paddle.targetLevel || '-'}
+                                            {paddle.targetDemographic || '-'}
                                         </td>
                                         <td className="p-4 text-right flex items-center justify-end gap-2 mt-2">
                                             <Link href={`/gear/${paddle.id}`} target="_blank" className="text-gray-400 hover:text-brand-accent transition-colors" title="ページを確認">
