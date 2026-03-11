@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 };
 
 function resolveImageUrl(url: string | null): string {
-    if (!url) return '/malaysia/images/placeholder_restaurant.png'; // プレースホルダーは適宜変更
+    if (!url) return 'https://placehold.co/600x400/e2e8f0/64748b?text=No+Image';
     return url;
 }
 
