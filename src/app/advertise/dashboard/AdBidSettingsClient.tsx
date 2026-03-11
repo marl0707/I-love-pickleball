@@ -42,7 +42,7 @@ export default function AdBidSettingsClient({ initialBids }: { initialBids: AdBi
     const handleSave = async (id: string) => {
         setIsSaving(true);
         try {
-            const res = await fetch("/pickleball/api/ad-bids/update", {
+            const res = await fetch("/api/ad-bids/update", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({

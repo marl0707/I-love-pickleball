@@ -184,7 +184,7 @@ export default function RootLayout({
           siteName="I LOVE PICKLEBALL"
           greeting="こんにちは！ピックルボールの情報をお探しですか？施設・ギア・大会情報のお問い合わせやサイトの改善要望をお待ちしています🏓"
           accentColor="#1e40af"
-          basePath="/pickleball"
+          basePath=""
         />
       </body>
     </html>

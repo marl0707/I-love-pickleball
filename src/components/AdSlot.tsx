@@ -62,7 +62,7 @@ async function fetchBids(category: string): Promise<Bid[]> {
     }
 
     try {
-        const res = await fetch(`/pickleball/api/ad-bids?category=${category}`);
+        const res = await fetch(`/api/ad-bids?category=${category}`);
         if (res.ok) {
             const data = await res.json();
             if (data.success) {

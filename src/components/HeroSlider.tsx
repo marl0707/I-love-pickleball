@@ -10,7 +10,7 @@ export default function HeroSlider() {
             title: "ピックルボールの始め方",
             subtitle: "ルールから必要な道具まで",
             desc: "アメリカ発祥の急速に成長しているスポーツ「ピックルボール」。テニス、バドミントン、卓球の要素を併せ持ち、初心者でもすぐに楽しめます。",
-            image: "/pickleball/images/slider/pickleball_beginner.png",
+            image: "/images/slider/pickleball_beginner.png",
             href: "/articles"
         },
         {
@@ -18,7 +18,7 @@ export default function HeroSlider() {
             title: "最強のパドルはどれだ？",
             subtitle: "2026年最新パドル比較",
             desc: "カーボンファイバーからグラスファイバーまで、プレースタイルに合わせた最適なパドルの選び方をご紹介します。",
-            image: "/pickleball/images/slider/pickleball_paddles.png",
+            image: "/images/slider/pickleball_paddles.png",
             href: "/gear"
         },
         {
@@ -26,7 +26,7 @@ export default function HeroSlider() {
             title: "日本全国コートガイド",
             subtitle: "近くのコートを見つけよう",
             desc: "専用コートから、テニスコートを兼用できる施設まで、日本全国のピックルボールができる場所を網羅しました。",
-            image: "/pickleball/images/slider/pickleball_court.png",
+            image: "/images/slider/pickleball_court.png",
             href: "/facilities"
         },
         {
@@ -34,7 +34,7 @@ export default function HeroSlider() {
             title: "ノンボレーゾーンの戦い方",
             subtitle: "キッチンでの攻防を制する",
             desc: "ピックルボールの醍醐味であるネット際の攻防「ディンク」。上級者への第一歩となる戦術を解説します。",
-            image: "/pickleball/images/slider/pickleball_kitchen.png",
+            image: "/images/slider/pickleball_kitchen.png",
             href: "/articles"
         }
     ];

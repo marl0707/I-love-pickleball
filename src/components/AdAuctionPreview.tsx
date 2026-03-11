@@ -44,7 +44,7 @@ export default function AdAuctionPreview({
 
         const fetchBids = async () => {
             try {
-                const res = await fetch(`/pickleball/api/ad-bids?category=${selectedCategory}`);
+                const res = await fetch(`/api/ad-bids?category=${selectedCategory}`);
                 if (!res.ok) throw new Error("Failed to fetch");
                 const json = await res.json();
                 if (json.success && isMounted) {
@@ -148,7 +148,7 @@ export default function AdAuctionPreview({
             <div className="p-6 bg-brand-dark border-t border-gray-200 mt-4 rounded-b-xl">
                 <h3 className="text-white font-bold tracking-wider text-center mb-1">【{selectedCategory}】カテゴリに入札</h3>
                 <p className="text-brand-accent text-xs text-center mb-6">入札額に応じてランキング上位から自動掲載されます。</p>
-                <form action="/pickleball/api/checkoutUser" method="POST" className="w-full max-w-2xl mx-auto bg-white/5 p-6 md:p-8 rounded-xl border border-white/10">
+                <form action="/api/checkoutUser" method="POST" className="w-full max-w-2xl mx-auto bg-white/5 p-6 md:p-8 rounded-xl border border-white/10">
                     <input type="hidden" name="category" value={selectedCategory} />
 
                     <div className="mb-6">
